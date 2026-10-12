@@ -1,0 +1,106 @@
+[
+  {
+    "id": "demo-photo-studio",
+    "date_collected": "2026-10-13",
+    "status": "update",
+    "type": "profitable",
+    "name": "【示例】AI 证件照工坊",
+    "one_liner": "上传自拍，一键生成多规格证件照",
+    "category": "设计创意",
+    "region": "全球",
+    "team_type": "独立开发者",
+    "business_model": "按量付费",
+    "metrics": [
+      {
+        "label": "月收入",
+        "value": "¥100k",
+        "source_type": "创始人自述",
+        "source_url": "https://example.com/demo-photo-studio/metric"
+      },
+      {
+        "label": "付费用户",
+        "value": "2.5 万",
+        "source_type": "媒体估算",
+        "source_url": "https://example.com/demo-photo-studio/metric"
+      }
+    ],
+    "why_it_works": "示例数据。再次更新：海外收入占比过半，月收入突破十万元。说明小而精的工具在跨地区复制后仍有增长空间。",
+    "takeaway": "持续公开收入数据本身也是一种增长渠道。",
+    "innovation_score": 2,
+    "business_score": 5,
+    "tags": [
+      "图像生成",
+      "出海",
+      "示例"
+    ],
+    "website": "https://example.com/demo-photo-studio",
+    "sources": [
+      "https://example.com/demo-photo-studio/source-1",
+      "https://example.com/demo-photo-studio/source-2"
+    ],
+    "uncertain_points": "示例数据：本条为演示用虚构案例，不对应任何真实公司，所有数字与链接均为占位。"
+  },
+  {
+    "id": "demo-legal-copilot",
+    "date_collected": "2026-10-13",
+    "status": "new",
+    "type": "profitable",
+    "name": "【示例】合同审阅助手",
+    "one_liner": "为中小企业逐条标注合同风险",
+    "category": "法律金融",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "订阅",
+    "metrics": [
+      {
+        "label": "ARR",
+        "value": "¥8M",
+        "source_type": "官方公布",
+        "source_url": "https://example.com/demo-legal-copilot/metric"
+      }
+    ],
+    "why_it_works": "示例数据。中小企业请不起律师逐份审合同，但合同风险真实存在；产品按席位订阅，结合行业模板库和律师复核形成壁垒，付费意愿明确。",
+    "takeaway": "专业服务的「平价替代」是 AI 盈利的稳定方向。",
+    "innovation_score": 3,
+    "business_score": 4,
+    "tags": [
+      "法律",
+      "SaaS",
+      "示例"
+    ],
+    "website": "https://example.com/demo-legal-copilot",
+    "sources": [
+      "https://example.com/demo-legal-copilot/source-1",
+      "https://example.com/demo-legal-copilot/source-2"
+    ],
+    "uncertain_points": "示例数据：本条为演示用虚构案例，不对应任何真实公司，所有数字与链接均为占位。"
+  },
+  {
+    "id": "demo-npc-engine",
+    "date_collected": "2026-10-13",
+    "status": "new",
+    "type": "innovative",
+    "name": "【示例】会记仇的 NPC",
+    "one_liner": "让游戏 NPC 拥有长期记忆和性格",
+    "category": "游戏娱乐",
+    "region": "海外",
+    "team_type": "独立开发者",
+    "business_model": "暂无",
+    "metrics": [],
+    "why_it_works": "示例数据。为独立游戏提供带长期记忆的 NPC 引擎，NPC 会记住玩家行为并改变态度，演示视频在社区引发讨论。目前没有商业化，但交互方式新颖。",
+    "takeaway": "新交互形态先靠演示获得关注，再考虑商业化。",
+    "innovation_score": 5,
+    "business_score": 1,
+    "tags": [
+      "游戏",
+      "Agent",
+      "示例"
+    ],
+    "website": "https://example.com/demo-npc-engine",
+    "sources": [
+      "https://example.com/demo-npc-engine/source-1",
+      "https://example.com/demo-npc-engine/source-2"
+    ],
+    "uncertain_points": "示例数据：本条为演示用虚构案例，不对应任何真实公司，所有数字与链接均为占位。"
+  }
+]
