@@ -1,106 +1,12 @@
 [
-  {
-    "id": "demo-photo-studio",
-    "date_collected": "2026-10-13",
-    "status": "update",
-    "type": "profitable",
-    "name": "【示例】AI 证件照工坊",
-    "one_liner": "上传自拍，一键生成多规格证件照",
-    "category": "设计创意",
-    "region": "全球",
-    "team_type": "独立开发者",
-    "business_model": "按量付费",
-    "metrics": [
-      {
-        "label": "月收入",
-        "value": "¥100k",
-        "source_type": "创始人自述",
-        "source_url": "https://example.com/demo-photo-studio/metric"
-      },
-      {
-        "label": "付费用户",
-        "value": "2.5 万",
-        "source_type": "媒体估算",
-        "source_url": "https://example.com/demo-photo-studio/metric"
-      }
-    ],
-    "why_it_works": "示例数据。再次更新：海外收入占比过半，月收入突破十万元。说明小而精的工具在跨地区复制后仍有增长空间。",
-    "takeaway": "持续公开收入数据本身也是一种增长渠道。",
-    "innovation_score": 2,
-    "business_score": 5,
-    "tags": [
-      "图像生成",
-      "出海",
-      "示例"
-    ],
-    "website": "https://example.com/demo-photo-studio",
-    "sources": [
-      "https://example.com/demo-photo-studio/source-1",
-      "https://example.com/demo-photo-studio/source-2"
-    ],
-    "uncertain_points": "示例数据：本条为演示用虚构案例，不对应任何真实公司，所有数字与链接均为占位。"
-  },
-  {
-    "id": "demo-legal-copilot",
-    "date_collected": "2026-10-13",
-    "status": "new",
-    "type": "profitable",
-    "name": "【示例】合同审阅助手",
-    "one_liner": "为中小企业逐条标注合同风险",
-    "category": "法律金融",
-    "region": "中国",
-    "team_type": "初创公司",
-    "business_model": "订阅",
-    "metrics": [
-      {
-        "label": "ARR",
-        "value": "¥8M",
-        "source_type": "官方公布",
-        "source_url": "https://example.com/demo-legal-copilot/metric"
-      }
-    ],
-    "why_it_works": "示例数据。中小企业请不起律师逐份审合同，但合同风险真实存在；产品按席位订阅，结合行业模板库和律师复核形成壁垒，付费意愿明确。",
-    "takeaway": "专业服务的「平价替代」是 AI 盈利的稳定方向。",
-    "innovation_score": 3,
-    "business_score": 4,
-    "tags": [
-      "法律",
-      "SaaS",
-      "示例"
-    ],
-    "website": "https://example.com/demo-legal-copilot",
-    "sources": [
-      "https://example.com/demo-legal-copilot/source-1",
-      "https://example.com/demo-legal-copilot/source-2"
-    ],
-    "uncertain_points": "示例数据：本条为演示用虚构案例，不对应任何真实公司，所有数字与链接均为占位。"
-  },
-  {
-    "id": "demo-npc-engine",
-    "date_collected": "2026-10-13",
-    "status": "new",
-    "type": "innovative",
-    "name": "【示例】会记仇的 NPC",
-    "one_liner": "让游戏 NPC 拥有长期记忆和性格",
-    "category": "游戏娱乐",
-    "region": "海外",
-    "team_type": "独立开发者",
-    "business_model": "暂无",
-    "metrics": [],
-    "why_it_works": "示例数据。为独立游戏提供带长期记忆的 NPC 引擎，NPC 会记住玩家行为并改变态度，演示视频在社区引发讨论。目前没有商业化，但交互方式新颖。",
-    "takeaway": "新交互形态先靠演示获得关注，再考虑商业化。",
-    "innovation_score": 5,
-    "business_score": 1,
-    "tags": [
-      "游戏",
-      "Agent",
-      "示例"
-    ],
-    "website": "https://example.com/demo-npc-engine",
-    "sources": [
-      "https://example.com/demo-npc-engine/source-1",
-      "https://example.com/demo-npc-engine/source-2"
-    ],
-    "uncertain_points": "示例数据：本条为演示用虚构案例，不对应任何真实公司，所有数字与链接均为占位。"
-  }
+{"id":"ambi-peter-mo","date_collected":"2026-10-13","status":"new","type":"both","name":"Ambi","one_liner":"常驻后台监听、会中就主动给建议和开工的AI助理","category":"生产力办公","region":"全球","team_type":"初创公司","business_model":"暂无","metrics":[{"label":"累计融资","value":"$26M（多轮，Luminous Ventures、华勤领投）","source_type":"官方公布","source_url":"https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/"}],"why_it_works":"创始人来自录音硬件Plaud，看到“录完—上传—再出结果”的延迟痛点，把智能前移到会议进行中：结合日历、知识库和网页数据实时提示，并在会中启动后续任务，支持跨设备接续。后续计划桌面端记忆与自研带屏硬件，从软件切入再走向端侧，路径清晰；ODM华勤入局为硬件量产提供供应链支撑。","takeaway":"会议纪要赛道已红海，把“会后总结”变成“会中执行”是差异化切口；先用App验证需求再做硬件，能降低试错成本。","innovation_score":4,"business_score":3,"tags":["Agent","语音","常驻监听","AI硬件","会议"],"website":"","sources":["https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/"],"uncertain_points":"仅有TechCrunch单一来源；$26M为多轮累计，各轮金额与估值未披露；收费模式、用户数未公开；官网链接未核实。常驻监听的隐私合规风险待观察。"},
+{"id":"hone-ai-outcomes","date_collected":"2026-10-13","status":"new","type":"profitable","name":"Hone","one_liner":"对业务结果负责的AI，前OpenAI/Cognition团队创办","category":"企业服务","region":"海外","team_type":"初创公司","business_model":"企业定制","metrics":[{"label":"种子轮融资","value":"$60M（Benchmark、Index领投）","source_type":"媒体报道","source_url":"https://dealroom.co/news/161745-hone-raises-60m-seed-to-build-ai-that-owns-business-outcomes/"},{"label":"估值","value":"$285M","source_type":"媒体报道","source_url":"https://dealroom.co/news/161745-hone-raises-60m-seed-to-build-ai-that-owns-business-outcomes/"}],"why_it_works":"成立仅五个月即拿下6000万美元种子轮、2.85亿美元估值，由Benchmark与Index两家顶级基金领投。定位从“卖工具/席位”转向“对业务结果负责”，契合当下企业AI按效果付费的趋势；团队来自OpenAI与Cognition，具备构建长程Agent的经验，是资本对“结果导向Agent”最强的一次下注之一。","takeaway":"企业客户越来越愿意为结果而非软件付费，设计产品时可先锁定一个能量化的业务指标再倒推Agent能力。","innovation_score":3,"business_score":3,"tags":["Agent","按效果付费","顶级VC","企业AI"],"website":"","sources":["https://dealroom.co/news/161745-hone-raises-60m-seed-to-build-ai-that-owns-business-outcomes/"],"uncertain_points":"仅见Dealroom摘要（引述其他媒体），未找到官方公告；具体产品形态、目标行业、收费方式与客户情况均不明确；官网未核实。商业信号仅为融资，尚无营收数据。"},
+{"id":"haven-digital-twin","date_collected":"2026-10-13","status":"new","type":"both","name":"Haven","one_liner":"有长期记忆、能替你打电话办事的个人AI数字分身","category":"生产力办公","region":"海外","team_type":"初创公司","business_model":"暂无","metrics":[{"label":"Pre-seed融资","value":"$15M（Mayfield领投）","source_type":"媒体报道","source_url":"https://dealroom.co/news/161744-haven-raises-15m-pre-seed-for-personal-ai-digital-twin/"},{"label":"内测交互量","value":"超200万次","source_type":"官方公布","source_url":"https://dealroom.co/news/161744-haven-raises-15m-pre-seed-for-personal-ai-digital-twin/"}],"why_it_works":"区别于需要反复交代偏好的聊天助手，Haven为每个用户建立记忆图谱，跨电话、短信、邮件和App主动执行：每日简报、管理邮件、打电话、办退货，用户可用自然语言设置周期任务。已上架App Store和Google Play，内测期累计200万次交互，并计划开放开发者平台接入电视、汽车、智能家居，目标是成为个人上下文的统一层。","takeaway":"消费级Agent的壁垒在“记忆+执行”而非对话本身；能打电话、办退货这种真实跑腿任务最能体现价值。","innovation_score":4,"business_score":3,"tags":["Agent","个人助理","记忆","语音电话","消费级"],"website":"","sources":["https://dealroom.co/news/161744-haven-raises-15m-pre-seed-for-personal-ai-digital-twin/"],"uncertain_points":"来源为Dealroom新闻摘要，未直接核对官方新闻稿；200万次交互为公司自述；付费模式未披露；官网链接未核实。"},
+{"id":"loops-ai-commerce-os","date_collected":"2026-10-13","status":"new","type":"profitable","name":"Loops","one_liner":"为零售商集成AI搜索、导购与虚拟试穿的系统","category":"电商零售","region":"海外","team_type":"初创公司","business_model":"企业定制","metrics":[{"label":"种子轮融资","value":"$3.5M（a16z speedrun、NTT Docomo等）","source_type":"官方公布","source_url":"https://thenextweb.com/news/loops-3-5m-seed-round-ai-commerce-a16z-speedrun"}],"why_it_works":"零售商往往分别采购搜索、导购、商品信息补全和试穿工具，数据割裂。Loops把AI搜索、购物助手、商品信息增强和虚拟试穿整合成一个“商业操作系统”，以一套商品数据驱动多个场景，降低集成成本。NTT Docomo作为战略方入局，暗示日本等海外市场的渠道机会。","takeaway":"垂直SaaS的AI化机会常在“把零散的单点工具合成一个数据底座”，整合本身就是价值。","innovation_score":3,"business_score":2,"tags":["电商","虚拟试穿","AI搜索","a16z"],"website":"","sources":["https://thenextweb.com/news/loops-3-5m-seed-round-ai-commerce-a16z-speedrun"],"uncertain_points":"单一来源；客户数量与营收未披露；官网未核实。"},
+{"id":"honeyjar-ai-pr","date_collected":"2026-10-13","status":"new","type":"innovative","name":"Honeyjar","one_liner":"把资深公关判断力编码进AI的PR传播工作台","category":"营销内容","region":"海外","team_type":"初创公司","business_model":"订阅","metrics":[{"label":"候补名单首日注册","value":"10,000人","source_type":"创始人自述","source_url":"https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/"}],"why_it_works":"PR高度依赖经验与人脉，创业者往往无从下手。Honeyjar自动撰写新闻稿、匹配记者、建媒体清单、监测舆情与报道、发掘演讲机会，并通过Comms Lab把一线公关的判断沉淀进产品。候补名单首日破万，Nextdoor、Bloomberg Beta及Mission North等代理商参与内测，入选TechCrunch Disrupt Startup Battlefield 200。","takeaway":"“专家判断力的产品化”是AI应用的好方向：先服务专业人士提效，再下沉到不懂行的小团队。","innovation_score":3,"business_score":2,"tags":["营销","PR","专家知识","Startup Battlefield"],"website":"","sources":["https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/"],"uncertain_points":"business_model“订阅”为推测，报道未明确定价；万人候补为创始人自述；尚无营收数据。"},
+{"id":"kingdee-lingee-agent-os","date_collected":"2026-10-13","status":"new","type":"profitable","name":"金蝶灵基（Lingee）","one_liner":"金蝶企业智能体操作系统，5个月付费客户破3000家","category":"企业服务","region":"中国","team_type":"大公司","business_model":"订阅","metrics":[{"label":"付费客户","value":"超3000家（2026年5月20日发布，10月初达成）","source_type":"官方公布（经媒体转述）","source_url":"http://m.cniteyes.com/archives/42013"}],"why_it_works":"金蝶拥有大量财务/ERP存量客户，灵基主打“数据原生、权限原生、技能原生”：智能体直接读取实时业务数据、继承员工岗位权限、调用现有系统功能，避免另起炉灶带来的合规与集成成本。先在自家财务部部署十几个“AI同事”处理报销、对账、月结，再对外销售；客户侧披露费用审核释放20%-30%人力、月度关账提效30%。","takeaway":"大厂做企业Agent的优势在存量数据与权限体系，把AI嵌进现有流程比新建工具更容易收费。","innovation_score":3,"business_score":4,"tags":["企业Agent","财务","ERP","数字员工","中国"],"website":"https://www.kingdee.com","sources":["http://m.cniteyes.com/archives/42013"],"uncertain_points":"来源为T媒体周报（10月12日发布），原始数字为金蝶“上周”官宣，实际公布日期约在10月上旬、可能早于时间窗；文章带明显宣传口吻，需补充金蝶官方公告作为第二来源；3000家客户的客单价与续费率未披露。"},
+{"id":"white-rhino-l4-delivery","date_collected":"2026-10-13","status":"new","type":"profitable","name":"白犀牛","one_liner":"L4无人配送车全栈方案商，完成1亿美元C轮","category":"硬件与端侧","region":"中国","team_type":"初创公司","business_model":"企业定制","metrics":[{"label":"C轮融资","value":"1亿美元（隐山资本领投）","source_type":"媒体报道（36氪独家）","source_url":"https://www.36kr.com/p/4005486834880384"},{"label":"历史融资轮次","value":"超8轮","source_type":"媒体报道","source_url":"https://www.36kr.com/p/4005486834880384"}],"why_it_works":"白犀牛由前百度自动驾驶成员创立，已实现无人车常态化运营，聚焦城市末端配送这一落地最快的L4场景。本轮引入产业、地方国资与金融机构（湘潭国资、深重投、湖南财信、韩国友利金融等），换来的不仅是资金，还有路权、场景和海外拓展资源，资金将投入端到端与物理AI迭代及城市运营网络扩张。","takeaway":"物理AI落地拼的是场景与路权，资本结构本身可以成为获取落地资源的工具。","innovation_score":3,"business_score":4,"tags":["自动驾驶","无人配送","物理AI","中国"],"website":"","sources":["https://www.36kr.com/p/4005486834880384"],"uncertain_points":"36氪独家，暂无第二独立来源；营收、车队规模未在摘录中披露；官网未核实。"},
+{"id":"anthropic-commerce-agents","date_collected":"2026-10-13","status":"new","type":"innovative","name":"Anthropic Claude 商业Agent套件","one_liner":"开源的导购Agent与商家Agent参考实现","category":"电商零售","region":"海外","team_type":"大公司","business_model":"按量付费","metrics":[],"why_it_works":"Anthropic发布面向零售、旅游、电信、票务的商业Agent蓝图：导购Agent接入商品目录、购物车、结账和订单历史，能按场景配齐一整套商品并在对话中展示比较卡片；商家Agent回答销售问题、预警库存、建议定价并起草营销，所有变更需人工批准。附带Claude Code插件，可在Bedrock、Foundry、Gemini Enterprise等平台部署，把Agent电商从概念推向可复制的工程模板。","takeaway":"大模型厂商正把垂直场景做成模板下放，应用层创业需要在数据、渠道或行业know-how上建立模板之外的壁垒。","innovation_score":4,"business_score":2,"tags":["Agent","电商","开源","Claude Code","人机协同"],"website":"https://www.anthropic.com","sources":["https://cloudfresh.com/gc/news/anthropic-launches-commerce-agents-claude/"],"uncertain_points":"目前仅找到合作伙伴Cloudfresh的二手报道（日期2026-10-12），未核对Anthropic官方博客原文；具体发布日期可能略早于时间窗。"},
+{"id":"atticus-macos-voice","date_collected":"2026-10-13","status":"new","type":"innovative","name":"Atticus","one_liner":"按住说话即可操控Mac的开源语音Agent","category":"生产力办公","region":"海外","team_type":"独立开发者","business_model":"暂无","metrics":[{"label":"Hacker News","value":"34分/4评论","source_type":"公开数据","source_url":"https://hn.today/s/atticus-hold-to-talk-voice-assistant-for-macos-that-runs-on-claude-p"},{"label":"单次AI请求成本","value":"中位数低于$0.002","source_type":"创始人自述","source_url":"https://hn.today/s/atticus-hold-to-talk-voice-assistant-for-macos-that-runs-on-claude-p"}],"why_it_works":"复用用户已付费的Claude订阅（claude -p）加苹果端侧语音识别，音频不出本机；常见重复任务会被学习为免AI的即时快捷指令，复杂请求交给沙箱内的Claude Code执行，危险命令默认拦截、破坏性操作需确认。“学会后不再调用模型”的设计把成本和延迟都压了下来，交互形态有新意。","takeaway":"把高频操作从LLM“蒸馏”成确定性脚本，是降低Agent成本与风险的实用套路。","innovation_score":4,"business_score":1,"tags":["端侧AI","语音","macOS","开源","Show HN"],"website":"","sources":["https://hn.today/s/atticus-hold-to-talk-voice-assistant-for-macos-that-runs-on-claude-p"],"uncertain_points":"热度一般（34分）；信息来自HN聚合摘要，未直接核对GitHub仓库；作者身份未确认。"},
+{"id":"skills-hub-desktop","date_collected":"2026-10-13","status":"new","type":"innovative","name":"Skills Hub","one_liner":"一次安装、同步到48款AI编程工具的Skills管理器","category":"编程开发","region":"全球","team_type":"独立开发者","business_model":"暂无","metrics":[{"label":"支持工具数","value":"48款（Claude Code、Codex、Cursor等）","source_type":"官方公布","source_url":"https://hn.today/s/show-hn-skills-hub-a-desktop-app-for-managing-ai-agent-skills"}],"why_it_works":"开发者同时使用多款编程Agent时，Skills分散在各自目录难以维护。Skills Hub用Tauri桌面应用统一发现、安装、打标签、批量更新Skills，并通过GitHub/GitLab/Gitee仓库跨设备同步，还能让编程Agent自己管理技能库。它是Agent生态“包管理器”层的早期形态。","takeaway":"Agent生态碎片化催生“跨工具基础设施”机会，小而专的开源工具适合独立开发者切入。","innovation_score":3,"business_score":1,"tags":["Agent Skills","编程开发","开源","Show HN"],"website":"","sources":["https://hn.today/s/show-hn-skills-hub-a-desktop-app-for-managing-ai-agent-skills"],"uncertain_points":"HN热度较低（10分）；支持Gitee，团队可能来自中国但未确认；未核对GitHub原仓库。"}
 ]
