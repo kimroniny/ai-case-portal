@@ -117,3 +117,9 @@ lib/types.ts         数据类型与枚举
 data/cases/          每日案例 JSON
 data/digests/        每日摘要 Markdown
 ```
+
+## 订阅与收藏
+
+- RSS：`/feed.xml`，构建时静态生成，包含最新 50 条案例。可用环境变量 `NEXT_PUBLIC_SITE_URL` 覆盖站点地址（默认 https://ai-case-portal.vercel.app）。
+- 我的收藏：`/saved`，收藏保存在浏览器 localStorage，不上传服务器。
+- 卡片上的来源平台由 `sources` 链接域名推断（映射表见 `lib/source.ts`）。

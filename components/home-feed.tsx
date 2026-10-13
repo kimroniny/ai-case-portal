@@ -10,7 +10,7 @@ const TABS = [
   { value: "innovative", label: "创新", filter: (c: CaseRecord) => c.type !== "profitable" },
 ];
 
-export function HomeFeed({ cases }: { cases: CaseRecord[] }) {
+export function HomeFeed({ cases, latest }: { cases: CaseRecord[]; latest?: string }) {
   return (
     <Tabs defaultValue="all">
       <TabsList>{TABS.map((t) => <TabsTrigger key={t.value} value={t.value}>{t.label}（{cases.filter(t.filter).length}）</TabsTrigger>)}</TabsList>
@@ -18,7 +18,7 @@ export function HomeFeed({ cases }: { cases: CaseRecord[] }) {
         const list = cases.filter(t.filter);
         return (
           <TabsContent key={t.value} value={t.value} className="mt-4">
-            {list.length ? <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">{list.map((c) => <CaseCard key={c.id} c={c} />)}</div> : <EmptyState title="这个分类下还没有案例" />}
+            {list.length ? <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">{list.map((c) => <CaseCard key={c.id} c={c} isNew={c.date_collected === latest} />)}</div> : <EmptyState title="这个分类下还没有案例" />}
           </TabsContent>
         );
       })}

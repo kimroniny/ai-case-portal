@@ -1,3 +1,4 @@
+import { CaseActions } from "@/components/case-actions";
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
@@ -34,6 +35,7 @@ export default async function CaseDetail({ params }: { params: Promise<{ id: str
         <h1 className="text-3xl font-bold">{c.name}</h1>
         <p className="text-lg text-muted-foreground">{c.one_liner}</p>
         <div className="flex flex-wrap items-center gap-4"><Score label="创新分" value={c.innovation_score} /><Score label="商业分" value={c.business_score} />
+          <CaseActions id={c.id} name={c.name} />
           {c.website && <a href={c.website} {...ext} className="inline-flex items-center gap-1 text-sm text-primary hover:underline">官网 <ExternalLink className="size-3.5" /></a>}</div>
         <dl className="grid grid-cols-2 gap-3 rounded-xl border bg-card p-4 text-sm sm:grid-cols-3">
           {facts.map(([k, v]) => <div key={k}><dt className="text-muted-foreground">{k}</dt><dd className="font-medium">{v}</dd></div>)}

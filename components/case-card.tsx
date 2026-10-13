@@ -1,27 +1,33 @@
 import Link from "next/link";
-import { Card, CardContent, CardHeader, CardTitle, CardDescription } from "@/components/ui/card";
-import { Badge } from "@/components/ui/badge";
-import { Score } from "./score";
 import { StatusBadge, TypeBadge } from "./type-badge";
+import { CaseActions } from "./case-actions";
+import { initials, sourcePlatforms } from "@/lib/source";
 import type { CaseRecord } from "@/lib/types";
 
-export function CaseCard({ c }: { c: CaseRecord }) {
+export function CaseCard({ c, isNew }: { c: CaseRecord; isNew?: boolean }) {
   const m = c.metrics[0];
+  const platforms = sourcePlatforms(c.sources);
   return (
-    <Link href={`/cases/${c.id}`} className="group block h-full">
-      <Card className="h-full transition-shadow group-hover:shadow-md group-hover:ring-primary/30">
-        <CardHeader>
-          <div className="flex flex-wrap items-center gap-1.5"><TypeBadge type={c.type} /><StatusBadge status={c.status} /><span className="ml-auto text-xs text-muted-foreground">{c.date_collected}</span></div>
-          <CardTitle className="mt-2 text-base group-hover:text-primary">{c.name}</CardTitle>
-          <CardDescription>{c.one_liner}</CardDescription>
-        </CardHeader>
-        <CardContent className="space-y-3">
-          {m && <div className="rounded-md bg-muted/60 px-3 py-2 text-sm"><span className="text-muted-foreground">{m.label}：</span><span className="font-semibold">{m.value}</span><span className="ml-1 text-xs text-muted-foreground">（{m.source_type}）</span></div>}
-          <div className="flex flex-wrap gap-1 text-xs text-muted-foreground"><span>{c.category}</span>·<span>{c.region}</span>·<span>{c.team_type}</span></div>
-          <div className="flex flex-wrap gap-3"><Score label="创新" value={c.innovation_score} /><Score label="商业" value={c.business_score} /></div>
-          {c.tags.length > 0 && <div className="flex flex-wrap gap-1">{c.tags.slice(0, 4).map((t) => <Badge key={t} variant="outline" className="font-normal">#{t}</Badge>)}</div>}
-        </CardContent>
-      </Card>
-    </Link>
+    <div className="group flex h-full flex-col rounded-xl border bg-card p-4 transition-shadow hover:shadow-md">
+      <div className="flex items-start gap-3">
+        <div aria-hidden className="flex size-10 shrink-0 items-center justify-center rounded-lg bg-primary/10 text-sm font-bold text-primary">{initials(c.name)}</div>
+        <div className="min-w-0 flex-1">
+          <Link href={`/cases/${c.id}`} className="font-semibold leading-snug hover:text-primary"><span className="line-clamp-1">{c.name}</span></Link>
+          <p className="mt-0.5 line-clamp-2 text-sm text-muted-foreground">{c.one_liner}</p>
+        </div>
+      </div>
+      {m && <div className="mt-3 rounded-md bg-muted/60 px-2.5 py-1.5 text-xs"><span className="text-muted-foreground">{m.label}：</span><span className="font-semibold">{m.value}</span><span className="ml-1 text-muted-foreground">（{m.source_type}）</span></div>}
+      <div className="mt-3 flex flex-wrap items-center gap-1.5 text-xs text-muted-foreground">
+        {isNew && <span className="rounded bg-emerald-500/15 px-1.5 py-0.5 font-medium text-emerald-600 dark:text-emerald-400">New</span>}
+        <TypeBadge type={c.type} /><StatusBadge status={c.status} />
+        <span>{c.category}</span>
+        {platforms.length > 0 && <span>· {platforms.slice(0, 2).join(" / ")}{platforms.length > 2 ? ` 等 ${platforms.length} 个来源` : ""}</span>}
+        <span>· {c.date_collected}</span>
+      </div>
+      <div className="mt-auto flex items-center justify-between pt-3 text-xs text-muted-foreground">
+        <span>创新 {c.innovation_score}/5 · 商业 {c.business_score}/5</span>
+        <CaseActions id={c.id} name={c.name} />
+      </div>
+    </div>
   );
 }

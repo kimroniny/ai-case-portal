@@ -7,6 +7,7 @@ import { SiteHeader } from "@/components/site-header";
 export const metadata: Metadata = {
   title: { default: "AI 案例观察站", template: "%s · AI 案例观察站" },
   description: "每日收集、核实并整理全球 AI 盈利案例与创新案例。",
+  alternates: { types: { "application/rss+xml": [{ url: "/feed.xml", title: "AI 案例观察站 RSS" }] } },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
@@ -17,7 +18,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           <SiteHeader />
           <main className="flex-1">{children}</main>
           <footer className="border-t py-6 text-center text-xs text-muted-foreground">
-            AI 案例观察站 · 数据每日更新 · <Link href="/archive" className="underline">查看归档</Link>
+            AI 案例观察站 · 数据每日更新 · <Link href="/archive" className="underline">查看归档</Link> · <a href="/feed.xml" className="underline">RSS 订阅</a>
           </footer>
         </ThemeProvider>
       </body>
