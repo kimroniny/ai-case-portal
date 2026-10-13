@@ -1,0 +1,530 @@
+[
+  {
+    "date_collected": "2026-10-14",
+    "status": "new",
+    "id": "dapta-dapti-smb-sales-agent",
+    "type": "profitable",
+    "name": "Dapta（Dapti）",
+    "one_liner": "让小商家几分钟搭出接电话、筛线索、约时间的AI销售代理",
+    "category": "客服销售",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "SaaS订阅，起价$99/月，含免费档",
+    "metrics": [
+      {
+        "label": "种子轮",
+        "value": "$6M（Chingona Ventures领投，累计$7.4M）",
+        "source_type": "官方公布",
+        "source_url": "https://markets.financialcontent.com/stocks/article/gnwcq-2026-10-13-dapta-raises-6m-to-accelerate-the-adoption-of-ai-sales-agents-to-smbs-across-the-us-and-latin-america"
+      },
+      {
+        "label": "年收入预期",
+        "value": "2026年预计超$4M，近6个月收入翻倍",
+        "source_type": "创始人自述",
+        "source_url": "https://refreshmiami.com/news/dapta-raises-6m-to-give-main-street-businesses-an-ai-advantage/"
+      },
+      {
+        "label": "用户数",
+        "value": "20万+用户，每周新增约4000",
+        "source_type": "创始人自述",
+        "source_url": "https://refreshmiami.com/news/dapta-raises-6m-to-give-main-street-businesses-an-ai-advantage/"
+      }
+    ],
+    "why_it_works": "团队最初做面向技术人员的无代码API，有人用但没人付费，付费的恰好是小企业的销售和营销人员，于是转向让非技术老板自己搭AI代理。目标客户是律所、保险经纪、房贷、家政维修等传统服务业，夜间和高峰期漏接电话就是漏单，痛点直接对应收入。获客主要靠社交媒体教育内容，累计40万+粉丝，把TikTok短视频变成获客渠道；西语创业者群体是被大厂忽视的细分市场。",
+    "takeaway": "“跟着付费的人走”比坚持原产品更重要；面向小商家的AI代理，把价值说成“不漏接一个客户”最好卖，内容获客能把CAC压得很低。",
+    "innovation_score": 2,
+    "business_score": 4,
+    "tags": [
+      "AI销售代理",
+      "中小企业",
+      "语音Agent",
+      "拉美",
+      "内容获客"
+    ],
+    "website": "https://dapta.ai",
+    "sources": [
+      "https://refreshmiami.com/news/dapta-raises-6m-to-give-main-street-businesses-an-ai-advantage/",
+      "https://markets.financialcontent.com/stocks/article/gnwcq-2026-10-13-dapta-raises-6m-to-accelerate-the-adoption-of-ai-sales-agents-to-smbs-across-the-us-and-latin-america",
+      "https://www.finsmes.com/2026/10/dapta-raises-6m-in-seed-funding.html"
+    ],
+    "uncertain_points": "收入和用户数均为公司自述；“$4M”是全年收入预期而非ARR（X上有帖子写成$4M ARR，属转述偏差）；20万“用户”含免费档，付费客户数未披露。"
+  },
+  {
+    "date_collected": "2026-10-14",
+    "status": "new",
+    "id": "pluto-security-ai-agent-security",
+    "type": "both",
+    "name": "Pluto Security",
+    "one_liner": "实时监控员工用的AI工具、MCP和vibe coding应用，能在Agent越权时当场拦截",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "企业安全SaaS；免费社区工具Plutonium引流",
+    "metrics": [
+      {
+        "label": "ARR",
+        "value": "$2M+（4月开始销售）",
+        "source_type": "创始人自述",
+        "source_url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/"
+      },
+      {
+        "label": "企业客户",
+        "value": "30+，含Oscar Health、Workato、Sixt、AlphaSense",
+        "source_type": "创始人自述",
+        "source_url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/"
+      },
+      {
+        "label": "累计融资",
+        "value": "$42M（$8.5M种子轮+$34M A轮，Jump Capital领投A轮）",
+        "source_type": "官方公布",
+        "source_url": "https://x.com/TLV_Partners/status/2110044974725124193"
+      }
+    ],
+    "why_it_works": "企业里新AI工具上线两小时就会出现在员工电脑上，约60%的风险来自非开发者vibe coding出来的应用（财务部门最多）。传统安全软件只看用户行为，Pluto看Agent行为：采集提示词、命令、进程和权限，用端侧轻量模型判断Agent意图，发现越权时可阻止动作或向会话注入提示。免费的Plutonium技能/MCP风险扫描器带来社区，70%销售线索来自 inbound。",
+    "takeaway": "“AI带来的新风险”是比“AI替代人”更容易让大企业立刻掏钱的预算项；免费扫描工具+付费企业版是安全赛道的经典PLG打法。",
+    "innovation_score": 4,
+    "business_score": 4,
+    "tags": [
+      "AI安全",
+      "Agent治理",
+      "MCP",
+      "vibe coding",
+      "PLG"
+    ],
+    "website": "",
+    "sources": [
+      "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
+      "https://x.com/TLV_Partners/status/2110044974725124193",
+      "https://x.com/Techmeme/status/2110065754087498188"
+    ],
+    "uncertain_points": "ARR与客户数为CEO向TechCrunch自述；估值未披露；同赛道新公司密集融资，竞争格局变化快；官网链接未核实。"
+  },
+  {
+    "date_collected": "2026-10-14",
+    "status": "new",
+    "id": "micro1-expert-data-1b-run-rate",
+    "type": "profitable",
+    "name": "micro1",
+    "one_liner": "用AI招募和管理各领域专家，为大模型公司提供高质量训练数据",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "按项目/用量收取数据服务费，专家报酬为流水中的转付部分",
+    "metrics": [
+      {
+        "label": "年化营收（run rate）",
+        "value": "突破$1B，且保持盈利（8月约$500M）",
+        "source_type": "创始人自述",
+        "source_url": "https://dealroom.co/news/161913-micro1-passes-a-1b-run-rate-with-about-180-staff-three-years-after-nearl/"
+      },
+      {
+        "label": "团队规模",
+        "value": "约180名核心员工，人均年化超$5M",
+        "source_type": "媒体估算",
+        "source_url": "https://dealroom.co/news/161913-micro1-passes-a-1b-run-rate-with-about-180-staff-three-years-after-nearl/"
+      },
+      {
+        "label": "B轮估值",
+        "value": "$4B（Dream Ventures领投，微软等参投）",
+        "source_type": "官方公布",
+        "source_url": "https://dealroom.co/news/161913-micro1-passes-a-1b-run-rate-with-about-180-staff-three-years-after-nearl/"
+      }
+    ],
+    "why_it_works": "模型越强，越依赖医学、法律、工程等领域专家产出的高质量人类数据，这一层已成为AI产业链中最赚钱的环节之一。micro1用AI面试官快速筛选和调度数万名专家，三年前曾一夜流失60%收入险些倒闭，如今约180人全远程团队撑起十亿美元级流水。",
+    "takeaway": "“卖铲子”不只有算力：给模型公司供应稀缺专家数据同样是高毛利生意；用AI做人才匹配和质检，是把人力服务做出软件效率的关键。",
+    "innovation_score": 2,
+    "business_score": 5,
+    "tags": [
+      "训练数据",
+      "专家网络",
+      "AI招聘",
+      "盈利",
+      "高人效"
+    ],
+    "website": "https://www.micro1.ai",
+    "sources": [
+      "https://dealroom.co/news/161913-micro1-passes-a-1b-run-rate-with-about-180-staff-three-years-after-nearl/",
+      "https://x.com/Fxhedgers/status/2109765355015229737"
+    ],
+    "uncertain_points": "数字为公司自述、未经审计；未说明$1B是总流水还是净收入，此前$500M为含专家转付的总run rate；X上称引用Forbes，原文未核实。偏AI产业链服务而非终端应用，收录理由是盈利信号极强。"
+  },
+  {
+    "date_collected": "2026-10-14",
+    "status": "new",
+    "id": "clueso-agentic-corporate-video",
+    "type": "both",
+    "name": "Clueso",
+    "one_liner": "AI代理自己操作真实软件、录屏、配音剪辑，产品更新后还能自动重录的企业视频平台",
+    "category": "营销内容",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "企业SaaS订阅",
+    "metrics": [
+      {
+        "label": "A轮",
+        "value": "$10M（Dharana Capital领投，累计$12M，超80%来自老股东加注）",
+        "source_type": "官方公布",
+        "source_url": "https://thenextweb.com/news/clueso-10m-series-a-video-agents"
+      },
+      {
+        "label": "企业客户",
+        "value": "1000+家，含Atlassian、Zendesk、Seismic、Ironclad",
+        "source_type": "官方公布",
+        "source_url": "https://thenextweb.com/news/clueso-10m-series-a-video-agents"
+      }
+    ],
+    "why_it_works": "与Synthesia的数字人路线不同，Clueso的差异在“采集”：代理直接在真实软件里执行流程并录制画面，产品界面改了就重跑一遍刷新视频，解决了教程和产品演示视频很快过时的老问题。还提供连接器，让Claude、ChatGPT等助手直接创建和编辑视频。",
+    "takeaway": "内容类AI产品的护城河可以是“自动维护”而不只是“自动生成”；能被其他Agent调用的连接器正在成为新的分发渠道。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": [
+      "AI视频",
+      "企业培训",
+      "Agent",
+      "产品演示",
+      "YC"
+    ],
+    "website": "https://www.clueso.io",
+    "sources": [
+      "https://thenextweb.com/news/clueso-10m-series-a-video-agents"
+    ],
+    "uncertain_points": "仅一个媒体来源；客户声称的5倍效率、成本降80%未经独立验证；收入未披露。"
+  },
+  {
+    "date_collected": "2026-10-14",
+    "status": "new",
+    "id": "causa-prima-b2b-invoice-agents",
+    "type": "both",
+    "name": "Causa Prima",
+    "one_liner": "买卖双方各派AI代理，在共享网络里谈判发票争议、账期和提前付款折扣",
+    "category": "法律金融",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "B2B金融网络，暂未披露收费方式",
+    "metrics": [
+      {
+        "label": "种子轮",
+        "value": "$20M（Base10领投，累计$30M，距Pre-seed不到4个月）",
+        "source_type": "官方公布",
+        "source_url": "https://techfundingnews.com/causa-prima-raises-20m-seed-from-base10-to-let-ai-agents-settle-b2b-invoices/"
+      },
+      {
+        "label": "活跃账户",
+        "value": "3000+（与6月数字相同）",
+        "source_type": "官方公布",
+        "source_url": "https://techfundingnews.com/causa-prima-raises-20m-seed-from-base10-to-let-ai-agents-settle-b2b-invoices/"
+      }
+    ],
+    "why_it_works": "财务自动化大多只解决一家公司内部的账，而真正拖时间的是两家公司之间的扯皮。Causa Prima让双方的代理在同一网络里谈判，并把创始人在Taulia发明的“动态折扣”搬进Agent时代。CEO曾创办被SAP控股的Taulia，行业资源和可信度是早期冷启动的关键。",
+    "takeaway": "“Agent对Agent”的双边场景开始出现商业化尝试；双边网络难冷启动，但一旦形成就有网络效应。",
+    "innovation_score": 4,
+    "business_score": 2,
+    "tags": [
+      "Agent对Agent",
+      "应付应收",
+      "财务自动化",
+      "欧洲",
+      "双边网络"
+    ],
+    "website": "",
+    "sources": [
+      "https://techfundingnews.com/causa-prima-raises-20m-seed-from-base10-to-let-ai-agents-settle-b2b-invoices/"
+    ],
+    "uncertain_points": "收入与付费客户未披露；活跃账户数4个月没变化；估值未披露；本条仅一家媒体来源（文中提到Fortune也有报道，未核实）。"
+  },
+  {
+    "date_collected": "2026-10-14",
+    "status": "new",
+    "id": "albert-chemistry-native-ai",
+    "type": "profitable",
+    "name": "Albert",
+    "one_liner": "面向化学和材料研发的AI操作系统，帮消费品和化工企业缩短配方开发周期",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "企业SaaS",
+    "metrics": [
+      {
+        "label": "B轮",
+        "value": "$55M（TCV领投，Coatue、Index、J.P. Morgan等老股东跟投）",
+        "source_type": "官方公布",
+        "source_url": "https://www.financialcontent.com/article/bizwire-2026-10-13-albert-raises-55m-series-b-to-scale-the-first-chemistry-native-ai"
+      },
+      {
+        "label": "科学准确率",
+        "value": "化学基准上比前沿检索模型高45倍",
+        "source_type": "官方公布",
+        "source_url": "https://www.financialcontent.com/article/bizwire-2026-10-13-albert-raises-55m-series-b-to-scale-the-first-chemistry-native-ai"
+      }
+    ],
+    "why_it_works": "法规、供应链和上市时间压力让配方研发急需提速，通用大模型在化学上的准确率不够。Albert专做化学和材料，并配齐零数据留存、细粒度权限和推理审计等大企业必需的治理能力，切入的是研发部门的核心流程。",
+    "takeaway": "垂直领域AI的卖点是“比通用模型准”加“满足企业合规”，二者缺一不可。",
+    "innovation_score": 3,
+    "business_score": 3,
+    "tags": [
+      "AI for Science",
+      "化学",
+      "材料",
+      "研发",
+      "垂直SaaS"
+    ],
+    "website": "https://www.albertinvent.com",
+    "sources": [
+      "https://www.financialcontent.com/article/bizwire-2026-10-13-albert-raises-55m-series-b-to-scale-the-first-chemistry-native-ai"
+    ],
+    "uncertain_points": "仅有公司新闻稿；“45倍准确率”来自公司自有基准；收入与客户数未在新闻稿中披露。"
+  },
+  {
+    "date_collected": "2026-10-14",
+    "status": "new",
+    "id": "scuba-shared-context-engine",
+    "type": "innovative",
+    "name": "Scuba",
+    "one_liner": "给团队和AI代理共用的“共享记忆”，自动整理收藏的资料、决策和经验",
+    "category": "生产力办公",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "暂无（分批开放内测）",
+    "metrics": [
+      {
+        "label": "累计融资",
+        "value": "$34M（Accel领投Pre-seed，Accel与IVP共同领投种子轮）",
+        "source_type": "官方公布",
+        "source_url": "https://www.financialcontent.com/article/bizwire-2026-10-13-scuba-emerges-from-stealth-with-34m-to-build-the-shared-context-engine-for-teams-and-their-agents"
+      },
+      {
+        "label": "内测规模",
+        "value": "数百个小团队试用约6个月",
+        "source_type": "创始人自述",
+        "source_url": "https://www.upstartsmedia.com/p/exclusive-slack-alums-launch-scuba"
+      }
+    ],
+    "why_it_works": "创始人认为前沿模型受限的是上下文而不是智力。Scuba让团队从浏览器、应用或Agent里随手保存文章、截图、文档、语音，自动组织成随时间演进的知识与决策，再接入Claude、ChatGPT、Cursor和Slack，让回答和代码都从团队已有的判断出发。前Slack首席产品官带队，天使名单很强。",
+    "takeaway": "“给Agent喂对的上下文”正在成为独立品类；团队共享记忆比个人记忆更容易形成付费理由。",
+    "innovation_score": 4,
+    "business_score": 2,
+    "tags": [
+      "上下文工程",
+      "团队知识库",
+      "Agent记忆",
+      "Slack系"
+    ],
+    "website": "https://scuba.app",
+    "sources": [
+      "https://www.financialcontent.com/article/bizwire-2026-10-13-scuba-emerges-from-stealth-with-34m-to-build-the-shared-context-engine-for-teams-and-their-agents",
+      "https://www.upstartsmedia.com/p/exclusive-slack-alums-launch-scuba"
+    ],
+    "uncertain_points": "尚无收入和付费数据；产品仍在分批内测；估值未披露。"
+  },
+  {
+    "date_collected": "2026-10-14",
+    "status": "new",
+    "id": "flox-intelligence-wildlife-ai",
+    "type": "both",
+    "name": "Flox Intelligence",
+    "one_liner": "端侧AI识别附近动物种类和行为，播放对应声音把它们赶离铁路、机场和公路",
+    "category": "硬件与端侧",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "硬件一次性销售+次年起年度软件/AI订阅；向列车制造商收OEM年费",
+    "metrics": [
+      {
+        "label": "2026年收入预期",
+        "value": "约$1.5M",
+        "source_type": "创始人自述",
+        "source_url": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/"
+      },
+      {
+        "label": "部署量",
+        "value": "约150台设备，覆盖北美、欧洲、澳洲；阿尔斯通为OEM伙伴",
+        "source_type": "创始人自述",
+        "source_url": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/"
+      }
+    ],
+    "why_it_works": "野生动物撞击每年给美国民航造成约2.7亿美元损失，法国SNCF每年8000多趟列车受动物影响。传统手段是警报、灯光、围栏，动物很快就习惯了。Flox用端侧视觉模型识别物种，按物种发出不同声音并不断变换，避免动物适应；平台还能生成合规和生物多样性报告。",
+    "takeaway": "物理AI走出工厂、进入户外是新空白；“硬件+订阅+OEM授权”三段收入结构适合基础设施客户。",
+    "innovation_score": 5,
+    "business_score": 3,
+    "tags": [
+      "物理AI",
+      "端侧视觉",
+      "基础设施",
+      "野生动物",
+      "TechCrunch Disrupt"
+    ],
+    "website": "",
+    "sources": [
+      "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/"
+    ],
+    "uncertain_points": "收入为全年预期、创始人自述；仅TechCrunch单一来源；A轮$10M正在募集、未完成；官网链接未核实。"
+  },
+  {
+    "date_collected": "2026-10-14",
+    "status": "new",
+    "id": "laplace-intelligence-physical-ai-redteam",
+    "type": "both",
+    "name": "Laplace Intelligence",
+    "one_liner": "用AI在真实还原的仿真世界里自动设计极端场景，给自动驾驶和机器人做红队测试",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "项目制合同，正向经常性收入转型",
+    "metrics": [
+      {
+        "label": "盈利状况",
+        "value": "已有收入并小幅盈利",
+        "source_type": "创始人自述",
+        "source_url": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/"
+      },
+      {
+        "label": "客户",
+        "value": "五十铃、Bot Auto、英伟达",
+        "source_type": "创始人自述",
+        "source_url": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/"
+      }
+    ],
+    "why_it_works": "创始团队的仿真对抗测试论文登上过Nature封面，随后自动驾驶公司主动找上门。产品基于后训练的英伟达Cosmos重建真实路况，再由AI代理从新闻、警方事故报告中生成刁钻场景主动挑战被测系统，且仿真中其他参与者会实时反应。成立一年就靠学术口碑拿到车企订单。",
+    "takeaway": "“用AI测AI”是物理AI落地前的刚需环节；学术成果+顶刊背书可以直接转化为早期B端订单。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": [
+      "物理AI",
+      "仿真",
+      "红队测试",
+      "自动驾驶",
+      "机器人"
+    ],
+    "website": "",
+    "sources": [
+      "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/"
+    ],
+    "uncertain_points": "收入规模未披露，“小幅盈利”为创始人口述；合同多为项目制；与英伟达、T-Mobile的圣何塞试点是免费项目；仅TechCrunch单一来源。"
+  },
+  {
+    "date_collected": "2026-10-14",
+    "status": "new",
+    "id": "shendu-yunhai-geo-marketing",
+    "type": "profitable",
+    "name": "深度云海",
+    "one_liner": "做GEO（生成引擎优化）的AI营销公司，让豆包、DeepSeek、ChatGPT等优先推荐客户品牌",
+    "category": "营销内容",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "RaaS（按结果交付）+ DeepWork桌面工作台，支持本地部署",
+    "metrics": [
+      {
+        "label": "天使轮",
+        "value": "千万级人民币（华工科技领投）",
+        "source_type": "官方公布",
+        "source_url": "https://www.36kr.com/p/4023041152585603"
+      },
+      {
+        "label": "客户与收入",
+        "value": "成立一年服务3000+家企业，年收入数千万元",
+        "source_type": "官方公布",
+        "source_url": "https://www.36kr.com/p/4023041152585603"
+      }
+    ],
+    "why_it_works": "AI问答正在分走搜索流量，企业需要“在大模型回答里被提到”。深度云海由前百度上海总经理带队，做可见度监测、提示词定向优化、官网改造和内容分发全链路，并自研八层企业知识图谱，反推大模型的溯源偏好。客户集中在机械设备、化工能源、电子电工、教育等传统ToB行业。",
+    "takeaway": "GEO已从“多发文章”进入“靠监测和算法交付可量化结果”阶段；按结果收费能降低传统企业的决策门槛。",
+    "innovation_score": 3,
+    "business_score": 4,
+    "tags": [
+      "GEO",
+      "AI营销",
+      "RaaS",
+      "ToB",
+      "前百度团队"
+    ],
+    "website": "",
+    "sources": [
+      "https://www.36kr.com/p/4023041152585603"
+    ],
+    "uncertain_points": "收入与客户数为企业向36氪提供，未经第三方核实；“数千万元”区间较宽；GEO效果的可持续性受大模型规则变化影响；仅36氪单一来源。"
+  },
+  {
+    "date_collected": "2026-10-14",
+    "status": "new",
+    "id": "astribot-tendon-robot-commercial",
+    "type": "both",
+    "name": "星尘智能（Astribot）",
+    "one_liner": "全球首家量产绳驱AI机器人的具身智能公司，人形机器人T1起售8.99万元",
+    "category": "硬件与端侧",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "机器人本体销售+场景解决方案（零售、导览、表演）+开发者平台",
+    "metrics": [
+      {
+        "label": "新一轮融资",
+        "value": "10亿元，估值150亿元（深投控旗下投控东海领投），半年内4轮",
+        "source_type": "官方公布",
+        "source_url": "https://www.21jingji.com/article/20261013/herald/d1f463f6a5a59bad44903dbf3bdef4d7.html"
+      },
+      {
+        "label": "订单与产能",
+        "value": "S系列千台级订单，S/T系列总产能万台级",
+        "source_type": "官方公布",
+        "source_url": "https://www.21jingji.com/article/20261013/herald/d1f463f6a5a59bad44903dbf3bdef4d7.html"
+      }
+    ],
+    "why_it_works": "绳驱结构天然兼顾精度与柔顺，碰撞时更安全，适合家庭、养老、教育等近距离交互场景；同时能持续采集力觉等高质量物理交互数据，反哺自研Lumo具身模型和Astribot OS。商业化走“商业服务+开发者生态”双路径，零售服务店机器人MART已在六个城市批量部署，客户包括京东、央视、中科创达等。",
+    "takeaway": "具身智能的投资逻辑正从“技术路线”转向“能否量产交付”；把价格压进10万元内是进入更大市场的关键一步。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": [
+      "具身智能",
+      "人形机器人",
+      "绳驱",
+      "量产",
+      "深圳"
+    ],
+    "website": "https://www.astribot.com",
+    "sources": [
+      "https://www.21jingji.com/article/20261013/herald/d1f463f6a5a59bad44903dbf3bdef4d7.html",
+      "https://www.donews.com/news/detail/4/6738623.html"
+    ],
+    "uncertain_points": "营收未披露；“千台级订单”“万台级产能”为公司口径，实际交付量未知；文章带较强宣传色彩；“领先1X一个代际”为公司说法。"
+  },
+  {
+    "date_collected": "2026-10-14",
+    "status": "new",
+    "id": "tianxu-energy-weather-ai",
+    "type": "both",
+    "name": "天序智能",
+    "one_liner": "自研能源气象大模型并送上卫星，为新能源功率预测和电力交易提供数据与平台",
+    "category": "企业服务",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "数据售卖+SaaS账号订阅（电力交易/功率预测平台）+私有化部署",
+    "metrics": [
+      {
+        "label": "Pre-A+轮",
+        "value": "数千万元（厚雪资本独家投资）",
+        "source_type": "官方公布",
+        "source_url": "https://eu.36kr.com/zh/p/4023671039070081"
+      },
+      {
+        "label": "核心客户",
+        "value": "国家电网、南方电网及多家头部发电央企",
+        "source_type": "官方公布",
+        "source_url": "https://eu.36kr.com/zh/p/4023671039070081"
+      }
+    ],
+    "why_it_works": "国内新能源装机占比超50%，风速和辐照度直接决定发电量，电力现货交易放开后精准预报变成真金白银。天序把10B以内参数的垂类气象模型与中国气象局联合发布，并在2026年7月让模型随卫星入轨，目标是从“算天气”走到“算电价”。三层收费：数据是入口，平台带来复购，内网私有化部署锁定头部客户。",
+    "takeaway": "垂类AI在强监管行业落地，私有化部署和“能力建设”比卖结果更受头部客户欢迎；自有数据源是长期壁垒。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": [
+      "AI for Science",
+      "气象",
+      "新能源",
+      "电力交易",
+      "卫星"
+    ],
+    "website": "",
+    "sources": [
+      "https://eu.36kr.com/zh/p/4023671039070081"
+    ],
+    "uncertain_points": "收入规模未披露；模型效果对比为公司自述；卫星星座18颗为远期规划；仅36氪（硬氪）单一来源。"
+  }
+]
