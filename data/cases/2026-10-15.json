@@ -1,0 +1,551 @@
+[
+  {
+    "date_collected": "2026-10-15",
+    "status": "new",
+    "id": "scimplify-ai-specialty-materials",
+    "type": "profitable",
+    "name": "Scimplify",
+    "one_liner": "用AI把特种化学品和关键材料从客户需求做到交付，把12–18个月压缩到约2个月",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "按需定制生产+材料供应，AI平台Scinode协调工艺与代工厂网络",
+    "metrics": [
+      {
+        "label": "年化收入",
+        "value": "约$200M（一年前的约3倍）",
+        "source_type": "创始人自述",
+        "source_url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/"
+      },
+      {
+        "label": "美国市场年化收入",
+        "value": "约$60M（一年前约$10M，增约6倍，占业务约30%）",
+        "source_type": "创始人自述",
+        "source_url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/"
+      },
+      {
+        "label": "本轮融资",
+        "value": "$25M战略轮（Hitachi Ventures领投，客户Henkel、Teknor Apex跟投；估值约$250M，累计股权融资$80M）",
+        "source_type": "官方公布",
+        "source_url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/"
+      },
+      {
+        "label": "客户与覆盖",
+        "value": "1000+客户，产品交付超40国；约340人（含约70名科学家）",
+        "source_type": "创始人自述",
+        "source_url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/"
+      }
+    ],
+    "why_it_works": "材料发现被AI加速后，真正卡住的是工艺开发、代工厂资质和供应链集中度。Scimplify用自有实验室做工艺，再转到500+合作工厂量产，Scinode用研发/制造/质控等专用Agent从客户需求倒推路径。能源、电子、国防已占收入约45–50%，客户包括TDK、BASF、Hitachi；近两月EBITDA已转正，本月有望税后盈利。",
+    "takeaway": "“AI发现材料”只是上半场，“AI把材料按期按质交到客户手里”才是能做到九位数收入的生意；客户当股东（Henkel等）说明交付能力已通过采购侧验证。",
+    "innovation_score": 3,
+    "business_score": 5,
+    "tags": [
+      "特种化学品",
+      "供应链",
+      "Agent平台",
+      "印度",
+      "制造业AI"
+    ],
+    "website": "https://www.scimplify.com",
+    "sources": [
+      "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/"
+    ],
+    "uncertain_points": "年化收入、美国市场占比、盈利节奏均为CEO向TechCrunch自述；估值$250M来自知情人士而非公司官方披露；官网域名未在报道中逐字核对。"
+  },
+  {
+    "date_collected": "2026-10-15",
+    "status": "new",
+    "id": "modal-1b-run-rate-series-d",
+    "type": "profitable",
+    "name": "Modal",
+    "one_liner": "给AI应用跑推理、训练和Agent沙箱的云，年化收入跑过$10亿并完成$7.5亿D轮",
+    "category": "编程开发",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "按用量计费的AI云基础设施（Functions、Sandboxes、训练与推理）",
+    "metrics": [
+      {
+        "label": "年化收入",
+        "value": "突破$1B annualized run rate；同比增超15倍，近5个月用量约3倍",
+        "source_type": "官方公布",
+        "source_url": "https://modal.com/blog/1-billion-annualized-run-rate-series-d"
+      },
+      {
+        "label": "D轮融资",
+        "value": "$750M，投后估值$15.75B，Accel领投，Kleiner Perkins等跟投",
+        "source_type": "官方公布",
+        "source_url": "https://modal.com/blog/1-billion-annualized-run-rate-series-d"
+      },
+      {
+        "label": "Sandboxes产品",
+        "value": "单独约$300M年化跑速；累计近30亿个沙箱，可到百万并发",
+        "source_type": "官方公布",
+        "source_url": "https://modal.com/blog/1-billion-annualized-run-rate-series-d"
+      }
+    ],
+    "why_it_works": "Agent、视频生成、机器人训练都需要隔离算力和按秒弹性扩缩，传统K8s/YAML栈摩擦太大。Modal自研文件系统、容器运行时和跨20+云的调度，把写函数、起沙箱做成积木。客户覆盖DoorDash、Cognition、Ramp、Runway、Physical Intelligence等，团队约200人。",
+    "takeaway": "应用层爆发时，最先兑现收入的往往是“铲子”：给Agent一个能安全跑代码的沙箱，本身就能做成三亿美元级单品。",
+    "innovation_score": 3,
+    "business_score": 5,
+    "tags": [
+      "AI Infra",
+      "Sandbox",
+      "Serverless",
+      "Agent运行时",
+      "融资"
+    ],
+    "website": "https://modal.com",
+    "sources": [
+      "https://modal.com/blog/1-billion-annualized-run-rate-series-d",
+      "https://thenextweb.com/news/modal-750m-series-d-15-75bn-valuation"
+    ],
+    "uncertain_points": "“annualized run rate”是否等同ARR、毛利率与盈利情况未披露；Sandboxes $300M为公司博客自述。"
+  },
+  {
+    "date_collected": "2026-10-15",
+    "status": "new",
+    "id": "duvo-enterprise-os-agents",
+    "type": "both",
+    "name": "Duvo",
+    "one_liner": "Rohlik创始人做的企业操作系统：先用AI访谈摸清真实流程，再让Agent在现有ERP上干活",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "企业订阅；先服务零售与快消，拓展银行保险能源",
+    "metrics": [
+      {
+        "label": "A轮融资",
+        "value": "$32M（Balderton领投，Index、Northzone、Credo跟投；累计$48M）",
+        "source_type": "官方公布",
+        "source_url": "https://tech.eu/2026/10/14/from-rohlik-to-enterprise-ai-tomas-cuprs-duvo-raises-32m-series-a/"
+      },
+      {
+        "label": "客户价值主张",
+        "value": "称已为客户创造超$100M价值；Notino供应商奖金对账从70天压到15天",
+        "source_type": "创始人自述",
+        "source_url": "https://tech.eu/2026/10/14/from-rohlik-to-enterprise-ai-tomas-cuprs-duvo-raises-32m-series-a/"
+      },
+      {
+        "label": "客户示例",
+        "value": "含Morrisons、Holland & Barrett、Boden、Notino、Allegro；约70人团队",
+        "source_type": "媒体报道",
+        "source_url": "https://tech.eu/2026/10/14/from-rohlik-to-enterprise-ai-tomas-cuprs-duvo-raises-32m-series-a/"
+      }
+    ],
+    "why_it_works": "创始人Tomáš Čupr在Rohlik里发现：员工说不清例外、系统缺API、表格邮件来回传。Duvo Clarity用访谈和录屏抽出真实流程，Agent再在ERP/门户/邮箱上执行，人只批关键节点。反对堆“驻场工程师”，主张产品自己完成发现与交付；已拿SOC2、ISO27001/42001，上架Azure Marketplace。",
+    "takeaway": "企业Agent卖的不是“会聊天的模型”，而是“把藏在人脑子里的流程变成可审计自动化”；有重运营创业背景的CEO更懂客户真正卡在哪。",
+    "innovation_score": 4,
+    "business_score": 4,
+    "tags": [
+      "企业Agent",
+      "流程挖掘",
+      "零售",
+      "欧洲",
+      "无驻场交付"
+    ],
+    "website": "https://duvo.ai",
+    "sources": [
+      "https://tech.eu/2026/10/14/from-rohlik-to-enterprise-ai-tomas-cuprs-duvo-raises-32m-series-a/"
+    ],
+    "uncertain_points": "“$100M价值”为公司口径，非独立审计收入；官网域名按常见命名推断；美国扩张尚早，续约率未披露。"
+  },
+  {
+    "date_collected": "2026-10-15",
+    "status": "new",
+    "id": "confido-health-careos",
+    "type": "both",
+    "name": "Confido Health",
+    "one_liner": "给连锁诊所做端到端AI运营层：排班、核保、催款、随访全链路代办，再靠PE渠道复制",
+    "category": "医疗健康",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "医疗运营SaaS/AI人力；对接50+ EHR与计费系统，优先卖给PE旗下多站点集团",
+    "metrics": [
+      {
+        "label": "A轮融资",
+        "value": "累计Series A $22.5M（含Z47领投的$12.5M追加）",
+        "source_type": "官方公布",
+        "source_url": "https://www.prnewswire.com/news-releases/confido-health-expands-agentic-operating-platform-to-move-healthcare-from-systems-of-record-to-systems-of-action-302908090.html"
+      },
+      {
+        "label": "增长与效果",
+        "value": "称自上一轮起约15x增长；上线约3个月平均增加相当于3–5名全职员工的处理能力；关键用例AI处理率超95%",
+        "source_type": "创始人自述",
+        "source_url": "https://www.prnewswire.com/news-releases/confido-health-expands-agentic-operating-platform-to-move-healthcare-from-systems-of-record-to-systems-of-action-302908090.html"
+      },
+      {
+        "label": "客户证言",
+        "value": "Vision Innovation Partners CFO称部署后回款部门收款约翻倍",
+        "source_type": "创始人自述",
+        "source_url": "https://www.prnewswire.com/news-releases/confido-health-expands-agentic-operating-platform-to-move-healthcare-from-systems-of-record-to-systems-of-action-302908090.html"
+      }
+    ],
+    "why_it_works": "诊所不缺系统，缺的是有人打电话、跟进和收钱。CareOS把一次接待里的上下文带到后续排班、转诊、处方和支付。获客先卖给PE，再靠证明效果打进其portfolio，适配眼科、理疗、牙科等专科技能包。患者侧称百万级任务满意度约4.55/5。",
+    "takeaway": "医疗行政是万亿级成本中心；“先卖给资本方再复制到旗下诊所”比一家一家冷启动更快，前提是效果能量化到回款和人力当量。",
+    "innovation_score": 3,
+    "business_score": 4,
+    "tags": [
+      "医疗Agent",
+      "诊所运营",
+      "PE渠道",
+      "CareOS",
+      "回款自动化"
+    ],
+    "website": "https://www.confido.health",
+    "sources": [
+      "https://www.prnewswire.com/news-releases/confido-health-expands-agentic-operating-platform-to-move-healthcare-from-systems-of-record-to-systems-of-action-302908090.html",
+      "https://www.z47.com/news/confido-health-raises-12-5m-agentic-healthcare"
+    ],
+    "uncertain_points": "15x增长基数未说明；“$10–15M年节省”为客户预期而非统一实测；客户总数与ARR未披露。"
+  },
+  {
+    "date_collected": "2026-10-15",
+    "status": "new",
+    "id": "zenzap-workplace-multiplayer-ai",
+    "type": "both",
+    "name": "Zenzap",
+    "one_liner": "给还在用WhatsApp管班的实体行业做一个合规工作聊天，并把Agent直接塞进群聊当同事",
+    "category": "生产力办公",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "SaaS：免费基础聊天+$51/月起付费档；Agent与语音按积分计费",
+    "metrics": [
+      {
+        "label": "累计融资",
+        "value": "约$44M（含Bessemer与Lightspeed领投的约$33M A轮，及2022年约$11M种子轮）",
+        "source_type": "官方公布",
+        "source_url": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/"
+      },
+      {
+        "label": "自动化工作流",
+        "value": "客户已创建超4万个自动化工作流",
+        "source_type": "创始人自述",
+        "source_url": "https://www.calcalistech.com/ctechnews/article/b1zgob6jfe"
+      },
+      {
+        "label": "Agent采用",
+        "value": "称上线两周内开启Agent的用户中约60%每日使用，Agent活动约增20倍",
+        "source_type": "创始人自述",
+        "source_url": "https://staging.bvp.com/news/zenzap-the-agent-has-joined-the-work-conversation"
+      }
+    ],
+    "why_it_works": "餐饮、医疗、物流一线员工要移动优先、像WhatsApp一样简单，又不能把公司数据扔在个人聊天里。Zenzap把群聊、任务和400+业务连接器放在一起，Agent在隔离沙箱里跑、关键动作要人点批准。官网上亮出FedEx、Dollar General、Taco Bell、Starbucks等客户名；团队约50人。",
+    "takeaway": "Slack吃下了开发者，但“另外99%还在用个人聊天软件的人”仍是空白；Agent要进实体经济，先得有一个他们愿意天天打开的聊天入口。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": [
+      "工作聊天",
+      "Multiplayer AI",
+      "一线员工",
+      "以色列",
+      "WhatsApp替代"
+    ],
+    "website": "https://www.zenzap.ai",
+    "sources": [
+      "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
+      "https://www.calcalistech.com/ctechnews/article/b1zgob6jfe",
+      "https://lsvp.com/stories/ai-for-the-real-economy-our-series-a-in-zenzap/"
+    ],
+    "uncertain_points": "A轮实际关闭于2025年8月、今日为出隐身/公开叙事；客户名单是否含试点未说明；ARR与付费席位数未披露；Bessemer文中诊所回款案例为轶事。"
+  },
+  {
+    "date_collected": "2026-10-15",
+    "status": "new",
+    "id": "othello-realtime-sales-coaching",
+    "type": "both",
+    "name": "Othello",
+    "one_liner": "通话进行中就给销售弹建议：专有模型Hamlet在500ms内提示下一步问什么、漏了哪步",
+    "category": "客服销售",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "面向大型企业销售团队的实时辅导SaaS",
+    "metrics": [
+      {
+        "label": "种子轮",
+        "value": "$8M（a16z speedrun、Owl Capital、Long Journey；天使含DoorDash/Hugging Face/Deel等创始人）",
+        "source_type": "官方公布",
+        "source_url": "https://www.prnewswire.com/news-releases/othello-raises-8-million-for-real-time-ai-sales-coaching-during-live-calls-302908716.html"
+      },
+      {
+        "label": "企业客户",
+        "value": "部署于50+大型企业，含Microsoft、Capital One、Lyft及顶级会计/资管机构；称每周新增多家跨国客户",
+        "source_type": "官方公布",
+        "source_url": "https://www.prnewswire.com/news-releases/othello-raises-8-million-for-real-time-ai-sales-coaching-during-live-calls-302908716.html"
+      },
+      {
+        "label": "使用粘性",
+        "value": "称持证销售下载约一周内采用，通话使用率≥95%",
+        "source_type": "官方公布",
+        "source_url": "https://www.prnewswire.com/news-releases/othello-raises-8-million-for-real-time-ai-sales-coaching-during-live-calls-302908716.html"
+      }
+    ],
+    "why_it_works": "通话前有一堆CRM工具、通话后有一堆分析，唯独通话中几乎没人帮忙。桌面端叠在现有拨号/视频会议上，不作为参会者加入，用专有模型做发现问句、异议处理、竞品话术和成交时机提示。",
+    "takeaway": "“会后复盘”不如“会中干预”值钱；延迟必须压到亚秒，所以通用大模型API往往不够，要为场景训专模。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": [
+      "销售辅导",
+      "实时AI",
+      "专有模型",
+      "企业销售",
+      "a16z"
+    ],
+    "website": "https://othello.ai",
+    "sources": [
+      "https://www.prnewswire.com/news-releases/othello-raises-8-million-for-real-time-ai-sales-coaching-during-live-calls-302908716.html"
+    ],
+    "uncertain_points": "客户名单与使用率为公司新闻稿自述，无独立ARR；“每周新增多家”未量化；与Gong等通话分析厂商的边界需持续观察。"
+  },
+  {
+    "date_collected": "2026-10-15",
+    "status": "new",
+    "id": "fragment-agent-finance-primitives",
+    "type": "both",
+    "name": "Fragment",
+    "one_liner": "给AI Agent一套复式记账积木：先算平再动钱，防止Agent把公司账搞乱",
+    "category": "法律金融",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "面向开发者的金融基础设施/API，嵌入计费与账本",
+    "metrics": [
+      {
+        "label": "A轮融资",
+        "value": "$12M（FirstMark与BoxGroup联合领投；此前Stripe领投$11M种子轮）",
+        "source_type": "官方公布",
+        "source_url": "https://fortune.com/2026/10/14/fragment-raises-12-million-to-help-keep-ai-agents-from-going-rogue-with-company-money/"
+      },
+      {
+        "label": "付费客户",
+        "value": "约50–60家，含Ramp、BILL、Whop",
+        "source_type": "创始人自述",
+        "source_url": "https://fortune.com/2026/10/14/fragment-raises-12-million-to-help-keep-ai-agents-from-going-rogue-with-company-money/"
+      }
+    ],
+    "why_it_works": "Visa/Mastercard/Stripe在铺Agent支付轨道，但企业内部对账和正确性仍靠人。Fragment用声明式schema和复式记账，在钱动之前强制账平。CEO称目标是成为“给Agent的金融Cursor积木”；产品已在生产环境跑约五年，支撑高并发账本。",
+    "takeaway": "Agent商业化的瓶颈常在“敢不敢让它碰钱”；可靠账本层可能比又一个聊天Agent更接近标准件。",
+    "innovation_score": 5,
+    "business_score": 3,
+    "tags": [
+      "Agent金融",
+      "复式记账",
+      "Ledger",
+      "Ramp",
+      "基础设施"
+    ],
+    "website": "https://fragment.dev",
+    "sources": [
+      "https://fortune.com/2026/10/14/fragment-raises-12-million-to-help-keep-ai-agents-from-going-rogue-with-company-money/",
+      "https://firstmark.com/story/finance-for-agents-our-investment-in-fragment/"
+    ],
+    "uncertain_points": "A轮实际关闭于2025年中、今日为对外叙事；估值未披露；官网域名按投资人文案常见写法，需以官网为准；ARR未公开。"
+  },
+  {
+    "date_collected": "2026-10-15",
+    "status": "new",
+    "id": "geniez-ai-rocket-acquisition",
+    "type": "profitable",
+    "name": "Geniez AI",
+    "one_liner": "6人团队做大型机上的Agent运维，成立约一年被Rocket Software收购，估值传闻最高约1亿美元",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "已被收购；原为大型机Agent运维与现代化工具",
+    "metrics": [
+      {
+        "label": "收购",
+        "value": "Rocket Software于2026-10-13宣布收购；媒体估算交易价值最高约$100M",
+        "source_type": "媒体估算",
+        "source_url": "https://www.calcalistech.com/ctechnews/article/996lzw73e"
+      },
+      {
+        "label": "种子轮与团队",
+        "value": "2025-09完成$6M种子轮；团队仅约6人；创始人曾创办Model9并出售给BMC",
+        "source_type": "媒体报道",
+        "source_url": "https://www.calcalistech.com/ctechnews/article/996lzw73e"
+      }
+    ],
+    "why_it_works": "大型机人才断层，银行与核心系统仍依赖少数专家。Geniez让Agent直接在机上监控、诊断并用自然语言跑工作流。二次创业+垂直深水区，一年内收到战略买家要约；并入Rocket EVA平台以触达更广客户。",
+    "takeaway": "“又丑又老”的核心系统，往往比消费级AI更快变成收购标的；小团队+强领域经验可以在一年内兑现退出。",
+    "innovation_score": 4,
+    "business_score": 4,
+    "tags": [
+      "大型机",
+      "被收购",
+      "以色列",
+      "Agent运维",
+      "二次创业"
+    ],
+    "website": "",
+    "sources": [
+      "https://www.rocketsoftware.com/en-us/news/rocket-software-announces-acquisition-of-geniez-ai-to-accelerate-agentic-ai-for-mainframe-modernization",
+      "https://www.calcalistech.com/ctechnews/article/996lzw73e"
+    ],
+    "uncertain_points": "$100M为媒体估算，买卖双方未披露成交价；收购前ARR与客户数未公开；官方新闻稿日期为10月13日，今日仍在传播。"
+  },
+  {
+    "date_collected": "2026-10-15",
+    "status": "new",
+    "id": "sonilo-video-native-audio",
+    "type": "innovative",
+    "name": "Sonilo",
+    "one_liner": "TikTok前多模态/音乐团队做“视频即提示词”的配乐与音效模型，并按授权曲库分账",
+    "category": "设计创意",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "创作者/开发者平台+企业制片；授权音乐训练与分账，计划Q4推消费端App",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "$11M（B Capital领投，Redpoint参投）",
+        "source_type": "官方公布",
+        "source_url": "https://www.prnewswire.com/news-releases/sonilo-raises-11m-to-build-the-ai-native-audio-stack-for-video-302908461.html"
+      },
+      {
+        "label": "早期合作",
+        "value": "分发伙伴含TapNow、ComfyUI；授权合作含Shutterstock",
+        "source_type": "官方公布",
+        "source_url": "https://www.prnewswire.com/news-releases/sonilo-raises-11m-to-build-the-ai-native-audio-stack-for-video-302908461.html"
+      }
+    ],
+    "why_it_works": "现有音频生成多从文本提示出发，还要人工对齐时间轴。Sonilo的Sound World Model读画面节奏与情绪，直接出同步配乐/音效，并做口型同步配音。团队来自TikTok多模态与全球音乐业务，强调授权训练而非灰产抓取。",
+    "takeaway": "生成视频的下一层瓶颈是“声音是否像为这个片子写的”；版权友好比单纯音质更能决定平台能不能接量。",
+    "innovation_score": 4,
+    "business_score": 2,
+    "tags": [
+      "生成音频",
+      "短视频",
+      "版权",
+      "TikTok团队",
+      "多模态"
+    ],
+    "website": "https://sonilo.com",
+    "sources": [
+      "https://www.prnewswire.com/news-releases/sonilo-raises-11m-to-build-the-ai-native-audio-stack-for-video-302908461.html",
+      "https://variety.com/2026/digital/news/ai-audio-startup-sonilo-tiktok-veterans-11-million-1236904917/"
+    ],
+    "uncertain_points": "尚无公开ARR或付费创作者数；大厂版权总协议仍在敲定；消费端App未上线。"
+  },
+  {
+    "date_collected": "2026-10-15",
+    "status": "new",
+    "id": "revrag-ai-bfsi-agents",
+    "type": "profitable",
+    "name": "RevRag AI",
+    "one_liner": "嵌进银行/信贷/保险App里的多语种AI客户经理，做拉新、防流失和转化",
+    "category": "客服销售",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "面向金融机构的嵌入式Agent平台",
+    "metrics": [
+      {
+        "label": "种子轮",
+        "value": "$2.5M（Accion Ventures与Cedar Hill联合领投；此前Pre-seed $60万）",
+        "source_type": "官方公布",
+        "source_url": "https://entrackr.com/snippets/enterprise-ai-startup-revrag-ai-raises-25-mn-in-seed-round-12674070"
+      },
+      {
+        "label": "机构客户",
+        "value": "称合作45+金融机构，含PhonePe、Bajaj Finance、Motilal Oswal、IIFL、Aditya Birla Capital",
+        "source_type": "创始人自述",
+        "source_url": "https://entrackr.com/snippets/enterprise-ai-startup-revrag-ai-raises-25-mn-in-seed-round-12674070"
+      }
+    ],
+    "why_it_works": "印度BFSI数字化漏斗长、语言多、人力贵。RevRag把Agent嵌进机构自有App，覆盖开户、销售与支持，宣称可在约低70%成本下推高转化。2025年还收购了GenStaq做编排能力，本轮资金用于产品、交付和进军美国。",
+    "takeaway": "金融App里的“关系经理”岗位标准化程度高，是嵌入式Agent很好的付费切口；名单客户比空泛的“某银行试点”更有说服力。",
+    "innovation_score": 2,
+    "business_score": 3,
+    "tags": [
+      "金融Agent",
+      "印度",
+      "嵌入式",
+      "BFSI",
+      "多语种"
+    ],
+    "website": "https://www.revrag.ai",
+    "sources": [
+      "https://entrackr.com/snippets/enterprise-ai-startup-revrag-ai-raises-25-mn-in-seed-round-12674070"
+    ],
+    "uncertain_points": "“45+机构”与成本节省70%为公司口径；收入规模未披露；美国市场尚无验证。"
+  },
+  {
+    "date_collected": "2026-10-15",
+    "status": "new",
+    "id": "lightsprint-pm-ship-code",
+    "type": "innovative",
+    "name": "LightSprint",
+    "one_liner": "让PM、设计和运营在真实代码库上指挥Agent改产品，工程师只控合并",
+    "category": "编程开发",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "面向产品团队的协作式软件工厂SaaS（YC S26）",
+    "metrics": [
+      {
+        "label": "种子轮",
+        "value": "$6.1M（645 Ventures领投，YC、January Capital等跟投）",
+        "source_type": "官方公布",
+        "source_url": "https://lightsprint.ai/blog/lightsprint-raises-6-1m"
+      },
+      {
+        "label": "使用信号",
+        "value": "称已帮助非工程师提交数千个PR；TechCrunch评为YC该季11家亮点之一",
+        "source_type": "创始人自述",
+        "source_url": "https://lightsprint.ai/blog/lightsprint-raises-6-1m"
+      }
+    ],
+    "why_it_works": "第一代AI编程教人在空白画布上做原型，真正产品却卡在多仓、规范和评审。LightSprint连上现有仓库，先让团队就计划达成一致，再出可点的预览和代码，工程师沿用原有合并流程。面向“全员编码”策略的公司。",
+    "takeaway": "原型工具解决“会不会做”，协作层解决“能不能合进真产品”；非工程师的PR数量是比demo更硬的采用信号。",
+    "innovation_score": 4,
+    "business_score": 2,
+    "tags": [
+      "AI编程",
+      "产品团队",
+      "YC",
+      "协作",
+      "代码库"
+    ],
+    "website": "https://lightsprint.ai",
+    "sources": [
+      "https://lightsprint.ai/blog/lightsprint-raises-6-1m",
+      "https://www.ycombinator.com/companies/lightsprint"
+    ],
+    "uncertain_points": "官方博客标注发布日为10月13日；付费客户数与收入未披露；“数千PR”含试用未拆分。"
+  },
+  {
+    "date_collected": "2026-10-15",
+    "status": "new",
+    "id": "pancake-gtm-vercel-mcp",
+    "type": "innovative",
+    "name": "Pancake",
+    "one_liner": "自称GTM界的Vercel：一条MCP把线索 enrichment、发送基建和GTM大脑接到Claude/Codex",
+    "category": "营销内容",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "GTM Agent平台订阅（公开材料称约$99/月/工作区）",
+    "metrics": [
+      {
+        "label": "Product Hunt",
+        "value": "2026-10-14上线当日约448票、67评论，获Product of the Day第1",
+        "source_type": "媒体报道",
+        "source_url": "https://hunted.space/product/pancake-6"
+      }
+    ],
+    "why_it_works": "独立团队想做获客时，数据源、邮箱发送和Agent编排是一堆碎片。Pancake打包成MCP，让现有编程Agent直接部署GTM流程：信号发现、审批线索、最多三轮触达。社区热度高，叙事清晰。",
+    "takeaway": "“给Agent的垂直基建”在PH很吃香；能否从上榜热度转成稳定付费，要看后续留存和发送合规。",
+    "innovation_score": 3,
+    "business_score": 2,
+    "tags": [
+      "GTM",
+      "MCP",
+      "Product Hunt",
+      "获客Agent",
+      "独立团队"
+    ],
+    "website": "https://pancake.ai",
+    "sources": [
+      "https://hunted.space/product/pancake-6",
+      "https://www.producthunt.com/products/pancake-6"
+    ],
+    "uncertain_points": "公开博客有早期MRR讨论，但非本次发布会同步的审计数字，故未写入metrics；邮箱送达与反垃圾合规风险待观察。"
+  }
+]
