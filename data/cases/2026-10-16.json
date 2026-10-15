@@ -1,0 +1,582 @@
+[
+  {
+    "date_collected": "2026-10-16",
+    "status": "new",
+    "id": "dougs-agentic-chartered-accounting",
+    "type": "both",
+    "name": "Dougs",
+    "one_liner": "自己就是持牌会计师事务所的AI记账平台：成立即盈利，ARR超€5000万，拿下€5000万推进“Agent出报表、会计师签字”",
+    "category": "法律金融",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "面向小微企业的订阅制会计/法务/薪资一站式服务，直接持有客户关系（非卖工具给会计师）",
+    "metrics": [
+      {
+        "label": "年度经常性收入",
+        "value": "超€5000万；截至2026-09-30营业额€5220万，约十年年增速≥50%",
+        "source_type": "官方公布",
+        "source_url": "https://www.eu-startups.com/2026/10/profitable-french-accounting-company-dougs-raises-e50-million-to-accelerate-ai-automation/"
+      },
+      {
+        "label": "客户规模",
+        "value": "5万+小微企业；9月新增2700+客户（2023年首轮时约1.4万客户、€1500万经常性收入）",
+        "source_type": "创始人自述",
+        "source_url": "https://techfundingnews.com/dougs-raises-50m-expedition-growth-capital-ai-accounting-agents/"
+      },
+      {
+        "label": "本轮融资",
+        "value": "€5000万，Expedition Growth Capital（2023年已投€2500万）",
+        "source_type": "官方公布",
+        "source_url": "https://www.eu-startups.com/2026/10/profitable-french-accounting-company-dougs-raises-e50-million-to-accelerate-ai-automation/"
+      },
+      {
+        "label": "毛利与效率",
+        "value": "毛利率超80%（行业通常低于50%）；人均每年处理约600份财报，传统事务所约40份",
+        "source_type": "创始人自述",
+        "source_url": "https://techfundingnews.com/dougs-raises-50m-expedition-growth-capital-ai-accounting-agents/"
+      }
+    ],
+    "why_it_works": "法国会计师协会给持牌会计师垄断签字权，Dougs由会计师创办并注册在册，等于把“牌照+客户关系”握在自己手里，再用自研技术栈和十年积累的数十万份报税/财报流程数据去自动化生产。记账环节已由AI自主完成，并已有约50份财报无人工参与生成，下一步是Agent出全套报表、会计师审核签字。团队836人，其中120+工程师、约200名会计师。",
+    "takeaway": "与其卖AI工具给持牌从业者，不如自己成为持牌服务商，把AI节省的人力直接变成毛利：服务业的定价、软件业的毛利。",
+    "innovation_score": 4,
+    "business_score": 5,
+    "tags": [
+      "AI会计",
+      "Agent",
+      "持牌服务",
+      "小微企业",
+      "盈利",
+      "融资"
+    ],
+    "website": "https://www.dougs.fr",
+    "sources": [
+      "https://www.eu-startups.com/2026/10/profitable-french-accounting-company-dougs-raises-e50-million-to-accelerate-ai-automation/",
+      "https://techfundingnews.com/dougs-raises-50m-expedition-growth-capital-ai-accounting-agents/",
+      "https://expedition.capital/dougs-raises-e50-million-to-accelerate-its-full-stack-ai-powered-accounting-platform/"
+    ],
+    "uncertain_points": "“成立即盈利”、80%毛利、人均600份财报均为公司自述；CEO承认最新增速略低于50%目标；估值未披露；收入中AI自动化贡献占比不明。"
+  },
+  {
+    "date_collected": "2026-10-16",
+    "status": "new",
+    "id": "holo-smb-marketing-autopilot",
+    "type": "profitable",
+    "name": "Holo",
+    "one_liner": "替小商家制定并执行营销计划的AI平台，252天做到$500万ARR、2万+付费商家",
+    "category": "营销内容",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "面向小微企业的SaaS订阅：输入官网即生成营销计划，自动产出广告/社媒/邮件/SEO内容，可审批或全自动发布",
+    "metrics": [
+      {
+        "label": "ARR",
+        "value": "252天内达$5M，此前融资不足€100万",
+        "source_type": "官方公布",
+        "source_url": "https://unicorns.lt/en/news/vilnius-based-holo-raises-5m-give-every-small-business-marketing-team-they-can39t-afford"
+      },
+      {
+        "label": "付费客户",
+        "value": "20,000+家企业，覆盖100+国家",
+        "source_type": "官方公布",
+        "source_url": "https://tech.eu/2026/10/15/vilnius-based-holo-raises-eur5m-to-bring-ai-powered-marketing-to-small-businesses/"
+      },
+      {
+        "label": "种子轮",
+        "value": "€5M，Market One Capital领投，Silicon Gardens、FirstPick、Leonis Capital等跟投",
+        "source_type": "官方公布",
+        "source_url": "https://tech.eu/2026/10/15/vilnius-based-holo-raises-eur5m-to-bring-ai-powered-marketing-to-small-businesses/"
+      }
+    ],
+    "why_it_works": "设计工具和聊天机器人只让单个任务变快，小店主缺的是“决定做什么”。Holo从网站学习品牌调性，直接给出渠道取舍和日历，再生成内容并追踪效果、建议加预算或换格式；用第三方模型，自建品牌记忆、策略引擎和基于平台百万级内容表现数据的创意系统。创始团队有$3000万广告投放和1亿封营销邮件经验。",
+    "takeaway": "对小微客户卖“结果和决策”而不是“生成能力”，低客单价也能靠海量付费商家快速堆出ARR；数据回流是对抗通用模型的护城河。",
+    "innovation_score": 3,
+    "business_score": 5,
+    "tags": [
+      "AI营销",
+      "小微企业",
+      "SaaS",
+      "Autopilot",
+      "融资"
+    ],
+    "website": "",
+    "sources": [
+      "https://unicorns.lt/en/news/vilnius-based-holo-raises-5m-give-every-small-business-marketing-team-they-can39t-afford",
+      "https://tech.eu/2026/10/15/vilnius-based-holo-raises-eur5m-to-bring-ai-powered-marketing-to-small-businesses/"
+    ],
+    "uncertain_points": "ARR与付费客户数为公司新闻稿口径，两家媒体均转述同一稿件，缺少独立核实；客单价、留存与“252天”的起算点未披露；官网地址未在稿件中给出。"
+  },
+  {
+    "date_collected": "2026-10-16",
+    "status": "new",
+    "id": "ramp-60b-ai-finance-ops",
+    "type": "profitable",
+    "name": "Ramp",
+    "one_liner": "企业费控平台把AI Agent塞进采购、记账、预算，年化收入破$20亿、估值$600亿",
+    "category": "法律金融",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "企业卡交换费+软件订阅，延伸到AI支出管理、模型路由（Router）和面向Agent的企业卡",
+    "metrics": [
+      {
+        "label": "年化收入",
+        "value": "超$2B（6月报道约$1.5B），现金流为正",
+        "source_type": "官方公布",
+        "source_url": "https://ramp.com/blog/ramp-at-60-billion"
+      },
+      {
+        "label": "本轮融资",
+        "value": "$1.85B，估值$60B（4个月前为$44B）",
+        "source_type": "官方公布",
+        "source_url": "https://techcrunch.com/2026/10/15/ramp-reaches-60b-valuation-as-it-pushes-deeper-into-ai/"
+      },
+      {
+        "label": "客户与交易量",
+        "value": "8.5万客户（6月7万）；年化交易额超$2750亿，同比+175%",
+        "source_type": "官方公布",
+        "source_url": "https://techcrunch.com/2026/10/15/ramp-reaches-60b-valuation-as-it-pushes-deeper-into-ai/"
+      }
+    ],
+    "why_it_works": "Ramp握着企业支出数据流，AI能力直接嵌到采购、报销、记账、预算里替财务省时间（公司称9月为客户节省150万小时）；8月进入模型路由、上线AI token用量监控，又推出给AI Agent用的企业卡和沉淀员工自动化技能的Glass，把“AI支出”本身变成新的管理对象。",
+    "takeaway": "已有支付/支出数据入口的公司做AI，最快的变现路径是“管住AI花的钱”：路由、监控、Agent专用卡都挂在原有账户体系上。",
+    "innovation_score": 3,
+    "business_score": 5,
+    "tags": [
+      "费控",
+      "AI Agent",
+      "模型路由",
+      "Agent支付",
+      "融资"
+    ],
+    "website": "https://ramp.com",
+    "sources": [
+      "https://techcrunch.com/2026/10/15/ramp-reaches-60b-valuation-as-it-pushes-deeper-into-ai/",
+      "https://ramp.com/blog/ramp-at-60-billion",
+      "https://www.prnewswire.com/news-releases/ramp-reaches-60-billion-valuation-as-annualized-revenue-tops-2-billion-302909315.html"
+    ],
+    "uncertain_points": "收入主体仍是企业卡交换费和软件，AI产品（Router、Agent卡、Glass）的单独收入未披露；“节省150万小时”为公司口径。"
+  },
+  {
+    "date_collected": "2026-10-16",
+    "status": "new",
+    "id": "floqer-gtm-customer-knowledge-agents",
+    "type": "profitable",
+    "name": "Floqer",
+    "one_liner": "8人团队用AI Agent自动调研销售线索、维护客户数据库，1000+客户、ARR过七位数且现金流为正",
+    "category": "客服销售",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "B2B SaaS：聚合100+第三方数据源与企业私有数据，不按席位、不限行数计费",
+    "metrics": [
+      {
+        "label": "ARR",
+        "value": "“远超七位数”，现金流为正（BetaKit报道称收入超$100万、销售额翻三倍）",
+        "source_type": "官方公布",
+        "source_url": "https://www.morningstar.com/news/business-wire/20260707780529/floqer-raises-2-million-pre-seed-backed-by-n49p-perplexity-fund-to-build-the-autonomous-customer-knowledge-base-for-gtm-teams"
+      },
+      {
+        "label": "客户",
+        "value": "1,000+，含Perplexity、Wise、AngelList；团队8人",
+        "source_type": "创始人自述",
+        "source_url": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/"
+      },
+      {
+        "label": "融资",
+        "value": "$2M（加元）pre-seed，Perplexity F7 Fund、N49P、Tidal等",
+        "source_type": "官方公布",
+        "source_url": "https://floqer.com/blog/floqer-raises-2m"
+      },
+      {
+        "label": "效果",
+        "value": "客户称找客时间最多减少70%",
+        "source_type": "创始人自述",
+        "source_url": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/"
+      }
+    ],
+    "why_it_works": "销售找客要在Google、LinkedIn、招聘网站间反复人工检索，Floqer让一群Agent持续调研公司、人和互动记录，并用“瀑布式”逐家数据商补全邮箱电话；它从一个近2000用户的Chrome插件里发现真实需求再转型，定位成给AI Agent喂干净CRM数据的基础层。10月14日登上TechCrunch Disrupt Startup Battlefield，并称2027年初开源核心技术。",
+    "takeaway": "Clay式工作流+统一客户库、取消按席位收费，小团队就能在拥挤的GTM工具赛道靠低价高覆盖拿下千家客户并自负盈亏。",
+    "innovation_score": 3,
+    "business_score": 4,
+    "tags": [
+      "GTM",
+      "销售线索",
+      "数据增强",
+      "AI Agent",
+      "Disrupt"
+    ],
+    "website": "https://www.floqer.com",
+    "sources": [
+      "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
+      "https://betakit.com/from-chrome-extension-to-customer-data-engine-floqer-announces-2-million-raise/",
+      "https://www.morningstar.com/news/business-wire/20260707780529/floqer-raises-2-million-pre-seed-backed-by-n49p-perplexity-fund-to-build-the-autonomous-customer-knowledge-base-for-gtm-teams"
+    ],
+    "uncertain_points": "融资为2026年7月旧闻，本次新进展是Disrupt亮相与开源计划；ARR具体数字未公布，第三方站点称约$1.2M未能核实；pre-seed币种（加元/美元）各稿表述不一。"
+  },
+  {
+    "date_collected": "2026-10-16",
+    "status": "new",
+    "id": "apate-ai-scam-baiting-agents",
+    "type": "innovative",
+    "name": "Apate.ai",
+    "one_liner": "派成千上万个AI“假受害者”去接诈骗电话、回钓鱼短信，替银行和电信套取骗子的账户与钱包情报",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "向银行、电信、政府机构、公用事业销售反诈情报与拦截服务",
+    "metrics": [
+      {
+        "label": "规模",
+        "value": "累计250万次对话，浪费骗子约17年时间",
+        "source_type": "创始人自述",
+        "source_url": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/"
+      },
+      {
+        "label": "融资",
+        "value": "2026年8月种子轮US$8.15M（Lobby Capital领投），累计近$10M；团队约20人",
+        "source_type": "官方公布",
+        "source_url": "https://www.apate.ai/post/apate-ai-raises-us-8-15m-taking-its-autonomous-fleet-of-ai-agents-to-a-global-fight-against-scammers-and-reincorporates-in-the-united-states"
+      },
+      {
+        "label": "客户",
+        "value": "澳洲联邦银行（CBA）等使用；某电信客户日拦截近万通诈骗电话",
+        "source_type": "媒体报道",
+        "source_url": "https://www.startupdaily.net/topic/funding/anti-scammer-startup-apate-ai-nabs-11-4-million-seed-raise-amid-us-move/"
+      }
+    ],
+    "why_it_works": "传统反诈只在受害后才拿到骗子的银行账户、钱包和冒用品牌，Apate反过来让多语种、多口音的语音/文本Agent主动“上钩”，最长能和骗子聊两小时，并可给Agent下“拿到收款账户”之类任务，把每次对话转成实时情报。源自麦考瑞大学研究，已迁册美国并开设伦敦办公室。",
+    "takeaway": "生成式AI最被滥用的场景（冒充真人）也能反向做成防御产品：对手越依赖人工话术，AI的规模化成本优势越明显。",
+    "innovation_score": 5,
+    "business_score": 3,
+    "tags": [
+      "反诈",
+      "对抗式Agent",
+      "语音Agent",
+      "安全",
+      "Disrupt"
+    ],
+    "website": "https://www.apate.ai",
+    "sources": [
+      "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
+      "https://www.startupdaily.net/topic/funding/anti-scammer-startup-apate-ai-nabs-11-4-million-seed-raise-amid-us-move/"
+    ],
+    "uncertain_points": "收入与付费客户数未披露；250万次对话、17年时长为公司自述；融资为8月旧闻，本次进展为TechCrunch Disrupt报道。"
+  },
+  {
+    "date_collected": "2026-10-16",
+    "status": "new",
+    "id": "gudea-narrative-intelligence",
+    "type": "both",
+    "name": "Gudea",
+    "one_liner": "把情报界追踪极端组织网络的方法做成“互联网风暴预报”，提前预测哪条舆论会爆、谁在推",
+    "category": "营销内容",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "面向大企业的舆情风险订阅：告警、平台访问与自动推送报告",
+    "metrics": [
+      {
+        "label": "收入增长",
+        "value": "同比+357%",
+        "source_type": "创始人自述",
+        "source_url": "https://news.crunchbase.com/venture/gudea-lands-funding-predict-viral-online-narratives/"
+      },
+      {
+        "label": "种子轮",
+        "value": "$7M，Mudita Venture Partners与Collide Capital共同领投，累计约$15M",
+        "source_type": "官方公布",
+        "source_url": "https://news.crunchbase.com/venture/gudea-lands-funding-predict-viral-online-narratives/"
+      },
+      {
+        "label": "客户",
+        "value": "39家，含大型AI公司及电信、娱乐、零售企业；约25名员工",
+        "source_type": "创始人自述",
+        "source_url": "https://news.crunchbase.com/venture/gudea-lands-funding-predict-viral-online-narratives/"
+      }
+    ],
+    "why_it_works": "社交聆听工具只数提及量和话题标签，Gudea用图神经网络识别账号行为“指纹”，追踪叙事从边缘社区流向主流平台的路径，预测多久会爆、影响多少人、何时消退，再用LLM写摘要。覆盖600个平台，已用于品牌危机、股价操纵和数据中心舆论等案例。",
+    "takeaway": "看“行为和传播路径”而不是“内容关键词”，能在问题尚无关键词时就发现它；在AI生成内容泛滥后，这种方法反而更有价值。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": [
+      "舆情",
+      "叙事情报",
+      "图神经网络",
+      "品牌风险",
+      "Disrupt"
+    ],
+    "website": "https://www.gudea.ai",
+    "sources": [
+      "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
+      "https://news.crunchbase.com/venture/gudea-lands-funding-predict-viral-online-narratives/"
+    ],
+    "uncertain_points": "融资消息为10月8日Crunchbase独家，本次新进展为TechCrunch报道；收入绝对值未披露；覆盖平台数两稿分别为近500与600+。"
+  },
+  {
+    "date_collected": "2026-10-16",
+    "status": "new",
+    "id": "sequence-intuit-acquisition",
+    "type": "profitable",
+    "name": "Sequence",
+    "one_liner": "用AI Agent自动化“报价到收入确认”全流程的A轮公司，被Intuit收购并入QuickBooks中型企业线",
+    "category": "法律金融",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "B2B营收管理SaaS：定价配置、计费、开票、催收、收入确认，服务用量/席位/里程碑计费的软件与服务公司",
+    "metrics": [
+      {
+        "label": "收购",
+        "value": "Intuit签约收购，金额未披露；CEO Riya Grover加入Intuit中型市场产品团队",
+        "source_type": "官方公布",
+        "source_url": "https://investors.intuit.com/news-events/press-releases/detail/1327/intuit-to-acquire-ai-native-revenue-management-platform-sequence"
+      },
+      {
+        "label": "客户",
+        "value": "为多家增长最快的AI公司处理收入自动化（未点名）",
+        "source_type": "官方公布",
+        "source_url": "https://investors.intuit.com/news-events/press-releases/detail/1327/intuit-to-acquire-ai-native-revenue-management-platform-sequence"
+      }
+    ],
+    "why_it_works": "AI公司普遍按token、用量或混合模式定价，传统ERP和表格很难算清“到底挣了多少”。Sequence 2021年在伦敦/纽约创立，用Agent处理日常计费与收入确认任务，正好补上Intuit Enterprise Suite向B2B软件和专业服务行业扩张时缺的营收管理模块。",
+    "takeaway": "AI带火了按用量计费，也带火了“帮别人算用量账”的后台工具；做AI公司的卖铲人，退出路径可以是被财务软件巨头收编。",
+    "innovation_score": 3,
+    "business_score": 4,
+    "tags": [
+      "营收管理",
+      "用量计费",
+      "收购",
+      "财务Agent",
+      "Intuit"
+    ],
+    "website": "https://www.sequencehq.com",
+    "sources": [
+      "https://investors.intuit.com/news-events/press-releases/detail/1327/intuit-to-acquire-ai-native-revenue-management-platform-sequence",
+      "https://www.fintechfutures.com/m-a/intuit-to-acquire-sequence"
+    ],
+    "uncertain_points": "交易金额、Sequence营收与客户数均未披露；交易尚待完成交割。"
+  },
+  {
+    "date_collected": "2026-10-16",
+    "status": "new",
+    "id": "shamrock-ai-agentic-assurance",
+    "type": "profitable",
+    "name": "Shamrock AI",
+    "one_liner": "给大企业上AI Agent做“业务流程保险”，从SAP S/4HANA迁移测试切入，已签多家世界500强",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "企业级合同：Agentic测试生命周期自动化，年合同额约$20万起、可超$200万",
+    "metrics": [
+      {
+        "label": "种子轮",
+        "value": "$5M，Endiya Partners领投，Capria Ventures跟投",
+        "source_type": "官方公布",
+        "source_url": "https://indianstartupnews.com/funding/enterprise-ai-startup-shamrock-ai-raises-5-million-in-seed-funding-led-by-endiya-partners-12678494"
+      },
+      {
+        "label": "客户",
+        "value": "多家世界500强，含一家财富100强AI硬件厂商与一家财富100强医疗公司",
+        "source_type": "创始人自述",
+        "source_url": "https://indianstartupnews.com/funding/enterprise-ai-startup-shamrock-ai-raises-5-million-in-seed-funding-led-by-endiya-partners-12678494"
+      },
+      {
+        "label": "客单价",
+        "value": "ACV约$20万起，可超$200万；目标2027年底约15家世界500强级客户",
+        "source_type": "创始人自述",
+        "source_url": "https://indianstartupnews.com/funding/enterprise-ai-startup-shamrock-ai-raises-5-million-in-seed-funding-led-by-endiya-partners-12678494"
+      }
+    ],
+    "why_it_works": "企业把Agent放进关键流程前，最怕不了解自己的系统、数据和配置怎么互相牵连。Shamrock先用企业业务知识图谱持续测试和验证ERP迁移中的业务流程，顺带积累对企业运作的完整画像，再延伸到数据可观测和流程自动化。总部在印度梅加拉亚邦西隆，研发70–80%放在印度。",
+    "takeaway": "Agent落地的瓶颈正在从“能不能做”转向“敢不敢上”，卖“验证与保障层”比卖Agent本身更容易进大企业预算。",
+    "innovation_score": 3,
+    "business_score": 3,
+    "tags": [
+      "Agent保障",
+      "ERP迁移",
+      "SAP",
+      "知识图谱",
+      "融资"
+    ],
+    "website": "",
+    "sources": [
+      "https://indianstartupnews.com/funding/enterprise-ai-startup-shamrock-ai-raises-5-million-in-seed-funding-led-by-endiya-partners-12678494"
+    ],
+    "uncertain_points": "仅1个来源；客户名称未披露，“世界500强客户”为公司自述；公司2026年刚成立，收入未披露；官网未在报道中给出。"
+  },
+  {
+    "date_collected": "2026-10-16",
+    "status": "new",
+    "id": "bluesky-attie-social-vibe-coding",
+    "type": "innovative",
+    "name": "Bluesky Attie",
+    "one_liner": "Bluesky把AI应用Attie扩展成“社交版vibe coding”：普通用户为圈子做网站、小游戏、投票并直接分发到网络",
+    "category": "编程开发",
+    "region": "海外",
+    "team_type": "大公司",
+    "business_model": "暂未商业化；作为Bluesky的AI实验平台，带动AT Protocol生态与社区活跃",
+    "metrics": [
+      {
+        "label": "分发基础",
+        "value": "Bluesky注册用户4700万（参与度有所下滑）",
+        "source_type": "媒体报道",
+        "source_url": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/"
+      },
+      {
+        "label": "发布",
+        "value": "2026-10-15于TechCrunch Disrupt宣布：可建网站、测验、游戏、投票等互动体验",
+        "source_type": "官方公布",
+        "source_url": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/"
+      }
+    ],
+    "why_it_works": "现在的vibe coding是一个人做、做完没人用。Attie把作品绑定到用户的ATProto身份，并根据公开主页建议可做的东西，作品自带Bluesky网络分发；用户可自带模型或用开源权重模型。CEO Toni Schneider称之为“为社区做的vibe coding”。",
+    "takeaway": "AI编程工具的下一个差异点可能不在生成质量，而在“做出来给谁用”：把生成和社交分发焊在一起。",
+    "innovation_score": 4,
+    "business_score": 1,
+    "tags": [
+      "Vibe Coding",
+      "社交",
+      "AT Protocol",
+      "去中心化",
+      "Disrupt"
+    ],
+    "website": "https://bsky.app",
+    "sources": [
+      "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
+      "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps"
+    ],
+    "uncertain_points": "无商业化与使用量数据；开放范围（是否仍需候补名单）未明确；Attie独立官网地址未核实，暂填Bluesky主站。"
+  },
+  {
+    "date_collected": "2026-10-16",
+    "status": "new",
+    "id": "ant-afu-health-ai-time-best-inventions",
+    "type": "innovative",
+    "name": "蚂蚁阿福",
+    "one_liner": "蚂蚁集团的健康AI：AI先判读皮肤照片等，再由医生3分钟内确认，用户破1.5亿并入选《时代》2026最佳发明",
+    "category": "医疗健康",
+    "region": "中国",
+    "team_type": "大公司",
+    "business_model": "免费健康咨询入口，衔接在线问诊与医疗服务（具体变现方式未披露）",
+    "metrics": [
+      {
+        "label": "用户规模",
+        "value": "2026年9月App用户达1.5亿，单日健康咨询近2000万次",
+        "source_type": "官方公布",
+        "source_url": "https://www.jjckb.cn/20260910/063f9e781637476a8149256940e204b3/c.html"
+      },
+      {
+        "label": "荣誉",
+        "value": "入选《时代》周刊2026年度最佳发明，为今年唯一上榜的中国AI应用",
+        "source_type": "媒体报道",
+        "source_url": "https://time.com/collection/best-inventions/2026/ant-group-aq/"
+      },
+      {
+        "label": "产品机制",
+        "value": "AI初判后连接医生，约3分钟内确认或推翻AI结论",
+        "source_type": "媒体报道",
+        "source_url": "https://time.com/collection/best-inventions/2026/ant-group-aq/"
+      }
+    ],
+    "why_it_works": "中国小城市和农村医生稀缺，阿福把AI初筛和真人医生复核串成一条快速链路，既控制了AI误判风险，又让专业建议触达基层；借支付宝流量冷启动，服务正从体重管理扩到运动、饮食、睡眠和心理。",
+    "takeaway": "医疗AI规模化的关键是“AI先答+医生兜底”的人机分工，以及一个现成的亿级入口；这让它成为少数被海外主流媒体认可的中国AI应用。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": [
+      "健康AI",
+      "AI问诊",
+      "蚂蚁集团",
+      "支付宝",
+      "时代最佳发明"
+    ],
+    "website": "",
+    "sources": [
+      "https://time.com/collection/best-inventions/2026/ant-group-aq/",
+      "https://www.nbd.com.cn/articles/2026-10-15/4605934.html",
+      "https://www.jjckb.cn/20260910/063f9e781637476a8149256940e204b3/c.html"
+    ],
+    "uncertain_points": "1.5亿用户为9月官方口径，日活与付费数据未披露；“唯一上榜中国AI应用”为国内媒体说法；官网地址未核实。"
+  },
+  {
+    "date_collected": "2026-10-16",
+    "status": "new",
+    "id": "doubao-phone-assistant-saep",
+    "type": "innovative",
+    "name": "豆包手机助手（SAEP协议）",
+    "one_liner": "字节为手机GUI Agent推出“屏幕自动化操作声明协议”，公示期满151款App声明拒绝被AI代点",
+    "category": "硬件与端侧",
+    "region": "中国",
+    "team_type": "大公司",
+    "business_model": "随努比亚M153、NaviX Ultra等“豆包手机”预装的系统级AI助手",
+    "metrics": [
+      {
+        "label": "拒绝清单",
+        "value": "151款应用拒绝GUI自动化：腾讯系65款、阿里系23款、快手系14款、美团系11款，另有DeepSeek、Kimi、拼多多、小红书及多家银行",
+        "source_type": "官方公布",
+        "source_url": "https://www.jiemian.com/article/15189349.html"
+      },
+      {
+        "label": "规则",
+        "value": "30天公示期于2026-10-14结束，未声明拒绝的第三方应用将逐步开放GUI操作；之后仍可随时声明拒绝",
+        "source_type": "官方公布",
+        "source_url": "https://www.jiemian.com/article/15189349.html"
+      }
+    ],
+    "why_it_works": "GUI Agent靠读屏和模拟点击跨App办事，绕过了接口授权，引发平台反弹。SAEP首次把“是否允许AI代操作”做成开发者可声明的公开规则，相当于手机端的robots.txt；结果显示头部超级App集体设防，跨App全自动办事在高频场景被明显限制，Agent只能更多转向接口调用与本地能力。",
+    "takeaway": "手机Agent的天花板不在模型能力，而在平台授权；谁先建立被各方接受的授权与身份规则，谁才可能拿到“替人行动”的入口。",
+    "innovation_score": 4,
+    "business_score": 1,
+    "tags": [
+      "GUI Agent",
+      "手机助手",
+      "平台博弈",
+      "授权协议",
+      "字节跳动"
+    ],
+    "website": "https://o.doubao.com/developer",
+    "sources": [
+      "https://www.jiemian.com/article/15189349.html",
+      "https://www.yicai.com/news/103393570.html"
+    ],
+    "uncertain_points": "属行业规则事件而非盈利案例；豆包手机销量与助手使用数据未披露；拒绝清单会动态变化。"
+  },
+  {
+    "date_collected": "2026-10-16",
+    "status": "new",
+    "id": "monai-creator-deal-35k-mrr",
+    "type": "profitable",
+    "name": "MonAI",
+    "one_liner": "德国独立开发者的语音记账App，卡在$300 MRR一年半，一次达人合作后据称涨到$3.5万 MRR",
+    "category": "生产力办公",
+    "region": "海外",
+    "team_type": "独立开发者",
+    "business_model": "iOS订阅制记账App（语音输入、Apple Pay自动化），增长靠内容创作者合作",
+    "metrics": [
+      {
+        "label": "MRR",
+        "value": "从约$300（持续18个月）升至约$35K；其中一条WWDC相关视频被归因约$5K MRR",
+        "source_type": "媒体报道",
+        "source_url": "https://x.com/starter_story/status/2110433078393090259"
+      },
+      {
+        "label": "成本",
+        "value": "包括Claude Code和OpenAI/Anthropic API在内的整套技术栈月成本低于$1000",
+        "source_type": "媒体报道",
+        "source_url": "https://pivotnews.ai/build/one-creator-deal-took-monai-from-300-to-35k-mrr-starter"
+      }
+    ],
+    "why_it_works": "开发者Flo先花数周真诚评论一位哥伦比亚创作者的视频，再引用具体视频发合作邀约，按对方生活方式匹配App用法；创作者每月发三条故事型视频，而不是硬广。产品本身做极简+语音记账，契合短视频场景演示。",
+    "takeaway": "AI让一个人能把产品做完，但分发仍是瓶颈；对消费级小应用，一个对味的创作者可能比任何投放都有效。",
+    "innovation_score": 2,
+    "business_score": 3,
+    "tags": [
+      "独立开发",
+      "记账App",
+      "达人营销",
+      "MRR",
+      "iOS"
+    ],
+    "website": "",
+    "sources": [
+      "https://x.com/starter_story/status/2110433078393090259",
+      "https://pivotnews.ai/build/one-creator-deal-took-monai-from-300-to-35k-mrr-starter"
+    ],
+    "uncertain_points": "数字全部来自Starter Story单一帖子转述开发者说法，无收入截图或第三方验证（Pivot News亦注明未独立核实）；“一周10倍”与$35K之间的时间线不清；App Store链接未核实。"
+  }
+]
