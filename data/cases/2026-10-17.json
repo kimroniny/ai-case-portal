@@ -1,0 +1,453 @@
+[
+  {
+    "date_collected": "2026-10-17",
+    "status": "new",
+    "id": "rapidcanvas-hybrid-managed-ai",
+    "type": "both",
+    "name": "RapidCanvas",
+    "one_liner": "“平台+驻场AI工程师”把定制企业AI做成订阅制：过去六个季度ARR增8倍，再融$2900万扩交付网络",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "托管式AI交付订阅：自研平台（企业上下文引擎+可视化开发画布+生产治理）搭配驻场AI工程师，按SaaS经济模型交付定制应用并对其结果负责",
+    "metrics": [
+      {
+        "label": "本轮融资",
+        "value": "$2900万 Series B，Vertex Ventures SEA & India领投，Hitachi Ventures及Accel、Peak XV等跟投；累计融资$5250万",
+        "source_type": "官方公布",
+        "source_url": "https://www.globenewswire.com/news-release/2026/10/16/3382607/0/en/rapidcanvas-raises-29m-series-b-to-bring-fortune-100-grade-ai-to-every-enterprise.html"
+      },
+      {
+        "label": "ARR增速",
+        "value": "过去六个季度年经常性收入增长8倍；超40%客户已在生产环境跑多个AI用例",
+        "source_type": "官方公布",
+        "source_url": "https://www.globenewswire.com/news-release/2026/10/16/3382607/0/en/rapidcanvas-raises-29m-series-b-to-bring-fortune-100-grade-ai-to-every-enterprise.html"
+      },
+      {
+        "label": "生产规模",
+        "value": "2026年迄今75+家制造/金融/零售等企业，用其应用做出约140万次AI驱动决策",
+        "source_type": "官方公布",
+        "source_url": "https://www.globenewswire.com/news-release/2026/10/16/3382607/0/en/rapidcanvas-raises-29m-series-b-to-bring-fortune-100-grade-ai-to-every-enterprise.html"
+      }
+    ],
+    "why_it_works": "中型企业有AI预算和CEO压力，却夹在“咨询公司又贵又慢”和“DIY平台缺人”之间。RapidCanvas用Hybrid Approach把可复用平台（企业上下文、技能库起步可省约60%代码、生产治理）和人对结果负责的驻场工程师绑成订阅，让定制交付逐渐接近软件毛利。CEO称多数高管期望6–12个月收回AI投资，而试点到生产仍是最大缺口。",
+    "takeaway": "企业AI的下一棒不一定是纯Agent产品，也可能是“可产品化的托管交付”：谁能把定制结果做成可扩的订阅，谁就吃到中型企业的真预算。",
+    "innovation_score": 4,
+    "business_score": 4,
+    "tags": ["托管AI", "企业Agent", "驻场工程师", "ARR", "融资"],
+    "website": "https://rapidcanvas.ai",
+    "sources": [
+      "https://www.globenewswire.com/news-release/2026/10/16/3382607/0/en/rapidcanvas-raises-29m-series-b-to-bring-fortune-100-grade-ai-to-every-enterprise.html",
+      "https://solutionsreview.com/ai-news-for-the-week-of-october-16-updates-from-digitalocean-linux-foundation-onestream-more/"
+    ],
+    "uncertain_points": "具体ARR绝对金额未披露，8倍增速与140万决策均为公司新闻稿口径，缺少独立审计或客户侧公开财报交叉验证；G2“Top 5 DS/ML平台”为自评引用。"
+  },
+  {
+    "date_collected": "2026-10-17",
+    "status": "new",
+    "id": "goodweek-ai-manager-sme",
+    "type": "profitable",
+    "name": "Goodweek",
+    "one_liner": "走IT服务商渠道的中小企业“AI经理”：统一接入多模型并管权限/数据/花费，种子轮$1200万、近150家客户",
+    "category": "生产力办公",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "面向中小企业的AI治理与工作区订阅，经既有IT服务商部署；集中提供Claude、ChatGPT、Gemini、Mistral等，企业数据隔离且不用于训练模型",
+    "metrics": [
+      {
+        "label": "种子轮",
+        "value": "$1200万，Adara Ventures领投，Anamcara、True Ventures、FJ Labs、Bpifrance等参与",
+        "source_type": "官方公布",
+        "source_url": "https://www.adara.vc/stories/why-we-invested-in-goodweek"
+      },
+      {
+        "label": "客户与团队",
+        "value": "不到一年扩至约50人、三国办公，近150家欧洲与北美客户",
+        "source_type": "媒体估算",
+        "source_url": "https://app.dealroom.co/news/feed/goodweek-raises-12m-led-by-adara-ventures-for-its-ai-manager-for-smbs"
+      }
+    ],
+    "why_it_works": "中小企业不是不想用AI，而是工具散落、数据无处可管、花费无人负责。Goodweek卖的是“AI经理”而不是又一个聊天窗口，并通过客户已经信任的IT服务商分发，避开直销中小企业的高获客成本。两位连续创业者分别做过中小企业协作与大规模电商基建，把产品简单度和运维稳健性绑在一起。",
+    "takeaway": "中小企业AI的护城河可能在渠道和治理，而不在模型本身：谁能借IT服务商把权限、主权数据和账单一次收拢，谁就能规模化卖“敢用”。",
+    "innovation_score": 3,
+    "business_score": 4,
+    "tags": ["中小企业", "AI治理", "多模型", "渠道", "融资"],
+    "website": "https://goodweek.com",
+    "sources": [
+      "https://www.adara.vc/stories/why-we-invested-in-goodweek",
+      "https://21st.centralesupelec.com/en/nos-actualites/goodweek-levee-fonds-ia-pme",
+      "https://app.dealroom.co/news/feed/goodweek-raises-12m-led-by-adara-ventures-for-its-ai-manager-for-smbs"
+    ],
+    "uncertain_points": "近150客户与50人规模主要来自Dealroom对西语/法媒的转述，未见公司披露ARR/NRR；稿件称此前已有约$1000万种子，本轮表述为“seed”口径需留意是扩轮还是新一轮。"
+  },
+  {
+    "date_collected": "2026-10-17",
+    "status": "new",
+    "id": "sirona-medical-rados-cortex",
+    "type": "both",
+    "name": "Sirona Medical",
+    "one_liner": "云原生放射科操作系统RadOS：收入与合同ARR同比超2.5倍，再融$4000万推进Agent编排层Cortex",
+    "category": "医疗健康",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "面向放射科实践与医院系统的云原生工作流软件订阅/合同：统一PACS、阅片、报告、工作列表与工作流AI，并商业化Agent编排层Cortex",
+    "metrics": [
+      {
+        "label": "本轮融资",
+        "value": "$4000万 Series D，Avidity Partners领投；累计风险资本约$1.5亿，公司称资金可支撑至持续经营",
+        "source_type": "官方公布",
+        "source_url": "https://sironamedical.com/company/press/series-d-financing"
+      },
+      {
+        "label": "增长（截至2026-09-30）",
+        "value": "收入同比2.5倍；合同ARR同比2.7倍；新客户平均合同ARR $107万、平均TCV $510万",
+        "source_type": "官方公布",
+        "source_url": "https://sironamedical.com/company/press/series-d-financing"
+      },
+      {
+        "label": "使用规模",
+        "value": "合同覆盖每年超1200万次主影像检查；未来12个月计划接入超1000名额外放射科医生",
+        "source_type": "官方公布",
+        "source_url": "https://sironamedical.com/company/press/series-d-financing"
+      }
+    ],
+    "why_it_works": "放射科缺人，但传统栈把PACS、阅片、报告拆成多系统。Sirona把影像工作流收成单一云原生OS，再叠Cortex做Agent编排，让AI真正落在日常读片路径上。过半客户已在同一网络上协作，网络效应与高客单价合同（均值百万级ARR）一起抬高切换成本。",
+    "takeaway": "垂直医疗AI要赚钱，往往不是再卖一个读片模型，而是先成为科室的操作系统，再把Agent嵌进不可替代的日活工作流。",
+    "innovation_score": 4,
+    "business_score": 5,
+    "tags": ["医疗AI", "放射科", "云原生", "Agent", "融资"],
+    "website": "https://www.sironamedical.com",
+    "sources": [
+      "https://sironamedical.com/company/press/series-d-financing",
+      "https://radiologybusiness.com/topics/healthcare-management/healthcare-economics/radiology-software-firm-sirona-medical-raises-40m-series-d-financing"
+    ],
+    "uncertain_points": "未披露ARR绝对总额与是否整体盈利；“funds operating plan indefinitely / cash-flow positivity”为公司表述；增长倍数基于自选截止日。"
+  },
+  {
+    "date_collected": "2026-10-17",
+    "status": "new",
+    "id": "alipay-ai-pay-agentic-commerce",
+    "type": "both",
+    "name": "支付宝AI支付",
+    "one_liner": "国内首个AI原生支付：Agent代搜代订代付，入选《时代》2026最佳发明，使用人数超1亿",
+    "category": "电商零售",
+    "region": "中国",
+    "team_type": "大公司",
+    "business_model": "支付宝生态内的AI原生支付能力：兼容的AI智能体/应用/设备在用户授权下检索、确认并完成交易，沉淀支付与商业化流量",
+    "metrics": [
+      {
+        "label": "使用规模",
+        "value": "上线以来超1亿人使用；2026年2月单周处理超1.2亿笔交易",
+        "source_type": "官方公布",
+        "source_url": "https://time.com/collection/best-inventions/2026/alipay-ai-pay/"
+      },
+      {
+        "label": "行业认可",
+        "value": "入选《时代》2026全球最佳发明；中国日报等称其为国内首个AI原生支付服务",
+        "source_type": "媒体估算",
+        "source_url": "https://cn.chinadaily.com.cn/a/202610/16/WS6ad1c766e4b09a165c78facc.html"
+      }
+    ],
+    "why_it_works": "对话式AI长期停在“给建议”，钱货交接仍要人跳回App。支付宝把授权、确认和支付嵌进Agent链路，让“帮我订东京周末酒店、每晚不超过250美元”这类意图能闭环成交。依托既有支付网络与风控，它把Agent从信息层推进到交易层，形成可计量的真实商业吞吐。",
+    "takeaway": "Agent要变现，支付授权才是关键一跳：谁掌握“代用户花钱”的合规闭环，谁就卡住AI消费的入口。",
+    "innovation_score": 5,
+    "business_score": 5,
+    "tags": ["Agent支付", "电商", "蚂蚁", "时代最佳发明", "规模"],
+    "website": "https://www.alipay.com",
+    "sources": [
+      "https://time.com/collection/best-inventions/2026/alipay-ai-pay/",
+      "https://cn.chinadaily.com.cn/a/202610/16/WS6ad1c766e4b09a165c78facc.html"
+    ],
+    "uncertain_points": "《时代》条目未拆AI支付单独贡献的GMV/手续费；1亿用户与1.2亿笔/周为蚂蚁向《时代》提供的口径；产品推出已逾一年，本次收录点是榜单带来的验证节点而非上线首日。"
+  },
+  {
+    "date_collected": "2026-10-17",
+    "status": "new",
+    "id": "yuewen-opc-ai-animation",
+    "type": "both",
+    "name": "阅文 OPC / AI精品动画",
+    "one_liner": "把漫剧助手升级成“一人公司”全链路平台，并发布首批AI精品动画：上半年短剧漫剧收入破4.3亿元",
+    "category": "营销内容",
+    "region": "中国",
+    "team_type": "大公司",
+    "business_model": "IP库开放+AI全流程制作+多语种出海+平台分发与创作者分成；面向个人/工作室的OPC一站式创作与激励",
+    "metrics": [
+      {
+        "label": "短剧漫剧收入",
+        "value": "2026上半年收入突破4.3亿元，同比增长230%",
+        "source_type": "官方公布",
+        "source_url": "https://news.pedaily.cn/202610/570377.shtml"
+      },
+      {
+        "label": "OPC生态",
+        "value": "已签约超5000个个人及工作室；前十大OPC创作者年收入均破100万；头部合作团队分成破600万元",
+        "source_type": "官方公布",
+        "source_url": "https://news.pedaily.cn/202610/570377.shtml"
+      },
+      {
+        "label": "播放与出海",
+        "value": "超660部漫剧播放破千万、107部破亿；海外ToonScroll 50部破千万、3部破亿",
+        "source_type": "官方公布",
+        "source_url": "https://news.pedaily.cn/202610/570377.shtml"
+      }
+    ],
+    "why_it_works": "阅文有海量经作家确认的网文IP，再用AI把改编前移到连载期，并提供一键多语种与发行通道，让“一个人+IP+工具”能跑通漫剧全流程。短剧漫剧板块已用批量化验证收入，再上探AI精品动画，内容工业化从量走向质。CEO明确“文学本身不能是AI”，把模型定位在改编而非替代原创。",
+    "takeaway": "内容平台做AI，赢面往往在“IP供给+分发+分成”三位一体，而不只是更好的生成模型。",
+    "innovation_score": 4,
+    "business_score": 5,
+    "tags": ["AI漫剧", "一人公司", "IP", "内容工业化", "中国"],
+    "website": "https://www.yuewen.com",
+    "sources": [
+      "https://news.pedaily.cn/202610/570377.shtml",
+      "https://finance.eastmoney.com/a/202610163898325145.html"
+    ],
+    "uncertain_points": "4.3亿元为短剧及漫剧业务合计，AI精品动画本身尚未拆分收入；创作者年收入与分成为公司现场披露；海外市场规模“40亿美元”为行业预计口径。"
+  },
+  {
+    "date_collected": "2026-10-17",
+    "status": "new",
+    "id": "labelbox-recursion-managed-agents",
+    "type": "both",
+    "name": "Labelbox",
+    "one_liner": "从标注工具长成企业托管Agent：称已盈利且同比增超5倍，E轮超$1亿推Recursion自改进Agent",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "数据标注/RL训练环境（Horizon）订阅，叠加面向企业的Recursion托管Agent：在企业既有工具里自主开工、被评分并自我改进",
+    "metrics": [
+      {
+        "label": "本轮融资",
+        "value": "超$1亿 Series E（含股权与信贷），投前估值$12.5亿，Infinitum Partners领投",
+        "source_type": "官方公布",
+        "source_url": "https://labelbox.com/blog/labelbox-series-e/"
+      },
+      {
+        "label": "经营状况",
+        "value": "公司称本年度已实现盈利，同比增长超5倍；内部已有50+Agent覆盖工程到财务",
+        "source_type": "官方公布",
+        "source_url": "https://labelbox.com/blog/labelbox-series-e/"
+      },
+      {
+        "label": "客户面",
+        "value": "称服务约90%领先前沿实验室与超大规模云厂商；专家网络超400万人",
+        "source_type": "官方公布",
+        "source_url": "https://labelbox.com/blog/labelbox-series-e/"
+      }
+    ],
+    "why_it_works": "Labelbox先做数据与RL环境吃到模型厂预算，再用同一套“任务→评分→记忆→改进”跑自己的公司Agent，最后把Recursion产品化卖给企业。自用先跑通50+Agent，降低“企业Agent是PPT”的信任成本，也让融资叙事从工具升级到可自我改进的系统。",
+    "takeaway": "ToB Agent要想让人买单，最好的demo往往是自己公司先用Agent把活干了，再把同一套评分与记忆卖出去。",
+    "innovation_score": 4,
+    "business_score": 5,
+    "tags": ["企业Agent", "RL环境", "盈利", "融资", "数据"],
+    "website": "https://labelbox.com",
+    "sources": [
+      "https://labelbox.com/blog/labelbox-series-e/",
+      "https://www.prnewswire.com/news-releases/labelbox-raises-100-million-in-series-e-funding-to-advance-reinforcement-learning-and-enterprise-ai-agents-302909147.html"
+    ],
+    "uncertain_points": "盈利与5倍增长未给出绝对收入或利润表；“90%前沿实验室”为自评；E轮含credit facility，股权部分占比不明。"
+  },
+  {
+    "date_collected": "2026-10-17",
+    "status": "new",
+    "id": "forgepoint-frank-manufacturing-sales",
+    "type": "both",
+    "name": "Forgepoint",
+    "one_liner": "给美国工厂的AI内销代表Frank：上线六个月做到七位数ARR，种子轮$980万",
+    "category": "客服销售",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "面向制造商的AI内销代表订阅：嵌入邮件与报价系统，按各厂定价规则完成RFQ到PO的询价、草稿、审批与跟进",
+    "metrics": [
+      {
+        "label": "ARR",
+        "value": "产品上线六个月内达七位数ARR；客户月均报价吞吐平均+30%，报价周期缩短超55%",
+        "source_type": "官方公布",
+        "source_url": "https://thenextweb.com/news/forgepoint-9-8m-seed-ai-quoting-manufacturers-frank"
+      },
+      {
+        "label": "种子轮",
+        "value": "$980万，Primary Venture Partners与a16z speedrun领投",
+        "source_type": "官方公布",
+        "source_url": "https://thenextweb.com/news/forgepoint-9-8m-seed-ai-quoting-manufacturers-frank"
+      }
+    ],
+    "why_it_works": "车间自动化了，办公室询价还在邮件和表格里转。Frank拿公司域名邮箱入职，学会该厂成本模型与审批，把行政接力交给AI、把工程与商务判断留给人。速度直接对应接单：近半数制造商期望24小时内回复RFQ，慢报价等于丢单。",
+    "takeaway": "垂直销售Agent要先钉住“延误就丢钱”的环节；制造业的报价台比通用CRM聊天更有付费理由。",
+    "innovation_score": 4,
+    "business_score": 4,
+    "tags": ["制造业", "AI销售", "报价", "ARR", "融资"],
+    "website": "https://www.forgepoint.ai",
+    "sources": [
+      "https://thenextweb.com/news/forgepoint-9-8m-seed-ai-quoting-manufacturers-frank",
+      "https://www.axios.com/pro/supply-chain-deals/2026/10/14/forgepoint-9m-primary-a16z-speedrun"
+    ],
+    "uncertain_points": "七位数ARR与吞吐提升为公司向媒体披露，未见独立客户财报；官网域名以报道推断，具体产品站路径可能调整；Axios为付费栏目，公开细节少于TNW。"
+  },
+  {
+    "date_collected": "2026-10-17",
+    "status": "new",
+    "id": "north-cloud-ai-finops",
+    "type": "profitable",
+    "name": "North.cloud",
+    "one_liner": "把云、数据与模型花费收成一套自动FinOps：管理近$20亿云支出，B轮$6000万加码AI支出管控",
+    "category": "法律金融",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "云/数据/AI支出的智能化与自动化订阅（FinOps），含跨云承诺优化与TokenFlow模型用量归因、预算与财务控制",
+    "metrics": [
+      {
+        "label": "本轮融资",
+        "value": "$6000万 Series B，PeakSpan Capital领投",
+        "source_type": "官方公布",
+        "source_url": "https://north.cloud/newsroom/north-series-b-release"
+      },
+      {
+        "label": "管理规模",
+        "value": "接近$20亿托管云支出；累计助客户节省超$4亿；留存率98.8%",
+        "source_type": "官方公布",
+        "source_url": "https://north.cloud/newsroom/north-series-b-release"
+      }
+    ],
+    "why_it_works": "推理成为持续性运营成本后，云账单与token账单变成同一道财务题。North用自动化替代“工程师看仪表盘”，并把OpenAI/Anthropic/Snowflake接到同一套花费系统，让财务也能管AI。AssemblyAI等客户称有效节省率可长期维持在约50%。",
+    "takeaway": "AI应用公司越烧token，越需要买“花钱的控制系统”；FinOps正在从工程插件升级成AI时代的财务基础设施。",
+    "innovation_score": 3,
+    "business_score": 5,
+    "tags": ["FinOps", "AI支出", "云成本", "融资", "自动化"],
+    "website": "https://north.cloud",
+    "sources": [
+      "https://north.cloud/newsroom/north-series-b-release",
+      "https://www.axios.com/pro/enterprise-software-deals/2026/10/15/cloud-spend-northcloud-peakspan"
+    ],
+    "uncertain_points": "托管支出与节省额为公司口径；自身ARR/利润未披露；Axios报道日期为10月15日，略早于本轮搜集窗口起点。"
+  },
+  {
+    "date_collected": "2026-10-17",
+    "status": "new",
+    "id": "codewall-autonomous-attack-agents",
+    "type": "innovative",
+    "name": "CodeWall",
+    "one_liner": "给企业配“自己的攻击者”：无凭据从外网连续渗透的自主攻击Agent，预种子轮$400万出隐身",
+    "category": "其他",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "进攻性安全即服务/平台：在授权范围内用多智能体从外部持续探测可利用攻击路径，输出可验证证据与修复闭环",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "$400万 pre-seed，Osney Capital领投，InReach、Antler等参与",
+        "source_type": "官方公布",
+        "source_url": "https://codewall.ai/news/codewall-emerges-from-stealth-with-4m"
+      },
+      {
+        "label": "早期能力演示",
+        "value": "称曾在两小时内获得麦肯锡Lilli AI平台生产库读写权限（研究披露）；已服务银行等机构",
+        "source_type": "创始人自述",
+        "source_url": "https://codewall.ai/news/codewall-emerges-from-stealth-with-4m"
+      }
+    ],
+    "why_it_works": "防御工具越堆越多，真人红队却稀缺且只能定期上阵。CodeWall把攻击方用Agent规模化，从零凭据外部起步、多智能体共享调查图，把渗透测试变成持续能力。Axos Financial CISO公开背书其进入安全项目，说明受监管行业愿为“以攻促防”付费试水。",
+    "takeaway": "安全Agent的差异化可以是攻而不是防：谁能在授权下持续证明“真能打进来”，谁就卖出比扫描器更贵的确定性。",
+    "innovation_score": 5,
+    "business_score": 2,
+    "tags": ["安全", "红队", "Agent", "进攻性安全", "融资"],
+    "website": "https://codewall.ai",
+    "sources": [
+      "https://codewall.ai/news/codewall-emerges-from-stealth-with-4m",
+      "https://siliconangle.com/2026/10/14/offensive-security-startup-codewall-launches-with-4m-for-ai-agents-that-attack-enterprises/"
+    ],
+    "uncertain_points": "尚无公开ARR；针对咨询公司AI平台的漏洞披露细节与复现条件有限；属早期预种子，商业化深度待观察。"
+  },
+  {
+    "date_collected": "2026-10-17",
+    "status": "new",
+    "id": "jockey-twelvelabs-video-library",
+    "type": "innovative",
+    "name": "Jockey by TwelveLabs",
+    "one_liner": "Product Hunt日榜第一的视频库AI：用多模态模型让整库视频可搜、可理解、可生成文本",
+    "category": "生产力办公",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "视频理解API/产品（TwelveLabs），面向需要大规模检索与分析视频内容的团队",
+    "metrics": [
+      {
+        "label": "社区热度",
+        "value": "2026-10-16 Product Hunt日榜第1，得分354、24条评论",
+        "source_type": "媒体估算",
+        "source_url": "https://www.producthunt.com/leaderboard/daily/2026/10/16"
+      }
+    ],
+    "why_it_works": "企业视频资产通常只能靠文件名和人工标签找。Jockey把Marengo/Pegasus多模态理解接到“整库可搜可总结”，把视频从不可计算介质变成可查询知识源，契合客服质检、媒体归档、培训回放等高频场景。",
+    "takeaway": "视频是下一波企业非结构化金矿；先把“找得到、说得清”产品化，比再发一个生成模型更容易形成工作流入口。",
+    "innovation_score": 4,
+    "business_score": 2,
+    "tags": ["视频理解", "Product Hunt", "多模态", "检索", "API"],
+    "website": "https://www.twelvelabs.io",
+    "sources": [
+      "https://www.producthunt.com/leaderboard/daily/2026/10/16",
+      "https://www.producthunt.com/products/twelvelabs"
+    ],
+    "uncertain_points": "日榜热度不等于收入；未披露Jockey独立ARR或付费客户数；TwelveLabs既有融资与本产品营收贡献未在本次发布中拆分。"
+  },
+  {
+    "date_collected": "2026-10-17",
+    "status": "new",
+    "id": "pomerado-website-to-mcp",
+    "type": "innovative",
+    "name": "Pomerado",
+    "one_liner": "几分钟把任意网站变成Agent可用的MCP/API：开源托管认证与维护，PH日榜前五",
+    "category": "编程开发",
+    "region": "海外",
+    "team_type": "独立开发者",
+    "business_model": "开源工具+托管集成：把航班、房产、电商等难自动化站点封装成Agent原生工具",
+    "metrics": [
+      {
+        "label": "社区热度",
+        "value": "2026-10-16 Product Hunt日榜第5，得分148、15条评论",
+        "source_type": "媒体估算",
+        "source_url": "https://www.producthunt.com/leaderboard/daily/2026/10/16"
+      }
+    ],
+    "why_it_works": "Agent缺的不是推理，是稳定连上真实网站。Pomerado把浏览器自动化产品化成MCP/API，并承诺托管认证与维护，降低“每个站点手写爬虫”的成本，直接对接当前Agent工具生态。",
+    "takeaway": "Agent基础设施的机会常在“脏活”：认证、反爬、站点变更——谁替模型把网站变成可靠工具，谁就卡住集成层。",
+    "innovation_score": 4,
+    "business_score": 2,
+    "tags": ["MCP", "浏览器自动化", "Agent工具", "开源", "Product Hunt"],
+    "website": "https://pomerado.ai",
+    "sources": [
+      "https://www.producthunt.com/leaderboard/daily/2026/10/16",
+      "https://www.producthunt.com/products/pomerado"
+    ],
+    "uncertain_points": "早期社区产品，无公开收入；开源与托管如何定价未披露；对复杂站点的稳定性需实测。"
+  },
+  {
+    "date_collected": "2026-10-17",
+    "status": "new",
+    "id": "learnupon-agentic-learning-facility",
+    "type": "innovative",
+    "name": "LearnUpon",
+    "one_liner": "企业学习平台加码Agent时代：拿下$5000万成长型融资设施，推进Agent式学习管理与个性化培训",
+    "category": "教育",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "企业学习管理系统（LMS）订阅，扩展Agent自动管理学习行政、内容策展、技能缺口识别与个性化交付",
+    "metrics": [
+      {
+        "label": "融资设施",
+        "value": "$5000万成长型融资设施，Claret Capital Partners提供（偏债/非稀释口径）",
+        "source_type": "官方公布",
+        "source_url": "https://www.businesswire.com/news/home/20261013746905/en/LearnUpon-Secures-%2450M-Growth-Financing-Facility-from-Claret-Capital-Partners-to-Drive-Investment-in-the-Agentic-Era"
+      }
+    ],
+    "why_it_works": "成熟LMS已有客户与数据，用非稀释资金把Agent嵌进学习运营，可比从零做教育Agent更快到达采购名单。叙事从“课件库”转向“Agent代管培训运营”，贴合企业要降学习行政成本的现实。",
+    "takeaway": "垂直SaaS的Agent化不一定靠新股权故事，有时是用债务设施把已有产品改造成Agent工作区。",
+    "innovation_score": 3,
+    "business_score": 3,
+    "tags": ["企业培训", "LMS", "Agent", "融资设施", "教育"],
+    "website": "https://www.learnupon.com",
+    "sources": [
+      "https://www.businesswire.com/news/home/20261013746905/en/LearnUpon-Secures-%2450M-Growth-Financing-Facility-from-Claret-Capital-Partners-to-Drive-Investment-in-the-Agentic-Era",
+      "https://www.claret-capital.com/articles/learnupon-secures-50m-growth-financing-facility-from-claret-capital-partners-to-drive-investment-in-the-agentic-era/"
+    ],
+    "uncertain_points": "为成长型融资设施而非典型股权轮，具体ARR与Agent功能落地进度未在稿中量化；公告日期约10月13–16，窗口边界需留意。"
+  }
+]
