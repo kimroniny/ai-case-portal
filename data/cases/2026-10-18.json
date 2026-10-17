@@ -1,0 +1,464 @@
+[
+  {
+    "date_collected": "2026-10-18",
+    "status": "new",
+    "id": "evos-industrial-ai-operators",
+    "type": "both",
+    "name": "Evos",
+    "one_liner": "给中小工业/货运经纪的自主AI操作员：不换系统、24小时可上线，出货四周ARR破$100万，再融$900万前种子",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "面向物理产业中小企业的Agentic运营平台订阅：操作员从资深员工行为中学习判断，在既有TMS/业务系统内执行职能（如LTL发票审计），从人审到全自主可调",
+    "metrics": [
+      {
+        "label": "前种子轮",
+        "value": "$900万，Uncork Capital与Field Ventures联合领投，Crosslink、Utopia、Sandwith及天使参与",
+        "source_type": "官方公布",
+        "source_url": "https://getevos.ai/resources/blog/evos-raises-9m"
+      },
+      {
+        "label": "ARR",
+        "value": "上线四周后年经常性收入突破$100万",
+        "source_type": "官方公布",
+        "source_url": "https://getevos.ai/resources/blog/evos-raises-9m"
+      },
+      {
+        "label": "客户作业量",
+        "value": "MyFreightWorld的LTL发票审计操作员两月完成近3500次决策、准确率97%；近五周识别发票差异账面价值超$60万（非已追回金额）",
+        "source_type": "官方公布",
+        "source_url": "https://www.freightwaves.com/news/evos-raises-9m-to-build-ai-operators-for-industrial-businesses"
+      }
+    ],
+    "why_it_works": "中小承运商与制造商占物理经济主体，最强能力在「干了20年的人脑子里」，传统软件只会记账不会做事。Evos卖的是职能级操作员而不是又一个聊天窗：自助发现→24小时部署→先对齐资深员工再自主，避开咨询式实施。货运经纪发票审计是天然ROI场景——差错普遍、人工嫌烦、机器不嫌烦。",
+    "takeaway": "垂直Agent的下一棒可能是「在旧系统里干活的操作员」：谁能把隐性判断产品化成可订阅的职能，谁就吃到被软件忽视二十年的中小工业预算。",
+    "innovation_score": 4,
+    "business_score": 5,
+    "tags": ["工业Agent", "物流", "ARR", "前种子", "操作员"],
+    "website": "https://getevos.ai",
+    "sources": [
+      "https://getevos.ai/resources/blog/evos-raises-9m",
+      "https://www.freightwaves.com/news/evos-raises-9m-to-build-ai-operators-for-industrial-businesses",
+      "https://uncorkcapital.com/blog/investing-in-evos"
+    ],
+    "uncertain_points": "客户数量与估值未披露；$60万为识别差异账面价值非已追回；$97%准确率计算口径与样本未说明；ARR为公司自述。"
+  },
+  {
+    "date_collected": "2026-10-18",
+    "status": "new",
+    "id": "solvera-ai-native-mep-firm",
+    "type": "both",
+    "name": "Solvera",
+    "one_liner": "不做给工程师的又一个软件，直接做AI原生MEP工程事务所：客户为结果付费，成立三月签约收入破$100万，pre-seed $630万",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "工程事务所模式：作为正式工程服务方交付从需求到可施工MEP设计，AI Agent承担越来越多生产与协调，人类工程师保留关键判断；按成果收费而非卖许可证或工时",
+    "metrics": [
+      {
+        "label": "Pre-seed",
+        "value": "$630万，Seedcamp领投，Construct Venture、Inception、Momentum、Obos Ventures、PSV Tech、Sondo、Nordic Web Ventures及Spacemaker创始人天使参与",
+        "source_type": "官方公布",
+        "source_url": "https://www.solvera.ai/nyheter/kapitalinnhenting?lang=en"
+      },
+      {
+        "label": "签约收入",
+        "value": "2026年7月运营起三个月内签约收入超$100万；团队9人；已服务挪威多栋建筑（含承包商Betonmast项目）",
+        "source_type": "官方公布",
+        "source_url": "https://www.solvera.ai/nyheter/kapitalinnhenting?lang=en"
+      }
+    ],
+    "why_it_works": "建筑工程软件迭代二十年，交付方式和赚钱方式几乎没变。Solvera创始人来自Autodesk/Spacemaker，选择重建事务所而非再造工具：AI吃重复生产，人守判断，客户买「可施工结果」。这和RapidCanvas「平台+驻场」同一逻辑——结果订阅/成果交付，比卖席位更容易兑现ROI。",
+    "takeaway": "专业服务AI化的激进路径是「自己变成那家事务所」：工具卖给旧组织难改激励，把自己建成新激励结构反而能收成果费。",
+    "innovation_score": 5,
+    "business_score": 4,
+    "tags": ["建筑工程", "MEP", "成果交付", "专业服务", "融资"],
+    "website": "https://www.solvera.ai",
+    "sources": [
+      "https://www.solvera.ai/nyheter/kapitalinnhenting?lang=en",
+      "https://tech.eu/2026/10/15/solvera-raises-63m-to-scale-the-ai-native-engineering-firm/"
+    ],
+    "uncertain_points": "$100万为签约合同价值非已确认ARR/已收款；量产交付周期与毛利未披露；目前项目主要在挪威。"
+  },
+  {
+    "date_collected": "2026-10-18",
+    "status": "new",
+    "id": "uvi-enterprise-agent-context-layer",
+    "type": "both",
+    "name": "Uvi",
+    "one_liner": "企业Agent共享上下文层：把决策链做成可查询图谱，内部测试称单次成本可降约8倍，种子轮$750万",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "企业上下文基础设施SaaS/本地部署：连接Slack、Jira、Confluence、Salesforce、代码库与会议纪要，构建带权限继承的决策图谱，供各Agent直接查询而非每次重建上下文",
+    "metrics": [
+      {
+        "label": "种子轮",
+        "value": "$750万，CT Innovations领投，Cardumen Capital、Mana VC、91 Ventures等跟投（公司亦称Naboo Research Ltd.）",
+        "source_type": "媒体估算",
+        "source_url": "https://siliconangle.com/2026/10/14/uvi-raises-7-5m-help-ai-agents-learn-business-context/"
+      },
+      {
+        "label": "成本对比（内部基准）",
+        "value": "900+真实员工问题对照：无Uvi的企业自建Agent单次约$0.75–$1.41，经Uvi约$0.10–$0.16（约8倍）；开放题场景可至46倍；耗时约减半",
+        "source_type": "官方公布",
+        "source_url": "https://www.uvi.io/blog/introducing-uvi/"
+      },
+      {
+        "label": "早期客户",
+        "value": "公司称已服务Monday.com、Lemonade、Melio等",
+        "source_type": "媒体估算",
+        "source_url": "https://siliconangle.com/2026/10/14/uvi-raises-7-5m-help-ai-agents-learn-business-context/"
+      }
+    ],
+    "why_it_works": "Agent贵不只在模型智商，而在每次部署都把公司「重新学一遍」。Uvi押注持久上下文层会变成企业AI栈的CI/CD式基础设施：实体解析、决策血缘、权限随图继承，让新Agent即插即用。客户名单偏协作/保险/支付，说明「多系统+强权限」场景最先痛。",
+    "takeaway": "企业Agent规模化的瓶颈正从「会不会答」转向「别每次重学公司」：上下文层可能比又一个聊天Agent更像平台生意。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": ["上下文层", "知识图谱", "Agent基建", "成本", "融资"],
+    "website": "https://www.uvi.io",
+    "sources": [
+      "https://www.uvi.io/blog/introducing-uvi/",
+      "https://siliconangle.com/2026/10/14/uvi-raises-7-5m-help-ai-agents-learn-business-context/",
+      "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-16/doc-inivmiic6956962.shtml"
+    ],
+    "uncertain_points": "8倍/46倍成本对比为公司自测；客户合同规模与ARR未披露；领投方表述在LinkedIn与SiliconANGLE略有出入（CT Innovations / Cardumen 联合表述需留意）。"
+  },
+  {
+    "date_collected": "2026-10-18",
+    "status": "new",
+    "id": "origin-construction-robots-og1",
+    "type": "innovative",
+    "name": "Origin",
+    "one_liner": "室内施工通用机器人出隐身：OG-1自主批灰/打磨/打底，公司称可达人工约3倍速，累计融资$2000万并开美欧试点",
+    "category": "硬件与端侧",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "建筑物理AI：模块化机器人+Construction Action Model；面向承包商的机器人即服务/部署，从墙面精修起步扩展到贴胶带、干墙安装、钻孔穿管等室内工种",
+    "metrics": [
+      {
+        "label": "累计融资",
+        "value": "$2000万，Accel与Zacua Ventures联合领投；Unilazer、Schema、Z21、ISAI、Imad及Anduril/Skild/1X/Tesla相关天使参与",
+        "source_type": "官方公布",
+        "source_url": "https://origin.tech/blog/origin-emerges-from-stealth-with-20-million"
+      },
+      {
+        "label": "部署与目标",
+        "value": "创立10个月内已在纽约工地部署；计划2027年底约150台机器人；美欧（含德国、瑞典、法国、沙特）客户试点推进中",
+        "source_type": "官方公布",
+        "source_url": "https://origin.tech/blog/origin-emerges-from-stealth-with-20-million"
+      },
+      {
+        "label": "产能宣称",
+        "value": "公司称部分任务可达人工约3倍速度、人类级质量（依赖现场条件）",
+        "source_type": "官方公布",
+        "source_url": "https://origin.tech/blog/origin-emerges-from-stealth-with-20-million"
+      }
+    ],
+    "why_it_works": "室内精装占工期大头却几乎没被机械化；工地嘈杂、表面不均、多工种并行，实验室演示容易死在现场。Origin坚持先上真工地再出隐身，用可换工具平台+施工专用基础模型押注「一个本体吃多工种」。劳动力短缺让承包商愿为产能付费。",
+    "takeaway": "物理AI在建筑的入场券是「脏乱工地仍可靠」：演示速度不如可重复交付；RaaS比卖硬件更贴近承包商现金流。",
+    "innovation_score": 5,
+    "business_score": 3,
+    "tags": ["建筑机器人", "物理AI", "干墙", "RaaS", "融资"],
+    "website": "https://www.origin.tech",
+    "sources": [
+      "https://origin.tech/blog/origin-emerges-from-stealth-with-20-million",
+      "https://techstartups.com/2026/10/16/startup-funding-news-today-october-16-2026-ramp-abby-care-origin-north-cloud-mueon-more/"
+    ],
+    "uncertain_points": "$2000万为累计披露、最新单笔金额未拆分；3倍速度与质量为公司自述；当前在役台数与付费合同ARR未公开。"
+  },
+  {
+    "date_collected": "2026-10-18",
+    "status": "new",
+    "id": "complete-ai-agents-template-library",
+    "type": "innovative",
+    "name": "Complete AI Agents",
+    "one_liner": "9866个可安装业务Agent模板库：含流程、连接器、审批与安全规则，经MCP跑在Claude/Cursor等已有助手里",
+    "category": "生产力办公",
+    "region": "全球",
+    "team_type": "初创公司",
+    "business_model": "模板订阅/会员：按岗位与行业提供完整Agent说明书与安装包，可粘贴、打包安装或经MCP拉取；另有顾问代装套餐",
+    "metrics": [
+      {
+        "label": "模板规模",
+        "value": "9866个业务任务模板，覆盖42个行业、495种岗位；2026-10-17正式发布",
+        "source_type": "官方公布",
+        "source_url": "https://www.einpresswire.com/article/949215352/complete-ai-agents-publishes-9-866-ai-agent-templates-for-everyday-business-tasks"
+      },
+      {
+        "label": "定价入口",
+        "value": "站点标称个人/企业会员，Agent起价约$99/年量级（以官网定价页为准）",
+        "source_type": "官方公布",
+        "source_url": "https://completeaiagents.com/pricing/"
+      }
+    ],
+    "why_it_works": "中小团队不是不知道Agent能做事，而是写可靠Agent太贵。把「岗位任务」做成带审批与连接器的说明书，并塞进用户已付费的助手，降低从提示词到可运行Agent的门槛。规模本身是目录壁垒，也方便MCP分发。",
+    "takeaway": "Agent应用层可能长出「应用商店」形态：模板+安全规则+安装通道，比再教用户写Prompt更接近软件分发。",
+    "innovation_score": 4,
+    "business_score": 2,
+    "tags": ["Agent模板", "MCP", "中小企业", "应用商店", "生产力"],
+    "website": "https://completeaiagents.com",
+    "sources": [
+      "https://www.einpresswire.com/article/949215352/complete-ai-agents-publishes-9-866-ai-agent-templates-for-everyday-business-tasks",
+      "https://completeaiagents.com/",
+      "https://zglg.work/ai/news"
+    ],
+    "uncertain_points": "付费用户数与收入未披露；9866为公司宣称目录规模；工时节省估算为站点示意非审计；主要来源含新闻稿。"
+  },
+  {
+    "date_collected": "2026-10-18",
+    "status": "new",
+    "id": "eir-sichuan-embodied-emotion-robot",
+    "type": "profitable",
+    "name": "四川具身科技（EIR）",
+    "one_liner": "Emotion Native情感交互人形「爱湫」：超1亿元Pre-A，9.8万起售，德阳基地冲刺万台级量产",
+    "category": "硬件与端侧",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "消费级/服务场景人形与四足机器人整机销售与落地：软硬全栈自研，情感陪伴为原生目标；产品线含爱湫、天巡、天行者，覆盖银行网点、应急巡检、训练场等",
+    "metrics": [
+      {
+        "label": "Pre-A融资",
+        "value": "超1亿元人民币，与人形机器人中试熟化项目协同，省市县三级国资联动；新一轮融资已启动",
+        "source_type": "媒体估算",
+        "source_url": "https://www.qbitai.com/2026/10/503782.html"
+      },
+      {
+        "label": "产品定价与产能",
+        "value": "爱湫9.8万元起售；德阳凯州新城整机基地规划年底投产，分阶段千台到万台",
+        "source_type": "媒体估算",
+        "source_url": "https://www.qbitai.com/2026/10/503782.html"
+      }
+    ],
+    "why_it_works": "家庭与服务场景要的不只是搬东西，而是愿意天天相处。EIR用投影面部做低成本仿生表情，把情感交互写进原生目标，并用全栈自研把表达与动作绑在同一编排上。国资+中试项目降低量产与销售体系建设门槛。",
+    "takeaway": "消费级人形竞争坐标不只是自由度：陪伴体验与可负担售价正在成为真正的产品参数。",
+    "innovation_score": 3,
+    "business_score": 3,
+    "tags": ["人形机器人", "情感交互", "量产", "融资", "四川"],
+    "website": "",
+    "sources": [
+      "https://www.qbitai.com/2026/10/503782.html",
+      "https://www.stcn.com/article/detail/4223463.html",
+      "https://cbgc.scol.com.cn/news/8064789"
+    ],
+    "uncertain_points": "具体投资人名单与投后估值未在量子位稿中完整列出；已交付台数与营收未披露；「国内独创投影面部」为公司口径。"
+  },
+  {
+    "date_collected": "2026-10-18",
+    "status": "new",
+    "id": "nexform-physical-agi-platform",
+    "type": "both",
+    "name": "NEXFORM 新元体",
+    "one_liner": "模块化「乐高式」机器人+开发者生态的Physical AGI平台：数千万元种子轮，称已签数亿元物业项目、覆盖超1亿平方米",
+    "category": "硬件与端侧",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "通用硬件平台+开发工具+物理智能体分发：开发者开发场景Agent，平台交付作业能力给酒店/物业等客户；强调跨本体部署与Physical RSI自我改进",
+    "metrics": [
+      {
+        "label": "种子轮",
+        "value": "数千万元人民币，戈壁创投、浙大友创等（Dealroom折合约$448万）",
+        "source_type": "媒体估算",
+        "source_url": "https://news.pedaily.cn/202610/570260.shtml"
+      },
+      {
+        "label": "签约规模",
+        "value": "公司称与多家酒店集团及物业累计签约金额达数亿元，覆盖物业面积超1亿平方米",
+        "source_type": "创始人自述",
+        "source_url": "https://news.pedaily.cn/202610/570260.shtml"
+      }
+    ],
+    "why_it_works": "单本体卖整机难建生态；新元体押注开发者市场与跨本体复用，想做成物理世界的「应用商店」。浙大机器人研究院背景与物业签约叙事，试图证明需求侧先于消费级整机爆发。",
+    "takeaway": "具身智能若走平台路线，壁垒在工具链与跨本体兼容，而不只在单款样机视频。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": ["具身智能", "开发者生态", "物业", "融资", "Physical RSI"],
+    "website": "",
+    "sources": [
+      "https://news.pedaily.cn/202610/570260.shtml",
+      "https://www.tmtpost.com/nictation/8168700.html",
+      "https://dealroom.co/news/162841-nexform-raises-4-48m-seed-round-for-modular-robotics/"
+    ],
+    "uncertain_points": "「数亿元签约」与覆盖面积为公司/投资界转述，未见合同公开或回款披露；种子轮精确金额未公布；技术商业化进度待验证。"
+  },
+  {
+    "date_collected": "2026-10-18",
+    "status": "new",
+    "id": "pilotdeck-agent-os-opensource",
+    "type": "innovative",
+    "name": "PilotDeck 2.0",
+    "one_liner": "清华/面壁/OpenBMB开源智能体操作系统：工作舱隔离+白盒记忆+智能路由，复杂任务成本宣称可降约83%",
+    "category": "编程开发",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "开源Agent OS（AGPL-3.0）：WorkSpace隔离文件/记忆/技能，支持后台常驻、MCP与Office全流程；通过主强子弱路由降低Token成本",
+    "metrics": [
+      {
+        "label": "成本对比（官方评测）",
+        "value": "复杂长任务：单体Sonnet 4.6约$18.36分69.1；PilotDeck主Sonnet+子MiniMax约$3.15分70.6，成本降约83%；社媒场景Opus全流程$12.58→路由后$2.83约省70%",
+        "source_type": "官方公布",
+        "source_url": "https://github.com/OpenBMB/PilotDeck"
+      },
+      {
+        "label": "基准分",
+        "value": "Workbuddy Bench上Qwen3.6-35B-A3B得分79.1，报道称优于Claude Code的77.3",
+        "source_type": "媒体估算",
+        "source_url": "https://www.aitntnews.com/newDetail.html?newId=30328"
+      }
+    ],
+    "why_it_works": "Agent落地三痛：记忆黑盒、多项目串台、长任务烧钱。PilotDeck用工作舱物理隔离、白盒可改记忆和难度路由对症下药，并原生MCP打通Web/CLI/IM。开源降低试用门槛，评测叙事直接打「省钱还能更好」。",
+    "takeaway": "开源Agent OS的竞争力可能不在「更能写代码」，而在记忆治理与模型路由——把旗舰模型当大脑、便宜模型当手脚。",
+    "innovation_score": 4,
+    "business_score": 2,
+    "tags": ["开源", "Agent OS", "智能路由", "白盒记忆", "MCP"],
+    "website": "https://github.com/OpenBMB/PilotDeck",
+    "sources": [
+      "https://github.com/OpenBMB/PilotDeck",
+      "https://www.aitntnews.com/newDetail.html?newId=30328",
+      "https://www.qbitai.com/2026/10"
+    ],
+    "uncertain_points": "成本与基准均为团队自测场景；商业化路径（云服务/企业版）未清晰；AGPL对二次分发有约束。"
+  },
+  {
+    "date_collected": "2026-10-18",
+    "status": "new",
+    "id": "notion-agent-context-mcp-38",
+    "type": "innovative",
+    "name": "Notion（Agent Context / 3.8）",
+    "one_liner": "Notion 3.8把工作区做成Agent共享上下文：MCP接任意助手、150+工具、Skills API同步，并可用ChatGPT订阅覆盖Notion内AI用量",
+    "category": "生产力办公",
+    "region": "全球",
+    "team_type": "大公司",
+    "business_model": "协作SaaS升级为Agent上下文中枢：外部Agent经MCP读写Notion；Notion Agent经MCP调用150+工具；Skills集中管理；企业向卖席位与治理（MCP控件、列权限、版本历史）",
+    "metrics": [
+      {
+        "label": "产品能力",
+        "value": "MCP连接外部Agent；150+ MCP工具连接；Skills API同步到GitHub/多助手；数据库列权限；重建GitHub/Jira/Salesforce同步库",
+        "source_type": "官方公布",
+        "source_url": "https://www.notion.com/releases/2026-10-13"
+      },
+      {
+        "label": "计费创新",
+        "value": "Business/Enterprise可将ChatGPT Plus/Pro订阅用于Notion内AI，官方称不加价",
+        "source_type": "官方公布",
+        "source_url": "https://www.notion.com/releases/2026-10-13"
+      }
+    ],
+    "why_it_works": "团队换Agent就重讲一遍公司故事，摩擦极大。Notion押注「上下文住在文档库」：人与Agent共用同一套权限与版本历史，Skills一次写好多助手复用。用ChatGPT订阅抵扣Notion AI，降低双开订阅抵触。",
+    "takeaway": "大厂打Agent不一定靠自研最强模型，而靠成为「上下文与权限的系统源」——文档库可能比聊天窗更像企业Agent操作系统。",
+    "innovation_score": 4,
+    "business_score": 4,
+    "tags": ["Notion", "MCP", "Skills", "企业协作", "上下文"],
+    "website": "https://www.notion.com",
+    "sources": [
+      "https://www.notion.com/releases/2026-10-13",
+      "https://www.producthunt.com/leaderboard/daily/2026/10/17"
+    ],
+    "uncertain_points": "本次为产品发布非融资/ARR披露；ChatGPT抵扣适用范围以官方文档为准；Agent实际采用率待观察。"
+  },
+  {
+    "date_collected": "2026-10-18",
+    "status": "new",
+    "id": "matters-ai-native-consumer-bank",
+    "type": "innovative",
+    "name": "Matters",
+    "one_liner": "AI原生消费银行出隐身：$500万天使轮，月费含AI顾问，把刷卡/汇兑等传统银行二次收入以返现还给用户",
+    "category": "法律金融",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "订阅制新银行：固定月费换neobank服务+AI理财顾问；互换费、汇兑费等传统银行二次收入以累计返现退回用户，靠留存与忠诚度增长；计划申牌并拓展欧盟",
+    "metrics": [
+      {
+        "label": "Pre-seed",
+        "value": "$500万天使轮，Jakob Johansson领衔，Klarna前COO、Voi联合创始人等参与；团队14人",
+        "source_type": "官方公布",
+        "source_url": "https://matters.inc/press/matters-raises-5m-pre-seed/"
+      },
+      {
+        "label": "团队背景",
+        "value": "CEO曾把Sambla做到约$2亿收入后出售；主席为Nordnet前CEO",
+        "source_type": "官方公布",
+        "source_url": "https://matters.inc/press/matters-raises-5m-pre-seed/"
+      }
+    ],
+    "why_it_works": "传统银行在用户管钱糟糕时更赚钱；Matters反向对齐——用AI帮用户省钱存钱，收入来自订阅而非陷害式费用。创始人二次创业+监管老兵坐镇，降低「说AI银行、实际拿不到牌」的叙事风险。",
+    "takeaway": "AI金融产品要先改激励结构：模型只是手段，月费+返还二次收入才是和用户站一边的商业设计。",
+    "innovation_score": 4,
+    "business_score": 2,
+    "tags": ["新银行", "AI顾问", "订阅", "激励对齐", "瑞典"],
+    "website": "https://matters.inc",
+    "sources": [
+      "https://matters.inc/press/matters-raises-5m-pre-seed/",
+      "https://tech.eu/2026/10/15/matters-emerges-from-stealth-with-5m-in-pre-seed-funding-to-build-ai-native-consumer-bank/"
+    ],
+    "uncertain_points": "产品尚未正式对消费者上线；牌照进度未披露；无活跃用户与留存数据。"
+  },
+  {
+    "date_collected": "2026-10-18",
+    "status": "new",
+    "id": "fonio-ai-voice-agents-15m-arr",
+    "type": "profitable",
+    "name": "fonio.ai",
+    "one_liner": "维也纳AI电话/WhatsApp客服Agent：创始人自述ARR 60天内从$1000万冲到$1500万，客户超7000家中小企业",
+    "category": "客服销售",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "面向中小企业的语音与消息AI客服订阅；与T-Systems Austria合作推企业版；欧洲多城扩张招聘",
+    "metrics": [
+      {
+        "label": "ARR",
+        "value": "创始人宣称60天内从$1000万增至$1500万；目标圣诞前$2500万",
+        "source_type": "创始人自述",
+        "source_url": "https://www.trendingtopics.eu/fonio-15-million-arr/"
+      },
+      {
+        "label": "客户与融资",
+        "value": "超7000客户（多为中小企业）；2026年6月€1460万种子轮、估值€1.2亿（20VC领投）",
+        "source_type": "媒体估算",
+        "source_url": "https://www.trendingtopics.eu/fonio-15-million-arr/"
+      }
+    ],
+    "why_it_works": "语音Agent赛道巨头盯大企业，fonio押注易用与多国扩张吃中小企业长尾。ARR跳跃式增长若属实，说明「接电话」仍是最高频、最好收费的Agent场景之一。",
+    "takeaway": "客服语音Agent的胜负手可能是分销与开通速度，而不只是音色：中小企业要的是今晚就能替前台接电话。",
+    "innovation_score": 2,
+    "business_score": 5,
+    "tags": ["语音Agent", "客服", "ARR", "中小企业", "欧洲"],
+    "website": "https://fonio.ai",
+    "sources": [
+      "https://www.trendingtopics.eu/fonio-15-million-arr/",
+      "https://app.dealroom.co/news/note/fonio-ai-hits-15m-arr---10m-to-15m-in-60-days"
+    ],
+    "uncertain_points": "ARR与增速均为创始人LinkedIn/媒体转述，未经审计；报道日期约2026-10-09，略早于本轮24小时窗，因商业信号强作为盈利案例收录；与Parloa等竞品份额未知。"
+  },
+  {
+    "date_collected": "2026-10-18",
+    "status": "new",
+    "id": "craft-agents-local-desktop",
+    "type": "innovative",
+    "name": "Craft Agents",
+    "one_liner": "开源本地桌面Agent应用：多模型+MCP/API工具+可复用Skills与自动化，Product Hunt日榜前列强调「配得上的UX」",
+    "category": "生产力办公",
+    "region": "海外",
+    "team_type": "独立开发者",
+    "business_model": "开源桌面Agent客户端（具体商业化待观察）：聚合Claude/GPT/Gemini/本地模型，连接MCP与API工具，支持Skills与自动化及行内预览",
+    "metrics": [
+      {
+        "label": "社区热度",
+        "value": "2026-10-17 Product Hunt日榜约第6，报道显示约103 upvotes量级（以PH页面实时为准）",
+        "source_type": "媒体估算",
+        "source_url": "https://www.producthunt.com/leaderboard/daily/2026/10/17"
+      }
+    ],
+    "why_it_works": "云端Agent贵、本地Agent难用。Craft Agents把「强能力」和桌面级交互（预览、Skills、自动化）绑在一起，对准每天切模型、接工具的重度用户。开源降低试用与贡献门槛。",
+    "takeaway": "Agent客户端的差异化正在从「接了多少模型」转向「人机协作UX」：预览、权限与可复用Skills比聊天框更重要。",
+    "innovation_score": 3,
+    "business_score": 2,
+    "tags": ["开源", "桌面Agent", "MCP", "Product Hunt", "UX"],
+    "website": "https://www.producthunt.com/products/craft-agents",
+    "sources": [
+      "https://www.producthunt.com/leaderboard/daily/2026/10/17",
+      "https://www.producthunt.com/products/craft-agents"
+    ],
+    "uncertain_points": "收入与下载量未披露；开源协议与可持续商业模式待查；PH票数会变动。"
+  }
+]
