@@ -1,0 +1,503 @@
+[
+  {
+    "date_collected": "2026-10-19",
+    "status": "new",
+    "id": "character-ai-disney-talent-asset-deal",
+    "type": "profitable",
+    "name": "Character.AI",
+    "one_liner": "陪伴聊天明星应用申请破产后，迪士尼以$2000万收购部分资产，并向至少60名员工发offer（年薪酬合计约$6000万）",
+    "category": "游戏娱乐",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "原为面向C端的AI角色聊天订阅（c.ai+）；现进入破产程序，迪士尼以“stalking horse”报价收购部分资产并整体吸纳团队",
+    "metrics": [
+      {
+        "label": "资产收购价",
+        "value": "迪士尼同意以$2000万收购Character.AI部分资产（公司此前披露）",
+        "source_type": "媒体报道（引公司披露）",
+        "source_url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/"
+      },
+      {
+        "label": "人才安排",
+        "value": "至少60名员工（多数员工）获迪士尼offer，估计年薪酬合计约$6000万，获offer者“绝大多数”已接受",
+        "source_type": "法庭文件（Bloomberg发现，TechCrunch转述）",
+        "source_url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/"
+      },
+      {
+        "label": "三年总预算",
+        "value": "约$1.8亿（三年薪酬）另加$3000万留任奖金池，直接付给员工，不计入给破产财产的$2000万",
+        "source_type": "媒体估算/转述文件",
+        "source_url": "https://ppc.land/disney-budgets-180m-for-character-ai-staff-20m-for-the-bankrupt-company/"
+      }
+    ],
+    "why_it_works": "反面教材：法庭文件称公司虽有“庞大且活跃的用户群”，但被高昂推理成本、潜在诉讼责任与监管调查（含青少年安全）拖垮。真正被定价的是团队与IP能力——前CEO Karandeep Anand已出任迪士尼首任CTO，迪士尼借此一次性买下做角色对话产品的成建制团队。",
+    "takeaway": "C端AI陪伴的流量不等于生意：算力成本+安全合规责任必须在单位经济里提前算清；对大公司而言，收购破产AI团队是比自建更快的“买能力”路径。",
+    "innovation_score": 2,
+    "business_score": 2,
+    "tags": [
+      "AI陪伴",
+      "破产",
+      "人才收购",
+      "迪士尼",
+      "合规风险"
+    ],
+    "website": "https://character.ai",
+    "sources": [
+      "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+      "https://www.businessinsider.com/disney-pays-60-million-characterai-employees-tech-layoffs-karandeep-anand-2026-10",
+      "https://ppc.land/disney-budgets-180m-for-character-ai-staff-20m-for-the-bankrupt-company/"
+    ],
+    "uncertain_points": "这是stalking horse报价，可能被更高报价取代；$1.8亿三年口径来自媒体对文件的推算，各家数字（$6000万/年、65个岗位等）略有出入；需破产法官批准。"
+  },
+  {
+    "date_collected": "2026-10-19",
+    "status": "new",
+    "id": "inbox-zero-oss-ai-email-client",
+    "type": "both",
+    "name": "Inbox Zero",
+    "one_liner": "开源的AI邮件助理+邮件客户端，以“开源版Superhuman”再登Product Hunt日榜第一",
+    "category": "生产力办公",
+    "region": "海外",
+    "team_type": "独立开发者",
+    "business_model": "开源核心+托管SaaS订阅（AI分类规则、按你口吻起草回复、屏蔽冷邮件、批量退订、邮件分析，支持Gmail/Outlook，可在Slack/Telegram里操作）；重心已从个人向B2B团队转移",
+    "metrics": [
+      {
+        "label": "Product Hunt",
+        "value": "2026-10-18日榜第1，得分253、25条评论",
+        "source_type": "平台数据",
+        "source_url": "https://www.producthunt.com/leaderboard/daily/2026/10/18"
+      },
+      {
+        "label": "月收入",
+        "value": "创始人自述“每月收入超过$1万”（2025-11-01 访谈）",
+        "source_type": "创始人自述",
+        "source_url": "https://www.starterstory.com/stories/inbox-zero"
+      },
+      {
+        "label": "早期获客",
+        "value": "首次PH发布把注册从约150带到约2000，并带来前100个付费客户",
+        "source_type": "创始人自述",
+        "source_url": "https://www.starterstory.com/stories/inbox-zero"
+      }
+    ],
+    "why_it_works": "邮件是人人都痛、又说得清的需求；开源让它同时吃到GitHub Trending、HN、YouTube与SEO（“Inbox Zero”这个词本身就有搜索量）的免费流量，托管版负责变现。这次从“邮件助理插件”升级为完整客户端，正面对标高价的Superhuman。",
+    "takeaway": "独立开发者做AI工具：选一个本身就有搜索量的品类词当名字，用开源换分发，再用团队版提价——比堆功能更能撑起收入。",
+    "innovation_score": 3,
+    "business_score": 3,
+    "tags": [
+      "开源",
+      "邮件",
+      "AI助理",
+      "Product Hunt",
+      "独立开发"
+    ],
+    "website": "https://www.getinboxzero.com",
+    "sources": [
+      "https://www.producthunt.com/leaderboard/daily/2026/10/18",
+      "https://www.producthunt.com/products/inbox-zero-2",
+      "https://www.starterstory.com/stories/inbox-zero",
+      "https://github.com/elie222/inbox-zero"
+    ],
+    "uncertain_points": "$1万+/月为2025年11月的创始人自述，本次未见更新数字；本次PH发布为老产品新形态（客户端），非全新产品。"
+  },
+  {
+    "date_collected": "2026-10-19",
+    "status": "new",
+    "id": "mylens-ai-1on1-live-presentations",
+    "type": "innovative",
+    "name": "MyLens",
+    "one_liner": "丢进原始资料，AI给名单上每个人各做一场私密、实时、可提问的一对一演示，并回报每场效果",
+    "category": "生产力办公",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "SaaS：面向销售、客户成功、HR入职、创始人投资人更新、培训等“同一件事要讲给很多人”的场景；可经MCP从ChatGPT/Claude/Cursor接入",
+    "metrics": [
+      {
+        "label": "Product Hunt",
+        "value": "2026-10-18日榜第2，得分160、31条评论",
+        "source_type": "平台数据",
+        "source_url": "https://www.producthunt.com/leaderboard/daily/2026/10/18"
+      }
+    ],
+    "why_it_works": "把“幻灯片+会议”换成“AI讲师一对一”：听众随时提问，AI只依据你给的资料作答，必要时现场生成新幻灯片或图层，答不上就标记给你；讲者端看到每人时长、问题与卡点。把原本按人头耗时的讲解变成一次配置、无限复制。",
+    "takeaway": "演示文稿的下一个形态可能是“会回答问题的个性化讲解”，销售跟进与员工入职是最先付费的场景。",
+    "innovation_score": 4,
+    "business_score": 2,
+    "tags": [
+      "AI演示",
+      "个性化",
+      "销售赋能",
+      "入职培训",
+      "MCP"
+    ],
+    "website": "https://mylens.ai",
+    "sources": [
+      "https://www.producthunt.com/products/mylens-ai",
+      "https://mylens.ai"
+    ],
+    "uncertain_points": "未披露定价、用户数与收入；官网示例数据为演示用。"
+  },
+  {
+    "date_collected": "2026-10-19",
+    "status": "new",
+    "id": "shim-cli-coding-agent-privacy-proxy",
+    "type": "innovative",
+    "name": "shim-cli",
+    "one_liner": "开源本地代理+钩子：看清编码Agent发出了什么、花了多少，并在模型读取前遮蔽密钥和个人数据",
+    "category": "编程开发",
+    "region": "海外",
+    "team_type": "独立开发者",
+    "business_model": "开源CLI工具（无账号、无遥测），支持Claude Code、Codex、Copilot CLI与VS Code；商业化路径未披露",
+    "metrics": [
+      {
+        "label": "Product Hunt",
+        "value": "2026-10-18日榜第3，得分147、20条评论",
+        "source_type": "平台数据",
+        "source_url": "https://www.producthunt.com/leaderboard/daily/2026/10/18"
+      }
+    ],
+    "why_it_works": "编码Agent会把工具返回结果（日志、配置、数据库内容）原样送进模型，企业最怕的就是密钥与客户数据外泄。shim在Claude Code里先遮蔽再交给模型，并用shim watch回放一次会话发送的内容与成本，补上了Agent时代的“出站审计”。",
+    "takeaway": "Agent用得越深，“发出了什么”就越需要可观测与可遮蔽——这是安全与成本治理的新切口。",
+    "innovation_score": 3,
+    "business_score": 1,
+    "tags": [
+      "编码Agent",
+      "隐私",
+      "开源",
+      "可观测性",
+      "DLP"
+    ],
+    "website": "https://getshim.tech/products/shim-cli",
+    "sources": [
+      "https://www.producthunt.com/products/shim-cli",
+      "https://getshim.tech/products/shim-cli"
+    ],
+    "uncertain_points": "团队背景、用户量与商业模式未披露；遮蔽能力目前主要在Claude Code中生效（官方描述）。"
+  },
+  {
+    "date_collected": "2026-10-19",
+    "status": "new",
+    "id": "3am-onprem-ai-oncall-engineer",
+    "type": "innovative",
+    "name": "3AM Super Intelligence",
+    "one_liner": "跑在企业内网的AI值班工程师：先在线上系统取证坐实根因，再预演修复，Slack里一键批准执行",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "本地/离线部署的许可证模式（仅签名许可校验外联），面向银行等“不能重写”的老系统；自主权按服务逐级授予",
+    "metrics": [
+      {
+        "label": "Product Hunt",
+        "value": "2026-10-18日榜第7，得分96",
+        "source_type": "平台数据",
+        "source_url": "https://www.producthunt.com/leaderboard/daily/2026/10/18"
+      },
+      {
+        "label": "处置时长",
+        "value": "官方称在生产级核心银行环境的实时故障注入测试中，从告警到验证修复的中位时长3分42秒、只需1次人工点按",
+        "source_type": "官方公布（测试环境）",
+        "source_url": "https://3am.si"
+      }
+    ],
+    "why_it_works": "AI SRE多数卡在“不敢让它动生产”。3AM的设计全是信任机制：只读检查先证伪/证实假设、每次修复先dry run、提升自主权需双人批准、全程哈希链签名账本可导入SIEM，且不开入站端口——正对金融等强监管客户的采购清单。",
+    "takeaway": "企业Agent的护城河常常不是模型，而是审批、审计与回滚这些“让人敢用”的工程。",
+    "innovation_score": 4,
+    "business_score": 2,
+    "tags": [
+      "AIOps",
+      "值班",
+      "本地部署",
+      "金融IT",
+      "审计"
+    ],
+    "website": "https://3am.si",
+    "sources": [
+      "https://www.producthunt.com/products/3am-super-intelligence",
+      "https://3am.si"
+    ],
+    "uncertain_points": "3分42秒为官方在故障注入测试环境下的结果，非客户生产数据；客户、定价与团队信息未披露。"
+  },
+  {
+    "date_collected": "2026-10-19",
+    "status": "new",
+    "id": "tomo-chatgpt-duolingo-courses",
+    "type": "innovative",
+    "name": "Tomo for ChatGPT",
+    "one_liner": "把任何话题变成多邻国式小课（红心、连胜、XP），还能在ChatGPT里把一段对话直接变成可玩的课程",
+    "category": "教育",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "免费起步的C端学习App（iOS/安卓）+ ChatGPT插件分发；付费方式未在页面披露",
+    "metrics": [
+      {
+        "label": "Product Hunt",
+        "value": "2026-10-18日榜第10，得分85",
+        "source_type": "平台数据",
+        "source_url": "https://www.producthunt.com/leaderboard/daily/2026/10/18"
+      }
+    ],
+    "why_it_works": "聊天式学习“问完就忘”，Tomo把答案转成可重复练习的游戏化课程，并可选讲师人设（教授、海盗等）；借ChatGPT应用生态，把高频提问流量导向留存更好的学习闭环。",
+    "takeaway": "在大模型应用商店里，做“对话之后的下一步”（练习、复习、留存）比再做一个问答更有机会。",
+    "innovation_score": 3,
+    "business_score": 1,
+    "tags": [
+      "AI教育",
+      "游戏化",
+      "ChatGPT应用",
+      "C端"
+    ],
+    "website": "https://heytomo.app",
+    "sources": [
+      "https://www.producthunt.com/products/tomo-for-chatgpt",
+      "https://heytomo.app"
+    ],
+    "uncertain_points": "用户数、留存与收入均未披露；课程内容由AI生成，准确性需用户自行判断。"
+  },
+  {
+    "date_collected": "2026-10-19",
+    "status": "new",
+    "id": "sphinx-ai-code-comprehension-quiz-hook",
+    "type": "innovative",
+    "name": "Sphinx",
+    "one_liner": "接入编码Agent工作流的开源钩子：每次推送上线前先出题，确认你真懂这段AI写的代码",
+    "category": "编程开发",
+    "region": "海外",
+    "team_type": "独立开发者",
+    "business_model": "免费开源（FOSS）工具，暂无商业化",
+    "metrics": [
+      {
+        "label": "Show HN热度",
+        "value": "约225分、76条评论（抓取时）",
+        "source_type": "平台数据",
+        "source_url": "https://news.ycombinator.com/item?id=50137950"
+      }
+    ],
+    "why_it_works": "击中Vibe coding的集体焦虑——代码交付越来越快，团队对代码的理解却在流失。评论区两极：支持者认为适合OSS维护者和管控同事，反对者认为可以被AI代答、属于“悬崖底下的救护车”。高讨论度本身说明“人类理解度”正在成为新的流程关口。",
+    "takeaway": "AI编程工具的下一类机会在“人”的一侧：理解校验、评审辅助、知识留存，而不只是更快地写代码。",
+    "innovation_score": 3,
+    "business_score": 1,
+    "tags": [
+      "Show HN",
+      "AI编程",
+      "代码评审",
+      "开源",
+      "开发者教育"
+    ],
+    "website": "https://sphinx-six-theta.vercel.app",
+    "sources": [
+      "https://news.ycombinator.com/item?id=50137950",
+      "https://launchindex.ai/day/2026-10-18"
+    ],
+    "uncertain_points": "热度数字为抓取时点；作者身份未知，项目早期，实际使用量未知；评论指出名称与Sphinx文档工具重名。"
+  },
+  {
+    "date_collected": "2026-10-19",
+    "status": "new",
+    "id": "aisa-agent-access-payments-infra",
+    "type": "both",
+    "name": "AIsa",
+    "one_liner": "让企业AI Agent统一发现、调用并付费使用外部数据、模型、API与服务的基础设施，Tether与HIVEN战略入股",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "Agent接入与结算层：统一授权管控、用量计量、计费与结算，企业可设定权限与支出上限",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "完成种子扩展轮，Tether Capital与HIVEN为战略投资方，累计融资超$900万；既有投资方含阿里巴巴、Tribe Capital、住友商事、Draper Associates、Saison Capital",
+        "source_type": "官方公布（媒体转述）",
+        "source_url": "https://cointelegraph.com/news/tether-backs-aisa-as-strategic-investor-completing-seed-extension-round"
+      }
+    ],
+    "why_it_works": "Agent进生产后，最麻烦的是供应商碎片化、各自集成与账单。AIsa把“找资源—拿权限—计量—付钱”收拢成一层，且引入稳定币发行方做战略股东，指向机器对机器的小额支付。",
+    "takeaway": "Agent经济里，“收银台+权限闸门”是独立的价值层；谁能让企业放心地给Agent一张有额度的卡，谁就握有入口。",
+    "innovation_score": 3,
+    "business_score": 3,
+    "tags": [
+      "Agent支付",
+      "基础设施",
+      "稳定币",
+      "种子轮",
+      "计量计费"
+    ],
+    "website": "https://cointelegraph.com/news/tether-backs-aisa-as-strategic-investor-completing-seed-extension-round",
+    "sources": [
+      "https://cointelegraph.com/news/tether-backs-aisa-as-strategic-investor-completing-seed-extension-round",
+      "https://neodrop.ai/channel/TwwMV9G-POW"
+    ],
+    "uncertain_points": "本轮单独金额未披露；客户与收入未披露；未核到官网，website暂用报道链接。"
+  },
+  {
+    "date_collected": "2026-10-19",
+    "status": "new",
+    "id": "trustedrouter-confidential-model-routing",
+    "type": "both",
+    "name": "TrustedRouter",
+    "one_liner": "对标OpenRouter的模型路由服务，主打开源模型的端到端加密与可验证机密计算；公开上线六周即获$600万种子轮",
+    "category": "编程开发",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "按调用的模型路由API：在多家模型与托管方之间按成本、隐私切换；远期设想“纽约Token交易所”让托管方竞价服务每次请求",
+    "metrics": [
+      {
+        "label": "种子轮",
+        "value": "$600万，Sierra Ventures领投",
+        "source_type": "官方告知媒体（Semafor独家）",
+        "source_url": "https://www.semafor.com/article/10/16/2026/openrouter-challenger-closes-seed-round"
+      },
+      {
+        "label": "上线时间",
+        "value": "公开上线约六周",
+        "source_type": "公司自述",
+        "source_url": "https://www.semafor.com/article/10/16/2026/openrouter-challenger-closes-seed-round"
+      },
+      {
+        "label": "成本对比",
+        "value": "记者示例：一项分析用闭源模型约$140，经其加密基础设施跑中国开源模型可低于$20（质量可能较低）",
+        "source_type": "媒体估算",
+        "source_url": "https://www.semafor.com/article/10/16/2026/openrouter-challenger-closes-seed-round"
+      }
+    ],
+    "why_it_works": "Stripe以约$75亿收购OpenRouter证明了路由层的价值；TrustedRouter用“连平台和数据中心都看不到你的提示词”做差异化，抓住既想降本又重视数据隐私的企业。CEO称DeepSeek、智谱、Moonshot等中国模型在其平台最受欢迎。",
+    "takeaway": "路由层的竞争点正从“模型多”转向“可证明的隐私+成本”，开源模型越强，这类服务越有市场。",
+    "innovation_score": 3,
+    "business_score": 3,
+    "tags": [
+      "模型路由",
+      "机密计算",
+      "隐私",
+      "种子轮",
+      "开源模型"
+    ],
+    "website": "https://www.semafor.com/article/10/16/2026/openrouter-challenger-closes-seed-round",
+    "sources": [
+      "https://www.semafor.com/article/10/16/2026/openrouter-challenger-closes-seed-round",
+      "https://dailyaibrief.com/news/trustedrouter-raises-6-million-private-ai-model-routing-hca3JWs1"
+    ],
+    "uncertain_points": "Semafor首发于10月16日，略早于本窗（10月18日起二次报道扩散后收录）；“纽约Token交易所”仅为愿景；收入与用户数未披露；未核到官网，website暂用报道链接。"
+  },
+  {
+    "date_collected": "2026-10-19",
+    "status": "new",
+    "id": "gewu-tongzhi-embodied-brain-tactile",
+    "type": "innovative",
+    "name": "格物通智",
+    "one_liner": "前华为车BU世界模型基模负责人创业，做有“手感”的具身大脑；成立两个月拿下近亿元天使轮",
+    "category": "硬件与端侧",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "面向工业场景的具身大脑与机器人方案：先替客户完成具体工序（Deploy），把现场经验转为训练数据（Learn），再迁移到下一工位（Generalize）；首批切入纺织服装、光模块、汽车零部件与鞋履制造",
+    "metrics": [
+      {
+        "label": "天使轮",
+        "value": "近亿元人民币，投资方含匹克投资、鸿富资产、杭州资本、杭州人才集团、某省级具身产投及多家上市公司",
+        "source_type": "官方公布（36氪硬氪首发）",
+        "source_url": "https://eu.36kr.com/zh/p/4025325566054529"
+      },
+      {
+        "label": "落地进度",
+        "value": "与匹克签战略合作，目标在鞋履制造场景早期拿下规模化订单；多领域联合PoC，预计2026年底完成首个PoC交付",
+        "source_type": "公司自述",
+        "source_url": "https://eu.36kr.com/zh/p/4025325566054529"
+      }
+    ],
+    "why_it_works": "工厂里难的不是“看见”而是“接触”：布料滑移、插装阻力只靠视觉拿不到力信息。团队提出“物理反演世界模型”，从海量视频反推触觉/受力标签做预训练，再用真实力觉校准，并以复购率而非Demo成功率为核心指标。",
+    "takeaway": "具身智能商业化的抓手可能是“触觉数据规模化+在单一工序里长出来”，产业资本（如匹克）带着订单入股是重要信号。",
+    "innovation_score": 4,
+    "business_score": 2,
+    "tags": [
+      "具身智能",
+      "触觉",
+      "世界模型",
+      "工业制造",
+      "天使轮"
+    ],
+    "website": "https://eu.36kr.com/zh/p/4025325566054529",
+    "sources": [
+      "https://eu.36kr.com/zh/p/4025325566054529",
+      "https://www.zhidx.com/p/601967.html",
+      "https://news.marsbit.co/flash/20261018111842673713.html"
+    ],
+    "uncertain_points": "尚无交付与收入，PoC预计年底；技术路线效果为公司自述；“近亿元”为约数；未找到独立官网，website暂用报道链接。"
+  },
+  {
+    "date_collected": "2026-10-19",
+    "status": "new",
+    "id": "matria-latam-hospital-ai-agents",
+    "type": "both",
+    "name": "Matria",
+    "one_liner": "巴西医疗科技：用AI Agent打通医院碎片化系统，做“医院副驾驶”，获Astella领投$650万种子轮",
+    "category": "医疗健康",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "面向医院的B2B平台：连接分散的院内系统数据，自动排程、识别待处理诊疗、结构化问诊记录与流程自动化；计划拓展巴西与墨西哥",
+    "metrics": [
+      {
+        "label": "种子轮",
+        "value": "$650万，Astella领投，Endeavor Scale Up Ventures、Floating Point、FluentVC与Afya参投",
+        "source_type": "官方公布（媒体报道）",
+        "source_url": "https://empreendencia.com/2026/10/16/healthtech-mineira-capta-us-65-mi-com-astella-para-ser-o-copiloto-dos-hospitais/"
+      }
+    ],
+    "why_it_works": "拉美医院IT系统割裂、人手紧张，数据整合是任何AI落地的前提；Matria先做“连起来”再做Agent自动化，并有拉美医学教育与医疗巨头Afya参投，具备渠道协同。",
+    "takeaway": "新兴市场医疗AI的切口是“数据管道+运营Agent”，而不是先做诊断模型。",
+    "innovation_score": 3,
+    "business_score": 3,
+    "tags": [
+      "医疗AI",
+      "拉美",
+      "医院运营",
+      "种子轮",
+      "AI Agent"
+    ],
+    "website": "https://dealroom.co/news/163465-matria-raises-6-5m-seed-to-connect-fragmented-hospital-data-across-latin/",
+    "sources": [
+      "https://empreendencia.com/2026/10/16/healthtech-mineira-capta-us-65-mi-com-astella-para-ser-o-copiloto-dos-hospitais/",
+      "https://pipelinevalor.globo.com/startups/noticia/matria-atrai-astella-com-copiloto-dos-hospitais.ghtml",
+      "https://dealroom.co/news/163465-matria-raises-6-5m-seed-to-connect-fragmented-hospital-data-across-latin/"
+    ],
+    "uncertain_points": "巴西媒体首发于10月16日，Dealroom 10月18日跟进，略早于本窗；客户医院数量与收入未披露；未核到官网，website暂用报道链接。"
+  },
+  {
+    "date_collected": "2026-10-19",
+    "status": "new",
+    "id": "corologic-angio-film-ai-interpolation",
+    "type": "innovative",
+    "name": "Corologic",
+    "one_liner": "韩国首尔大学盆唐医院心内科团队创业：AI帧插值把低帧率冠脉造影实时重建成高帧率影像，减少辐射",
+    "category": "医疗健康",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "医疗器械软件：Angio-FILM经边缘计算接入现有造影设备与医院影像系统，无需更换硬件、不绑定设备厂商",
+    "metrics": [
+      {
+        "label": "种子轮",
+        "value": "金额未披露，Kakao Ventures与SNU Holdings投资",
+        "source_type": "媒体报道",
+        "source_url": "https://dealroom.co/news/163569-cardiovascular-imaging-ai-startup-corologic-raises-seed-round-from-kakao/"
+      },
+      {
+        "label": "合规进展",
+        "value": "8月完成韩国国内医疗器械登记；下一步多中心临床验证，申请韩国MFDS、美国FDA 510(k)与ISO 13485",
+        "source_type": "媒体报道",
+        "source_url": "https://dealroom.co/news/163569-cardiovascular-imaging-ai-startup-corologic-raises-seed-round-from-kakao/"
+      }
+    ],
+    "why_it_works": "介入手术要持续X光成像，降低拍摄帧率能减辐射但画质变差；用视频插帧思路按血管与器械运动生成中间帧，在不换设备的前提下同时照顾患者与反复上台的医护人员。",
+    "takeaway": "把成熟的生成式视频技术迁移到高价值医疗影像场景，以“挂在现有设备上”降低医院采购门槛，是医疗AI的务实打法。",
+    "innovation_score": 4,
+    "business_score": 2,
+    "tags": [
+      "医疗影像",
+      "介入心脏",
+      "帧插值",
+      "边缘计算",
+      "韩国"
+    ],
+    "website": "https://dealroom.co/news/163569-cardiovascular-imaging-ai-startup-corologic-raises-seed-round-from-kakao/",
+    "sources": [
+      "https://dealroom.co/news/163569-cardiovascular-imaging-ai-startup-corologic-raises-seed-round-from-kakao/"
+    ],
+    "uncertain_points": "融资金额未披露；目前仅一条独立报道来源；临床效果与辐射降低幅度未见数据；未核到官网。"
+  }
+]
