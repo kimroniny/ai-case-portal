@@ -1,0 +1,558 @@
+[
+  {
+    "date_collected": "2026-10-20",
+    "status": "new",
+    "id": "town-team-ai-assistants-108m-unicorn",
+    "type": "both",
+    "name": "Town",
+    "one_liner": "给每位员工配一个AI助理“Townie”，助理之间还能互相协作；公开上线4个月即以$10亿估值完成$1.08亿B轮",
+    "category": "生产力办公",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "面向企业的按席位订阅：每人一个连接邮箱/日历/文档/CRM等60+工具的AI助理，默认起草而不直接发送；新增团队共享工作流与对外（客户、候选人）沟通",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "$1.08亿B轮，估值$10亿，Forerunner与Menlo Ventures联合领投，a16z、First Round跟投",
+        "source_type": "官方公布",
+        "source_url": "https://www.town.com/press/series-b"
+      },
+      {
+        "label": "收入",
+        "value": "2026年6月公开上线后“数周内达到七位数ARR”",
+        "source_type": "官方公布",
+        "source_url": "https://www.town.com/press/series-b"
+      },
+      {
+        "label": "增长",
+        "value": "自7月以来付费客户增长4倍、付费团队增长9倍；“数千家企业每天使用”",
+        "source_type": "官方公布",
+        "source_url": "https://thenextweb.com/news/town-108m-series-b-1b-valuation-ai-assistants"
+      },
+      {
+        "label": "累计融资",
+        "value": "至少$1.6亿（含6月$5500万A轮）",
+        "source_type": "媒体报道",
+        "source_url": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/"
+      }
+    ],
+    "why_it_works": "个人AI助理赛道拥挤，Town把卖点从“我更快”换成“团队更快”：每个Townie只替自己的主人办事、只分享主人愿意分享的信息，却能彼此问答、交接任务、协调会议。默认“起草不发送”、不拿客户数据训练、SOC 2，降低了企业把收件箱交出去的心理门槛；创始人是前Plaid CTO，B端信任背书强。",
+    "takeaway": "AI助理想卖给企业，关键不是更聪明，而是“可信+可协作”：先解决权限边界和默认不自动发送，再把单人工具扩成团队网络，席位就会自己长。",
+    "innovation_score": 4,
+    "business_score": 4,
+    "tags": [
+      "AI助理",
+      "多智能体协作",
+      "企业SaaS",
+      "独角兽",
+      "邮件"
+    ],
+    "website": "https://www.town.com",
+    "sources": [
+      "https://www.town.com/press/series-b",
+      "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
+      "https://thenextweb.com/news/town-108m-series-b-1b-valuation-ai-assistants",
+      "https://menlovc.com/perspective/talk-of-the-town-menlo-is-co-leading-towns-108m-series-b/"
+    ],
+    "uncertain_points": "“七位数ARR”与4倍/9倍增长均为公司自述，未给出具体ARR和客户数；TechCrunch称已向公司求证。$10亿估值相对收入规模很高，主要反映投资人对赛道的押注。"
+  },
+  {
+    "date_collected": "2026-10-20",
+    "status": "new",
+    "id": "tolan-ai-companion-30m-double-digit-arr",
+    "type": "profitable",
+    "name": "Tolan",
+    "one_liner": "卡通形象的AI生活陪伴App，帮人理情绪、理待办；新获$3000万融资，称ARR已达“两位数百万美元”",
+    "category": "其他",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "C端分级会员订阅，完整功能需付费；用户通过一个卡通角色与AI交流情绪、关系和日常任务",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "$3000万，USV、Khosla Ventures、Homebrew参投，累计融资翻倍",
+        "source_type": "媒体报道",
+        "source_url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/"
+      },
+      {
+        "label": "ARR",
+        "value": "公司称ARR已达“两位数百万美元”（同比增长一倍以上）",
+        "source_type": "创始团队自述（Upstarts Media）",
+        "source_url": "https://www.upstartsmedia.com/p/tolan-raises-30m-for-ai-companion-you-trust"
+      },
+      {
+        "label": "用户",
+        "value": "超25万活跃用户，过去一年超7000万次对话；约70%为女性、40%为父母",
+        "source_type": "公司自述",
+        "source_url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/"
+      },
+      {
+        "label": "估值",
+        "value": "未披露；PitchBook估算超$2.68亿（“中等置信度”）",
+        "source_type": "第三方估算",
+        "source_url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/"
+      }
+    ],
+    "why_it_works": "同一天Character.AI式的陪伴产品在破产，Tolan却靠付费会员跑出收入：它不卖“虚拟恋人”，而是定位成帮非技术用户（尤其是父母、神经多样性人群）把生活理顺的陪伴者，付费意愿和安全风险都更可控。",
+    "takeaway": "AI陪伴要变现，定位比模型更重要：把“陪聊”包装成“帮你过好日子”的实用价值，并瞄准付费能力强、需求真实的人群，订阅才撑得住推理成本。",
+    "innovation_score": 3,
+    "business_score": 4,
+    "tags": [
+      "AI陪伴",
+      "订阅",
+      "C端",
+      "心理健康",
+      "融资"
+    ],
+    "website": "https://www.tolans.com",
+    "sources": [
+      "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
+      "https://www.upstartsmedia.com/p/tolan-raises-30m-for-ai-companion-you-trust",
+      "https://www.arr.club/signal/tolan-arr-hit-12m"
+    ],
+    "uncertain_points": "ARR只给出“两位数百万美元”区间，2025年7月第三方曾报$1200万；估值为PitchBook中等置信度估算。"
+  },
+  {
+    "date_collected": "2026-10-20",
+    "status": "new",
+    "id": "doubleai-maxwell-code-execution-model",
+    "type": "both",
+    "name": "doubleAI（Maxwell）",
+    "one_liner": "Mobileye创始人Amnon Shashua新公司，推出“代码执行模型”Maxwell，不改源码直接优化程序在CPU/GPU上的运行，按省下的算力费分成；A轮$2亿、估值超$10亿",
+    "category": "编程开发",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "按效果收费：从客户经验证节省的算力成本中抽成（比例未披露）；目前为早期试用",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "$2亿A轮，Lightspeed与Bessemer联合领投，Dell Technologies Capital、NVIDIA等参投；估值超$10亿",
+        "source_type": "媒体报道",
+        "source_url": "https://www.calcalistech.com/ctechnews/article/sk11xpc73ge"
+      },
+      {
+        "label": "性能",
+        "value": "公司称真实负载下数据管道提速38倍以上、AI推理内核提速4.5倍以上",
+        "source_type": "公司自述（未经独立验证）",
+        "source_url": "https://www.calcalistech.com/ctechnews/article/sk11xpc73ge"
+      },
+      {
+        "label": "团队",
+        "value": "约40人",
+        "source_type": "媒体报道",
+        "source_url": "https://www.calcalistech.com/ctechnews/article/sk11xpc73ge"
+      }
+    ],
+    "why_it_works": "编码Agent解决“写代码”，doubleAI瞄准“代码怎么跑”——在代码和芯片之间做持续优化并形式化验证行为不变。算力账单是企业AI最大的痛点之一，按节省分成让客户几乎零风险试用。",
+    "takeaway": "最好卖的AI是“帮客户省钱且按省下的钱收费”：价值可量化、销售阻力小。找到一个账单巨大、优化空间明确的环节，比做通用助手更容易定价。",
+    "innovation_score": 5,
+    "business_score": 3,
+    "tags": [
+      "算力优化",
+      "按效果付费",
+      "编程",
+      "GPU",
+      "融资"
+    ],
+    "website": "https://heymaxwell.ai",
+    "sources": [
+      "https://www.calcalistech.com/ctechnews/article/sk11xpc73ge",
+      "https://qz.com/doubleai-maxwell-model-compute-costs-nvidia-101926",
+      "https://heymaxwell.ai/"
+    ],
+    "uncertain_points": "性能数字为公司自述，Calcalist明确指出未经独立验证、测试细节不足；融资额另有报道称$2.2亿；尚无公开付费客户和收入数据。"
+  },
+  {
+    "date_collected": "2026-10-20",
+    "status": "new",
+    "id": "polsia-ai-company-os-25m-run-rate",
+    "type": "profitable",
+    "name": "Polsia",
+    "one_liner": "一人公司做的“自动开公司”AI操作系统：给个点子就替你建产品、写代码、投广告、做客服；创始人称即将突破$2500万年化收入",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "面向创业者的订阅/用量付费平台，AI Agent 24小时代为构建和运营业务（具体定价未核实）",
+    "metrics": [
+      {
+        "label": "年化收入",
+        "value": "创始人Ben Cera 10月19日称“即将达到$2500万run rate”，路径为$0→$100万用12周、$100万→$1000万用10周、$1000万→$2000万用6周",
+        "source_type": "创始人自述",
+        "source_url": "https://x.com/Bencera/status/2112196701083902017"
+      },
+      {
+        "label": "融资",
+        "value": "2026年6月以$2.5亿估值融资$3000万，当时创始人为唯一员工",
+        "source_type": "媒体/播客报道",
+        "source_url": "https://thegtmnewsletter.substack.com/p/gtm-192-ai-operating-system-solo-founder-ben-cera-polsia"
+      },
+      {
+        "label": "传播",
+        "value": "该帖约25.8万次浏览、99条回复",
+        "source_type": "平台数据",
+        "source_url": "https://x.com/Bencera/status/2112196701083902017"
+      }
+    ],
+    "why_it_works": "把“一人公司”本身做成产品和营销：创始人用Polsia运营Polsia，公开仪表盘直播增长、让Agent接投资人电话，争议性的名字带来大量免费曝光。增长曲线越陡，越强化“AI能替你开公司”的叙事。",
+    "takeaway": "Build in public + 自己吃自己的狗粮，是AI工具最便宜的分发；但收入口径（run rate、是否含一次性收入）要分清，学方法别迷信数字。",
+    "innovation_score": 4,
+    "business_score": 4,
+    "tags": [
+      "一人公司",
+      "AI Agent",
+      "build in public",
+      "run rate",
+      "创业工具"
+    ],
+    "website": "https://polsia.com",
+    "sources": [
+      "https://x.com/Bencera/status/2112196701083902017",
+      "https://thegtmnewsletter.substack.com/p/gtm-192-ai-operating-system-solo-founder-ben-cera-polsia",
+      "https://mixergy.com/interviews/is-polsia-a-250m-scam-i-asked-the-founder-to-his-face/"
+    ],
+    "uncertain_points": "$2500万为创始人自述的年化run rate，未经审计，也未说明是否含一次性收入；Mixergy访谈标题曾直接质疑其真实性；定价未核实。"
+  },
+  {
+    "date_collected": "2026-10-20",
+    "status": "new",
+    "id": "apple-samplab-ai-audio-editor-acquisition",
+    "type": "profitable",
+    "name": "Samplab（被苹果收购）",
+    "one_liner": "瑞士AI音频编辑初创公司，能“像编辑MIDI一样编辑音频”；欧盟文件显示苹果收购其部分资产并吸纳团队",
+    "category": "设计创意",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "原为面向音乐人的AI音频编辑软件（和弦识别与修改、细粒度分轨、自动对齐速度与调性）；现资产与人员并入苹果",
+    "metrics": [
+      {
+        "label": "收购",
+        "value": "苹果通过子公司收购Samplab部分资产，并向部分员工发offer；交易金额未披露",
+        "source_type": "官方文件（欧盟DMA收购清单）",
+        "source_url": "https://9to5mac.com/2026/10/19/apple-strikes-deal-with-ai-startup-that-lets-musicians-rework-recorded-music/"
+      },
+      {
+        "label": "时间线",
+        "value": "交易于2026年6月向欧委会通报，10月19日清单更新后才曝光",
+        "source_type": "媒体报道",
+        "source_url": "https://appleinsider.com/articles/26/10/19/ai-audio-firm-samplab-acquired-by-apple-to-boost-logic-pro"
+      }
+    ],
+    "why_it_works": "把“改已经录好的音频”这个音乐人长期痛点，用AI分轨+音符级编辑做成了小而深的工具，正好补苹果Logic Pro/GarageBand的短板。一周内苹果连收Huxe、Samplab两家AI音频团队，说明大厂在按功能点收编小团队。",
+    "takeaway": "垂直创作工具里做出一个“别人做不好”的AI能力点，即便用户规模不大，也可能被平台方以收购或人才收购的方式退出。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": [
+      "AI音频",
+      "收购",
+      "苹果",
+      "音乐制作",
+      "人才收购"
+    ],
+    "website": "",
+    "sources": [
+      "https://9to5mac.com/2026/10/19/apple-strikes-deal-with-ai-startup-that-lets-musicians-rework-recorded-music/",
+      "https://appleinsider.com/articles/26/10/19/ai-audio-firm-samplab-acquired-by-apple-to-boost-logic-pro",
+      "https://mactoreality.com/apple-to-acquire-samplab-audio-tools-assets-eu-filing-shows"
+    ],
+    "uncertain_points": "交易实际发生在6月，10月19日才公开；金额、收购的具体资产未披露；苹果未置评，并入Logic Pro属媒体推测。原官网samplab.com现已跳转至苹果官网。"
+  },
+  {
+    "date_collected": "2026-10-20",
+    "status": "new",
+    "id": "readywhen-whatsapp-assistant-small-business",
+    "type": "innovative",
+    "name": "readywhen",
+    "one_liner": "给小老板的“高级私人助理”：自己有电话号码和电脑，住在WhatsApp里，能打电话、听语音、追账、起草跟进；登上Product Hunt 10月19日榜第2",
+    "category": "生产力办公",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "免费起步的订阅制助理（定价未公开）；从邮件、通话、聊天中抓取“你答应过的事”，每日简报+起草回复/催款，所有外发需用户确认",
+    "metrics": [
+      {
+        "label": "Product Hunt",
+        "value": "2026-10-19日榜第2，得分158、28条评论",
+        "source_type": "平台数据",
+        "source_url": "https://www.producthunt.com/leaderboard/daily/2026/10/19"
+      },
+      {
+        "label": "用户",
+        "value": "官网称“受数千家小企业信任”",
+        "source_type": "公司自述",
+        "source_url": "https://readywhen.ai/"
+      },
+      {
+        "label": "合规",
+        "value": "数据托管于爱尔兰，ISO 27001认证，SOC 2 Type II进行中",
+        "source_type": "公司自述",
+        "source_url": "https://readywhen.ai/"
+      }
+    ],
+    "why_it_works": "小企业主不会用复杂工具，但天天用WhatsApp。readywhen把助理做成一个“能打电话、能发语音的联系人”，专抓最容易漏掉、最影响收入的承诺（报价、催款、回复客户），并坚持“没你点头不发送”。",
+    "takeaway": "面向非技术用户，最好的AI界面是他们已经在用的聊天软件；把价值锚定在“少丢一单、早收一笔款”，比讲Agent能力更打动人。",
+    "innovation_score": 4,
+    "business_score": 2,
+    "tags": [
+      "WhatsApp",
+      "AI助理",
+      "小企业",
+      "Product Hunt",
+      "语音"
+    ],
+    "website": "https://readywhen.ai",
+    "sources": [
+      "https://www.producthunt.com/leaderboard/daily/2026/10/19",
+      "https://www.producthunt.com/products/readywhen",
+      "https://readywhen.ai/"
+    ],
+    "uncertain_points": "“数千家小企业”为官网自述；WhatsApp功能目前优先开放给活跃用户、仍属测试；定价与收入未公开。"
+  },
+  {
+    "date_collected": "2026-10-20",
+    "status": "new",
+    "id": "beam-win-agent-mac-window-streaming",
+    "type": "innovative",
+    "name": "Beam.win",
+    "one_liner": "把跑AI Agent的Mac mini上的窗口，变成你面前这台Mac上的原生窗口（有Dock图标、可⌘Tab）；Product Hunt 10月19日榜第1",
+    "category": "编程开发",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "Freemium：共享自己的Mac免费；在另一台Mac全天使用为$12/月、$84/年或$199终身；分享链接可让访客在浏览器中查看",
+    "metrics": [
+      {
+        "label": "Product Hunt",
+        "value": "2026-10-19日榜第1，得分265、42条评论",
+        "source_type": "平台数据",
+        "source_url": "https://www.producthunt.com/leaderboard/daily/2026/10/19"
+      },
+      {
+        "label": "定价",
+        "value": "$12/月、$84/年、$199终身，一个计划覆盖所有Mac",
+        "source_type": "官方公布",
+        "source_url": "https://beam.win/"
+      }
+    ],
+    "why_it_works": "越来越多人把Claude Code、Codex等Agent放在无显示器的Mac mini上24小时跑。传统屏幕共享给的是整张桌面画面，Beam给的是单个“真窗口”，端到端加密、不经服务器，正好卡在“Agent专用机”这个新硬件习惯上。",
+    "takeaway": "Agent带火了“专门跑Agent的第二台电脑”，围绕这种新工作方式做配套工具（远程窗口、监控、通知）是独立开发者的好切口；买断+订阅并行适合开发者人群。",
+    "innovation_score": 4,
+    "business_score": 2,
+    "tags": [
+      "AI Agent",
+      "Mac mini",
+      "开发者工具",
+      "Product Hunt",
+      "远程桌面"
+    ],
+    "website": "https://beam.win",
+    "sources": [
+      "https://www.producthunt.com/leaderboard/daily/2026/10/19",
+      "https://www.producthunt.com/products/beam-win",
+      "https://beam.win/"
+    ],
+    "uncertain_points": "核心是窗口串流技术而非AI本身，入选是因为其明确面向Agent运行场景；团队规模与付费用户数未公开。"
+  },
+  {
+    "date_collected": "2026-10-20",
+    "status": "new",
+    "id": "xrlabs-surgical-intelligence-seed",
+    "type": "innovative",
+    "name": "XRlabs",
+    "one_liner": "神经外科医生创办的“手术智能”公司：作为外挂AI层接入现有手术镜和导航，把实时手术视频变成解剖感知视图；种子轮$840万",
+    "category": "医疗健康",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "面向医院的设备无关软件平台（不要求更换现有设备），目前处于临床部署与监管审批推进阶段",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "$840万种子轮，Playground Global领投，Eka Ventures参投",
+        "source_type": "官方公布",
+        "source_url": "https://www.businesswire.com/news/home/20261019311833/en/"
+      },
+      {
+        "label": "临床使用",
+        "value": "平台已在三大洲用于100多例手术",
+        "source_type": "官方公布",
+        "source_url": "https://finance.yahoo.com/healthcare/articles/xrlabs-announces-8-4-million-150000424.html"
+      },
+      {
+        "label": "里程碑",
+        "value": "AI设计的个性化植入物用于颅骨连体双胞胎分离手术（BBC报道）；入选TIME 2025最佳发明",
+        "source_type": "官方公布",
+        "source_url": "https://finance.yahoo.com/healthcare/articles/xrlabs-announces-8-4-million-150000424.html"
+      }
+    ],
+    "why_it_works": "手术室数据极多却几乎没被实时利用。XRlabs不卖新设备，而是做跨品牌的外挂AI层，融合实时视频、导航数据和术前CT/MRI，医院采购阻力小；前美敦力CEO Omar Ishrak出任董事长，有助于打开医院渠道。",
+    "takeaway": "医疗AI落地优先“兼容存量设备”的软件层路线；行业专家创始人+标志性临床首例，是早期最有说服力的商业信号。",
+    "innovation_score": 5,
+    "business_score": 2,
+    "tags": [
+      "手术AI",
+      "物理AI",
+      "医疗",
+      "计算机视觉",
+      "种子轮"
+    ],
+    "website": "https://xrlabs.ai",
+    "sources": [
+      "https://www.businesswire.com/news/home/20261019311833/en/",
+      "https://finance.yahoo.com/healthcare/articles/xrlabs-announces-8-4-million-150000424.html",
+      "https://app.dealroom.co/news/feed/xrlabs-raises-8-4m-led-by-playground-global-for-ai-surgical-co-pilot-after-twin-separation-first"
+    ],
+    "uncertain_points": "部分临床应用为研究条件下的首例；尚未获得主要市场监管批准，暂无收入披露。"
+  },
+  {
+    "date_collected": "2026-10-20",
+    "status": "new",
+    "id": "alphaengine-shangjian-ant-series-c",
+    "type": "profitable",
+    "name": "熵简科技（AlphaEngine）",
+    "one_liner": "清华系AI投研平台，服务十万余名机构投资者；完成蚂蚁集团领投的C轮，将合作研发AI金融智能体",
+    "category": "法律金融",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "面向基金、券商等机构的AI投研SaaS（研报/纪要知识库+FinGPT问答），今年推出可自动交付Excel、回测报告的投研智能体AlphaClaw和本地优先的机构版",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "C轮，蚂蚁集团领投，东方国信、乔贝资本跟投；金额未披露",
+        "source_type": "官方公布（媒体转述）",
+        "source_url": "https://zhidx.com/p/602113.html"
+      },
+      {
+        "label": "客户",
+        "value": "AlphaEngine累计服务十万余名机构投资者，覆盖9000余家机构",
+        "source_type": "官方公布",
+        "source_url": "https://zhidx.com/p/602113.html"
+      },
+      {
+        "label": "融资独立来源",
+        "value": "界面新闻快讯同日报道蚂蚁领投C轮",
+        "source_type": "媒体报道",
+        "source_url": "https://www.jiemian.com/article/15206991.html"
+      }
+    ],
+    "why_it_works": "投研是高客单价、高频、重资料的场景，熵简先用多年积累的研报纪要库锁定机构客户，再把能力升级成能跑完整工作流的智能体；本地优先架构解决了金融机构的合规顾虑。蚂蚁入局可补齐其B端资管投研场景。",
+    "takeaway": "垂直行业AI的护城河是“数据库+合规交付”，不是模型本身；先做工具留住机构用户，再升级智能体，比直接卖Agent更稳。",
+    "innovation_score": 3,
+    "business_score": 4,
+    "tags": [
+      "AI投研",
+      "金融智能体",
+      "蚂蚁集团",
+      "B端SaaS",
+      "中国"
+    ],
+    "website": "https://www.alphaengine.top",
+    "sources": [
+      "https://zhidx.com/p/602113.html",
+      "https://www.jiemian.com/article/15206991.html",
+      "https://wap.cj.sina.cn/pc/7x24/5153450"
+    ],
+    "uncertain_points": "本轮金额与估值未披露；“十万余名机构投资者”为公司口径，未披露付费客户数与收入。"
+  },
+  {
+    "date_collected": "2026-10-20",
+    "status": "new",
+    "id": "hipower-cro-ai-trial-design-b-plus",
+    "type": "profitable",
+    "name": "海博特",
+    "one_liner": "老牌临床CRO用多智能体辅助临床试验方案设计和入组评估，完成7006万元B+轮",
+    "category": "医疗健康",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "临床研究外包服务（CRO）+自研数字化产品：MedioSuite覆盖患者招募、数据采集；新品MedioSeek做中心选择与入组可行性评估，MedioCompose用多智能体辅助方案设计、法规校验与证据追溯",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "7006万元B+轮，远翼投资领投，广州健康产投等参与",
+        "source_type": "官方公布（动脉网首发）",
+        "source_url": "https://www.vbdata.cn/1519100213"
+      },
+      {
+        "label": "业务规模",
+        "value": "累计完成1250余项临床研究，服务600余家客户，合作临床机构3000余家",
+        "source_type": "公司披露",
+        "source_url": "https://www.vbdata.cn/1519100213"
+      },
+      {
+        "label": "数字化产品",
+        "value": "MedioSuite已服务超1000个临床试验项目的数据录入",
+        "source_type": "公司披露",
+        "source_url": "https://www.vbdata.cn/1519100213"
+      }
+    ],
+    "why_it_works": "CRO行业整合加速、新版GCP抬高质量门槛，海博特把十几年项目经验沉淀成可复用的方案设计与质控规则，再用AI前移到试验设计阶段，减少入组延期和数据返工——这是有真实付费方的效率提升。",
+    "takeaway": "传统服务公司做AI，最现实的路径是把自己的经验做成内部提效工具，再产品化对外；有存量客户和项目数据，比纯AI初创更容易变现。",
+    "innovation_score": 2,
+    "business_score": 3,
+    "tags": [
+      "CRO",
+      "临床试验",
+      "多智能体",
+      "医药",
+      "中国"
+    ],
+    "website": "",
+    "sources": [
+      "https://www.vbdata.cn/1519100213",
+      "https://news.pedaily.cn/202610/570461.shtml",
+      "https://www.medvalley.cn/yiyao/79839.html"
+    ],
+    "uncertain_points": "AI产品为2026年新推出，尚无单独收入或效果数据；融资报道均源自公司首发稿；成立于2009年，团队类型按“初创公司”归类仅为近似。"
+  },
+  {
+    "date_collected": "2026-10-20",
+    "status": "new",
+    "id": "fair-robotics-meituan-industrial-embodied",
+    "type": "profitable",
+    "name": "法奥机器人",
+    "one_liner": "协作机器人厂商连续完成美团龙珠、美团领投的C+和D轮，合计近10亿元，加码工业人形力控臂和具身智能平台",
+    "category": "硬件与端侧",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "销售协作机器人（FR系列11款）及行业解决方案，新增ART系列工业级人形力控臂与AIRLab具身智能工具平台；50余个海外销售网点",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "C+与D轮累计近10亿元，分别由美团龙珠和美团领投",
+        "source_type": "官方公布（投资界）",
+        "source_url": "https://finance.sina.com.cn/jjxw/2026-10-19/doc-inivtynk0844607.shtml"
+      },
+      {
+        "label": "订单",
+        "value": "与博银合创签署2000台人形力控臂战略合作，与杰克科技达成2000台合作",
+        "source_type": "公司披露",
+        "source_url": "https://finance.sina.com.cn/jjxw/2026-10-19/doc-inivtynk0844607.shtml"
+      },
+      {
+        "label": "海外结构",
+        "value": "海外销量中欧洲占46%、日本16%、北美13%、东南亚11%",
+        "source_type": "公司披露",
+        "source_url": "https://finance.sina.com.cn/jjxw/2026-10-19/doc-inivtynk0844607.shtml"
+      },
+      {
+        "label": "融资独立来源",
+        "value": "投中网同日报道近10亿元C+、D轮",
+        "source_type": "媒体报道",
+        "source_url": "https://www.chinaventure.com.cn/news/114-20261019-393662.html"
+      }
+    ],
+    "why_it_works": "和多数具身智能公司不同，法奥先有协作机器人的规模化出货和全球渠道，再把AI+人形力控臂嫁接到焊接、缝制、上下料等明确工业场景，以千台级框架订单验证需求；美团连续领投说明产业资本看重其量产能力。",
+    "takeaway": "具身智能的现实变现路径是“先卖成熟硬件、再叠加AI能力”：已有出货和渠道的公司，比纯模型团队更容易拿到真订单。",
+    "innovation_score": 3,
+    "business_score": 4,
+    "tags": [
+      "具身智能",
+      "协作机器人",
+      "美团",
+      "工业",
+      "中国"
+    ],
+    "website": "https://www.fairino.com",
+    "sources": [
+      "https://finance.sina.com.cn/jjxw/2026-10-19/doc-inivtynk0844607.shtml",
+      "https://www.chinaventure.com.cn/news/114-20261019-393662.html"
+    ],
+    "uncertain_points": "营收、利润未披露；2000台级合作为框架协议，交付节奏未知；有媒体称其已启动IPO；具身智能业务占比仍小。"
+  }
+]
