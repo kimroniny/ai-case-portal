@@ -1,0 +1,578 @@
+[
+ {
+  "date_collected": "2026-10-21",
+  "status": "new",
+  "id": "daytona-agent-native-cloud-1b-unicorn",
+  "type": "both",
+  "name": "Daytona",
+  "one_liner": "专给AI Agent用的“云电脑”：60毫秒开一台隔离沙箱，年内收入运行率涨25倍，$6000万B轮成独角兽",
+  "category": "编程开发",
+  "region": "海外",
+  "team_type": "初创公司",
+  "business_model": "按用量计费的Agent沙箱云：为模型训练/评测和生产Agent按需提供Linux/Windows/macOS隔离虚拟机，可暂停、恢复、克隆",
+  "metrics": [
+   {
+    "label": "融资",
+    "value": "$6000万B轮，估值$10亿，FirstMark领投；其中约$5000万来自老股东；累计融资约$9100万",
+    "source_type": "官方公布",
+    "source_url": "https://fortune.com/2026/10/20/daytona-startup-building-the-agentic-cloud-valued-at-1-billion-in-latest-funding-round/"
+   },
+   {
+    "label": "收入增长",
+    "value": "2026年1月至9月收入运行率增长25倍，月均增长50.9%",
+    "source_type": "创始人自述",
+    "source_url": "https://fortune.com/2026/10/20/daytona-startup-building-the-agentic-cloud-valued-at-1-billion-in-latest-funding-round/"
+   },
+   {
+    "label": "客户",
+    "value": "Anthropic、OpenAI、Nvidia、Cursor、Cognition、Meta、Cohere等；Snorkel在其平台上开过超过100万个沙箱",
+    "source_type": "官方公布",
+    "source_url": "https://techstartups.com/2026/10/20/daytona-raises-60m-at-1b-valuation-to-provide-ai-agent-infrastructure-to-openai-anthropic-and-others/"
+   },
+   {
+    "label": "性能",
+    "value": "新建一个沙箱约60毫秒（传统云虚拟机需30秒到数分钟）",
+    "source_type": "创始人自述",
+    "source_url": "https://fortune.com/2026/10/20/daytona-startup-building-the-agentic-cloud-valued-at-1-billion-in-latest-funding-round/"
+   }
+  ],
+  "why_it_works": "Agent要真正干活就需要一台电脑，但传统云为人类用户和高利用率设计，开机慢。Daytona把预配置好的机器快照提前铺到服务器硬盘上，需要时直接挂载算力恢复，做到毫秒级开机，还能“复制一台电脑并行试两种方案”。最先买单的是需要海量沙箱做强化学习训练和评测的前沿模型公司，需求量大、付费能力强。团队曾在剩3个月现金时把老业务的客户让给对手、整体转型，押中了这个窗口。",
+  "takeaway": "“模型在GPU上思考，Agent在CPU上干活”：Agent基础设施里，执行环境是一个被低估的独立层。先服务最大、最急的买家（模型实验室），再顺势吃下企业Agent部署。",
+  "innovation_score": 4,
+  "business_score": 5,
+  "tags": [
+   "Agent基础设施",
+   "沙箱",
+   "独角兽",
+   "开发者工具",
+   "产品转型"
+  ],
+  "website": "https://www.daytona.io",
+  "sources": [
+   "https://fortune.com/2026/10/20/daytona-startup-building-the-agentic-cloud-valued-at-1-billion-in-latest-funding-round/",
+   "https://techstartups.com/2026/10/20/daytona-raises-60m-at-1b-valuation-to-provide-ai-agent-infrastructure-to-openai-anthropic-and-others/",
+   "https://tech.eu/2026/10/20/daytona-hits-1b-valuation-with-60m-series-b-for-ai-agent-cloud/"
+  ],
+  "uncertain_points": "25倍、月均50.9%增长均为CEO对Fortune的口述，未公开收入绝对值；本轮新钱较少（约$1000万来自新投资人），估值主要由老股东定价。客户名单为公司自述。"
+ },
+ {
+  "date_collected": "2026-10-21",
+  "status": "new",
+  "id": "otter-ai-320m-non-dilutive-cvf",
+  "type": "profitable",
+  "name": "Otter.ai",
+  "one_liner": "老牌AI会议记录工具拿到General Catalyst“客户价值基金”$3.2亿不稀释股权的增长资金，ARR已过$1亿",
+  "category": "生产力办公",
+  "region": "海外",
+  "team_type": "初创公司",
+  "business_model": "个人/团队/企业订阅的AI会议记录与会议助手；本轮为按营销投放产出回款的非股权融资（带息偿还）",
+  "metrics": [
+   {
+    "label": "融资",
+    "value": "$3.2亿增长融资，来自General Catalyst Customer Value Fund，非股权、不稀释",
+    "source_type": "官方公布",
+    "source_url": "https://otter.ai/blog/general-catalyst-backs-otter-ais-voice-ai-ambitions-with-320m-growth-investment"
+   },
+   {
+    "label": "收入",
+    "value": "2025年ARR已超过$1亿；公司称正接近新里程碑但未给出新数字",
+    "source_type": "官方公布",
+    "source_url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/"
+   },
+   {
+    "label": "用户",
+    "value": "累计用户4000万（去年为2500万）",
+    "source_type": "官方公布",
+    "source_url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/"
+   },
+   {
+    "label": "历史融资",
+    "value": "此前股权融资合计约$5000万，最近一轮在2021年",
+    "source_type": "媒体报道",
+    "source_url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/"
+   }
+  ],
+  "why_it_works": "Otter只用约$5000万股权融资就做到$1亿+ARR，说明获客回本模型已被验证；CVF这类“按营销产出回款”的资金只投给获客效率可预测的公司。拿钱不稀释股权，用来加大企业销售和海外扩张。",
+  "takeaway": "当AI产品的获客回本周期稳定可算，就不一定要卖股权：营收型/非稀释融资是盈利型AI应用的另一条扩张路径。",
+  "innovation_score": 2,
+  "business_score": 5,
+  "tags": [
+   "会议记录",
+   "非稀释融资",
+   "ARR过亿",
+   "企业SaaS",
+   "语音AI"
+  ],
+  "website": "https://otter.ai",
+  "sources": [
+   "https://otter.ai/blog/general-catalyst-backs-otter-ais-voice-ai-ambitions-with-320m-growth-investment",
+   "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+   "https://www.investing.com/news/stock-market-news/otterai-raises-320-million-in-nonequity-financing-to-expand-enterprise-business-4960744"
+  ],
+  "uncertain_points": "$3.2亿是带息偿还的增长资金，不是股权融资，不对应估值；最新ARR、活跃用户和流失率均未披露，会议记录赛道竞争激烈（Granola、Fireflies、Read AI等）。"
+ },
+ {
+  "date_collected": "2026-10-21",
+  "status": "new",
+  "id": "arda-manufacturing-agent-230m",
+  "type": "both",
+  "name": "Arda",
+  "one_liner": "前OpenAI首席研究官Bob McGrew出山，做“制造工程师的Cursor”：把设计变更自动变成装配指令，已在Anduril落地，$2.3亿融资估值$15亿",
+  "category": "企业服务",
+  "region": "海外",
+  "team_type": "初创公司",
+  "business_model": "面向制造企业的AI软件与Agent：把产品设计转成产线装配指令、随设计变更快速更新；已集成进Anduril的ArsenalOS",
+  "metrics": [
+   {
+    "label": "融资",
+    "value": "累计$2.3亿（种子+A轮），估值$15亿，Altimeter、Accel、Khosla领投",
+    "source_type": "官方公布",
+    "source_url": "https://www.accel.com/news/our-investment-in-arda"
+   },
+   {
+    "label": "落地效果",
+    "value": "在Anduril，基础装配指令编写从约10小时降到15分钟，复杂工程流程从约30小时降到2.5小时",
+    "source_type": "媒体报道",
+    "source_url": "https://qz.com/arda-ai-manufacturing-startup-230-million-funding-102026"
+   },
+   {
+    "label": "客户",
+    "value": "Anduril已在生产中使用（通过ArsenalOS）",
+    "source_type": "官方公布",
+    "source_url": "https://www.cnbc.com/2026/10/20/ex-openai-executive-builds-1point5-billion-ai-manufacturing-startup-arda.html"
+   }
+  ],
+  "why_it_works": "美国制造业缺工、设计与产线脱节，设计一改就要人工重写大量装配文档。Arda切的是“设计→产线指令”这个高频、重人工的中间环节，第一个客户就是需求最急、迭代最快的国防制造商Anduril，用真实工时节省证明价值。",
+  "takeaway": "垂直Agent别只盯白领文档工作，工厂里“把设计翻译成操作”的知识工作同样适合AI，而且有明确的工时ROI可算。",
+  "innovation_score": 4,
+  "business_score": 4,
+  "tags": [
+   "制造业",
+   "工业Agent",
+   "国防",
+   "独角兽",
+   "明星创始人"
+  ],
+  "website": "",
+  "sources": [
+   "https://www.cnbc.com/2026/10/20/ex-openai-executive-builds-1point5-billion-ai-manufacturing-startup-arda.html",
+   "https://www.accel.com/news/our-investment-in-arda",
+   "https://qz.com/arda-ai-manufacturing-startup-230-million-funding-102026"
+  ],
+  "uncertain_points": "$2.3亿是种子+A轮累计数，单轮金额未拆分；工时节省数据来自公司/媒体转述，未见Anduril独立披露；未公布收入和客户数量。官网地址未核实，故留空。"
+ },
+ {
+  "date_collected": "2026-10-21",
+  "status": "new",
+  "id": "baba-ai-medicare-care-advocacy-40m",
+  "type": "both",
+  "name": "Baba",
+  "one_liner": "“护工+AI Agent”替美国老年医保患者跑保险电话、填表、对账单，$4000万A轮，CVS Health Ventures参投",
+  "category": "医疗健康",
+  "region": "海外",
+  "team_type": "初创公司",
+  "business_model": "与医保计划（Medicare/Medicaid）合作、走价值医疗分成：每位患者配专属照护团队（协调员+持牌治疗师），由AI Agent承担长周期的电话、文书和账单跟进",
+  "metrics": [
+   {
+    "label": "融资",
+    "value": "$4000万A轮，FirstMark领投，CVS Health Ventures、Valtruis新进，General Catalyst等跟投",
+    "source_type": "官方公布",
+    "source_url": "https://www.globenewswire.com/news-release/2026/10/20/3384598/0/en/applied-ai-company-baba-raises-40-million-series-a-to-improve-the-medicare-experience.html"
+   },
+   {
+    "label": "服务规模",
+    "value": "已服务超过1万名患者及家庭，等候名单超过10万个家庭",
+    "source_type": "官方公布",
+    "source_url": "https://www.globenewswire.com/news-release/2026/10/20/3384598/0/en/applied-ai-company-baba-raises-40-million-series-a-to-improve-the-medicare-experience.html"
+   },
+   {
+    "label": "政府项目",
+    "value": "6月入选CMS创新中心10年期ACCESS慢病照护模型，覆盖全部4个临床方向",
+    "source_type": "官方公布",
+    "source_url": "https://www.globenewswire.com/news-release/2026/10/20/3384598/0/en/applied-ai-company-baba-raises-40-million-series-a-to-improve-the-medicare-experience.html"
+   }
+  ],
+  "why_it_works": "老年患者看病的难点不在医学，而在保险、转诊、账单这些拖几周甚至几个月的琐事，过去只能靠家属。Baba把这些长周期跑腿交给AI Agent、关键环节由人兜底，大幅降低照护协调成本，让原本“服务不起”的人群变得有利可图；还自建BabaBench评测长周期患者代办任务。",
+  "takeaway": "“人在环中+AI干长尾琐事”的服务公司模式，在医疗这种高监管、高信任场景里比纯AI更容易拿到付费方（保险计划、政府项目）。",
+  "innovation_score": 4,
+  "business_score": 4,
+  "tags": [
+   "医疗",
+   "老年医保",
+   "AI服务公司",
+   "人机协作",
+   "价值医疗"
+  ],
+  "website": "https://www.callbaba.com",
+  "sources": [
+   "https://www.globenewswire.com/news-release/2026/10/20/3384598/0/en/applied-ai-company-baba-raises-40-million-series-a-to-improve-the-medicare-experience.html",
+   "https://firstmark.com/story/ai-native-care-leading-babas-40m-series-a/",
+   "https://www.axios.com/pro/health-tech-deals/2026/10/20/baba-40m-series-a-medicare"
+  ],
+  "uncertain_points": "未披露收入、单位经济和AI实际承担的工作比例；“10万家庭等候名单”为公司自述。"
+ },
+ {
+  "date_collected": "2026-10-21",
+  "status": "new",
+  "id": "openai-acquires-orchestra-bio-drug-dev-agents",
+  "type": "profitable",
+  "name": "Orchestra Bio（被OpenAI收购）",
+  "one_liner": "帮药企协调药物研发流程的AI Agent平台被OpenAI收购，并入其生命科学产品线Rosalind",
+  "category": "医疗健康",
+  "region": "海外",
+  "team_type": "初创公司",
+  "business_model": "面向生物制药团队的研发项目协同平台：Agent监控研究与试验进度、识别连锁延误风险、汇总信息并比较应对方案；被收购后并入OpenAI Rosalind",
+  "metrics": [
+   {
+    "label": "收购",
+    "value": "OpenAI宣布收购Orchestra Bio，团队与技术并入Rosalind；交易金额未披露",
+    "source_type": "官方公布",
+    "source_url": "https://openai.com/index/openai-to-acquire-orchestra-bio/"
+   },
+   {
+    "label": "投资方",
+    "value": "8VC发文确认被投企业加入OpenAI",
+    "source_type": "官方公布",
+    "source_url": "https://8vc.com/resources/orchestra-bio-is-joining-openai"
+   }
+  ],
+  "why_it_works": "药物研发周期10–15年，大量时间耗在跨部门、跨外包方的协调上：一个生产批次失败可能拖延临床试验。Orchestra把“盯进度、算连锁影响、准备决策材料”交给Agent，正好补上OpenAI从“科研推理”走向“研发执行”的缺口。",
+  "takeaway": "垂直Agent的另一种退出：做大模型公司向行业纵深延伸时缺的“工作流层”，比单纯做模型能力更容易被收购。",
+  "innovation_score": 3,
+  "business_score": 3,
+  "tags": [
+   "收购",
+   "生物医药",
+   "药物研发",
+   "OpenAI",
+   "垂直Agent"
+  ],
+  "website": "",
+  "sources": [
+   "https://openai.com/index/openai-to-acquire-orchestra-bio/",
+   "https://www.axios.com/2026/10/20/exclusive-openai-biotech-startup-drug-development",
+   "https://8vc.com/resources/orchestra-bio-is-joining-openai"
+  ],
+  "uncertain_points": "交易金额、Orchestra原有客户和收入均未披露；产品并入后的上线时间未公布。"
+ },
+ {
+  "date_collected": "2026-10-21",
+  "status": "new",
+  "id": "firefly-ember-physical-safety-ai-20m",
+  "type": "both",
+  "name": "Firefly",
+  "one_liner": "把学校、医院现有摄像头、对讲机和传感器连成一个AI安全大脑，自动发现事件并调度响应，$2000万A轮",
+  "category": "企业服务",
+  "region": "海外",
+  "team_type": "初创公司",
+  "business_model": "软硬一体的安全管理平台Ember：软件接入现有摄像头/对讲/传感器，另售可穿戴紧急按钮、AI信标（定位、枪声检测）与网关",
+  "metrics": [
+   {
+    "label": "融资",
+    "value": "$2000万A轮，Definition Capital领投，BoxGroup、Susa Ventures跟投",
+    "source_type": "媒体报道",
+    "source_url": "https://siliconangle.com/2026/10/20/ai-startup-firefly-secures-20m-to-make-the-physical-world-a-safer-place/"
+   },
+   {
+    "label": "客户",
+    "value": "科罗拉多州最大社区学院Front Range Community College三个校区已部署",
+    "source_type": "媒体报道",
+    "source_url": "https://siliconangle.com/2026/10/20/ai-startup-firefly-secures-20m-to-make-the-physical-world-a-safer-place/"
+   }
+  ],
+  "why_it_works": "安防设备各自为政：摄像头能看、对讲能说、传感器能报警，但没人把信息串起来。Firefly不要求客户换设备，而是在现有设备上叠一层AI，把多源信号合成“发生了什么、该谁去”的指令，降低了采购门槛。",
+  "takeaway": "物理世界AI的务实切入点是“利旧+编排”：先接住客户已有的硬件，再用少量自有硬件补关键缺口。",
+  "innovation_score": 3,
+  "business_score": 3,
+  "tags": [
+   "物理AI",
+   "校园安全",
+   "安防",
+   "软硬一体"
+  ],
+  "website": "",
+  "sources": [
+   "https://siliconangle.com/2026/10/20/ai-startup-firefly-secures-20m-to-make-the-physical-world-a-safer-place/",
+   "https://www.axios.com/pro/enterprise-software-deals/2026/10/20/safety-software-ai-firefly"
+  ],
+  "uncertain_points": "仅披露一个标杆客户，未披露收入与部署规模；Axios原文为付费墙，未能全文核对。官网地址未核实，故留空。"
+ },
+ {
+  "date_collected": "2026-10-21",
+  "status": "new",
+  "id": "yelp-check-for-me-ai-call-wait-times",
+  "type": "innovative",
+  "name": "Yelp Check for Me",
+  "one_liner": "Yelp让AI语音Agent替用户给餐厅打电话问排队时间，再把结果短信发回；同时推$30/月的商家AI线索回复",
+  "category": "电商零售",
+  "region": "海外",
+  "team_type": "大公司",
+  "business_model": "C端功能免费以提升平台使用；B端新付费产品Smart Lead Reply每月$30，替服务商自动回复并筛选询盘线索",
+  "metrics": [
+   {
+    "label": "新功能",
+    "value": "Check for Me：在餐厅页输入人数和手机号，AI代打电话查排队时间并短信回复；在美国符合条件的餐厅页和iOS版Yelp Assistant上线",
+    "source_type": "官方公布",
+    "source_url": "https://blog.yelp.com/news/fall-product-release-2026/"
+   },
+   {
+    "label": "B端定价",
+    "value": "Smart Lead Reply每月$30",
+    "source_type": "媒体报道",
+    "source_url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/"
+   }
+  ],
+  "why_it_works": "“打电话问一下要排多久”是很小但很真实的麻烦，很多餐厅没有线上排队系统。Yelp本来就掌握餐厅电话和用户意图，把语音Agent直接放进决策页面，几乎没有学习成本；同时用B端$30/月的AI回复产品变现。",
+  "takeaway": "C端Agent最容易成功的是“替你打一个电话”这种边界清楚、结果可验证的小任务，而且最好嵌在用户已经在用的平台里。",
+  "innovation_score": 4,
+  "business_score": 2,
+  "tags": [
+   "语音Agent",
+   "本地生活",
+   "代打电话",
+   "平台型产品"
+  ],
+  "website": "https://www.yelp.com",
+  "sources": [
+   "https://blog.yelp.com/news/fall-product-release-2026/",
+   "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
+   "https://www.theverge.com/tech/1008436/yelps-ai-can-call-a-restaurant-to-check-wait-times-for-you-and-text-you-the-answer"
+  ],
+  "uncertain_points": "刚上线，暂无使用量数据；TechCrunch指出若餐厅一端也是AI接听，Agent对Agent的对话可能失灵。"
+ },
+ {
+  "date_collected": "2026-10-21",
+  "status": "new",
+  "id": "sierra-stripe-in-call-agent-payments",
+  "type": "innovative",
+  "name": "Sierra × Stripe（通话中付款）",
+  "one_liner": "客服AI Agent在电话里直接收款：切到安全付款模式、用户按键输卡号、Stripe处理后Agent回来确认；Cedar的付款成功率71.3%",
+  "category": "客服销售",
+  "region": "海外",
+  "team_type": "初创公司",
+  "business_model": "Sierra按企业客户收费的客服Agent平台；上架Stripe应用市场，任何Stripe商家可直接接入通话收款",
+  "metrics": [
+   {
+    "label": "转化",
+    "value": "Cedar的客服Agent Kora中，开始付款的通话有71.3%成功完成付款",
+    "source_type": "官方公布",
+    "source_url": "https://sierra.ai/blog/from-conversation-to-payment-sierra-and-stripe"
+   },
+   {
+    "label": "分发",
+    "value": "Sierra上架Stripe App Marketplace，无需定制集成",
+    "source_type": "官方公布",
+    "source_url": "https://sierra.ai/blog/from-conversation-to-payment-sierra-and-stripe"
+   }
+  ],
+  "why_it_works": "客服Agent从“答疑”走向“带来收入”，最大的断点就是付款时被转人工或发链接。把敏感的卡号输入交给按键+Stripe处理、Agent暂时离场，既解决合规顾虑又不打断对话；医疗账单这类高焦虑场景最能体现价值。",
+  "takeaway": "Agent商业化的关键一环是“当场成交”：谁先把付款嵌进对话，谁就能把客服成本中心变成收入中心。",
+  "innovation_score": 4,
+  "business_score": 3,
+  "tags": [
+   "客服Agent",
+   "语音支付",
+   "Stripe",
+   "Agent商务"
+  ],
+  "website": "https://sierra.ai",
+  "sources": [
+   "https://sierra.ai/blog/from-conversation-to-payment-sierra-and-stripe",
+   "https://thenextweb.com/news/sierra-stripe-payments-ai-agent-calls",
+   "https://www.unite.ai/sierra-partners-with-stripe-to-bring-payments-into-ai-agent-calls/"
+  ],
+  "uncertain_points": "有消息称Sierra的通话收款能力4月起已可用，本次新增的主要是上架Stripe应用市场和公开案例；71.3%仅为单一客户Cedar的数据。"
+ },
+ {
+  "date_collected": "2026-10-21",
+  "status": "new",
+  "id": "meta-muse-agent-10m-us-downloads-40-days",
+  "type": "innovative",
+  "name": "Meta Muse",
+  "one_liner": "Meta的个人AI Agent应用Muse上线40天美国下载破1000万，是史上第12个做到的App，留存高于ChatGPT同期",
+  "category": "生产力办公",
+  "region": "海外",
+  "team_type": "大公司",
+  "business_model": "免费个人Agent（云端浏览器代用户搜索、填表、加购、结账、打电话），服务Meta生态；商业化方式未公布",
+  "metrics": [
+   {
+    "label": "下载量",
+    "value": "9月8日上线以来累计1090万次下载，其中美国1020万；上线40天美国下载破千万，第12个达成的App",
+    "source_type": "第三方数据",
+    "source_url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/"
+   },
+   {
+    "label": "对比",
+    "value": "ChatGPT上线头40天美国下载370万；Muse美国7日留存30%、14日留存23%（ChatGPT为19%、16%）",
+    "source_type": "第三方数据",
+    "source_url": "https://finance.yahoo.com/markets/article/metas-muse-ai-agent-hits-109-million-downloads-as-chatgpt-slides-25-153532560.html"
+   }
+  ],
+  "why_it_works": "Muse不是聊天机器人而是“替你办事”的Agent，每次对话背后都有一台云端浏览器，能完成下单、填表等动作；借助Meta的分发和美国用户基础迅速起量，且留存数据说明不只是尝鲜。",
+  "takeaway": "消费级Agent的规模化已经被大厂验证：留给创业公司的机会在垂直场景、可信度和对接商家的“Agent友好”基础设施。",
+  "innovation_score": 4,
+  "business_score": 2,
+  "tags": [
+   "个人Agent",
+   "消费级AI",
+   "Meta",
+   "下载量"
+  ],
+  "website": "",
+  "sources": [
+   "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
+   "https://www.theverge.com/ai-artificial-intelligence/1014440/metas-muse-ai-hits-10-million-us-downloads",
+   "https://finance.yahoo.com/markets/article/metas-muse-ai-agent-hits-109-million-downloads-as-chatgpt-slides-25-153532560.html"
+  ],
+  "uncertain_points": "数据来自Sensor Tower估算，非Meta官方；下载不等于活跃。同期Muse因分享链接可被公开发现而暂停分享功能，存在隐私争议。官网地址未核实，故留空。"
+ },
+ {
+  "date_collected": "2026-10-21",
+  "status": "new",
+  "id": "eka-robotics-vision-force-action-145b",
+  "type": "innovative",
+  "name": "Eka Robotics",
+  "one_liner": "MIT教授创办，用“视觉-力觉-动作”模型加力敏灵巧手，让机器人每小时抓取约1500件物品，A轮$1.5亿估值$14.5亿",
+  "category": "硬件与端侧",
+  "region": "海外",
+  "team_type": "初创公司",
+  "business_model": "面向工业客户的机器人操作方案（抓取放置、线缆操作等），目前以保密试点为主",
+  "metrics": [
+   {
+    "label": "融资",
+    "value": "$1.5亿A轮，投后估值$14.5亿，a16z与F-Prime领投",
+    "source_type": "官方公布",
+    "source_url": "https://a16z.com/announcement/investing-in-eka-robotics/"
+   },
+   {
+    "label": "性能",
+    "value": "每小时可抓取约1500个1kg以内物品（人类约600个），可靠抓取率95%以上",
+    "source_type": "官方公布",
+    "source_url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/"
+   }
+  ],
+  "why_it_works": "机器人抓取的短板是“没有手感”。Eka放弃主流的视觉-语言-动作路线，改为把力觉输入放进模型核心，并配套自研多传感器灵巧手，用物理仿真生成强化学习环境，解决了易碎、软性物体的抓取问题。",
+  "takeaway": "具身智能的差异化可能来自“换一种输入模态”而非堆更多视频数据；软硬协同设计是护城河。",
+  "innovation_score": 5,
+  "business_score": 2,
+  "tags": [
+   "具身智能",
+   "机器人抓取",
+   "力觉",
+   "独角兽"
+  ],
+  "website": "https://ekarobotics.com",
+  "sources": [
+   "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+   "https://a16z.com/announcement/investing-in-eka-robotics/",
+   "https://ekarobotics.com/"
+  ],
+  "uncertain_points": "性能数据为公司演示/自述；工业客户为保密试点，尚未证明产线规模化，也没有收入数据。"
+ },
+ {
+  "date_collected": "2026-10-21",
+  "status": "new",
+  "id": "pexo-apex-context-video-agent-angel",
+  "type": "both",
+  "name": "Pexo（极致上下文）",
+  "one_liner": "字节/生数系团队做的视频Agent：说清需求即可交付带配音字幕的成片，上线约3个月ARR破百万美元，获超千万美元天使轮",
+  "category": "营销内容",
+  "region": "中国",
+  "team_type": "初创公司",
+  "business_model": "面向海外用户的积分/订阅制AI视频Agent，主打新品发布、品牌营销、教育课程等商业内容，按生成额度付费",
+  "metrics": [
+   {
+    "label": "融资",
+    "value": "超千万美元天使轮，达泰资本、松禾创投、视觉中国、深圳天使母基金、深圳高新投、福迪创投投资",
+    "source_type": "媒体报道",
+    "source_url": "https://www.woshipm.com/ai/6481261.html"
+   },
+   {
+    "label": "收入",
+    "value": "7月上线以来ARR突破100万美元",
+    "source_type": "创始人自述",
+    "source_url": "https://www.woshipm.com/ai/6481261.html"
+   },
+   {
+    "label": "用户",
+    "value": "近百万注册用户，覆盖80多个国家和地区，约80%流量来自英美澳加；付费用户复购率超50%，单用户单月最高付费超$3000",
+    "source_type": "创始人自述",
+    "source_url": "https://www.woshipm.com/ai/6481261.html"
+   },
+   {
+    "label": "社区热度",
+    "value": "Product Hunt 9月30日日榜第1",
+    "source_type": "第三方数据",
+    "source_url": "https://hunted.space/product/pexo-2"
+   }
+  ],
+  "why_it_works": "AI视频工具多是“工具箱”，用户仍要自己选模型、写提示词、剪辑拼接。Pexo把整条制作链交给Agent：规划分镜、调用不同视频模型、用代码系统精确生成文字图表动画，再支持“圈画修改”（Mark to Fix）。瞄准的是有内容预算但不会做视频的创业团队、房产经纪人、教育者，替代的是代理商和外包预算。",
+  "takeaway": "内容Agent的付费逻辑是“替代制作预算”而非“卖工具订阅”：卖结果、按额度收费，海外高价值市场更容易起量。",
+  "innovation_score": 4,
+  "business_score": 3,
+  "tags": [
+   "视频Agent",
+   "出海",
+   "AIGC",
+   "天使轮",
+   "营销视频"
+  ],
+  "website": "https://pexo.ai",
+  "sources": [
+   "https://www.woshipm.com/ai/6481261.html",
+   "https://laoyaoba.com/n/1121356",
+   "https://xiuxiu.huxiu.com/hxgpt_agent/fin_daily/2026-10-20.html"
+  ],
+  "uncertain_points": "ARR、注册用户、复购率均为公司自述；不同媒体对融资额有“超千万美元”和“数百万美元”（后者疑为2025年10月前一轮）两种说法，需注意区分。"
+ },
+ {
+  "date_collected": "2026-10-21",
+  "status": "new",
+  "id": "petlibro-ai-pet-health-hardware",
+  "type": "profitable",
+  "name": "Petlibro",
+  "one_liner": "前苹果工程师、Jackery联创伍昱做的智能宠物硬件出海品牌，用AI视觉+称重识别每只猫的进食、饮水和如厕，36氪称年营收超10亿元",
+  "category": "硬件与端侧",
+  "region": "中国",
+  "team_type": "初创公司",
+  "business_model": "主攻北美的高端智能宠物硬件（喂食器、饮水机、猫砂盆），以健康数据为核心，长期向预防性健康服务/订阅延伸",
+  "metrics": [
+   {
+    "label": "营收",
+    "value": "标题称年营收超10亿元人民币，正文另有“年营收数亿”的表述",
+    "source_type": "媒体报道",
+    "source_url": "https://www.ai-club.cn/news-article/45855"
+   },
+   {
+    "label": "融资",
+    "value": "获红杉中国、深创投等机构投资（未披露本轮金额与时间）",
+    "source_type": "媒体报道",
+    "source_url": "https://www.ai-club.cn/news-article/45855"
+   },
+   {
+    "label": "单品",
+    "value": "带精准称重算法的饮水机定价60–70美元，上线首日销量破千台",
+    "source_type": "创始人自述",
+    "source_url": "https://www.ai-club.cn/news-article/45855"
+   }
+  ],
+  "why_it_works": "白牌喂食器卖40–60美元，Petlibro反向定价更高，因为卖的是“健康数据”：饮水机能区分宠物喝水、人加水和误碰；猫砂盆用AI视觉识别是哪只猫、记录排泄频次和类型，多宠家庭（北美超过50%）刚需明显。硬件易被复制，但跨设备数据和算法难复制。",
+  "takeaway": "消费硬件+AI的溢价来自“把模糊焦虑变成可量化的数据”，先在一个强需求指标（猫的饮水量）上跑通闭环，再扩SKU。",
+  "innovation_score": 3,
+  "business_score": 4,
+  "tags": [
+   "宠物",
+   "智能硬件",
+   "出海",
+   "AI视觉",
+   "健康监测"
+  ],
+  "website": "https://petlibro.com",
+  "sources": [
+   "https://www.ai-club.cn/news-article/45855",
+   "https://eu.36kr.com/en/p/4026637554963074",
+   "https://www.163.com/dy/article/L9MLVE1605118DFD.html"
+  ],
+  "uncertain_points": "36氪专访标题写“年营收超10亿”，正文却写“年营收数亿”，口径不一致；没有新的融资事件，本条属于10月20日专访披露的经营信息；AI健康预警仍停留在“采集+预警”阶段，创始人自认尚未形成健康闭环。官网可访问。"
+ }
+]
