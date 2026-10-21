@@ -1,0 +1,454 @@
+[
+ {
+  "id": "legora-legal-aos-200m-arr-series-e",
+  "type": "both",
+  "name": "Legora",
+  "one_liner": "律师用的“智能体操作系统”：ARR超$2亿，$5.5亿E轮估值$88亿",
+  "category": "法律金融",
+  "region": "海外",
+  "team_type": "初创公司",
+  "business_model": "面向律所和企业法务的SaaS订阅，按席位/组织销售，直销团队打单，覆盖尽调、起草、法律检索、Agent工作流等",
+  "metrics": [
+   {
+    "label": "融资",
+    "value": "$5.5亿E轮，投后估值$88亿（上一轮$56亿），Atreides领投，Fidelity、Capital Group、J.P. Morgan等新进",
+    "source_type": "官方公布",
+    "source_url": "https://legora.com/newsroom/legora-raises-550-million-series-e-at-8.8-billion-valuation-to-accelerate-growth"
+   },
+   {
+    "label": "ARR",
+    "value": "超$2亿；从$100万到$1亿用时不到18个月，第二个$1亿用时不到6个月",
+    "source_type": "官方公布",
+    "source_url": "https://legora.com/newsroom/legora-raises-550-million-series-e-at-8.8-billion-valuation-to-accelerate-growth"
+   },
+   {
+    "label": "客户",
+    "value": "2400+家律所和企业法务、14万+法律从业者；超过一半AmLaw 50律所为客户；Q3新客中企业法务占40%+",
+    "source_type": "官方公布",
+    "source_url": "https://legora.com/newsroom/legora-raises-550-million-series-e-at-8.8-billion-valuation-to-accelerate-growth"
+   },
+   {
+    "label": "对比",
+    "value": "4月时ARR为$1亿；最大对手Harvey上月以$155亿估值融资$5.5亿",
+    "source_type": "媒体报道",
+    "source_url": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/"
+   }
+  ],
+  "why_it_works": "法律工作文档密集、按小时计费、错误代价高，律所愿意为能真正完成多步骤任务的工具付高价。Legora从“AI助手”升级为律师和Agent共同工作的操作系统，嵌进Word、Outlook等原有工具，先拿下欧洲再靠直销打进美国大所，形成“采用后在组织内扩张”的增长。",
+  "takeaway": "垂直行业AI的天花板可以很高：选一个高客单价、高时薪的专业行业，做深工作流而不是做通用聊天，再用直销拿下头部客户形成口碑。",
+  "innovation_score": 4,
+  "business_score": 5,
+  "tags": [
+   "法律AI",
+   "垂直SaaS",
+   "Agent",
+   "高速增长",
+   "欧洲"
+  ],
+  "website": "https://legora.com",
+  "sources": [
+   "https://legora.com/newsroom/legora-raises-550-million-series-e-at-8.8-billion-valuation-to-accelerate-growth",
+   "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/",
+   "https://thenextweb.com/news/legora-series-e-550m-8-8bn-valuation"
+  ],
+  "uncertain_points": "ARR、增长速度和客户数均为公司自述；“比任何直销企业软件都快”是公司说法，未见独立核实。",
+  "date_collected": "2026-10-22",
+  "status": "new"
+ },
+ {
+  "id": "blacksmith-ci-for-ai-code-unicorn",
+  "type": "profitable",
+  "name": "Blacksmith",
+  "one_liner": "给AI写的代码做“验收”的CI基础设施：ARR涨17倍，红杉领投$6600万C轮成独角兽",
+  "category": "编程开发",
+  "region": "海外",
+  "team_type": "初创公司",
+  "business_model": "按用量计费的CI（持续集成）计算服务，客户改一行工作流配置即可迁移",
+  "metrics": [
+   {
+    "label": "融资",
+    "value": "$6600万C轮，估值$10亿，红杉领投；两个月前B轮估值$5.5亿，一年前A轮估值$6000万；累计融资$1.25亿",
+    "source_type": "官方公布",
+    "source_url": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/"
+   },
+   {
+    "label": "增长",
+    "value": "ARR增长17倍（未披露基期和绝对值）；累计运行超9000万个CI任务",
+    "source_type": "官方公布",
+    "source_url": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/"
+   },
+   {
+    "label": "性能",
+    "value": "称CI任务平均快2倍、成本低60%",
+    "source_type": "官方公布",
+    "source_url": "https://crosswalk.to/crosswalk/deals/2026-10-21"
+   }
+  ],
+  "why_it_works": "Agent写代码的量暴涨，每次改动都要构建和测试，CI成了新瓶颈。Blacksmith专做更快更便宜的CI机器，迁移成本极低（一行配置），AI编码越普及它的用量越大，属于“卖铲子”。",
+  "takeaway": "AI编码的下游环节（测试、验证、审查）会随代码量一起放大，找被AI放大的瓶颈比直接做AI本身更稳。",
+  "innovation_score": 3,
+  "business_score": 5,
+  "tags": [
+   "开发者工具",
+   "CI",
+   "AI编码",
+   "独角兽",
+   "基础设施"
+  ],
+  "website": "https://www.blacksmith.sh",
+  "sources": [
+   "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
+   "https://crosswalk.to/crosswalk/deals/2026-10-21"
+  ],
+  "uncertain_points": "“ARR涨17倍”未说明时间区间和收入绝对值；性能数字为公司自述。",
+  "date_collected": "2026-10-22",
+  "status": "new"
+ },
+ {
+  "id": "pigment-autonomous-planning-agents-series-e",
+  "type": "both",
+  "name": "Pigment",
+  "one_liner": "企业预算规划平台，85%的新指标由Agent建出：ARR过$1亿，$2.5亿E轮估值$23亿",
+  "category": "企业服务",
+  "region": "海外",
+  "team_type": "初创公司",
+  "business_model": "企业级规划与绩效管理SaaS订阅（预算、销售目标、人员规划），按企业合同收费",
+  "metrics": [
+   {
+    "label": "融资",
+    "value": "$2.5亿E轮，估值$23亿，EQT管理的Scaleup Europe Fund领投，英伟达计划投资",
+    "source_type": "官方公布",
+    "source_url": "https://www.pigment.com/newsroom/pigment-raises-250m-series-e"
+   },
+   {
+    "label": "ARR",
+    "value": "2026年早些时候突破$1亿，再次同比翻倍",
+    "source_type": "官方公布",
+    "source_url": "https://www.pigment.com/newsroom/pigment-raises-250m-series-e"
+   },
+   {
+    "label": "AI使用",
+    "value": "85%的新指标由Agent创建；84%的账户每周使用AI；9个月上线50+项AI功能",
+    "source_type": "官方公布",
+    "source_url": "https://www.pigment.com/blog/pigment-announces-250m-series-e-funding"
+   },
+   {
+    "label": "客户",
+    "value": "Danone、Siemens、Snowflake、Unilever、Anthropic、ElevenLabs；L'Oréal将9.5万+员工的薪资规划迁入",
+    "source_type": "媒体报道",
+    "source_url": "https://thenextweb.com/news/pigment-250m-series-e-scaleup-europe-fund"
+   }
+  ],
+  "why_it_works": "企业规划长期靠Excel和老旧工具，模型搭建繁琐。Pigment先有自研计算引擎保证数字准确可追溯，再让Agent用自然语言建模型、跑情景，AI功能直接转化成使用量和续约，并向“自动规划”延伸。",
+  "takeaway": "老软件品类里，谁先有可信的底层数据和计算层，谁就能把Agent做成真功能而不是噱头；“Agent创建占比”是很好的产品指标。",
+  "innovation_score": 4,
+  "business_score": 5,
+  "tags": [
+   "企业规划",
+   "FP&A",
+   "Agent",
+   "欧洲",
+   "SaaS"
+  ],
+  "website": "https://www.pigment.com",
+  "sources": [
+   "https://www.pigment.com/newsroom/pigment-raises-250m-series-e",
+   "https://thenextweb.com/news/pigment-250m-series-e-scaleup-europe-fund",
+   "https://www.pigment.com/blog/pigment-announces-250m-series-e-funding"
+  ],
+  "uncertain_points": "英伟达投资尚为“计划”，金额未定；85%等AI使用指标为公司口径，衡量的是产品内行为而非收入。",
+  "date_collected": "2026-10-22",
+  "status": "new"
+ },
+ {
+  "id": "mach9-ai-cad-civil-engineering-series-a",
+  "type": "both",
+  "name": "Mach9",
+  "one_liner": "从做硬件转做AI CAD：把激光扫描自动画成土木工程图，快10倍，$3400万A轮",
+  "category": "设计创意",
+  "region": "海外",
+  "team_type": "初创公司",
+  "business_model": "面向测绘和土木工程公司的AI CAD软件（私测阶段），按项目/订阅销售",
+  "metrics": [
+   {
+    "label": "融资",
+    "value": "$3400万A轮，First Round与Bessemer联合领投，累计融资$4900万",
+    "source_type": "官方公布",
+    "source_url": "https://www.prnewswire.com/news-releases/mach9-raises-34m-series-a-to-bring-civil-engineering-into-the-ai-era-302915153.html"
+   },
+   {
+    "label": "客户",
+    "value": "私测版近100家客户，已用于2500+个项目",
+    "source_type": "创始人自述",
+    "source_url": "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/"
+   },
+   {
+    "label": "效率",
+    "value": "称比传统软件快10倍；传统人工约一周画一英里",
+    "source_type": "创始人自述",
+    "source_url": "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/"
+   }
+  ],
+  "why_it_works": "激光雷达等采集设备已很成熟，真正慢的是把海量扫描数据手工描成可用的工程图。Mach9自研厘米级精度模型自动出初稿，再给工程师编辑和签字的工具，保留持证工程师的责任链，容易被保守行业接受。",
+  "takeaway": "客户一句“我不缺更便宜的硬件，缺更好的软件”促成了转型；在传统行业里，“AI出初稿+专业人员审签”是最容易落地的形态。",
+  "innovation_score": 4,
+  "business_score": 3,
+  "tags": [
+   "AI CAD",
+   "土木工程",
+   "建筑科技",
+   "产品转型",
+   "垂直AI"
+  ],
+  "website": "",
+  "sources": [
+   "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/",
+   "https://www.prnewswire.com/news-releases/mach9-raises-34m-series-a-to-bring-civil-engineering-into-the-ai-era-302915153.html"
+  ],
+  "uncertain_points": "客户为私测阶段，未披露收入；10倍提速为公司说法。官网地址未核实，故留空。",
+  "date_collected": "2026-10-22",
+  "status": "new"
+ },
+ {
+  "id": "ygo-travel-inventory-for-ai-agents",
+  "type": "both",
+  "name": "YGO",
+  "one_liner": "让航司、酒店的库存能被AI助手直接搜和订：上线半年ARR达七位数，€800万A轮",
+  "category": "电商零售",
+  "region": "海外",
+  "team_type": "初创公司",
+  "business_model": "面向旅游供应商和OTA的数据与集成层SaaS：结构化产品数据，支持语义搜索、推荐、客服和通过外部AI助手下单",
+  "metrics": [
+   {
+    "label": "融资",
+    "value": "€800万A轮，Ventech领投",
+    "source_type": "官方公布",
+    "source_url": "https://www.startup.eu/archive/2026-10-21"
+   },
+   {
+    "label": "ARR",
+    "value": "商业化后6个月内达到七位数（欧元/美元未明确）",
+    "source_type": "官方公布",
+    "source_url": "https://pomegra.io/startups/ygo-raises-8m-to-put-travel-stock-in-ai-agents-reach-2026-10-21"
+   },
+   {
+    "label": "客户与交易",
+    "value": "约10家客户（含Condor、Bentour），累计处理订单超€1500万",
+    "source_type": "官方公布",
+    "source_url": "https://pomegra.io/startups/ygo-raises-8m-to-put-travel-stock-in-ai-agents-reach-2026-10-21"
+   },
+   {
+    "label": "客户效果",
+    "value": "一家航司称人工操作减少90%、转化率提升20%",
+    "source_type": "官方公布",
+    "source_url": "https://pomegra.io/startups/ygo-raises-8m-to-put-travel-stock-in-ai-agents-reach-2026-10-21"
+   }
+  ],
+  "why_it_works": "越来越多人用聊天式助手规划旅行，但旅游库存数据零散、不规范，Agent很难可靠比价下单。YGO把每家酒店整理出5000+条核实事实，让供应商不用重建预订系统就能接入AI渠道。",
+  "takeaway": "“让你的商品能被AI Agent读懂和购买”正在成为一门生意，任何数据混乱的行业都可以复制这个中间层思路。",
+  "innovation_score": 4,
+  "business_score": 3,
+  "tags": [
+   "Agent商务",
+   "旅游",
+   "数据基础设施",
+   "欧洲",
+   "A轮"
+  ],
+  "website": "",
+  "sources": [
+   "https://pomegra.io/startups/ygo-raises-8m-to-put-travel-stock-in-ai-agents-reach-2026-10-21",
+   "https://www.startup.eu/archive/2026-10-21"
+  ],
+  "uncertain_points": "ARR、订单额和客户效果均为公司自述，客户样本小；官网地址未核实，故留空。",
+  "date_collected": "2026-10-22",
+  "status": "new"
+ },
+ {
+  "id": "opply-agentic-os-cpg-procurement",
+  "type": "profitable",
+  "name": "Opply",
+  "one_liner": "替消费品牌采购、下单、付款的AI Agent系统：营收一年涨15倍，$750万融资",
+  "category": "电商零售",
+  "region": "海外",
+  "team_type": "初创公司",
+  "business_model": "面向食品饮料等CPG品牌的Agent操作系统：代找供应商、下单、核验合规文件并先行垫付货款，品牌90天内还款（类供应链金融）",
+  "metrics": [
+   {
+    "label": "融资",
+    "value": "$750万，Chalfen Ventures领投，Index Ventures等跟投",
+    "source_type": "官方公布",
+    "source_url": "https://www.prnewswire.com/news-releases/opply-raises-7-5m-after-15x-growth-to-bring-agentic-ai-to-cpg-operations-302914661.html"
+   },
+   {
+    "label": "营收增长",
+    "value": "过去12个月总营收增长15倍；美国业务自2025年进入芝加哥以来增长30倍",
+    "source_type": "官方公布",
+    "source_url": "https://techfundingnews.com/opply-raises-7-5m-ai-agents-supply-chains/"
+   },
+   {
+    "label": "客户效果",
+    "value": "Agua de Madre、RMBR等品牌一年内降本40%、ROI 12倍（部分来自更长账期）",
+    "source_type": "官方公布",
+    "source_url": "https://techfundingnews.com/opply-raises-7-5m-ai-agents-supply-chains/"
+   }
+  ],
+  "why_it_works": "小消费品牌没有专职采购团队，供应链琐碎又占现金。Opply的Agent直接执行而非只给建议，关键支出仍需品牌批准；再叠加垫付和账期，把“省时间”和“省现金”打包卖。",
+  "takeaway": "Agent+金融能力（垫付、账期）可以显著提高客单价和黏性，执行型Agent更容易按成果收费。",
+  "innovation_score": 3,
+  "business_score": 4,
+  "tags": [
+   "采购Agent",
+   "供应链",
+   "CPG",
+   "嵌入式金融",
+   "英国"
+  ],
+  "website": "https://opply.com",
+  "sources": [
+   "https://www.prnewswire.com/news-releases/opply-raises-7-5m-after-15x-growth-to-bring-agentic-ai-to-cpg-operations-302914661.html",
+   "https://techfundingnews.com/opply-raises-7-5m-ai-agents-supply-chains/",
+   "https://tech.eu/2026/10/21/opply-raises-75m-to-expand-its-agentic-ai-platform-for-cpg-brands/"
+  ],
+  "uncertain_points": "“总营收”可能包含垫付的货款流水，不等于软件收入；15倍增长未披露绝对值。",
+  "date_collected": "2026-10-22",
+  "status": "new"
+ },
+ {
+  "id": "today-ai-proactive-personal-assistant-200m",
+  "type": "innovative",
+  "name": "Today（汇翮智能）",
+  "one_liner": "前飞书副总裁、豆包PC负责人齐俊元创业的“主动式”个人AI助理，累计融资超$2亿",
+  "category": "生产力办公",
+  "region": "中国",
+  "team_type": "初创公司",
+  "business_model": "面向个人的多端AI助理（iOS、安卓、Windows、Mac、Linux），商业化方式暂未公布",
+  "metrics": [
+   {
+    "label": "融资",
+    "value": "累计超$2亿，IDG资本、腾讯、五源、蚂蚁集团、红杉中国、传音控股等参投",
+    "source_type": "媒体报道",
+    "source_url": "https://news.pedaily.cn/202610/570603.shtml"
+   },
+   {
+    "label": "产品",
+    "value": "国内版于2026年9月25日上线，已结束内测",
+    "source_type": "媒体报道",
+    "source_url": "https://news.pedaily.cn/202610/570603.shtml"
+   }
+  ],
+  "why_it_works": "多数助手是“你问它答”，Today主打主动记录用户的日程、工作、健康等并主动提醒和规划，靠长期记忆和跨应用连接做出个性化。创始人有Teambition、阿里云盘、飞书、豆包PC的产品经验，资本押的是“个人Agent入口”。",
+  "takeaway": "个人Agent的竞争点正从“回答能力”转向“记住你、主动做事”；大厂产品负责人带着入口级想象出来创业，能拿到超大早期融资。",
+  "innovation_score": 4,
+  "business_score": 2,
+  "tags": [
+   "个人助理",
+   "主动式AI",
+   "个人Agent",
+   "大额融资",
+   "中国"
+  ],
+  "website": "",
+  "sources": [
+   "https://news.pedaily.cn/202610/570603.shtml",
+   "https://www.chaincatcher.com/article/2297791",
+   "https://m.rccaijing.com/news-7518497228077069641.html"
+  ],
+  "uncertain_points": "为“累计”融资额，未拆分轮次与估值；用户规模和收入均未披露；官网地址未核实，故留空。",
+  "date_collected": "2026-10-22",
+  "status": "new"
+ },
+ {
+  "id": "watchtower-labs-ai-military-logistics-planning",
+  "type": "innovative",
+  "name": "Watchtower Labs",
+  "one_liner": "用LLM+成千上万次仿真帮军方做后勤规划，出隐身即获$3500万种子轮",
+  "category": "企业服务",
+  "region": "海外",
+  "team_type": "初创公司",
+  "business_model": "面向国防部门的本地部署决策软件，通过原型合同和试点进入，前置部署工程师驻场",
+  "metrics": [
+   {
+    "label": "融资",
+    "value": "$3500万种子轮，Shield Capital与Conviction联合领投，Founders Fund、In-Q-Tel参投",
+    "source_type": "官方公布",
+    "source_url": "https://www.prnewswire.com/news-releases/watchtower-labs-emerges-from-stealth-with-35-million-to-build-ai-native-decision-tools-for-military-operations-302914883.html"
+   },
+   {
+    "label": "合同",
+    "value": "已与多个作战司令部签有原型类合同；获美国国防创新单元（DIU）联合保障决策工具原型合同",
+    "source_type": "媒体报道",
+    "source_url": "https://www.executivegov.com/articles/diu-ai-logistics-asi-watchtower-labs-contracts"
+   },
+   {
+    "label": "团队",
+    "value": "近30人",
+    "source_type": "创始人自述",
+    "source_url": "https://www.upstartsmedia.com/p/watchtower-35m-defense-logistics"
+   }
+  ],
+  "why_it_works": "军方关键的物资和兵力调动仍靠Excel和邮件。Watchtower让参谋用自然语言提问，LLM负责找数和理解场景，自研离散事件仿真跑上千种情景给出可执行方案；需求直接来自太平洋司令部的痛点。",
+  "takeaway": "“LLM理解需求+专业求解器算答案”的组合，比纯大模型更适合规划类高风险问题；客户需求先行再孵化公司，是VC孵化的一种模式。",
+  "innovation_score": 4,
+  "business_score": 3,
+  "tags": [
+   "国防",
+   "规划",
+   "仿真",
+   "LLM",
+   "种子轮"
+  ],
+  "website": "",
+  "sources": [
+   "https://www.upstartsmedia.com/p/watchtower-35m-defense-logistics",
+   "https://www.prnewswire.com/news-releases/watchtower-labs-emerges-from-stealth-with-35-million-to-build-ai-native-decision-tools-for-military-operations-302914883.html",
+   "https://www.executivegov.com/articles/diu-ai-logistics-asi-watchtower-labs-contracts"
+  ],
+  "uncertain_points": "合同金额与客户名称未公开；官网地址未核实，故留空。",
+  "date_collected": "2026-10-22",
+  "status": "new"
+ },
+ {
+  "id": "yitai-physical-space-engine-spatial-ai-infra",
+  "type": "innovative",
+  "name": "乙太科技",
+  "one_liner": "做“物理空间引擎”，把现实空间和人手交互数据变成机器人、世界模型可调用的空间资产，种子+天使轮累计超亿元",
+  "category": "硬件与端侧",
+  "region": "中国",
+  "team_type": "初创公司",
+  "business_model": "空间智能基础设施：通过SDK/API/私有化部署提供空间数据与空间资产，面向机器人、世界模型、工业、游戏等，目前合作主要围绕空间数据",
+  "metrics": [
+   {
+    "label": "融资",
+    "value": "种子轮+天使轮累计超亿元人民币，华为哈勃、嘉立创、智元、高瓴等参投",
+    "source_type": "媒体报道",
+    "source_url": "https://eu.36kr.com/zh/p/4035014691345540"
+   },
+   {
+    "label": "成立",
+    "value": "2025年12月成立，创始人杨叶青曾任HTC VIVE中国区元宇宙事业部负责人",
+    "source_type": "媒体报道",
+    "source_url": "https://eu.36kr.com/zh/p/4035014691345540"
+   }
+  ],
+  "why_it_works": "机器人和世界模型缺高质量的“人怎么和空间交互”的数据。团队把XR时代积累的空间定位、追踪、多传感器融合能力迁移过来，优先采集亚毫米级的人手交互数据，并沉淀成带物理属性、可复用的空间资产。",
+  "takeaway": "具身智能热潮里，数据与空间表达层是新的“卖铲子”机会；XR团队的技术栈可以平移到物理AI。",
+  "innovation_score": 4,
+  "business_score": 2,
+  "tags": [
+   "空间智能",
+   "具身智能",
+   "数据采集",
+   "世界模型",
+   "中国"
+  ],
+  "website": "",
+  "sources": [
+   "https://eu.36kr.com/zh/p/4035014691345540",
+   "https://aifundingwatch.com/items/m08kvsp5do6ff3iwayxeb3cvv"
+  ],
+  "uncertain_points": "尚无公开收入或客户数据，偏早期技术基础设施；“亚毫米级精度”为创始人自述；官网未核实。",
+  "date_collected": "2026-10-22",
+  "status": "new"
+ }
+]
