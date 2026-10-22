@@ -1,0 +1,600 @@
+[
+  {
+    "id": "podium-ai-agents-150m-ai-arr",
+    "type": "both",
+    "name": "Podium",
+    "one_liner": "给本地商家用的AI员工：老SaaS公司自我颠覆，AI业务2.5年做到$1.5亿ARR",
+    "category": "客服销售",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "面向汽车经销商、家装维修（HVAC/水电）、医美、医疗等本地商家的订阅制AI Agent，接电话、回线索、约时间、跟进客户；并向下做AI原生的行业系统（外勤服务管理FSM、医美EMR）",
+    "metrics": [
+      {
+        "label": "AI业务ARR",
+        "value": "超过$1.5亿，用时2.5年；原软件业务做到同样规模用了8年",
+        "source_type": "官方公布",
+        "source_url": "https://www.prnewswire.com/news-releases/podium-surpasses-150m-in-ai-agent-arr-in-2-5-years-302917303.html"
+      },
+      {
+        "label": "部署规模",
+        "value": "2万多个Podium AI Agent在线运行，称帮客户带来超过$130亿收入",
+        "source_type": "官方公布",
+        "source_url": "https://www.prnewswire.com/news-releases/podium-surpasses-150m-in-ai-agent-arr-in-2-5-years-302917303.html"
+      },
+      {
+        "label": "社区反响",
+        "value": "CEO Eric Rea的X帖约15万次浏览、400+点赞，YC合伙人等转发",
+        "source_type": "社区数据",
+        "source_url": "https://x.com/i/status/2113265406316044777"
+      }
+    ],
+    "why_it_works": "Podium原本就有上万家本地商家客户和短信/评价工具，客户最痛的是电话没人接、线索没人跟。AI Agent直接替代前台和销售助理，按“带来多少生意”衡量价值，容易卖给已有客户；再把Agent接进自己做的行业系统里，Agent能直接排单、派工，不受第三方系统接口限制。",
+    "takeaway": "已有客户基础的SaaS公司，最快的AI路径是把“软件”改成“能干活的员工”，并且自己掌握底层业务系统，让Agent能真正执行动作。",
+    "innovation_score": 3,
+    "business_score": 5,
+    "tags": [
+      "AI员工",
+      "本地商家",
+      "SaaS转型",
+      "语音Agent",
+      "ARR"
+    ],
+    "website": "https://www.podium.com",
+    "sources": [
+      "https://www.prnewswire.com/news-releases/podium-surpasses-150m-in-ai-agent-arr-in-2-5-years-302917303.html",
+      "https://x.com/i/status/2113265406316044777",
+      "https://digg.com/ai/d1i40v7k"
+    ],
+    "uncertain_points": "$1.5亿“AI专属ARR”是公司自述，口径（是否含老客户迁移、捆绑销售）未披露；$130亿客户收入为公司估算。X上有报道称公司已盈利、自由现金流为正，但新闻稿未提，本条不作为事实。",
+    "status": "new",
+    "date_collected": "2026-10-23"
+  },
+  {
+    "id": "tractian-physical-ai-maintenance-series-d-unicorn",
+    "type": "both",
+    "name": "Tractian",
+    "one_liner": "工业设备预测性维护：传感器+Agent诊断故障，$1.3亿D轮估值$14亿",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "向工厂、数据中心、能源等重资产企业销售振动/超声等传感器硬件+订阅式AI诊断平台，Agent给出故障根因和维修建议",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "$1.3亿D轮，估值$14亿，Sapphire Ventures领投、M&G Catalyst联合领投，General Catalyst、Bosch Ventures、YC等跟投",
+        "source_type": "官方公布",
+        "source_url": "https://www.prnewswire.com/news-releases/tractians-130m-series-d-values-the-company-at-1-4b-to-scale-physical-ai-for-asset-heavy-industries-302917313.html"
+      },
+      {
+        "label": "客户",
+        "value": "2000+个关键设施在用，客户包括礼来、McKesson、惠而浦、可口可乐装瓶厂、康明斯、巴航工业；员工700+",
+        "source_type": "官方公布",
+        "source_url": "https://www.prnewswire.com/news-releases/tractians-130m-series-d-values-the-company-at-1-4b-to-scale-physical-ai-for-asset-heavy-industries-302917313.html"
+      },
+      {
+        "label": "地位",
+        "value": "巴西媒体称其超过Enter，成为拉美估值最高的AI独角兽",
+        "source_type": "媒体报道",
+        "source_url": "https://pipelinevalor.globo.com/startups/noticia/tractian-levanta-us-130-milhoes-e-passa-enter-como-maior-unicornio-de-ia-da-america-latina.ghtml"
+      }
+    ],
+    "why_it_works": "非计划停机对大工业企业是按小时算的巨额损失，老师傅又在退休。Tractian自己做传感器拿到一手数据，积累了大规模设备故障数据集，再用AI把信号变成“哪里坏、为什么、怎么修”，卖的是少停机而不是软件。",
+    "takeaway": "“硬件采数据+AI给结论”的组合在传统行业很有壁垒：数据越多诊断越准，客户越难替换。",
+    "innovation_score": 3,
+    "business_score": 4,
+    "tags": [
+      "物理AI",
+      "预测性维护",
+      "工业",
+      "独角兽",
+      "拉美创始人"
+    ],
+    "website": "https://tractian.com",
+    "sources": [
+      "https://www.prnewswire.com/news-releases/tractians-130m-series-d-values-the-company-at-1-4b-to-scale-physical-ai-for-asset-heavy-industries-302917313.html",
+      "https://epocanegocios.globo.com/startups/noticia/2026/10/tractian-vira-unicornio-apos-captar-us-130-milhoes-e-atingir-avaliacao-de-us-14-bilhao.ghtml",
+      "https://pipelinevalor.globo.com/startups/noticia/tractian-levanta-us-130-milhoes-e-passa-enter-como-maior-unicornio-de-ia-da-america-latina.ghtml"
+    ],
+    "uncertain_points": "未披露收入/ARR；“2000+设施”和客户名单为公司自述。",
+    "status": "new",
+    "date_collected": "2026-10-23"
+  },
+  {
+    "id": "warp-sciences-ai-robotic-chemistry-cro",
+    "type": "innovative",
+    "name": "Warp Sciences",
+    "one_liner": "前OpenAI科学负责人Kevin Weil创业：用AI+机器人做美国本土化学CRO，$2.15亿A轮",
+    "category": "医疗健康",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "临床前化学合同研究（CRO）服务：先做先导化合物优化的类似物合成，按项目向药企/生物科技公司收费；不做自有药物管线",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "$2.15亿，Lightspeed领投，IVP、Mayfield、Lux、Premji、Menlo等参投",
+        "source_type": "官方公布",
+        "source_url": "https://www.businesswire.com/news/home/20261022200104/en/Warp-Sciences-Emerges-From-Stealth-With-%24215-Million-to-Build-U.S.-Chemistry-Services-for-Drug-Research"
+      },
+      {
+        "label": "估值",
+        "value": "约$8.65亿",
+        "source_type": "创始人自述",
+        "source_url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/"
+      }
+    ],
+    "why_it_works": "美国药企大量把化合物合成外包给中国CRO，BIOSECURE法案带来回流需求。Warp先用人类化学家接单赚钱，同时让化学家戴摄像头和传感手套训练机器人，实验数据再反哺AI，形成“服务收入+数据飞轮”。",
+    "takeaway": "AI进入实体科研，可以先用“服务”模式起步：先有付费需求和真实数据，再逐步自动化，而不是一上来卖软件。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": [
+      "AI for Science",
+      "机器人实验室",
+      "CRO",
+      "药物研发",
+      "地缘回流"
+    ],
+    "website": "https://warp.xyz",
+    "sources": [
+      "https://www.businesswire.com/news/home/20261022200104/en/Warp-Sciences-Emerges-From-Stealth-With-%24215-Million-to-Build-U.S.-Chemistry-Services-for-Drug-Research",
+      "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/",
+      "https://lsvp.com/stories/why-were-backing-warp/"
+    ],
+    "uncertain_points": "刚出隐身，尚无公开客户和收入；$8.65亿估值来自Kevin Weil在X上的说法（TechCrunch转述），新闻稿未写。",
+    "status": "new",
+    "date_collected": "2026-10-23"
+  },
+  {
+    "id": "mave-agentic-secops-34m",
+    "type": "both",
+    "name": "Mave",
+    "one_liner": "不搬数据的安全运营Agent：直接调用企业现有安全工具调查100%告警，ARR一年涨400%+",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "面向企业安全团队的SaaS平台，Agent用各安全工具的原生查询语言调查告警、排除误报、执行经批准的响应动作；已签七位数合同",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "共$3400万：$2800万A轮由Red Dot Capital领投，Lumir Growth参投，Dell Technologies Capital、Emerge跟投（此前$600万种子）",
+        "source_type": "官方公布",
+        "source_url": "https://www.prnewswire.com/news-releases/mave-raises-34-million-to-build-the-agentic-secops-system-for-the-modern-enterprise-302916859.html"
+      },
+      {
+        "label": "收入增长",
+        "value": "过去一年ARR增长400%以上，已在签七位数订单",
+        "source_type": "官方公布",
+        "source_url": "https://www.prnewswire.com/news-releases/mave-raises-34-million-to-build-the-agentic-secops-system-for-the-modern-enterprise-302916859.html"
+      }
+    ],
+    "why_it_works": "传统SIEM要求把日志集中到昂贵的数据库里，Mave反过来让Agent去各工具里查，部署门槛低、不增加存储成本；告警全量调查直接替代一线分析师的重复劳动。",
+    "takeaway": "企业AI不一定要先做“数据平台”，在现有工具之上做一层会查、会推理的Agent，往往更好卖。",
+    "innovation_score": 3,
+    "business_score": 4,
+    "tags": [
+      "网络安全",
+      "SecOps",
+      "Agent",
+      "以色列",
+      "A轮"
+    ],
+    "website": "https://www.mave.com",
+    "sources": [
+      "https://www.prnewswire.com/news-releases/mave-raises-34-million-to-build-the-agentic-secops-system-for-the-modern-enterprise-302916859.html",
+      "https://techstartups.com/2026/10/22/mave-raises-34m-to-help-enterprises-detect-and-stop-cyberattacks-using-ai-agents/"
+    ],
+    "uncertain_points": "ARR增速只有百分比没有绝对值，基数未知；“七位数订单”为公司自述。",
+    "status": "new",
+    "date_collected": "2026-10-23"
+  },
+  {
+    "id": "anthropic-claude-duet-proactive-agent",
+    "type": "innovative",
+    "name": "Claude Duet",
+    "one_liner": "Anthropic的独立“主动式”Agent应用：每天发简报、后台云端干活、关键动作先问你",
+    "category": "生产力办公",
+    "region": "海外",
+    "team_type": "大公司",
+    "business_model": "研究预览阶段包含在Claude Pro/Max订阅中，共用额度；面向专业人士和小企业主，可通过Stripe Link、Shop Pay代为采购",
+    "metrics": [
+      {
+        "label": "发布",
+        "value": "10月21日开放候补研究预览，iOS/Android独立App+claude.ai，先面向美国Pro/Max用户",
+        "source_type": "官方公布",
+        "source_url": "https://claude.com/resources/articles/claude-duet"
+      },
+      {
+        "label": "连接能力",
+        "value": "可调用Claude Marketplace中6000+连接器/插件（Gmail、Slack、QuickBooks、Stripe、Gusto、HubSpot、Shopify等）",
+        "source_type": "官方公布",
+        "source_url": "https://claude.com/resources/articles/claude-duet"
+      },
+      {
+        "label": "社区热度",
+        "value": "Product Hunt 10月22日日榜第2（约219票）",
+        "source_type": "社区数据",
+        "source_url": "https://www.producthunt.com/leaderboard/daily/2026/10/22"
+      }
+    ],
+    "why_it_works": "把Agent从“你问它答”变成“它先来找你”：每隔几小时巡检连接的应用，只在需要时打扰，任务在云端虚拟机里跑、手机关了也继续；发消息、付款、签字、删除前必须审批，降低用户对代办的顾虑。",
+    "takeaway": "个人Agent的竞争点正在从模型能力转向“判断什么值得打扰你”和安全审批机制；做小企业垂直场景的创业者要考虑如何接入而不是正面竞争。",
+    "innovation_score": 4,
+    "business_score": 2,
+    "tags": [
+      "个人Agent",
+      "主动式AI",
+      "小企业",
+      "Anthropic",
+      "Product Hunt"
+    ],
+    "website": "https://claude.com/product/claude-duet",
+    "sources": [
+      "https://claude.com/resources/articles/claude-duet",
+      "https://www.cnbc.com/2026/10/21/anthropic-preview-of-claude-duet-personal-ai-agent-take-on-muse-dots.html",
+      "https://www.producthunt.com/leaderboard/daily/2026/10/22"
+    ],
+    "uncertain_points": "仅为候补制研究预览，无用户数据；官方承认可能误判紧急程度；单独收费与否未定。",
+    "status": "new",
+    "date_collected": "2026-10-23"
+  },
+  {
+    "id": "meta-muse-agent-10m-us-downloads-40-days",
+    "status": "update",
+    "type": "both",
+    "name": "Meta Muse",
+    "one_liner": "Meta财报会官方确认：Muse 6周超1000万人设置，25%日活，购物是头号用途、客单价超$200",
+    "category": "生产力办公",
+    "region": "海外",
+    "team_type": "大公司",
+    "business_model": "大部分用户免费；计划从平台上发生的交易中抽成，重度用户为高级模型/更多token付费，并向商家提供Agent对接服务",
+    "metrics": [
+      {
+        "label": "用户",
+        "value": "美国和加拿大超过1000万人设置了Muse个人Agent（约6周），约25%的人每天使用",
+        "source_type": "官方公布",
+        "source_url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/"
+      },
+      {
+        "label": "购物",
+        "value": "购物是首要用途；超过四分之一的活跃用户通过Muse购物，平均客单价超过$200",
+        "source_type": "官方公布",
+        "source_url": "https://stockanalysis.com/stocks/meta/transcripts/718643-q3-2026/"
+      },
+      {
+        "label": "成本",
+        "value": "目前算力消耗很高，Meta计划明年把单位成本效率提升10倍以上，规模化后盈利",
+        "source_type": "官方公布",
+        "source_url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/"
+      }
+    ],
+    "why_it_works": "相比10月20日收录时的第三方下载估算，这次是Meta官方给出设置人数、日活比例和购物客单价，并首次讲清商业化路径（交易抽成+订阅）；“Agent替你买东西”有了真实的高客单价交易。",
+    "takeaway": "消费级Agent最先跑通的可能是购物和代办：给商家做“能被Agent调用”的接口、结算和信任基础设施，是创业者的机会。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": [
+      "个人Agent",
+      "消费级AI",
+      "Agent购物",
+      "Meta",
+      "财报"
+    ],
+    "website": "",
+    "sources": [
+      "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+      "https://stockanalysis.com/stocks/meta/transcripts/718643-q3-2026/",
+      "https://www.cnbc.com/2026/10/21/anthropic-preview-of-claude-duet-personal-ai-agent-take-on-muse-dots.html"
+    ],
+    "uncertain_points": "“1000万人设置”不等于月活；“四分之一购物用户客单价超$200”的具体口径（是否为活跃用户中的购物者）各媒体转述略有差异；尚无收入数字。另有第三方数据称其日新增用户已从峰值回落。",
+    "date_collected": "2026-10-23"
+  },
+  {
+    "id": "laper-ai-screenwriting-46k-mrr",
+    "type": "both",
+    "name": "Laper",
+    "one_liner": "编剧用的AI写作与分镜软件：两三人团队、0融资，Stripe验证MRR约$4.6万",
+    "category": "设计创意",
+    "region": "中国",
+    "team_type": "独立开发者",
+    "business_model": "B2C订阅，$20–$400/月多档；面向编剧、导演、分镜师，提供剧本格式化、结构可视化、从剧本生成演员/场景/镜头清单，AI辅助但不代写",
+    "metrics": [
+      {
+        "label": "MRR",
+        "value": "约$4.63万–$4.65万，1433个有效订阅；近30天收入约$4.9万，累计$18万（Stripe API验证，10月22日更新）",
+        "source_type": "第三方验证",
+        "source_url": "https://trustmrr.com/startup/laper"
+      },
+      {
+        "label": "团队与开发",
+        "value": "2–5人、自筹资金，2025年9月成立，香港；创始人赵纯想自述代码100%由Claude Code和Codex编写，每周约200次提交",
+        "source_type": "创始人自述",
+        "source_url": "https://shippedandpaid.com/cases/laper-ai-screenwriting-software-48k-month-claude-code-codex/"
+      }
+    ],
+    "why_it_works": "剧本有严格的行业格式和制作清单，通用聊天机器人做不好；Laper定位“AI辅助、不替你写”，避开了编剧对AI代写的反感。创始人本身是编剧/作者，在X上有约4.7万粉丝，自带精准流量。",
+    "takeaway": "选一个格式严格、从业者付费意愿高的专业创作领域，用AI做工具而不是替代创作者；创始人自己的行业身份和社媒影响力就是冷启动渠道。",
+    "innovation_score": 3,
+    "business_score": 4,
+    "tags": [
+      "独立开发",
+      "编剧",
+      "Vibe Coding",
+      "Claude Code",
+      "MRR"
+    ],
+    "website": "https://laper.ai",
+    "sources": [
+      "https://trustmrr.com/startup/laper",
+      "https://shippedandpaid.com/cases/laper-ai-screenwriting-software-48k-month-claude-code-codex/",
+      "https://x.com/shippedandpaid/status/2113306986955555326"
+    ],
+    "uncertain_points": "收入是第三方平台TrustMRR读取Stripe的数据，可信度较高，但不是本24小时内的新事件，而是10月22日在X上被重新推荐；不同页面MRR读数在$4.63万–$4.65万间浮动。地区按创始人为中文作者、公司在香港标为中国，用户可能以海外为主。",
+    "status": "new",
+    "date_collected": "2026-10-23"
+  },
+  {
+    "id": "nirva-wearer-only-ai-pendant",
+    "type": "innovative",
+    "name": "Nirva",
+    "one_liner": "只听佩戴者本人说话的AI吊坠：过滤他人声音、不存录音，$2500万Pre-A",
+    "category": "硬件与端侧",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "消费级AI可穿戴硬件，售价$249（吊坠/手环两用），11月开放预订、年底向早期用户发货",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "$2500万Pre-A，加上年初Lightspeed、South Park Commons等的$800万，累计$3300万",
+        "source_type": "官方公布",
+        "source_url": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/"
+      },
+      {
+        "label": "产品",
+        "value": "约8克、续航3天，$249；入门时录制声纹，只记录佩戴者声音，默认处理后不保留音频和转写",
+        "source_type": "媒体报道",
+        "source_url": "https://siliconangle.com/2026/10/22/nirva-raises-25m-to-make-ai-jewelry-with-perspective-that-listens-and-provides-insights/"
+      }
+    ],
+    "why_it_works": "录音类AI硬件最大的障碍是“偷录别人”带来的隐私和社交尴尬。Nirva用声纹只记录佩戴者本人，并做成首饰外形，试图解决可穿戴AI的接受度问题；分析语调、语速等给出情绪和沟通洞察。",
+    "takeaway": "同质化的AI录音硬件里，用一个隐私设计点（只听你自己）就能形成差异化卖点。",
+    "innovation_score": 4,
+    "business_score": 2,
+    "tags": [
+      "AI硬件",
+      "可穿戴",
+      "隐私",
+      "环境AI",
+      "Pre-A"
+    ],
+    "website": "https://lsvp.com/company/nirva/",
+    "sources": [
+      "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
+      "https://siliconangle.com/2026/10/22/nirva-raises-25m-to-make-ai-jewelry-with-perspective-that-listens-and-provides-insights/",
+      "https://www.axios.com/pro/health-tech-deals/2026/10/22/nirva-25m-ai-wearable-personal-companion"
+    ],
+    "uncertain_points": "尚未开卖，无销量数据；“只记录佩戴者”的过滤效果未经独立测试。官网地址未核实，website暂填投资方页面。",
+    "status": "new",
+    "date_collected": "2026-10-23"
+  },
+  {
+    "id": "maxinsights-egocentric-robot-training-data-30m-seed",
+    "type": "both",
+    "name": "Maxinsights",
+    "one_liner": "雇5000多名合同工戴摄像头做家务，卖第一视角机器人训练数据，$3000万种子轮",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "向机器人/具身模型公司和前沿实验室销售真实场景第一视角视频数据，部分客户为经常性合同；配套MaxLoop片段评分、MaxGlove握力传感手套",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "$3000万种子轮，Peak XV领投，Tola Capital、South Park Commons、INCE Capital、Alumni Ventures参投",
+        "source_type": "媒体报道",
+        "source_url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4681RI:0-maxinsights-raises-30-mln-seed-funding-led-by-peakxv/"
+      },
+      {
+        "label": "数据与客户",
+        "value": "6个国家5000+合同工采集，累计200万+小时（150万小时可用于训练）；30+客户，其中8家为经常性合同",
+        "source_type": "创始人自述",
+        "source_url": "https://aiweekly.co/alerts/maxinsights-raises-30m-seed-led-by-peak-xv-pays-5000-contractors-to-film-first"
+      }
+    ],
+    "why_it_works": "机器人基础模型缺的不是算法而是真实世界操作数据。Maxinsights用众包合同工在家庭、餐厅、酒店里以自然速度做家务，规模化低成本采集，像当年的数据标注公司一样卖“铲子”。",
+    "takeaway": "具身智能热潮里，数据供给是最早有收入的环节；用众包+专用采集设备可以快速形成规模。",
+    "innovation_score": 3,
+    "business_score": 3,
+    "tags": [
+      "具身智能",
+      "训练数据",
+      "众包",
+      "机器人",
+      "种子轮"
+    ],
+    "website": "",
+    "sources": [
+      "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4681RI:0-maxinsights-raises-30-mln-seed-funding-led-by-peakxv/",
+      "https://www.forbes.com/sites/johnkoetsier/2026/10/22/theres-not-enough-robot-training-data-this-startup-plans-to-fix-that/",
+      "https://aiweekly.co/alerts/maxinsights-raises-30m-seed-led-by-peak-xv-pays-5000-contractors-to-film-first"
+    ],
+    "uncertain_points": "客户数和数据时长为公司自述，未披露收入；Forbes原文本次未能直接打开，细节来自转述。官网未核实。",
+    "status": "new",
+    "date_collected": "2026-10-23"
+  },
+  {
+    "id": "firstwork-frontline-workforce-agents-series-a",
+    "type": "both",
+    "name": "Firstwork",
+    "one_liner": "一线员工入职Agent：从拿到offer到第一天上班的证件、背调、培训全自动，月入职15万人",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "面向人力派遣、物流、配送、护理、零售等企业的B2B平台，Agent接入现有HR/薪酬/背调系统，处理证件核验、工作资格、背调、培训安排和员工跟进",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "$1500万A轮，Earlybird领投，Legion VC、Deel Ventures、Gradient、YC参投；累计$2000万",
+        "source_type": "官方公布",
+        "source_url": "https://www.todaysstartupnews.com/funding/firstwork-raises-15-million-series-a-earlybird-frontline-onboarding-ai-agents"
+      },
+      {
+        "label": "使用量",
+        "value": "每月超过15万名一线员工通过其平台开始上班",
+        "source_type": "官方公布",
+        "source_url": "https://www.todaysstartupnews.com/funding/firstwork-raises-15-million-series-a-earlybird-frontline-onboarding-ai-agents"
+      }
+    ],
+    "why_it_works": "一线岗位招聘量大、流失快，offer到首班之间大量候选人流失，且合规检查繁琐。Agent直接在客户现有系统里跑完流程并主动联系员工，节省的是招聘专员的时间和流失成本，效果容易量化。",
+    "takeaway": "找高频、规则清晰但流程繁琐的“夹缝环节”（如入职前合规），用嵌入式Agent做，比做一个完整HR系统更快拿到规模。",
+    "innovation_score": 3,
+    "business_score": 3,
+    "tags": [
+      "HR科技",
+      "一线员工",
+      "Agent",
+      "YC",
+      "A轮"
+    ],
+    "website": "https://firstwork.com",
+    "sources": [
+      "https://www.todaysstartupnews.com/funding/firstwork-raises-15-million-series-a-earlybird-frontline-onboarding-ai-agents",
+      "https://crosswalk.to/crosswalk/deals/2026-10-22"
+    ],
+    "uncertain_points": "未披露收入、定价、估值和客户名单；月15万人入职为公司自述。",
+    "status": "new",
+    "date_collected": "2026-10-23"
+  },
+  {
+    "id": "karta-ai-bfsi-voice-agents-seed",
+    "type": "both",
+    "name": "Karta AI",
+    "one_liner": "印度金融业语音客服Agent：月处理约200万通对话，PhonePe、Pine Labs等付费",
+    "category": "客服销售",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "向银行、金融、保险机构销售入站客服Agent（语音为主，兼顾聊天、邮件、WhatsApp），处理还款失败、冻卡、贷款查询、理赔等需要跨系统操作的复杂请求",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "$300万种子轮，PeerCapital、Cedar Hill Capital领投，Wyser VC、CDM Capital、Seedstars参投",
+        "source_type": "媒体报道",
+        "source_url": "https://stechtimes.com/en/article/karta-ai-raises-3-million-for-complex-financialservices-calls-mvj1qd6o"
+      },
+      {
+        "label": "规模",
+        "value": "每月约200万次客户对话，支持约25种印度语言；10–12家付费客户，含PhonePe、Pine Labs、Bajaj、Aavas",
+        "source_type": "创始人自述",
+        "source_url": "https://stechtimes.com/en/article/karta-ai-raises-3-million-for-complex-financialservices-calls-mvj1qd6o"
+      },
+      {
+        "label": "效果",
+        "value": "约70%的借款人问题无需人工即可办结，单次成本降约50%",
+        "source_type": "创始人自述",
+        "source_url": "https://yourstory.com/2026/10/startup-news-and-updates-daily-roundup-october22-2026"
+      }
+    ],
+    "why_it_works": "创始人来自Razorpay，熟悉金融客服痛点：简单问题只占成本10%，真正贵的是需要查多个系统、办手续的二三级问题。Karta专攻这部分，并支持印地语-英语混说和地方口音，切中印度市场。",
+    "takeaway": "客服AI的价值在“办结”而不是“回答”：瞄准成本最高的复杂请求，在多语言新兴市场有明显机会。",
+    "innovation_score": 3,
+    "business_score": 3,
+    "tags": [
+      "语音Agent",
+      "金融客服",
+      "印度",
+      "多语言",
+      "种子轮"
+    ],
+    "website": "",
+    "sources": [
+      "https://stechtimes.com/en/article/karta-ai-raises-3-million-for-complex-financialservices-calls-mvj1qd6o",
+      "https://yourstory.com/2026/10/startup-news-and-updates-daily-roundup-october22-2026"
+    ],
+    "uncertain_points": "对话量、办结率、降本数据都是公司自述；收入未披露。官网未核实。",
+    "status": "new",
+    "date_collected": "2026-10-23"
+  },
+  {
+    "id": "guanfuxin-ic-design-agents-seed",
+    "type": "innovative",
+    "name": "观复芯",
+    "one_liner": "芯片研发全链路智能体：联动EDA工具自主执行设计验证任务，高瓴创投领投种子轮",
+    "category": "编程开发",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "向芯片设计企业提供IC研发智能体产品和端侧部署方案（数据不出域），也可基于客户外购IP做智能体驱动的端到端交付",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "种子轮，高瓴创投、力合算芯联合领投，恒旭资本、金雨茂物跟投；金额未披露",
+        "source_type": "官方公布",
+        "source_url": "https://www.pedaily.cn/first/187267.shtml"
+      },
+      {
+        "label": "落地",
+        "value": "多款智能体已在网络通信、云端算力、GPU、安防监控等领域龙头企业“规模导入”",
+        "source_type": "官方公布",
+        "source_url": "https://feng.ifeng.com/c/8xQr0jWjudd"
+      }
+    ],
+    "why_it_works": "芯片设计高度依赖资深工程师反复调用EDA工具、定位故障，重复劳动多且人才稀缺。观复芯以“外挂式”智能体接入客户现有流程，并提供本地部署，解决了芯片公司最在意的设计数据安全问题。",
+    "takeaway": "高价值、数据敏感的工程行业，AI落地的关键是本地部署+嵌入现有工具链，而不是让客户换平台。",
+    "innovation_score": 4,
+    "business_score": 2,
+    "tags": [
+      "芯片设计",
+      "EDA",
+      "垂直智能体",
+      "种子轮",
+      "国产替代"
+    ],
+    "website": "",
+    "sources": [
+      "https://www.pedaily.cn/first/187267.shtml",
+      "https://feng.ifeng.com/c/8xQr0jWjudd"
+    ],
+    "uncertain_points": "融资金额、客户名称和收入均未披露；“规模导入”与“亿元级营收”目标为公司及投资方表述。官网未核实。",
+    "status": "new",
+    "date_collected": "2026-10-23"
+  },
+  {
+    "id": "xingyi-zhineng-egocentric-hand-data-seed",
+    "type": "innovative",
+    "name": "星忆智能",
+    "one_liner": "清华系具身智能数据公司：把第一视角手部操作加工成机器人训练数据，数千万元种子+轮",
+    "category": "企业服务",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "向具身模型企业和机器人厂商交付高精度手部交互训练数据（采集、标注、质量评估、交付全流程），与凌云光子公司元客视界合作扩充采集能力",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "数千万元种子轮及种子+轮：种子轮顺禧基金领投；种子+轮凌云光领投，中关村资本、一创投资跟投",
+        "source_type": "官方公布",
+        "source_url": "http://www.investorscn.com/2026/10/22/137434/"
+      },
+      {
+        "label": "客户",
+        "value": "已与多家头部具身模型企业及机器人厂商开展项目级合作",
+        "source_type": "官方公布",
+        "source_url": "http://www.investorscn.com/2026/10/22/137434/"
+      }
+    ],
+    "why_it_works": "第一视角视频不缺，缺的是能直接训练的高质量手部数据：遮挡、畸变、高速运动让原始视频难以利用。星忆用自研采集系统EgoKit和数据引擎HBR Engine做手部姿态解析和自动标注，卖的是“可学习的数据”。",
+    "takeaway": "与海外Maxinsights同一天融资，说明具身数据供给是中美共同的热门赛道；国内团队更强调算法处理和产业资本协同。",
+    "innovation_score": 3,
+    "business_score": 2,
+    "tags": [
+      "具身智能",
+      "训练数据",
+      "手部操作",
+      "清华系",
+      "种子轮"
+    ],
+    "website": "",
+    "sources": [
+      "http://www.investorscn.com/2026/10/22/137434/",
+      "http://pitchhub.36kr.com/financing-flash",
+      "https://www.pencilnews.cn/p/47238.html"
+    ],
+    "uncertain_points": "金额只写“数千万元”，无收入和客户名称；属于数据服务而非终端应用。官网未核实。",
+    "status": "new",
+    "date_collected": "2026-10-23"
+  }
+]
