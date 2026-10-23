@@ -1,0 +1,420 @@
+[
+  {
+    "id": "higgsfield-1b-arr-series-b-extension",
+    "type": "both",
+    "name": "Higgsfield",
+    "one_liner": "AI原生视觉创作平台：年化收入run rate破$10亿，NVIDIA与TCV追加投资Series B",
+    "category": "设计创意",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "面向品牌、代理商、工作室和专业创作者的AI图像/视频创作订阅+按量计费平台；企业客户用其把单一活动概念扩成多市场广告变体",
+    "metrics": [
+      {
+        "label": "年化收入run rate",
+        "value": "2026年9月超过$10亿（近4周收入×13，非过去12个月已实现收入）",
+        "source_type": "官方公布",
+        "source_url": "https://higgsfield.ai/blog/higgsfield-1b-annualized-revenue-run-rate"
+      },
+      {
+        "label": "用户与付费",
+        "value": "官方里程碑页写3200万+用户、近100万付费订阅；10月23日融资稿写4000万+用户；服务Fortune 500中的390家",
+        "source_type": "官方公布",
+        "source_url": "https://higgsfield.ai/blog/higgsfield-series-b-extension-tcv-nvidia"
+      },
+      {
+        "label": "融资",
+        "value": "Series B延期获TCV与NVIDIA新投资；此前DST领投的B轮为$4亿、估值$54亿；延期金额与最新估值未披露",
+        "source_type": "官方公布",
+        "source_url": "https://www.prnewswire.com/news-releases/higgsfield-extends-series-b-with-new-investment-from-tcv-and-nvidia-302918071.html"
+      },
+      {
+        "label": "企业合同收入",
+        "value": "企业客户合同收入自6月起增长10倍；企业业务月环比增长超100%",
+        "source_type": "官方公布",
+        "source_url": "https://higgsfield.ai/blog/higgsfield-series-b-extension-tcv-nvidia"
+      }
+    ],
+    "why_it_works": "DTC品牌广告天然要多版本测试和本地化，AI把“做一条片子”变成“批量出变体”，用量会随投放迭代滚雪球。订阅之外按量计费占比上升，说明客户不止买席位，而是在持续生成。工程主力在哈萨克斯坦，配合NVIDIA算力栈，成本和产能跟得上爆发式用量。",
+    "takeaway": "生成式内容要赚钱，关键是接住“反复改、反复测、多市场出片”的工作流，而不是只卖一次性炫技成片；收入口径要用年化run rate时务必写清算法。",
+    "innovation_score": 4,
+    "business_score": 5,
+    "tags": ["AI视频", "广告创意", "年化run rate", "NVIDIA", "生成式媒体"],
+    "website": "https://higgsfield.ai",
+    "sources": [
+      "https://www.prnewswire.com/news-releases/higgsfield-extends-series-b-with-new-investment-from-tcv-and-nvidia-302918071.html",
+      "https://higgsfield.ai/blog/higgsfield-series-b-extension-tcv-nvidia",
+      "https://higgsfield.ai/blog/higgsfield-1b-annualized-revenue-run-rate",
+      "https://www.bloomberg.com/news/articles/2026-10-23/nvidia-tcv-invest-in-ai-video-startup-higgsfield-in-series-b-extension"
+    ],
+    "uncertain_points": "$10亿是近4周×13的年化run rate，不是trailing 12个月收入；用户数在官方两篇文中分别为3200万+与4000万+，口径可能不同时间点；延期轮金额与估值未披露；CEO称近几月现金流转正为公司自述。",
+    "status": "new",
+    "date_collected": "2026-10-24"
+  },
+  {
+    "id": "pathos-ai-oncology-foundry-series-e",
+    "type": "profitable",
+    "name": "Pathos AI",
+    "one_liner": "用AI平台Foundry做肿瘤药研发：BMS领投$2.37亿E轮，估值$30亿",
+    "category": "医疗健康",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "自研抗癌管线，并用Foundry平台分析约200PB肿瘤学数据、筛选分子与患者人群、设计生物标志物驱动的临床试验；与大药企合作授权数据与平台能力",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "$2.37亿Series E，估值$30亿，Bristol Myers Squibb领投；投资方还包括AstraZeneca、NEA、General Atlantic等",
+        "source_type": "媒体报道",
+        "source_url": "https://siliconangle.com/2026/10/23/ai-drug-development-startup-pathos-ai-closes-237m-investment/"
+      },
+      {
+        "label": "数据与合作",
+        "value": "Foundry可访问约200PB肿瘤学数据；将向Tempus支付$5500万/5年授权神经疾病匿名数据，并与BMS共享平台与数据",
+        "source_type": "媒体报道",
+        "source_url": "https://siliconangle.com/2026/10/23/ai-drug-development-startup-pathos-ai-closes-237m-investment/"
+      }
+    ],
+    "why_it_works": "药企最贵的是失败的临床。Pathos把AI嵌进选分子、选患者、设计试验，再自己做管线，让技术直接对“成药概率”负责；引入BMS、AZ等战略投资方，等于把销售和数据通道一起绑上。",
+    "takeaway": "医疗AI要拿大钱，往往要同时卖“平台能力”和“自己下场的管线”，让大药企既是客户也是股东。",
+    "innovation_score": 4,
+    "business_score": 4,
+    "tags": ["药物研发", "肿瘤", "Agent", "药企战略投资", "临床试验"],
+    "website": "https://www.pathos.com",
+    "sources": [
+      "https://siliconangle.com/2026/10/23/ai-drug-development-startup-pathos-ai-closes-237m-investment/"
+    ],
+    "uncertain_points": "公开报道以SiliconANGLE为主，未见同步官方新闻稿链接；官网域名以pathos.com为准需核对；未披露收入或管线临床阶段细节；部分跟投方为“未具名老股东”。",
+    "status": "new",
+    "date_collected": "2026-10-24"
+  },
+  {
+    "id": "alta-ai-fashion-styling-series-a",
+    "type": "both",
+    "name": "Alta",
+    "one_liner": "“Clueless衣橱”式AI穿搭：Forerunner领投$2000万A轮，已生成7亿套穿搭",
+    "category": "电商零售",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "C端穿搭与虚拟试穿App + 向时尚品牌/零售商提供企业AI造型与渲染能力（如Rent the Runway、Gap、Zimmermann）",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "$2000万Series A，Forerunner领投并入董事会；Menlo、Aglaé（LVMH家族）、模特/球星等天使跟投",
+        "source_type": "媒体报道",
+        "source_url": "https://fortune.com/2026/10/22/alta-ai-fashion-app-series-a-20-million-forerunner-rent-the-runway/"
+      },
+      {
+        "label": "使用规模",
+        "value": "用户已生成约7亿套穿搭、2000万虚拟形象；X新闻摘要另称用户月上传衣橱库存约$10亿货值",
+        "source_type": "媒体报道",
+        "source_url": "https://fortune.com/2026/10/22/alta-ai-fashion-app-series-a-20-million-forerunner-rent-the-runway/"
+      },
+      {
+        "label": "客户效果",
+        "value": "为Rent the Runway提供全部App内AI能力后，对方称互动提升35%",
+        "source_type": "创始人自述",
+        "source_url": "https://fortune.com/2026/10/22/alta-ai-fashion-app-series-a-20-million-forerunner-rent-the-runway/"
+      }
+    ],
+    "why_it_works": "穿搭比“搜同款购物”更贴近日常决策，C端粘性可沉淀衣橱与形象数据；再把同一模型卖给品牌做试穿和预售测款，一条技术栈吃两端。LVMH家族基金背书降低时尚行业信任门槛。",
+    "takeaway": "垂直消费AI可以先做“好玩的个人场景”，再用同一模型帮品牌做转化和备货决策，比一上来卖SaaS仪表盘更容易冷启动。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": ["时尚", "虚拟试穿", "穿搭Agent", "ToB+ToC", "Rent the Runway"],
+    "website": "https://www.alta.com",
+    "sources": [
+      "https://fortune.com/2026/10/22/alta-ai-fashion-app-series-a-20-million-forerunner-rent-the-runway/",
+      "https://x.com/i/trending/2113384933112897865"
+    ],
+    "uncertain_points": "未披露收入或付费转化；衣橱货值$10亿来自X新闻摘要，Fortune正文未写；官网域名待确认；团队仅约10人，规模化交付能力存疑。",
+    "status": "new",
+    "date_collected": "2026-10-24"
+  },
+  {
+    "id": "cognition-devin-1b-arr-robinhood",
+    "type": "profitable",
+    "name": "Cognition（Devin）",
+    "one_liner": "自主编程Agent Devin：官方称年化收入run rate破$10亿；Robinhood披露跟投约$1000万",
+    "category": "编程开发",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "向企业工程团队销售自主软件工程Agent Devin（规划、编码、测试、部署），按席位/用量订阅",
+    "metrics": [
+      {
+        "label": "年化收入run rate",
+        "value": "公司博客称2026-09-25跨越$10亿年化收入run rate；Fortune称9月E轮时公司称年化run rate接近$9亿（5月为$4.92亿）",
+        "source_type": "官方公布",
+        "source_url": "https://cognition.com/blog/1b-run-rate"
+      },
+      {
+        "label": "融资动态",
+        "value": "9月Series E超$20亿、估值$480亿；Robinhood Ventures Fund I于10月23日披露约$1000万跟投该轮",
+        "source_type": "媒体报道",
+        "source_url": "https://fortune.com/2026/10/23/exclusive-robinhood-bets-10-million-ai-coding-tool-maker-cognition/"
+      }
+    ],
+    "why_it_works": "企业软件缺口长期大于工程师供给，Devin卖的是“能并入工程团队的产能”，而不是补全IDE提示。客户名单覆盖航空航天与汽车等重工程行业，证明Agent已进入真实交付链路。",
+    "takeaway": "编码Agent赛道可以多家并存；对投资人和采购方，关键指标是年化run rate与是否嵌进现有工程流程，而不是单一模型榜单。",
+    "innovation_score": 4,
+    "business_score": 5,
+    "tags": ["Devin", "编码Agent", "ARR", "Series E", "Robinhood"],
+    "website": "https://cognition.com",
+    "sources": [
+      "https://cognition.com/blog/1b-run-rate",
+      "https://fortune.com/2026/10/23/exclusive-robinhood-bets-10-million-ai-coding-tool-maker-cognition/",
+      "https://cdn.robinhood.com/app_assets/rhv/updates/new_investments_in_cognition.pdf"
+    ],
+    "uncertain_points": "官方博客写$10亿，Fortune转述E轮时“接近$9亿”，时间点与口径可能不一致；run rate算法未详述；Robinhood金额为约数。",
+    "status": "new",
+    "date_collected": "2026-10-24"
+  },
+  {
+    "id": "biostack-hospital-data-medical-ai-seed",
+    "type": "innovative",
+    "name": "BioStack",
+    "one_liner": "把全球医院碎片病历变成医疗AI训练数据与强化学习环境：YC项目获$950万种子轮",
+    "category": "医疗健康",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "连接美/印/巴/阿根廷等医院去标识病历，向AI与biotech出售多模态纵向数据集与医疗Agent评测/训练环境",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "$950万种子轮，Peak XV、Afore、DCVC、Emerson Collective、SV Angel、Y Combinator等参投",
+        "source_type": "官方公布",
+        "source_url": "https://www.prnewswire.com/news-releases/biostack-raises-9-5m-to-turn-global-hospital-data-into-multimodal-training-datasets-for-medical-ai-302916123.html"
+      },
+      {
+        "label": "数据规模",
+        "value": "覆盖超1亿份去标识患者记录；已整合数十万张X光/MRI/CT与病理、临床记录",
+        "source_type": "官方公布",
+        "source_url": "https://www.prnewswire.com/news-releases/biostack-raises-9-5m-to-turn-global-hospital-data-into-multimodal-training-datasets-for-medical-ai-302916123.html"
+      }
+    ],
+    "why_it_works": "医疗模型缺的不是通用语料，而是带治疗路径和长期结局的纵向数据。BioStack先解决医院侧碎片化与隐私合规，再卖训练资产，卡在模型公司愿意付钱的上游。",
+    "takeaway": "垂直AI的基础设施机会，往往在“把脏数据变成可训练、可评测的资产”，而不是再做一个聊天机器人。",
+    "innovation_score": 4,
+    "business_score": 2,
+    "tags": ["医疗数据", "YC", "多模态", "强化学习环境", "种子轮"],
+    "website": "https://www.getbiostack.com",
+    "sources": [
+      "https://www.prnewswire.com/news-releases/biostack-raises-9-5m-to-turn-global-hospital-data-into-multimodal-training-datasets-for-medical-ai-302916123.html",
+      "https://www.axios.com/pro/health-tech-deals/2026/10/22/biostack-seed-train-medical-ai-models"
+    ],
+    "uncertain_points": "未披露收入与付费客户数；跨境医疗数据合规与授权细节未公开；“1亿患者记录”为公司自述。",
+    "status": "new",
+    "date_collected": "2026-10-24"
+  },
+  {
+    "id": "enact-intelligence-force-touch-robots",
+    "type": "innovative",
+    "name": "Enact Intelligence",
+    "one_liner": "用执行器本身感知力与触觉的机器人AI：苏黎世团队$3000万Pre-seed，LeCun与Mensch参投",
+    "category": "硬件与端侧",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "为通用机器人提供力觉/触觉感知与全栈智能（模型、数据管线到执行器），面向工业真实场景部署",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "$3000万Pre-seed，redalpine、Notion Capital、firstminute领投/参投；天使包括Yann LeCun、Arthur Mensch、Thomas Wolf等",
+        "source_type": "媒体报道",
+        "source_url": "https://tech.eu/2026/10/22/mistral-boss-and-yann-lecun-back-swiss-robotics-startup-enact-in-30m-pre-seed-round/"
+      }
+    ],
+    "why_it_works": "纯视觉机器人在接触、摩擦、卡滞时容易失手。Enact从执行器读力，把“手感”做成一等公民信号，更贴近工业可靠性要求；创始人来自Physical Intelligence，投资人阵容降低早期技术叙事风险。",
+    "takeaway": "具身智能差异化可以下沉到传感器与执行器层，而不只是再训一个视觉VLA。",
+    "innovation_score": 5,
+    "business_score": 2,
+    "tags": ["具身智能", "力觉", "触觉", "Pre-seed", "机器人"],
+    "website": "https://www.enactintelligence.com",
+    "sources": [
+      "https://tech.eu/2026/10/22/mistral-boss-and-yann-lecun-back-swiss-robotics-startup-enact-in-30m-pre-seed-round/",
+      "https://sifted.eu/articles/yann-lecun-arthur-mensch-zurich-robotics-startup-30m-pre-seed",
+      "https://thenextweb.com/news/enact-intelligence-30m-pre-seed-robot-touch"
+    ],
+    "uncertain_points": "官网与产品成熟度未充分核验；无收入/客户公开数据；Pre-seed金额相对阶段偏高，需后续验证交付。",
+    "status": "new",
+    "date_collected": "2026-10-24"
+  },
+  {
+    "id": "huixi-embodied-chip-pre-b-b",
+    "type": "both",
+    "name": "辉羲智能",
+    "one_liner": "具身智能大算力芯片：Pre-B+/B轮后年内股权融资超25亿元，光至R1已量产交付",
+    "category": "硬件与端侧",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "销售面向具身智能、L4物流车与智驾的大算力SoC与计算平台（光至R1系列），并提供模型/软件工具链与生态",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "完成Pre-B+及B轮，2026年内累计股权融资超25亿元；北京市人工智能产业投资基金领投，多支政府基金与顺为等老股东跟投",
+        "source_type": "媒体报道",
+        "source_url": "https://zhidx.com/p/603423.html"
+      },
+      {
+        "label": "产品与落地",
+        "value": "R1 MAX宣称500TOPS并量产交付；搭载光至R1的智元精灵G2曾连续6天产线直播，累计作业17625次、任务成功率99.99%（公司/媒体报道）",
+        "source_type": "媒体报道",
+        "source_url": "https://zhidx.com/p/603423.html"
+      }
+    ],
+    "why_it_works": "机器人量产卡在端侧算力、实时控制与软件栈，而不是云端大模型。辉羲把芯片、平台和VLA流水线打包，并借智元等本体客户验证产线节拍，比纯卖芯片故事更完整。",
+    "takeaway": "中国具身赛道的赚钱点正从“能演示”转向“能出货的端侧算力+客户产线数据闭环”。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": ["具身芯片", "光至R1", "智元", "北京亦庄", "端侧算力"],
+    "website": "https://www.huixi.ai",
+    "sources": [
+      "https://zhidx.com/p/603423.html",
+      "https://www.pedaily.cn/first/187237.shtml",
+      "https://www.chinaventure.com.cn/news/114-20261023-393731.html"
+    ],
+    "uncertain_points": "单轮金额媒体有“约17亿”等不同表述，以“年内累计超25亿”为准更稳；官网域名待确认；产线成功率来自合作方场景报道，样本窗口短；尚未见公开收入。",
+    "status": "new",
+    "date_collected": "2026-10-24"
+  },
+  {
+    "id": "bob-ai-finance-employee-seed",
+    "type": "innovative",
+    "name": "BOB",
+    "one_liner": "给小商家的AI财务员工：WhatsApp/短信里记账开票收款，Mischief领投$550万种子轮",
+    "category": "法律金融",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "面向屋顶工、餐馆等小B的对话式AI财务Agent+银行账户能力：记账、发票、收款、现金流；通过WhatsApp/短信/Slack/Teams交互",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "$550万种子轮，Mischief（Plaid创始人背景）领投；Peter Thiel、Codie Sanchez、Mark Pincus、Karman等参投",
+        "source_type": "官方公布",
+        "source_url": "https://www.prnewswire.com/news-releases/miami-startup-bob-raises-5-5m-to-build-an-ai-powered-banking-platform-302918254.html"
+      },
+      {
+        "label": "产品阶段",
+        "value": "2026年9月开启private beta，本轮用于深化产品、获客与扩团队",
+        "source_type": "官方公布",
+        "source_url": "https://www.prnewswire.com/news-releases/miami-startup-bob-raises-5-5m-to-build-an-ai-powered-banking-platform-302918254.html"
+      }
+    ],
+    "why_it_works": "小商家不愿学又一个财务仪表盘，却每天泡在WhatsApp。BOB把“财务员工”塞进已有聊天入口，并叠存款账户，路径类似“先做事、再做银行”。",
+    "takeaway": "给烟囱行业的Agent，渠道比模型更重要：出现在老板已经在用的聊天工具里，比做一个漂亮App更容易起步。",
+    "innovation_score": 4,
+    "business_score": 2,
+    "tags": ["小微金融", "WhatsApp", "AI员工", "种子轮", "迈阿密"],
+    "website": "https://joinbob.ai",
+    "sources": [
+      "https://www.prnewswire.com/news-releases/miami-startup-bob-raises-5-5m-to-build-an-ai-powered-banking-platform-302918254.html",
+      "https://refreshmiami.com/news/miami-startup-bob-raises-5-5m-to-build-ai-powered-finance-employee/"
+    ],
+    "uncertain_points": "无公开用户数与收入；公司声明非银行；监管与资金托管细节未披露；“免费CFO Agent”的商业化路径待观察。",
+    "status": "new",
+    "date_collected": "2026-10-24"
+  },
+  {
+    "id": "slingshot-embedded-insurance-ai-seed",
+    "type": "innovative",
+    "name": "Slingshot Insurance",
+    "one_liner": "为嵌入式保险而生的AI原生承保基建：$2700万种子轮，对接MGA与结账场景小保单",
+    "category": "法律金融",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "向MGA、垂直软件与分销商提供AI自动化保单工作流与API，承接高频低保费的嵌入式保险（旅行、业余体育、零工等）",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "$2700万种子轮，Rally Ventures与Skyward Group联合领投，多家财险业资深人士参投",
+        "source_type": "官方公布",
+        "source_url": "https://www.prnewswire.com/news-releases/slingshot-insurance-emerges-from-stealth-with-27-million-seed-investment-to-build-ai-native-infrastructure-for-embedded-insurance-302914508.html"
+      },
+      {
+        "label": "早期客户",
+        "value": "嵌入式保险MGA Vertical Insure（自称服务75万+客户、均保费约$25）作为早期客户与设计伙伴",
+        "source_type": "官方公布",
+        "source_url": "https://www.prnewswire.com/news-releases/slingshot-insurance-emerges-from-stealth-with-27-million-seed-investment-to-build-ai-native-infrastructure-for-embedded-insurance-302914508.html"
+      }
+    ],
+    "why_it_works": "结账时卖的小保单量大、保费低，传统承保固定成本扛不住。Slingshot用AI把审批与对账自动化，让这类产品在经济账上成立，再通过API嵌进现有分销。",
+    "takeaway": "保险AI不要只做理赔聊天机器人；真正的杠杆可能在“让以前不赚钱的嵌入式小保单变得可规模运营”。",
+    "innovation_score": 4,
+    "business_score": 2,
+    "tags": ["嵌入式保险", "InsurTech", "MGA", "种子轮", "工作流自动化"],
+    "website": "https://www.slingshotinsurance.com",
+    "sources": [
+      "https://www.prnewswire.com/news-releases/slingshot-insurance-emerges-from-stealth-with-27-million-seed-investment-to-build-ai-native-infrastructure-for-embedded-insurance-302914508.html",
+      "https://news.crunchbase.com/fintech-ecommerce/insuretech/startup-slingshot-insurance-seed-funding-genteman/"
+    ],
+    "uncertain_points": "无Slingshot自身保费/收入数据；行业“嵌入式保险占比将升至20%”为预测；Vertical Insure数据为其自述。",
+    "status": "new",
+    "date_collected": "2026-10-24"
+  },
+  {
+    "id": "movo-ai-mobile-longform-video-agent",
+    "type": "innovative",
+    "name": "MOVO AI",
+    "one_liner": "手机上的长视频创作Agent：对话指挥即可出片，Product Hunt日榜第2",
+    "category": "设计创意",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "移动优先的长视频Agent（亦支持Web）：用户用对话下达创作意图，云端异步生成并保持角色/场景一致性；免费试用+积分/订阅（细节以产品为准）",
+    "metrics": [
+      {
+        "label": "社区热度",
+        "value": "2026-10-23 Product Hunt日榜第2（榜单页显示约269票量级，不同镜像略有出入）",
+        "source_type": "社区数据",
+        "source_url": "https://www.producthunt.com/leaderboard/daily/2026/10/23"
+      }
+    ],
+    "why_it_works": "长视频工具长期绑在桌面时间线编辑上。MOVO把“导演意图”留给用户，把分镜、生成、修片丢给可后台跑的Agent，并强调跨集角色一致，击中短视频创作者升级做系列内容的痛点。",
+    "takeaway": "Agent形态的内容工具，关键体验是“锁屏后还在干活 + 只在需要决策时通知你”，而不只是又一个文生视频按钮。",
+    "innovation_score": 4,
+    "business_score": 1,
+    "tags": ["长视频", "移动Agent", "Product Hunt", "角色一致性", "生成式视频"],
+    "website": "https://movoai.pro",
+    "sources": [
+      "https://www.producthunt.com/products/movo-ai",
+      "https://www.producthunt.com/leaderboard/daily/2026/10/23",
+      "https://hunted.space/product/movo-ai"
+    ],
+    "uncertain_points": "无公开融资与收入；“全球首个手机长视频Agent”为自我定位；票数以PH实时页为准；生成成本与画质相对竞品缺乏第三方评测。",
+    "status": "new",
+    "date_collected": "2026-10-24"
+  },
+  {
+    "id": "asi-critical-infrastructure-ai-series-c",
+    "type": "both",
+    "name": "ASI",
+    "one_liner": "给空管、电网、军需做前瞻仿真的关键基础设施AI：$3.25亿C轮估值$30亿",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "向政府与关键行业销售物理世界仿真/监测/优化软件，客户包括FAA、美军、航司与公用事业",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "$3.25亿Series C，估值$30亿，Spark Capital领投，Citadel Securities关联方、Meritech、Craft、EIP、a16z等参投",
+        "source_type": "官方公布",
+        "source_url": "https://www.businesswire.com/news/home/20261020556716/en/ASI-Secures-%24325M-Series-C-at-%243B-Valuation-to-Power-Americas-Critical-Infrastructure-With-AI"
+      },
+      {
+        "label": "合同",
+        "value": "获美国交通部/FAA约$8.75亿program of record；陆军约$9900万合同；空军部署支持4000+操作员（公司称）",
+        "source_type": "官方公布",
+        "source_url": "https://www.businesswire.com/news/home/20261020556716/en/ASI-Secures-%24325M-Series-C-at-%243B-Valuation-to-Power-Americas-Critical-Infrastructure-With-AI"
+      }
+    ],
+    "why_it_works": "关键系统不能靠聊天模型碰运气，需要可审计的前瞻仿真。ASI卡在联邦大单和航司/电网生产环境，收入可见度远高于普通企业SaaS。",
+    "takeaway": "ToG/关键基础设施AI的商业信号看“program of record和军种合同”，比看Demo更可靠。",
+    "innovation_score": 4,
+    "business_score": 5,
+    "tags": ["关键基础设施", "空管", "国防", "世界模型", "联邦合同"],
+    "website": "https://www.asi.com",
+    "sources": [
+      "https://www.businesswire.com/news/home/20261020556716/en/ASI-Secures-%24325M-Series-C-at-%243B-Valuation-to-Power-Americas-Critical-Infrastructure-With-AI",
+      "https://siliconangle.com/2026/10/20/ai-infrastructure-management-software-startup-asi-hits-3b-valuation-after-raising-325m-in-funding/"
+    ],
+    "uncertain_points": "公告日期为10月20日，略早于严格24小时窗口，但此前未收录且10月23日仍在主流融资盘点中；合同金额为多年期总额口径的可能性未拆分；ARR未披露。",
+    "status": "new",
+    "date_collected": "2026-10-24"
+  }
+]
