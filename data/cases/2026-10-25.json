@@ -1,0 +1,526 @@
+[
+  {
+    "id": "utopai-studios-60m-1b-ai-film",
+    "date_collected": "2026-10-25",
+    "status": "new",
+    "type": "both",
+    "name": "Utopai Studios",
+    "one_liner": "AI原生电影工作室：据报道以$10亿估值融资$6000万，推进20+影视项目拟2027年起上映",
+    "category": "设计创意",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "AI原生影视制作工作室：用自研Utopai X视频模型制作电影与剧集，计划院线与流媒体发行；从3D世界创业公司Cybever分拆",
+    "metrics": [
+      {
+        "label": "融资与估值",
+        "value": "Growth equity约$6000万，估值约$10亿（媒体报道，投资方未在公开摘要中披露）",
+        "source_type": "媒体报道（转述The Information）",
+        "source_url": "https://aiweekly.co/alerts/ai-film-studio-utopai-raises-60m-at-1b-with-20-movies-and-series-due-in-2027"
+      },
+      {
+        "label": "项目管线",
+        "value": "在研影视项目20+部，含计划2027年上映的3部长片与2部剧集；目标约3000家北美院线",
+        "source_type": "媒体报道（转述The Information）",
+        "source_url": "https://dealroom.co/news/165346-utopai-studios-hits-1b-valuation-with-60m-raise-as-video-ai-heats-up/"
+      },
+      {
+        "label": "模型榜单",
+        "value": "Utopai X在Artificial Analysis Text-to-Video（含音频）榜单本月初排第2",
+        "source_type": "媒体报道",
+        "source_url": "https://aiweekly.co/alerts/ai-film-studio-utopai-raises-60m-at-1b-with-20-movies-and-series-due-in-2027"
+      }
+    ],
+    "why_it_works": "视频生成模型从短片玩具走向可融资的制片公司：用模型榜单证明画质，用长片/剧集管线证明能接住传统影视工期与发行。Mountain View团队由CEO Cecilia Shen与CTO Jie Yang带领，从Cybever分拆，等于把「生成能力」直接产品化成「片单」。",
+    "takeaway": "生成式视频要赚钱，关键不只是模型分数，而是能否把模型嵌进可发行的影视生产与院线/流媒体合同；估值叙事会押在2027上映兑现上。",
+    "innovation_score": 4,
+    "business_score": 4,
+    "tags": [
+      "AI影视",
+      "视频生成",
+      "独角兽",
+      "院线发行",
+      "Utopai X"
+    ],
+    "website": "https://www.utopai.com",
+    "sources": [
+      "https://www.theinformation.com/newsletters/ai-agenda/utopai-becomes-unicorn-video-ai-takes",
+      "https://aiweekly.co/alerts/ai-film-studio-utopai-raises-60m-at-1b-with-20-movies-and-series-due-in-2027",
+      "https://dealroom.co/news/165346-utopai-studios-hits-1b-valuation-with-60m-raise-as-video-ai-heats-up/",
+      "https://mediagazer.com/261024/p2"
+    ],
+    "uncertain_points": "主源The Information为付费墙，金额与估值来自二手转述；官网域名与投资方名单未在公开摘要中完整核对；「约3000家北美院线」为媒体说法，尚未见发行合同公开文件；网站域名需以公司实际站点为准。"
+  },
+  {
+    "id": "meta-acquires-sundial-ai-analytics",
+    "date_collected": "2026-10-25",
+    "status": "new",
+    "type": "profitable",
+    "name": "Sundial（被Meta收购）",
+    "one_liner": "前Meta员工创办的自然语言数据分析平台被Meta收购，并入DATA分析工具与Agent组织",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "面向企业的AI数据分析SaaS：自然语言提问→可执行洞察的聊天式分析；收购完成后将停止服务外部客户，并入Meta内部",
+    "metrics": [
+      {
+        "label": "收购",
+        "value": "Meta已确认收购Sundial；交易价格未披露",
+        "source_type": "官方确认（发言人向Axios确认）",
+        "source_url": "https://www.axios.com/2026/10/23/meta-ai-data-platform-sundial"
+      },
+      {
+        "label": "团队安排",
+        "value": "联合创始人Julie Zhuo、Chandra Narayanan加入Meta；Narayanan将领导数据分析工具与agents工作",
+        "source_type": "媒体报道（引Meta CDO Alex Schultz）",
+        "source_url": "https://www.axios.com/2026/10/23/meta-ai-data-platform-sundial"
+      }
+    ],
+    "why_it_works": "大厂缺的不是又一个仪表盘，而是「谁都能问数据」的Agent层。Sundial由前Meta产品设计VP Zhuo与前Instagram/Facebook分析负责人Narayanan创办，技术与组织文化契合，收购后直接喂给新设立的Data Analytics Tooling & Agents（DATA）单元。",
+    "takeaway": "垂直AI分析工具的退出路径常常是被买方吞进内部Agent平台；对创业者意味着产品要能证明「降中心化数据团队依赖」，对客户则要提前评估供应商被收购后的断供风险。",
+    "innovation_score": 3,
+    "business_score": 4,
+    "tags": [
+      "收购",
+      "数据分析",
+      "Meta",
+      "AI Agent",
+      "企业分析"
+    ],
+    "website": "https://www.sundial.so",
+    "sources": [
+      "https://www.axios.com/2026/10/23/meta-ai-data-platform-sundial",
+      "https://www.theverge.com/tech/1018103/meta-is-acquiring-an-ai-analytics-company"
+    ],
+    "uncertain_points": "收购金额未披露；官网域名可能随关停变化；外部客户何时停服以交割完成为准。"
+  },
+  {
+    "id": "1password-for-agents-credential-layer",
+    "date_collected": "2026-10-25",
+    "status": "new",
+    "type": "innovative",
+    "name": "1Password for Agents",
+    "one_liner": "密码管理巨头推出Agent凭据层：Agent要登录时你审批，1Password直接填密，Agent看不到密码",
+    "category": "生产力办公",
+    "region": "海外",
+    "team_type": "大公司",
+    "business_model": "在现有1Password Individual/Family订阅上免费提供Agent集成（目前1Password.com区域）；对接个人AI Agent的安全登录基础设施，企业版能力随集成扩展",
+    "metrics": [
+      {
+        "label": "产品形态",
+        "value": "Agent请求凭据→用户在1Password审批→凭据直填目标站点，不暴露给Agent/模型",
+        "source_type": "官方公布",
+        "source_url": "https://1password.com/blog/1password-for-ai-agents"
+      },
+      {
+        "label": "首批集成",
+        "value": "宣布对接Meta Muse、Anthropic Claude Duet、OpenAI ChatGPT Work/dots、SpaceXSI Grok Bot、Town Townie；另有Browserbase、Browser Use等在途",
+        "source_type": "官方公布",
+        "source_url": "https://1password.com/blog/1password-for-ai-agents"
+      },
+      {
+        "label": "Product Hunt",
+        "value": "2026-10-24日榜约第3（约190票量级，与当日榜单一致）",
+        "source_type": "平台数据",
+        "source_url": "https://www.producthunt.com/leaderboard/daily/2026/10/24"
+      }
+    ],
+    "why_it_works": "个人Agent卡在登录页时，用户要么接管手输，要么把密码贴进提示词——两者都糟。1Password把「审批一次填密」做成平台标准，用已有保险库网络绑定多家Agent，等于抢占Agent时代的信任层入口。",
+    "takeaway": "Agent生态的下一层基础设施是身份与密钥，而不是又一个聊天框；谁掌握「人在环上的凭据审批」，谁就能卡住多Agent并行的关键路径。",
+    "innovation_score": 5,
+    "business_score": 3,
+    "tags": [
+      "Agent安全",
+      "密码管理",
+      "凭据",
+      "个人Agent",
+      "平台"
+    ],
+    "website": "https://1password.com/blog/1password-for-ai-agents",
+    "sources": [
+      "https://1password.com/blog/1password-for-ai-agents",
+      "https://1password.com/press/2026/october/1password-for-agents-trust-layer-personal-ai-agents",
+      "https://www.producthunt.com/leaderboard/daily/2026/10/24"
+    ],
+    "uncertain_points": "博客日期为10月22日，PH热度为10月24日；1Password.eu/.ca账户暂不支持；各Agent集成上线节奏「rolling out / coming soon」不一；免费策略是否长期维持未说明。"
+  },
+  {
+    "id": "zcad-ai-parametric-cad-ph1",
+    "date_collected": "2026-10-25",
+    "status": "new",
+    "type": "innovative",
+    "name": "zCAD AI",
+    "one_liner": "用自然语言/参考图生成可编辑参数化CAD零件与装配，登上Product Hunt日榜第1",
+    "category": "设计创意",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "云端参数化CAD+AI生成：免费Beta含月度credits（非商用、模型可能公开）；付费AI套餐解锁私有模型、商用与导出（含STEP）",
+    "metrics": [
+      {
+        "label": "Product Hunt",
+        "value": "2026-10-24日榜第1，约233 upvotes",
+        "source_type": "平台数据",
+        "source_url": "https://www.producthunt.com/leaderboard/daily/2026/10/24"
+      },
+      {
+        "label": "产品能力",
+        "value": "提示词/参考图→B-rep几何、零件/装配/配合关系，可继续编辑并导出STEP",
+        "source_type": "官方公布",
+        "source_url": "https://zcad.ai/products/ai"
+      },
+      {
+        "label": "免费额度",
+        "value": "Free含每月200 credits + 一次性600 Beta赠送；无付费订阅时模型公开且生成数据可用于训练",
+        "source_type": "官方公布",
+        "source_url": "https://zcad.ai/products/ai"
+      }
+    ],
+    "why_it_works": "多数「AI 3D」只出网格炫图，工程师真正要的是带尺寸、可改特征、能进制造链路的CAD。zCAD把生成结果钉在参数化与装配关系上，并强调「工程几何≠可量产批准」，降低了专业用户的信任门槛。",
+    "takeaway": "专业设计工具里，AI要赢的是可继续编辑的结构化输出（B-rep/STEP），而不是一次性炫酷网格；隐私与商用边界要在免费层就写清。",
+    "innovation_score": 4,
+    "business_score": 2,
+    "tags": [
+      "CAD",
+      "参数化",
+      "Product Hunt",
+      "工程设计",
+      "STEP"
+    ],
+    "website": "https://zcad.ai",
+    "sources": [
+      "https://www.producthunt.com/products/zcad-ai",
+      "https://zcad.ai/products/ai",
+      "https://www.producthunt.com/leaderboard/daily/2026/10/24"
+    ],
+    "uncertain_points": "付费档定价与生产级用量上限未在公开页完整列出；PH票数随时间变动；制造就绪需人工校核，官方亦强调非制造批准。"
+  },
+  {
+    "id": "mypip-ai-vibe-code-games-ph2",
+    "date_collected": "2026-10-25",
+    "status": "new",
+    "type": "innovative",
+    "name": "myPip",
+    "one_liner": "用ChatGPT/Claude经MCP vibe coding做可玩可发布游戏，并内建广告/内购变现，PH日榜第2",
+    "category": "游戏娱乐",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "AI游戏生成与发布平台：免费档含月度构建次数；Pro约$20/月更高配额与主机发布；支持广告、内购与应用商店分发；经MCP接入Claude/ChatGPT",
+    "metrics": [
+      {
+        "label": "Product Hunt",
+        "value": "2026-10-24日榜第2，约201 upvotes",
+        "source_type": "平台数据",
+        "source_url": "https://www.producthunt.com/leaderboard/daily/2026/10/24"
+      },
+      {
+        "label": "定价",
+        "value": "免费档约20次构建/月；Pro $20/月约200次构建并支持主机发布（以官网定价页为准）",
+        "source_type": "官方公布",
+        "source_url": "https://mypip.dev/pricing"
+      },
+      {
+        "label": "接入方式",
+        "value": "提供MCP端点 mcp.mypip.dev，可在Claude Connectors与ChatGPT自定义MCP中启用",
+        "source_type": "官方公布",
+        "source_url": "https://mypip.dev/"
+      }
+    ],
+    "why_it_works": "「会生成游戏」不够，还要把发布和变现焊在同一工作流里。myPip借MCP挂在用户已经付费的Claude/ChatGPT上，降低切换成本，再卖构建配额与商店发布，切中独立开发者周末出demo的需求。",
+    "takeaway": "Vibe coding产品的差异化正从「能不能生成」转向「能不能一键上架赚钱」；MCP成为蹭头部助手分发的捷径。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": [
+      "Vibe Coding",
+      "游戏",
+      "MCP",
+      "Product Hunt",
+      "变现"
+    ],
+    "website": "https://mypip.dev",
+    "sources": [
+      "https://www.producthunt.com/products/mypip-2",
+      "https://mypip.dev/",
+      "https://mypip.dev/pricing",
+      "https://www.producthunt.com/leaderboard/daily/2026/10/24"
+    ],
+    "uncertain_points": "官网文案另写新账户40次Astra构建，与定价页「20次」口径可能因活动变化；实际付费率与爆款游戏收入未公开。"
+  },
+  {
+    "id": "canva-craft-design-native-image-model",
+    "date_collected": "2026-10-25",
+    "status": "new",
+    "type": "innovative",
+    "name": "Canva Craft",
+    "one_liner": "Canva首个自研图像生成模型：先构图规划再渲染，输出可经Magic Layers拆成可编辑设计",
+    "category": "设计创意",
+    "region": "全球",
+    "team_type": "大公司",
+    "business_model": "内置于Canva Dream Lab，面向全球用户；同时开放Public API与即将推出的Canva MCP，供营销/电商等第三方与Agent调用",
+    "metrics": [
+      {
+        "label": "产品发布",
+        "value": "2026-10-22起向全体Canva用户与Public API开放；最高2K、30+宽高比",
+        "source_type": "官方公布",
+        "source_url": "https://www.canva.com/newsroom/news/canva-craft/"
+      },
+      {
+        "label": "榜单与场景",
+        "value": "公司称DesignArena图像生成实验室排名第2；People&Portraits、Landscapes子类分列第1（样本池约85–87个模型）",
+        "source_type": "官方公布",
+        "source_url": "https://www.canva.com/newsroom/news/canva-craft/"
+      },
+      {
+        "label": "架构",
+        "value": "两阶段：规划模型写构图/层级/文字→渲染模型出图；配合Magic Layers做可编辑图层",
+        "source_type": "官方公布",
+        "source_url": "https://www.canva.com/newsroom/news/canva-craft/"
+      }
+    ],
+    "why_it_works": "通用文生图常卡在「好看但改不动、文字糊」。Canva用自家海量模板训练「设计母语」模型，并先规划后渲染，让输出天然对接可编辑图层与API/MCP——把生成锁进已有4亿级创作者工作流。",
+    "takeaway": "大设计平台做模型，胜负手是「生成→可编辑设计资产」的闭环，而不是再拼一张竞技场截图；MCP/API决定Agent能否把出图变成流水线一步。",
+    "innovation_score": 4,
+    "business_score": 4,
+    "tags": [
+      "文生图",
+      "可编辑图层",
+      "Canva",
+      "设计工具",
+      "MCP"
+    ],
+    "website": "https://www.canva.com/newsroom/news/canva-craft/",
+    "sources": [
+      "https://www.canva.com/newsroom/news/canva-craft/",
+      "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+      "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model"
+    ],
+    "uncertain_points": "DesignArena排名为公司自述引用；「全球第二先进图像实验室」依赖该榜口径；Craft-fast/ultrafast尚未上线；MCP标注Coming Soon。"
+  },
+  {
+    "id": "agentvalley-claude-code-mac-notch",
+    "date_collected": "2026-10-25",
+    "status": "new",
+    "type": "innovative",
+    "name": "AgentValley",
+    "one_liner": "把Claude Code多会话/子Agent状态塞进Mac刘海：谁在干活、谁在等你一眼可见",
+    "category": "编程开发",
+    "region": "海外",
+    "team_type": "独立开发者",
+    "business_model": "免费macOS应用（开源）；仅服务Claude Code；可选插件在刘海内Allow/Deny；本机保存用量历史并可导出PDF对账单",
+    "metrics": [
+      {
+        "label": "Product Hunt",
+        "value": "2026-10-24日榜约第4，约133 upvotes",
+        "source_type": "平台数据",
+        "source_url": "https://www.producthunt.com/leaderboard/daily/2026/10/24"
+      },
+      {
+        "label": "产品定位",
+        "value": "免费、开源、Apple公证；Homebrew cask可装；需macOS 15+与刘海屏MacBook",
+        "source_type": "官方公布",
+        "source_url": "https://agentvalley.app/"
+      }
+    ],
+    "why_it_works": "多Agent并行时，真正的成本是「切窗口找谁卡在Ask上」。AgentValley只读Claude Code本地会话文件，把等待审批做成刘海红点，符合「工具不碰你的仓库、只读状态」的开发者信任模型。",
+    "takeaway": "编码Agent爆发后，监控与审批UX本身就是品类；做窄（只绑一家Agent运行时）反而更容易做到「一眼可读」。",
+    "innovation_score": 4,
+    "business_score": 2,
+    "tags": [
+      "Claude Code",
+      "Mac",
+      "多Agent",
+      "开发者工具",
+      "开源"
+    ],
+    "website": "https://agentvalley.app",
+    "sources": [
+      "https://agentvalley.app/",
+      "https://www.producthunt.com/products/agentvalley",
+      "https://www.producthunt.com/leaderboard/daily/2026/10/24"
+    ],
+    "uncertain_points": "暂无公开收入；强绑定Claude Code与刘海机型，生态迁移成本未知。"
+  },
+  {
+    "id": "cutbay-chat-ai-video-agent",
+    "date_collected": "2026-10-25",
+    "status": "new",
+    "type": "innovative",
+    "name": "CutBay",
+    "one_liner": "聊天式AI视频Agent：从提示词、PPT、链接、文档到成片，用对话迭代剪辑",
+    "category": "营销内容",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "在线AI视频生成与编辑SaaS：面向营销、电商、教育与企业内部沟通；输入可为提示词、PPT、URL、文档与自有素材",
+    "metrics": [
+      {
+        "label": "产品形态",
+        "value": "端到端视频Agent：规划→成片→自然语言改稿；支持口播去废话/静音并加字幕与B-roll",
+        "source_type": "官方公布",
+        "source_url": "https://www.cutbay.ai/"
+      },
+      {
+        "label": "社区热度",
+        "value": "出现在2026-10-24前后Product Hunt/聚合日榜视频Agent行列（约百票量级）",
+        "source_type": "平台/聚合报道",
+        "source_url": "https://www.producthunt.com/products/cutbay"
+      }
+    ],
+    "why_it_works": "短视频生产的瓶颈是时间线工具学习成本。CutBay把「从任意素材到成片」收成对话，降低非专业创作者门槛，并明确电商链接/PPT等商务输入，比纯文生视频更贴近获客场景。",
+    "takeaway": "视频Agent竞争已从画质转向输入广度（URL/表格/PPT）与改稿闭环；缺公开收入时只能当创新信号，不能当盈利铁证。",
+    "innovation_score": 3,
+    "business_score": 2,
+    "tags": [
+      "AI视频",
+      "Agent",
+      "营销",
+      "无时间线",
+      "Product Hunt"
+    ],
+    "website": "https://www.cutbay.ai",
+    "sources": [
+      "https://www.cutbay.ai/",
+      "https://www.producthunt.com/products/cutbay",
+      "https://www.prnewswire.com/news-releases/introducing-cutbay-the-ai-video-agent-transforming-video-creation-with-chat-based-workflows-302908185.html"
+    ],
+    "uncertain_points": "公开收入/ARR未见；PR稿日期与PH热度需交叉看；与Higgsfield等生成平台定位部分重叠。"
+  },
+  {
+    "id": "yizhu-tech-3d-dram-pim-10yi",
+    "date_collected": "2026-10-25",
+    "status": "new",
+    "type": "profitable",
+    "name": "亿铸科技",
+    "one_liner": "苏州存算一体AI芯片公司宣布完成超10亿元融资，3D DRAM通用存算芯片已流片",
+    "category": "硬件与端侧",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "通用存算一体AI算力硬件与软件栈：算力卡/工作站/一体机到推理集群，自研YICA软件平台，强调CUDA/PyTorch兼容，面向数据中心与云推理",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "2026-10-23宣布完成超10亿元新一轮融资；本轮投资方未披露",
+        "source_type": "媒体报道（引公司宣布）",
+        "source_url": "https://zhidx.com/p/603963.html"
+      },
+      {
+        "label": "产品进度",
+        "value": "基于3D DRAM的全数字通用存算一体AI芯片已完成流片，商用测试「基本达到」设计指标",
+        "source_type": "媒体报道（引公司披露）",
+        "source_url": "https://zhidx.com/p/603963.html"
+      },
+      {
+        "label": "性能宣称",
+        "value": "公司称相对主流云GPU可数倍性能、约1/5功耗、约1/6成本；FPGA仿真对比H200吞吐约2倍（公司口径）",
+        "source_type": "公司披露（媒体转述）",
+        "source_url": "https://zhidx.com/p/603963.html"
+      }
+    ],
+    "why_it_works": "Agent与长上下文把「搬数据」成本推到台前，存算一体叙事对推理TCO买家有吸引力。亿铸选相对成熟的3D DRAM介质并强调CUDA兼容，是在赌量产与生态迁移成本可控。",
+    "takeaway": "中国AI芯片融资仍在「流片成功」节点定价；对外宣传的能效数字需等独立实测，CUDA兼容才是落地关键话术。",
+    "innovation_score": 3,
+    "business_score": 3,
+    "tags": [
+      "存算一体",
+      "AI芯片",
+      "3D DRAM",
+      "推理",
+      "国产算力"
+    ],
+    "website": "https://www.yizhutech.com",
+    "sources": [
+      "https://zhidx.com/p/603963.html",
+      "https://www.tmtpost.com/nictation/8179717.html"
+    ],
+    "uncertain_points": "本轮投资方与投前估值未披露；官网域名待核实；性能对比多为公司/仿真口径；历史融资轮次细节以公司公告为准。"
+  },
+  {
+    "id": "chain-reaction-cyber-ai-pentest-token",
+    "date_collected": "2026-10-25",
+    "status": "new",
+    "type": "both",
+    "name": "链式反应",
+    "one_liner": "开源出身的AI自动化渗透创业公司完成数百万元种子轮，试推Token计费先发安全",
+    "category": "企业服务",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "先发安全（进攻性安全）SaaS：开源核心+商业托管；新产品「CYBER·AI黑客」做端到端自动渗透；探索客户自购模型Token、平台按Token用量收费，弱化项目制",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "数百万元种子轮，投资方为微步在线与靖安科技相关方",
+        "source_type": "媒体报道（36氪）",
+        "source_url": "https://eu.36kr.com/zh/p/4037822855058307"
+      },
+      {
+        "label": "竞赛与基准",
+        "value": "腾讯云TCH2中Cairn以54/54全解获第3；曾在TSecBench霸榜数月；TCH3前20占四席（创始人口径/报道）",
+        "source_type": "媒体报道（引创始人）",
+        "source_url": "https://eu.36kr.com/zh/p/4037822855058307"
+      },
+      {
+        "label": "商业实验",
+        "value": "100家试用企业中约七成愿接受Token计费形式；定价未定",
+        "source_type": "创始人自述（媒体）",
+        "source_url": "https://eu.36kr.com/zh/p/4037822855058307"
+      }
+    ],
+    "why_it_works": "AI让攻击变便宜，传统安全仍靠销售关系与项目制，成本结构错位。链式反应用开源社区ChainReactors/gogo获客，再把Agent式自动渗透产品化，并用Token计费尝试服务「年预算只有几万」的中小客户。",
+    "takeaway": "安全AI若只做聊天建议，最后一公里仍要专家；端到端Agent+开源PLG+Token计价，是在同时挑战交付形态与定价权，能否规模化仍高度不确定。",
+    "innovation_score": 4,
+    "business_score": 2,
+    "tags": [
+      "AI安全",
+      "渗透测试",
+      "开源",
+      "Token计费",
+      "Agent"
+    ],
+    "website": "https://www.chainreactors.github.io",
+    "sources": [
+      "https://eu.36kr.com/zh/p/4037822855058307",
+      "https://www.ai-club.cn/news-article/47583"
+    ],
+    "uncertain_points": "种子轮精确金额未披露；Token模式创始人自承未跑通；官网/产品入口以社区与报道为准；竞赛成绩需防过拟合宣传。"
+  },
+  {
+    "id": "guoke-brain-computer-wearable-bci-seed",
+    "date_collected": "2026-10-25",
+    "status": "new",
+    "type": "both",
+    "name": "国科脑机",
+    "one_liner": "中科院自动化所成果转化的非侵入可穿戴双向脑机接口公司，完成数千万种子轮",
+    "category": "医疗健康",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "可穿戴硬件+端侧AI算法：额贴/发箍/高密度平台，面向脑疾病快筛、精神与睡眠障碍检测调控及脑机交互；走医疗器械注册与临床合作",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "数千万元人民币种子轮，国科创投领投，厚天资本、万方资本跟投",
+        "source_type": "媒体报道（36氪）",
+        "source_url": "https://eu.36kr.com/zh/p/4036830134932615"
+      },
+      {
+        "label": "技术路线",
+        "value": "非侵入可穿戴双向闭环：检测（读）+调控（写）+脑电解码；MCU+FPGA端侧感算一体",
+        "source_type": "媒体报道（引公司）",
+        "source_url": "https://eu.36kr.com/zh/p/4036830134932615"
+      }
+    ],
+    "why_it_works": "脑电大模型难，一大原因是不同硬件信号不可比。国科脑机把「硬件+AI」绑成端侧一体，先做精神/睡眠等医疗刚需，再用一致数据反哺模型——叙事上同时打「可穿戴」与「数据同构」。",
+    "takeaway": "脑机接口落地优先解「不方便/不稳定/不智能/不刚需」四不，而不是先讲通用脑控科幻；医疗注册进度将决定融资故事能否兑现。",
+    "innovation_score": 4,
+    "business_score": 2,
+    "tags": [
+      "脑机接口",
+      "可穿戴",
+      "医疗AI",
+      "种子轮",
+      "中科院转化"
+    ],
+    "website": "https://www.ia.cas.cn",
+    "sources": [
+      "https://eu.36kr.com/zh/p/4036830134932615",
+      "https://news.pedaily.cn/202610/570764.shtml"
+    ],
+    "uncertain_points": "精确融资金额未披露；公司独立官网未在报道中明确；产品尚未见大规模临床与注册证公开信息；成立于2026年6月，商业化早期。"
+  }
+]
