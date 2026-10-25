@@ -1,0 +1,394 @@
+[
+  {
+    "id": "lingyan-tech-facesoul-agent-seed",
+    "date_collected": "2026-10-26",
+    "status": "new",
+    "type": "both",
+    "name": "灵颜科技",
+    "one_liner": "仿生灵巧脸FaceSoul Agent：音唇眼同步情感交互，完成数千万元种子及种子+轮",
+    "category": "硬件与端侧",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "为人形/服务机器人与情感陪伴设备提供仿生灵巧脸与端侧表情生成全栈方案（FaceSoul Agent）；产品线含教育科研、商业服务、消费与主机厂配套，兼做IP定制",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "数千万元种子轮及种子+轮；种子轮盈动资本、浙江火炬中心，种子+轮毅达资本、梅花创投、领甪资本，盈动追加；领甪担任财务顾问",
+        "source_type": "媒体首发（36氪/硬氪）",
+        "source_url": "https://www.ai-club.cn/news-article/48223"
+      },
+      {
+        "label": "产品自由度",
+        "value": "线驱灵巧脸面部自由度据称达国内同类最高32个；端侧轻量化表情生成模型，音唇眼同步",
+        "source_type": "媒体报道（引创始人）",
+        "source_url": "https://www.ai-club.cn/news-article/48223"
+      },
+      {
+        "label": "成立与落地",
+        "value": "2026年6月成立于杭州；成立约四个月已与运营商、文旅、商业服务及部分主机厂达成合作或意向",
+        "source_type": "媒体报道（引创始人）",
+        "source_url": "https://www.donews.com/news/detail/8/6752748.html"
+      }
+    ],
+    "why_it_works": "具身智能上半场卷四肢与运动控制，脸是供应链空白：主机厂要的是把语音/视觉变成嘴型与表情，而不是再做一个对话大模型。灵颜走线驱仿生、端侧表情模型，并复用同门关节电机与灵巧手供应链，把「恐怖谷」区间用拟人度策略拆开做To B/To C与IP线。",
+    "takeaway": "机器人交互入口会从屏幕迁到脸；垂直部件商若能证明量产模组化与主机厂配套节奏，比再卷通用Agent更能卡位情感表达层。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": ["仿生脸", "具身智能", "FaceSoul", "线驱", "种子轮"],
+    "website": "https://www.ai-club.cn/news-article/48223",
+    "sources": [
+      "https://www.ai-club.cn/news-article/48223",
+      "https://www.donews.com/news/detail/8/6752748.html",
+      "https://www.zgeo.com.cn/news/lingyan-tech-seed-funding-facesoul-agent"
+    ],
+    "uncertain_points": "融资精确金额未披露（仅「数千万元」）；官网独立域名未在公开报道中确认，暂以媒体报道页为入口；「国内首家音唇眼同步」「32自由度最高」为公司/媒体表述，缺第三方测评；营收结构为创始人规划口径，非已审计业绩。"
+  },
+  {
+    "id": "neolix-l4-robovan-series-e",
+    "date_collected": "2026-10-26",
+    "status": "new",
+    "type": "both",
+    "name": "新石器 Neolix",
+    "one_liner": "L4无人配送车：近4亿美元E轮，全球3万+辆、累计行驶超2.6亿公里",
+    "category": "硬件与端侧",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "L4无人配送车（RoboVan）制造与无人运力服务：快递等场景规模化运营，并向海外枢纽本地化交付；推进视觉为主端到端大模型",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "近4亿美元E轮（约合人民币26.8亿元），博裕与国家级基金（报道指国家人工智能产业投资基金）联合领投；阿里AEF NextGen、纪源、Vertex Growth、广汽资本等参投",
+        "source_type": "媒体报道（21世纪经济报道）",
+        "source_url": "https://www.21jingji.com/article/20261020/herald/1e6bd9e271dfecb8cd25a7f0609e566d.html"
+      },
+      {
+        "label": "运营规模",
+        "value": "全球近20国、300+城市运营超3万辆L4无人车，累计行驶超2.6亿公里（公司披露）",
+        "source_type": "媒体报道（引公司披露）",
+        "source_url": "https://www.cnfin.com/gs-lb/detail/20261020/4483545_1.html"
+      },
+      {
+        "label": "商业节奏",
+        "value": "公司称今年营收目标达去年2–3倍，并计划从卖车转向运力服务，目标2027年整体盈利（媒体引述）",
+        "source_type": "媒体报道",
+        "source_url": "https://www.tmtpost.com/8181051.html"
+      }
+    ],
+    "why_it_works": "无人配送从「能跑」进入「能卖运力」：国家级AI基金首次押注该赛道、腾讯后再有阿里入股，给电商物流场景与海外属地化铺股东网络；车辆规模与里程是融资叙事的硬背书。",
+    "takeaway": "L4落地故事要同时讲清车队规模、属地化运维与从硬件销售到运力订阅的收入迁移；海外枢纽比再融一轮更能证明可复制。",
+    "innovation_score": 3,
+    "business_score": 4,
+    "tags": ["L4", "无人配送", "RoboVan", "E轮", "运力服务"],
+    "website": "https://www.neolix.ai",
+    "sources": [
+      "https://www.21jingji.com/article/20261020/herald/1e6bd9e271dfecb8cd25a7f0609e566d.html",
+      "https://www.cnfin.com/gs-lb/detail/20261020/4483545_1.html",
+      "https://www.dealstreetasia.com/stories/neolix-series-e-funding-498589"
+    ],
+    "uncertain_points": "主公告日为10月20日，10月25日中文媒体仍在复盘故今日补录；「国家级基金」身份为知情人士口径；官网域名需以公司实际站点为准；2027盈利为规划目标。"
+  },
+  {
+    "id": "blackwall-agentic-web-traffic-series-c",
+    "date_collected": "2026-10-26",
+    "status": "new",
+    "type": "both",
+    "name": "Blackwall",
+    "one_liner": "面向主机商的Web流量安全平台：分辨真人、合法AI Agent与恶意机器人，$1亿C轮估值$22亿",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "渠道模式：向托管/云/MSP提供可白标的流量管理与安全组件（DDoS、WAF、证书、路由等），按防护能力收费并与主机商分润；识别合法AI Agent与恶意爬虫",
+    "metrics": [
+      {
+        "label": "融资与估值",
+        "value": "Series C $1亿，估值$22亿；AVP领投，Dawn Capital、MMC Ventures、Tera Ventures跟投；较2025轮估值约4倍",
+        "source_type": "媒体报道（TechCrunch）",
+        "source_url": "https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet/"
+      },
+      {
+        "label": "产品定位",
+        "value": "用数字指纹与端点AI模型区分真人访客、合法Agent（如Codex）与恶意流量；押注Agent代用户访问与支付的准入层",
+        "source_type": "媒体报道（引CEO）",
+        "source_url": "https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet/"
+      }
+    ],
+    "why_it_works": "Agentic Web让「谁在爬站」变成新计费与合规问题。Blackwall不跟Cloudflare正面抢网站直客，而是把工具包给主机商白标，保住渠道关系，同时把合法Agent与恶意机器人拆开卖。",
+    "takeaway": "Agent流量治理会成为托管与边缘安全的下一层产品；渠道白标+意图识别比又一个通用WAF更像差异化。",
+    "innovation_score": 4,
+    "business_score": 4,
+    "tags": ["Agent安全", "Web流量", "主机商", "独角兽", "爱沙尼亚"],
+    "website": "https://blackwall.com",
+    "sources": [
+      "https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet/",
+      "https://www.businesswire.com/news/home/20261020736847/en/Blackwall-Raises-%24100M-at-%242.2B-Valuation-to-Scale-Its-Global-Web-Traffic-Management-Platform-for-the-Hosting-Market",
+      "https://tech.eu/2026/10/20/blackwall-hits-2-2b-valuation-with-100m-series-c-just-weeks-after-joining-estonia-s-unicorn-club/"
+    ],
+    "uncertain_points": "主公告日为10月20日，本周资金周报仍在引用故补录；ARR/客户数未在公开稿披露；官网域名以公司实际为准。"
+  },
+  {
+    "id": "azoma-agentic-commerce-optimization-series-a",
+    "date_collected": "2026-10-26",
+    "status": "new",
+    "type": "both",
+    "name": "Azoma",
+    "one_liner": "Agentic Commerce Optimization：帮品牌赢AI购物Agent推荐位，$1120万A轮，收入近一年约10倍",
+    "category": "电商零售",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "面向快消品牌的Agent购物可见度测量、优化与执行平台（ACO）：覆盖LLM应用、零售助手与个人AI购物Agent；含Digital Twin模拟与专利内容能力",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "Series A $1120万，Puma Growth Partners领投；dunnhumby、Twin Path、MaRS IAF等参与；此前Seed $400万（2025-12）",
+        "source_type": "官方公告",
+        "source_url": "https://www.azoma.ai/insights/azoma-raises-11.2-million-series-a-to-continue-defining-the-agentic-commerce-optimization-category"
+      },
+      {
+        "label": "增长与客户",
+        "value": "过去一年收入近10倍；团队12→40人；客户含欧莱雅、联合利华、Mars、Beiersdorf、Reckitt；称5C框架部署于40%的50大CPG",
+        "source_type": "官方公告",
+        "source_url": "https://www.azoma.ai/insights/azoma-raises-11.2-million-series-a-to-continue-defining-the-agentic-commerce-optimization-category"
+      }
+    ],
+    "why_it_works": "SEO之后是GEO/ACO：每个Agent引用源不同，品牌不能再用单一可见度分数。Azoma把测量、优化、执行捆成品类，并用大客户与专利证明不是概念稿。",
+    "takeaway": "当购物决策交给Agent，货架变成「被引用的内容与数据」；垂直于品牌侧的Agent优化层比再做一个购物助手更容易收企业预算。",
+    "innovation_score": 4,
+    "business_score": 4,
+    "tags": ["GEO", "ACO", "Agent购物", "CPG", "Series A"],
+    "website": "https://www.azoma.ai",
+    "sources": [
+      "https://www.azoma.ai/insights/azoma-raises-11.2-million-series-a-to-continue-defining-the-agentic-commerce-optimization-category",
+      "https://www.techstars.com/blog/startup-spotlight/azoma-raises-11-2m-series-a-to-help-brands-sell-through-ai-shopping-agents",
+      "https://www.businessinsider.com/azoma-raises-millions-optimize-brands-ai-shopping-agents-2026-10"
+    ],
+    "uncertain_points": "主公告日为10月21日，周末窗口补录；「收入近10倍」「40%的50大CPG」为公司自述；Instinct相关交易额表述来自Azoma稿件引述，未独立核实。"
+  },
+  {
+    "id": "moli-lexmount-agent-browser",
+    "date_collected": "2026-10-26",
+    "status": "new",
+    "type": "innovative",
+    "name": "Moli by Lexmount",
+    "one_liner": "为AI Agent打造的开源无头浏览器引擎：偏重DOM/交互与按需渲染，Product Hunt日榜第1",
+    "category": "编程开发",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "开源引擎Moli + 托管Cloud Browser（Moli或Chromium会话）；面向Agent/harness的网页结构理解、表单交互与按需截图",
+    "metrics": [
+      {
+        "label": "社区热度",
+        "value": "2026-10-25 Product Hunt日榜第1（约218 upvote量级，榜单页显示）",
+        "source_type": "Product Hunt榜单",
+        "source_url": "https://www.producthunt.com/leaderboard/daily/2026/10/25"
+      },
+      {
+        "label": "产品形态",
+        "value": "Rust开源头浏览器；支持DOM/JS、CDP、WebDriver；可与Lexmount托管会话搭配",
+        "source_type": "官方站点",
+        "source_url": "https://browser.lexmount.com/moli"
+      }
+    ],
+    "why_it_works": "Agent上网不等于再嵌一套完整Chrome：多数任务只要结构、链接与表单状态。Moli把「为Agent瘦身的浏览器」产品化，并用云端会话承接不愿自托管的团队。",
+    "takeaway": "Agent基础设施下一层是专用运行时（沙箱电脑、头浏览器、凭据）；开源引擎引流、托管变现是清晰路径，但要证明对真实站点的兼容性。",
+    "innovation_score": 4,
+    "business_score": 2,
+    "tags": ["无头浏览器", "Agent基础设施", "开源", "Product Hunt", "Rust"],
+    "website": "https://browser.lexmount.com/moli",
+    "sources": [
+      "https://www.producthunt.com/leaderboard/daily/2026/10/25",
+      "https://browser.lexmount.com/moli",
+      "https://github.com/lexmount/moli"
+    ],
+    "uncertain_points": "公开收入/付费转化未披露；PH票数以榜单页为准可能随时间变化；与Chromium兼容性边界需按任务自测。"
+  },
+  {
+    "id": "agentgrid-human-agent-workspace",
+    "date_collected": "2026-10-26",
+    "status": "new",
+    "type": "innovative",
+    "name": "AgentGrid.io",
+    "one_liner": "人与多Agent共享的工件工作区：MCP接入、版本与权限，Product Hunt日榜第2",
+    "category": "生产力办公",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "免费起步的Agent工作区SaaS：文档/报告/幻灯片/应用等工件有稳定地址、归属、版本与可撤销的Agent身份；经MCP连接Claude/ChatGPT/Cursor等",
+    "metrics": [
+      {
+        "label": "社区热度",
+        "value": "2026-10-25 Product Hunt日榜第2（约161 upvote量级）",
+        "source_type": "Product Hunt榜单",
+        "source_url": "https://www.producthunt.com/leaderboard/daily/2026/10/25"
+      },
+      {
+        "label": "产品承诺",
+        "value": "上线即免费；Agent经MCP读写同一工件；人类可审阅与撤销Agent权限",
+        "source_type": "官方博客",
+        "source_url": "https://agentgrid.io/blog/introducing-agentgrid"
+      }
+    ],
+    "why_it_works": "Agent产出困在聊天线程里无法协作。AgentGrid把「工件」当成源真相：跨模型、可分享给不装Agent的同事，并把每个Agent做成可撤销身份。",
+    "takeaway": "多Agent协作的瓶颈是共享状态与治理，不是又一个聊天框；中立工件层有机会成为人机混编团队的Drive。",
+    "innovation_score": 4,
+    "business_score": 2,
+    "tags": ["MCP", "Agent协作", "工作区", "Product Hunt", "Anima"],
+    "website": "https://agentgrid.io",
+    "sources": [
+      "https://www.producthunt.com/leaderboard/daily/2026/10/25",
+      "https://agentgrid.io/blog/introducing-agentgrid",
+      "https://agentgrid.io/"
+    ],
+    "uncertain_points": "产品介绍博客日期为2026-08，今日按PH热度收录；付费计划与ARR未披露；母公司Anima关系以站点结构化数据为准。"
+  },
+  {
+    "id": "llama-windows-local-ai-tray",
+    "date_collected": "2026-10-26",
+    "status": "new",
+    "type": "innovative",
+    "name": "Llama Windows",
+    "one_liner": "托盘里的llama.cpp：一键下模型、本地OpenAI兼容API，Product Hunt日榜前列",
+    "category": "编程开发",
+    "region": "海外",
+    "team_type": "大公司",
+    "business_model": "免费开源WinUI3应用（Hugging Face/ggml生态）：托盘运行llama.cpp，模型来自Hub，本地localhost:9931 OpenAI兼容API供应用与Agent调用",
+    "metrics": [
+      {
+        "label": "社区热度",
+        "value": "2026-10-25 Product Hunt日榜约第6（约106 upvote量级）",
+        "source_type": "Product Hunt榜单",
+        "source_url": "https://www.producthunt.com/leaderboard/daily/2026/10/25"
+      },
+      {
+        "label": "能力",
+        "value": "支持Windows on Arm与NVIDIA RTX Spark；Alt+Space唤起；模型缓存与HF Hub共享",
+        "source_type": "官方博客（Hugging Face）",
+        "source_url": "https://huggingface.co/blog/huggingface/llama-windows"
+      }
+    ],
+    "why_it_works": "Windows本地模型一直卡在终端与编译。Llama Windows把llama.cpp做成托盘应用，并暴露统一本地API，让Agent/脚本直接接上私有推理。",
+    "takeaway": "端侧要爆发，关键是「零门槛运行时+可被其他应用调用的本地API」，而不只是又一个聊天壳。",
+    "innovation_score": 3,
+    "business_score": 2,
+    "tags": ["本地模型", "llama.cpp", "Windows", "开源", "Hugging Face"],
+    "website": "https://llama.app",
+    "sources": [
+      "https://www.producthunt.com/leaderboard/daily/2026/10/25",
+      "https://huggingface.co/blog/huggingface/llama-windows",
+      "https://github.com/ggml-org/Llama-Windows"
+    ],
+    "uncertain_points": "HF博客署期为10月13日，今日按PH曝光收录；商业化为开源免费，无收入信号；下载量未公开。"
+  },
+  {
+    "id": "papermark-data-rooms-for-agents",
+    "date_collected": "2026-10-26",
+    "status": "new",
+    "type": "innovative",
+    "name": "Papermark Data Rooms",
+    "one_liner": "可被AI Agent端到端操作的虚拟数据室：MCP/API/CLI共57工具，PH日榜亮相",
+    "category": "生产力办公",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "融资/并购等场景的安全数据室SaaS；Business计划起开放API/CLI/MCP，Agent可建室、上传、发链接、读分析与审计",
+    "metrics": [
+      {
+        "label": "社区热度",
+        "value": "2026-10-25 Product Hunt日榜约第8（约97 upvote量级）",
+        "source_type": "Product Hunt榜单",
+        "source_url": "https://www.producthunt.com/leaderboard/daily/2026/10/25"
+      },
+      {
+        "label": "Agent接口",
+        "value": "57个类型化MCP工具与对应REST；scoped token与追加式审计日志",
+        "source_type": "官方文档页",
+        "source_url": "https://www.papermark.com/agents"
+      }
+    ],
+    "why_it_works": "尽职调查工作流高度重复，却仍靠人手建室传文件。Papermark把数据室做成Agent可驱动的API面，让「签约NDA后自动开室」一类流程可编排。",
+    "takeaway": "垂直SaaS的Agent化关键是：权限粒度、审计与MCP工具覆盖是否够Agent独自闭环，而不只是加个聊天摘要。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": ["数据室", "MCP", "融资工具", "Agent API", "Product Hunt"],
+    "website": "https://www.papermark.com",
+    "sources": [
+      "https://www.producthunt.com/leaderboard/daily/2026/10/25",
+      "https://www.papermark.com/agents",
+      "https://www.papermark.com/news/introducing-data-rooms-2-0"
+    ],
+    "uncertain_points": "PH条目强调「60秒上线」与Agent能力，独立ARR未核；开源与商业版边界以官网定价为准。"
+  },
+  {
+    "id": "specsight-ai-product-observability",
+    "date_collected": "2026-10-26",
+    "status": "new",
+    "type": "innovative",
+    "name": "Specsight",
+    "one_liner": "从代码库生成活的产品说明与更新：给销售/支持看懂AI快速发版，PH日榜亮相",
+    "category": "生产力办公",
+    "region": "海外",
+    "team_type": "独立开发者",
+    "business_model": "产品可观测SaaS：只读接入GitHub/GitLab，用AI把代码变化写成功能地图、发布说明与团队更新；标价约€150/月起",
+    "metrics": [
+      {
+        "label": "社区热度",
+        "value": "2026-10-25 Product Hunt日榜约第13（约73 upvote量级）",
+        "source_type": "Product Hunt榜单",
+        "source_url": "https://www.producthunt.com/leaderboard/daily/2026/10/25"
+      },
+      {
+        "label": "定价",
+        "value": "Standard约€150/月：最多3项目、50成员、200次同步/月；7天试用",
+        "source_type": "官方站点",
+        "source_url": "https://specsight.app/"
+      }
+    ],
+    "why_it_works": "AI让写代码变快，组织跟不上「到底发了什么」。Specsight把代码当真相源，给非工程角色自动生成人话产品说明，卖的是协作带宽而非又一个IDE插件。",
+    "takeaway": "AI Coding的配套市场是「发版可读性」；面向销售/支持的产品可观测可能比再做一个codegen更好变现。",
+    "innovation_score": 3,
+    "business_score": 3,
+    "tags": ["产品可观测", "文档自动化", "GitHub", "Product Hunt", "SaaS"],
+    "website": "https://specsight.app",
+    "sources": [
+      "https://www.producthunt.com/leaderboard/daily/2026/10/25",
+      "https://specsight.app/",
+      "https://specsight.app/docs/what-is-specsight"
+    ],
+    "uncertain_points": "团队规模与付费客户数未披露；独立开发者画像来自站点署名；生成质量依赖代码库结构。"
+  },
+  {
+    "id": "xheart-physical-ai-chip-strategic",
+    "date_collected": "2026-10-26",
+    "status": "new",
+    "type": "profitable",
+    "name": "XHEART 新芯航途",
+    "one_liner": "面向大模型与物理AI的车规/机器人算力芯片：战略轮后累计融资近50亿元",
+    "category": "硬件与端侧",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "为自动驾驶、机器人等物理AI提供专用算力芯片；与Momenta、QNX等协同，服务车企智能化落地",
+    "metrics": [
+      {
+        "label": "累计融资",
+        "value": "战略轮完成后累计融资近50亿元人民币；投资方含上汽、奇瑞、长鑫、中金雷诺、均胜及国家人工智能产业投资基金等",
+        "source_type": "媒体报道（投中网等）",
+        "source_url": "https://www.chinaventure.com.cn/news/108-20261024-393747.html"
+      },
+      {
+        "label": "资金用途",
+        "value": "现有芯片量产交付与商业化、新一代芯片研发",
+        "source_type": "媒体报道（引公司）",
+        "source_url": "https://finance.sina.com.cn/tech/shenji/2026-10-25/doc-iniwmhuz3341265.shtml"
+      }
+    ],
+    "why_it_works": "物理AI缺的是可上车的算力与车企/存储产业协同。新芯航途用车企+长鑫+国资基金股东结构，把芯片叙事绑到量产交付而非只讲参数。",
+    "takeaway": "端侧大模型芯片的融资竞争力，越来越取决于「谁能帮你上车量产」，而不是峰值算力PPT。",
+    "innovation_score": 3,
+    "business_score": 4,
+    "tags": ["AI芯片", "自动驾驶", "物理AI", "战略轮", "车规"],
+    "website": "https://www.chinaventure.com.cn/news/108-20261024-393747.html",
+    "sources": [
+      "https://www.chinaventure.com.cn/news/108-20261024-393747.html",
+      "https://finance.sina.com.cn/tech/shenji/2026-10-25/doc-iniwmhuz3341265.shtml",
+      "https://www.nbd.com.cn/articles/2026-10-16/4607129.html"
+    ],
+    "uncertain_points": "本轮单笔金额未单独披露，公开口径多为「累计近50亿」；官网独立域名未核对；与Momenta等合作深度缺合同级公开信息；新浪稿抓取曾超时，以投中网为主源。"
+  }
+]
