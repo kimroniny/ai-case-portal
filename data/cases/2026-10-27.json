@@ -1,0 +1,544 @@
+[
+  {
+    "id": "bedrock-robotics-600m-series-c",
+    "date_collected": "2026-10-27",
+    "status": "new",
+    "type": "both",
+    "name": "Bedrock Robotics",
+    "one_liner": "把现有挖机改成自动驾驶的施工机器人公司，以$41亿估值拿下$6亿C轮并进入真实工地商业作业",
+    "category": "硬件与端侧",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "向承包商销售/部署可改装到现有20–80吨挖机上的自动驾驶套件与现场支持，在数据中心、水处理、土方等工地按项目交付无人挖掘产能",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "Series C $6亿，投后估值$41亿；CapitalG与Emergence Capital联合领投；累计融资近$10亿",
+        "source_type": "媒体报道（TechCrunch）",
+        "source_url": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/"
+      },
+      {
+        "label": "商业落地",
+        "value": "改装挖机已在内华达水处理厂、德州Champion Site Prep土方、Zachry 120万立方码土木工地等真实项目作业；新签亚利桑那承包商Haydon",
+        "source_type": "媒体报道（引公司）",
+        "source_url": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/"
+      },
+      {
+        "label": "团队背景",
+        "value": "2024年成立；CEO Boris Sofman曾任Waymo卡车项目负责人并创办Anki；联合创始人含多名Waymo老兵",
+        "source_type": "媒体报道",
+        "source_url": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/"
+      }
+    ],
+    "why_it_works": "建筑业熟练机手稀缺、培训周期长，Bedrock不造整机而是给现有挖机加感知与自动驾驶，可在一个班次内改装，直接嵌入承包商现有机队与流程。从试点进入多州真实付费工地，再用大额C轮扩现场交付能力，踩中数据中心与基建土方需求。",
+    "takeaway": "Physical AI里「改装存量设备+真实工地交付」比再讲通用人形故事更容易拿到巨额融资；关键是证明无人挖机与有人卡车同场作业的安全与产能。",
+    "innovation_score": 4,
+    "business_score": 5,
+    "tags": [
+      "自动驾驶挖机",
+      "施工机器人",
+      "Series C",
+      "Physical AI",
+      "改装套件"
+    ],
+    "website": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/",
+    "sources": [
+      "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/",
+      "https://x.com/i/trending/2114761726944281049"
+    ],
+    "uncertain_points": "客户数量公开口径为「六家客户部署」量级（X摘要）与TechCrunch列举工地不完全对齐；ARR/毛利未披露；Nvidia等为跟投方，是否含算力置换未说明。"
+  },
+  {
+    "id": "approaching-ai-token-factory-series-b",
+    "date_collected": "2026-10-27",
+    "status": "new",
+    "type": "profitable",
+    "name": "趋境科技",
+    "one_liner": "高品质AI Token生产与ATaaS服务商，B轮超13亿元、年内累计募资约24亿元，称收入已跨过成本线",
+    "category": "企业服务",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "以「高品质AI Token」为最小生产单元，运营Token工厂与ATaaS平台，向模型与应用侧交付规模化推理产能；资金投向产能扩张、平台升级与推理底层技术",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "B轮超13亿元人民币；年内累计募资约24亿元；浙财资本/萧山资本/工银投资/中关村科学城/星连资本/钱江世纪城等共同领投",
+        "source_type": "媒体报道（新浪科技/智东西）",
+        "source_url": "https://finance.sina.com.cn/tob/2026-10-26/doc-iniwpmtu2540994.shtml"
+      },
+      {
+        "label": "经营增长",
+        "value": "公司称过去半年多项核心经营指标超十倍增长；高品质AI Token日均产量攀升至超万亿量级；年内业务收入达去年全年近十倍，整体已跨过成本线",
+        "source_type": "媒体报道（引公司）",
+        "source_url": "https://www.zhidx.com/p/604516.html"
+      },
+      {
+        "label": "团队",
+        "value": "2024年成立于北京；清华计算机高性能所背景；郑纬民院士任首席科学顾问",
+        "source_type": "媒体报道",
+        "source_url": "https://www.zhidx.com/p/604516.html"
+      }
+    ],
+    "why_it_works": "推理侧从「卖卡」转向「卖合格Token」：趋境用少模型深优化与国产PD异构协同，把单位算力产出与有效利用率做成可复制工厂，半年把产量与收入拉到十倍量级，契合国产算力落地焦虑。",
+    "takeaway": "AI Infra下半场看单位经济：能证明高品质Token规模化且越过成本线的「Token工厂」，比纯算力转售更容易连续拿到超十亿轮次。",
+    "innovation_score": 3,
+    "business_score": 4,
+    "tags": [
+      "AI Token",
+      "ATaaS",
+      "推理工厂",
+      "B轮",
+      "国产算力"
+    ],
+    "website": "https://www.zhidx.com/p/604516.html",
+    "sources": [
+      "https://finance.sina.com.cn/tob/2026-10-26/doc-iniwpmtu2540994.shtml",
+      "https://www.zhidx.com/p/604516.html",
+      "https://www.nbd.com.cn/articles/2026-10-26/4617173.html"
+    ],
+    "uncertain_points": "「超万亿日均产量」「收入近十倍」「跨过成本线」均为公司对外口径，无独立审计；官网独立产品页未在本稿中核验；领投方名单各稿略有表述差异（浙财资本/浙财创新）。"
+  },
+  {
+    "id": "nevis-wealth-ai-os-series-b",
+    "date_collected": "2026-10-27",
+    "status": "new",
+    "type": "both",
+    "name": "Nevis",
+    "one_liner": "前Revolut高管打造的财富管理AI操作系统，EQT领投$7000万B轮、估值$5亿，平台覆盖顾问AUM超$7000亿",
+    "category": "法律金融",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "向RIA/财富管理机构销售整合CRM、会议智能、财务规划与托管工作流的AI Agent平台，让顾问把运营工作交给Agent，自己专注客户与增长",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "Series B $7000万，EQT Ventures领投；投后估值$5亿（Fortune援引知情人士）；累计融资$1.1亿；Charles Schwab、QuantumLight新进，Sequoia/ICONIQ/Ribbit加码",
+        "source_type": "官方博客+媒体（Fortune）",
+        "source_url": "https://www.neviswealth.com/blog/nevis-raises-70m-series-b/"
+      },
+      {
+        "label": "平台规模",
+        "value": "公司称平台上顾问管理资产从$500亿增至超$7000亿，每月新增约$750亿；客户约20家含Focus Financial、IEQ Capital、United Capital；收入增长超25倍；Agent完成超10万次运营任务",
+        "source_type": "创始人/公司自述",
+        "source_url": "https://www.neviswealth.com/blog/nevis-raises-70m-series-b/"
+      },
+      {
+        "label": "效率",
+        "value": "公司称顾问每周可省最多约10小时、多开约30%潜在客户会议",
+        "source_type": "创始人/公司自述",
+        "source_url": "https://fortune.com/2026/10/26/former-revolut-execs-70-million-financial-advisor-shortage/"
+      }
+    ],
+    "why_it_works": "财富管理顾问面临退休潮与需求上升，日常却困在七八套碎片系统里。Nevis不做单点会议纪要，而是做能端到端跑运营工作流的平台，并拿下Schwab战略入股，切入托管基础设施。",
+    "takeaway": "垂直Agent要赢，得嵌进行业已有合规与托管栈；「省出顾问产能」比「取代顾问」更容易被受监管行业买单。",
+    "innovation_score": 4,
+    "business_score": 4,
+    "tags": [
+      "财富管理",
+      "AI OS",
+      "Series B",
+      "RIA",
+      "Revolut"
+    ],
+    "website": "https://www.neviswealth.com/blog/nevis-raises-70m-series-b/",
+    "sources": [
+      "https://www.neviswealth.com/blog/nevis-raises-70m-series-b/",
+      "https://fortune.com/2026/10/26/former-revolut-execs-70-million-financial-advisor-shortage/"
+    ],
+    "uncertain_points": "估值$5亿来自Fortune「知情人士」而非公司正式公告；25x收入、$7000亿AUM、10小时节省等为公司自述，无第三方审计；具体付费席位与ARR未披露。"
+  },
+  {
+    "id": "paradev-agent-coding-workspace-seed",
+    "date_collected": "2026-10-27",
+    "status": "new",
+    "type": "both",
+    "name": "Paradev",
+    "one_liner": "原Superset更名，开源并行编排多编码Agent的工作区，USV领投$1150万种子轮",
+    "category": "编程开发",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "提供开源、Agent无关的开发工作区，让开发者并行编排Claude Code、Codex等编码Agent；商业化路径含企业采用与后续云/协作能力（官方强调自改进软件愿景）",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "$1150万种子轮，Union Square Ventures领投；YC、BoxGroup、468 Capital及Paul Graham等参与",
+        "source_type": "官方博客",
+        "source_url": "https://paradev.com/blog/superset-is-now-paradev"
+      },
+      {
+        "label": "采用",
+        "value": "公司称不到一年内有数十万开发者、覆盖180国，约1/8的Fortune 500公司试用过",
+        "source_type": "公司自述",
+        "source_url": "https://paradev.com/blog/superset-is-now-paradev"
+      },
+      {
+        "label": "产品事件",
+        "value": "2026-10-26正式宣布Superset更名为Paradev并同步融资",
+        "source_type": "官方博客",
+        "source_url": "https://paradev.com/blog/superset-is-now-paradev"
+      }
+    ],
+    "why_it_works": "单Agent聊窗不够用时，开发者需要像带paralegal一样并行调度一群Agent。Paradev从黑客松起步、YC出身的前CTO团队，用开源+重命名抢占「并行开发」心智，并拿到USV押注。",
+    "takeaway": "编码Agent层下一仗是编排与协作层；开源拉开发者、种子轮买品牌与企业渗透，比再做一个聊天IDE更清晰。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": [
+      "编码Agent",
+      "开源",
+      "USV",
+      "YC",
+      "并行编排"
+    ],
+    "website": "https://paradev.com/blog/superset-is-now-paradev",
+    "sources": [
+      "https://paradev.com/blog/superset-is-now-paradev",
+      "https://www.ycombinator.com/companies/paradev"
+    ],
+    "uncertain_points": "「数十万开发者」「1/8 Fortune 500」为公司自述，未区分DAU/累计试用；ARR与付费转化未披露；旧名Superset与Apache项目重名，迁移是否影响SEO/搜索需观察。"
+  },
+  {
+    "id": "ailytics-industrial-vision-series-a",
+    "date_collected": "2026-10-27",
+    "status": "new",
+    "type": "both",
+    "name": "Ailytics",
+    "one_liner": "把现有工业CCTV变成实时安全与运营层的新加坡视觉AI，Tin Men领投$740万A轮",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "连接工地/工厂已有摄像头，提供视觉AI安全合规与运营分析平台（Ailyssa/AilyssaX），按部署与订阅向建筑、制造、海事、物流等重工业客户收费",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "超额认购Series A $740万，Tin Men Capital领投；SG Growth Capital、日本Safie及日本大型建筑公司等参与；此前2024年4月Pre-A $270万",
+        "source_type": "官方博客/PR",
+        "source_url": "https://www.ailytics.ai/blog/ailytics-series-a-announcement"
+      },
+      {
+        "label": "部署",
+        "value": "公司称超400个部署、覆盖15国；检测超570万次隐患；监控超5亿平方米工地；客户流失率低于1%",
+        "source_type": "公司自述",
+        "source_url": "https://www.ailytics.ai/blog/ailytics-series-a-announcement"
+      },
+      {
+        "label": "效果",
+        "value": "客户报告可记录事故率下降约73%、安全不合规减少约84%",
+        "source_type": "公司自述（客户反馈口径）",
+        "source_url": "https://www.ailytics.ai/blog/ailytics-series-a-announcement"
+      }
+    ],
+    "why_it_works": "重工业摄像头早已铺满，缺的是能在雨尘旧镜头上跑通的实时告警。Ailytics从新加坡HDB工地长出来，用存量CCTV降低部署摩擦，再用Safie等渠道打进日本建筑龙头。",
+    "takeaway": "工业视觉AI胜负手是「旧相机也能用」与合规闭环；低 churn + 跨洲部署比模型榜更有融资说服力。",
+    "innovation_score": 3,
+    "business_score": 4,
+    "tags": [
+      "工业视觉",
+      "CCTV",
+      "工地安全",
+      "Series A",
+      "新加坡"
+    ],
+    "website": "https://www.ailytics.ai/blog/ailytics-series-a-announcement",
+    "sources": [
+      "https://www.ailytics.ai/blog/ailytics-series-a-announcement",
+      "https://technode.global/2026/10/26/singapores-ailytics-raises-7-4m-series-a-led-by-tin-men-capital-to-expand-vision-ai-across-apac-us-gulf/"
+    ],
+    "uncertain_points": "73%/84%安全改善为客户报告汇总口径；估值未披露；「日本某大型建筑公司」未具名。"
+  },
+  {
+    "id": "casbot-zhongke-huiling-a-plus-plus",
+    "date_collected": "2026-10-27",
+    "status": "new",
+    "type": "both",
+    "name": "中科慧灵",
+    "one_liner": "人形/具身机器人公司完成数亿元A++轮，称制鞋机器人在手订单超4亿元、排产进入数千台",
+    "category": "硬件与端侧",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "全栈自研「本体+具身大脑+灵巧手」，向鞋服柔性制造、矿山高危作业及商业展演等场景销售/部署CASBOT系列机器人与具身模型服务",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "数亿元人民币A++轮；知来投资、涌铧投资、茂天投资、元禾辰坤、国科科智、鲁宁投资等联合投资；2025年6月曾获蓝思科技领投近亿元A轮",
+        "source_type": "媒体报道（InfoQ/中证网）",
+        "source_url": "https://www.infoq.cn/article/2svt5BbWUOHbADdo0UZo"
+      },
+      {
+        "label": "订单",
+        "value": "公司称2026年具身制鞋机器人在手订单总额突破4亿元，设备排产规模达数千台量级",
+        "source_type": "媒体报道（引公司）",
+        "source_url": "https://www.infoq.cn/article/2svt5BbWUOHbADdo0UZo"
+      },
+      {
+        "label": "产品线",
+        "value": "CASBOT 02全尺寸、W2轮臂、Mini半尺寸及CASBOT BAND机器人乐队等；鞋服POC自2025年进入莆田工厂",
+        "source_type": "媒体报道",
+        "source_url": "https://www.infoq.cn/article/2svt5BbWUOHbADdo0UZo"
+      }
+    ],
+    "why_it_works": "具身智能从秀场转向拼交付：中科慧灵用制鞋工序这种可重复柔性操作切入，把订单推到亿元级，同时用矿山装药等高危场景扩第二曲线，融资叙事从技术栈变成排产与交付。",
+    "takeaway": "人形叙事要落地，最好能报出「具体工序+在手订单+排产台数」；垂直工业工位比通用人形演示更接近收入。",
+    "innovation_score": 4,
+    "business_score": 4,
+    "tags": [
+      "人形机器人",
+      "制鞋",
+      "具身智能",
+      "A++",
+      "CASBOT"
+    ],
+    "website": "https://www.infoq.cn/article/2svt5BbWUOHbADdo0UZo",
+    "sources": [
+      "https://www.infoq.cn/article/2svt5BbWUOHbADdo0UZo",
+      "https://www.cs.com.cn/ssgs/01/2026/10/26/detail_2026102610047252.html"
+    ],
+    "uncertain_points": "「数亿元」精确金额未披露；4亿元订单与数千台排产为公司口径，交付与回款节奏未知；品牌对外亦称CASBOT，与英文报道需统一。"
+  },
+  {
+    "id": "mosense-fullbody-tactile-angel-plus",
+    "date_collected": "2026-10-27",
+    "status": "new",
+    "type": "innovative",
+    "name": "模感科技",
+    "one_liner": "港科大冠军队孵化的全身多模态触觉皮肤MoSkin，完成亿元级天使+轮，补机器人触觉盲区",
+    "category": "硬件与端侧",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "为人形/工业机器人提供全身多模态电子皮肤模组与触觉算法（MoSkin/MoTact等），并延伸至婴儿用品、医疗与车规等「具身工学」场景；本轮资金用于产品研发、团队、算力与量产测试",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "亿元级天使+轮；鼎晖投资、绿洲资本领投；逐际动力、龙芯创投、中科创星、华山资本、浦东创投及某国内头部具身厂商跟投；后浪资本任财务顾问",
+        "source_type": "媒体报道（第一财经/盖世）",
+        "source_url": "https://www.yicai.com/news/103408886.html"
+      },
+      {
+        "label": "产品",
+        "value": "MoSkin基于电磁超构力学，覆盖手/四肢/躯干/足底，采集力觉、温度、滑移、振动、材质等多模态；配套多模态融合算法与触觉世界动作预测模型",
+        "source_type": "媒体报道（引公司）",
+        "source_url": "https://www.gasgoo.com/robot/news/70475906-seeds-%E6%B8%AF%E7%A7%91%E5%A4%A7%E5%86%A0%E5%86%9B%E9%98%9F%E5%81%9A-%E5%85%A8%E8%BA%AB%E7%94%B5%E5%AD%90%E7%9A%AE%E8%82%A4/"
+      },
+      {
+        "label": "成立",
+        "value": "2026年5月成立于上海张江；深圳设研发中心；港科大机器人比赛冠军队伍孵化",
+        "source_type": "媒体报道",
+        "source_url": "https://www.gasgoo.com/robot/news/70475906-seeds-%E6%B8%AF%E7%A7%91%E5%A4%A7%E5%86%A0%E5%86%9B%E9%98%9F%E5%81%9A-%E5%85%A8%E8%BA%AB%E7%94%B5%E5%AD%90%E7%9A%AE%E8%82%A4/"
+      }
+    ],
+    "why_it_works": "灵巧手只解决指尖，躯干与足底仍是感知盲区，Sim-to-Real也缺全身触觉。模感把电子皮肤做成可铺大面积曲面的模组，并拉到具身主机厂跟投，卡在供应链上游。",
+    "takeaway": "具身部件里「脸」之后是「皮肤」：能证明量产成本与主机厂集成的全身触觉，比再做一个夹爪传感器更稀缺。",
+    "innovation_score": 5,
+    "business_score": 2,
+    "tags": [
+      "触觉",
+      "电子皮肤",
+      "具身智能",
+      "天使+",
+      "港科大"
+    ],
+    "website": "https://www.gasgoo.com/robot/news/70475906-seeds-%E6%B8%AF%E7%A7%91%E5%A4%A7%E5%86%A0%E5%86%9B%E9%98%9F%E5%81%9A-%E5%85%A8%E8%BA%AB%E7%94%B5%E5%AD%90%E7%9A%AE%E8%82%A4/",
+    "sources": [
+      "https://www.yicai.com/news/103408886.html",
+      "https://www.gasgoo.com/robot/news/70475906-seeds-%E6%B8%AF%E7%A7%91%E5%A4%A7%E5%86%A0%E5%86%9B%E9%98%9F%E5%81%9A-%E5%85%A8%E8%BA%AB%E7%94%B5%E5%AD%90%E7%9A%AE%E8%82%A4/",
+      "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-26/doc-iniwpwiq2493838.shtml"
+    ],
+    "uncertain_points": "融资金额仅「亿元级」；营收、客户名单与订单未披露；「某国内头部具身厂商」未具名；量产测试阶段，商业化节奏待验证。"
+  },
+  {
+    "id": "nous-household-ai-agent-17m",
+    "date_collected": "2026-10-27",
+    "status": "new",
+    "type": "innovative",
+    "name": "Nous",
+    "one_liner": "英国家庭开支与行政AI Agent融资$1700万，可代用户换供应商、退订与办理受监管保险",
+    "category": "生产力办公",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "面向家庭用户的AI Agent，授权后执行比价换商、取消订阅、填表、预约与受监管保险购买等；不以广告/卖用户数据变现；本轮用于扩品类与国际化",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "$1700万；Heartcore Capital与既有种子投资人Mosaic Ventures领投/提供，Chalfen、Joyance、Bain Future Back及Monzo等创始人天使参与",
+        "source_type": "媒体报道（Tech.eu）",
+        "source_url": "https://tech.eu/2026/10/26/nous-lands-17m-to-bring-ai-powered-household-management-to-more-homes/"
+      },
+      {
+        "label": "合规",
+        "value": "公司称已在英国FCA注册，可支持购买保险等受监管活动",
+        "source_type": "媒体报道（引公司）",
+        "source_url": "https://tech.eu/2026/10/26/nous-lands-17m-to-bring-ai-powered-household-management-to-more-homes/"
+      },
+      {
+        "label": "创始人",
+        "value": "创始人Greg Marsh曾创办高端住宿平台onefinestay",
+        "source_type": "媒体报道",
+        "source_url": "https://tech.eu/2026/10/26/nous-lands-17m-to-bring-ai-powered-household-management-to-more-homes/"
+      }
+    ],
+    "why_it_works": "多数个人Agent停在提醒与建议；Nous把垂直切在「家庭花钱与行政」，并用FCA牌照做可代下单的信任底座，避开广告变现冲突。",
+    "takeaway": "消费级Agent若要代用户动钱，合规与利益对齐比模型能力更先卡位。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": [
+      "家庭Agent",
+      "FCA",
+      "订阅管理",
+      "英国",
+      "Heartcore"
+    ],
+    "website": "https://tech.eu/2026/10/26/nous-lands-17m-to-bring-ai-powered-household-management-to-more-homes/",
+    "sources": [
+      "https://tech.eu/2026/10/26/nous-lands-17m-to-bring-ai-powered-household-management-to-more-homes/",
+      "https://sifted.eu/articles/nous-ai-agent-funding-round-monzo-tom-blomfield"
+    ],
+    "uncertain_points": "用户数、节省金额与留存未披露；轮次名称（扩展种子/A）各稿表述不一；国际化目的地未具体点名。"
+  },
+  {
+    "id": "cybopal-personal-agent-terminal-strategic",
+    "date_collected": "2026-10-27",
+    "status": "new",
+    "type": "both",
+    "name": "细胞壁科技",
+    "one_liner": "Personal Agent桌面机器人CyboPal获TCL实业与深创投战略投资，预售超1000台、金额超千万元",
+    "category": "硬件与端侧",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "做连接PC的桌面机器人终端CyboPal ONE与AI工作掌机WhisPrompt，探索人/Agent/终端通用交互；硬件预售+后续交付，产业资本提供供应链与渠道",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "新一轮战略融资；投资方为TCL实业战投与深创投",
+        "source_type": "媒体报道（投资界/同花顺）",
+        "source_url": "https://news.pedaily.cn/202610/570864.shtml"
+      },
+      {
+        "label": "预售",
+        "value": "公司称CyboPal ONE过去1个月各渠道预售超过1000台，金额超过1000万元人民币",
+        "source_type": "公司自述（经媒体）",
+        "source_url": "https://news.pedaily.cn/202610/570864.shtml"
+      },
+      {
+        "label": "产品",
+        "value": "CyboPal ONE连接电脑的大尺寸桌面机器人；WhisPrompt为笔记本/移动办公AI工作掌机",
+        "source_type": "媒体报道",
+        "source_url": "https://news.pedaily.cn/202610/570864.shtml"
+      }
+    ],
+    "why_it_works": "Agent能力上来后，瓶颈变成「人怎么自然下指令、看结果、批权限」。细胞壁从PC场景做物理终端，用预售验证付费，再借TCL供应链把交互硬件做出来。",
+    "takeaway": "Personal Agent未必只活在App里；能显示意图与权限的桌面硬件，可能成为下一代人机协作入口。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": [
+      "Personal Agent",
+      "桌面机器人",
+      "TCL",
+      "深创投",
+      "CyboPal"
+    ],
+    "website": "https://news.pedaily.cn/202610/570864.shtml",
+    "sources": [
+      "https://news.pedaily.cn/202610/570864.shtml",
+      "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-26/doc-iniwpwit5461155.shtml"
+    ],
+    "uncertain_points": "战略轮金额未披露；预售1000台/1000万为公司口径；交付与退货率未知；WhisPrompt发售时间表未细化。"
+  },
+  {
+    "id": "k2lab-moras-commerce-agent-angel-plus",
+    "date_collected": "2026-10-27",
+    "status": "new",
+    "type": "both",
+    "name": "K2Lab",
+    "one_liner": "海外内容电商Personal Commerce Agent Moras完成凯泰数千万元天使+，公测首季GMV破$1000万",
+    "category": "电商零售",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "为海外内容达人提供选品/创作/发布/经营分析的个人商业智能体Moras，按成交CPS分佣（不向达人收订阅或Token费）；同时连接商家货盘与达人分发",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "凯泰资本投资的数千万元天使+轮；半年内连续完成云时资本、华控基金、凯泰资本分别领投的三轮",
+        "source_type": "媒体报道（品玩）",
+        "source_url": "https://www.pingwest.com/a/318761"
+      },
+      {
+        "label": "GMV与用户",
+        "value": "公司称公测首个季度协助达人在TikTok实现GMV突破1000万美元；累计近10万达人注册；称留存佣金已可覆盖算力成本",
+        "source_type": "公司自述（经媒体）",
+        "source_url": "https://www.pingwest.com/a/318761"
+      },
+      {
+        "label": "商家合作",
+        "value": "公司称黑五期间与超1100家行业头部商家深度合作；三个月内成为TikTok金牌服务商",
+        "source_type": "公司自述",
+        "source_url": "https://www.pingwest.com/a/318761"
+      }
+    ],
+    "why_it_works": "多数Agent卖订阅，Moras押「赚钱象限」按成交分佣，把自身收入与达人结果绑死，用真实GMV验证Personal Agent能否闭环。",
+    "takeaway": "垂直Agent商业模式可以 downstream 到结果付费；内容电商是天然有佣金池的试验场。",
+    "innovation_score": 4,
+    "business_score": 4,
+    "tags": [
+      "内容电商",
+      "CPS",
+      "TikTok",
+      "Personal Agent",
+      "天使+"
+    ],
+    "website": "https://www.pingwest.com/a/318761",
+    "sources": [
+      "https://www.pingwest.com/a/318761",
+      "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-26/doc-iniwpwiq2493913.shtml"
+    ],
+    "uncertain_points": "GMV、达人注册与「佣金覆盖算力」均为公司口径；融资金额仅「数千万」；与36氪「攀峰智能」报道需确认是否同一主体（本稿按K2Lab/Moras公开稿收录）。"
+  },
+  {
+    "id": "strawberry-ai-browser-1-0-launch",
+    "date_collected": "2026-10-27",
+    "status": "new",
+    "type": "innovative",
+    "name": "Strawberry",
+    "one_liner": "瑞典AI浏览器正式出Beta并推1.0，PH日榜第一；面向非技术团队在浏览器内建Companion Agent",
+    "category": "生产力办公",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "AI原生浏览器：内置可学习团队工作流的Companion Agent；免费档+$20/$85/$250月订阅按额度；定位企业非技术团队自动化销售/招聘/客服/营销任务",
+    "metrics": [
+      {
+        "label": "产品发布",
+        "value": "2026-10-26宣布出Beta并推出Strawberry 1.0；同日Product Hunt日榜第1（score约254）",
+        "source_type": "媒体+Product Hunt",
+        "source_url": "https://tech.eu/2026/10/26/swedish-ai-browser-strawberry-takes-on-us-ai-heavy-hitters-as-comes-out-of-beta/"
+      },
+      {
+        "label": "融资（既往）",
+        "value": "2025年10月宣布$600万，General Catalyst与EQT Ventures等领投/参与，Lovable/Hugging Face等创始人参与",
+        "source_type": "媒体报道",
+        "source_url": "https://tech.eu/2026/10/26/swedish-ai-browser-strawberry-takes-on-us-ai-heavy-hitters-as-comes-out-of-beta/"
+      },
+      {
+        "label": "定价与客户",
+        "value": "免费及$20/$85/$250月费档；早期客户含Lovable、Tandem Health等",
+        "source_type": "媒体报道（引公司）",
+        "source_url": "https://tech.eu/2026/10/26/swedish-ai-browser-strawberry-takes-on-us-ai-heavy-hitters-as-comes-out-of-beta/"
+      }
+    ],
+    "why_it_works": "工作发生在浏览器标签里，而不是本地文件里。Strawberry把Agent做成浏览器同伴，强调设备端运行与欧洲主权叙事，用正式版+PH热度抢企业试用。",
+    "takeaway": "AI浏览器要差异化，得证明非工程师也能搭可共享的团队Agent，而不是再套一层聊天侧栏。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": [
+      "AI浏览器",
+      "Product Hunt",
+      "Companion",
+      "瑞典",
+      "出Beta"
+    ],
+    "website": "https://strawberrybrowser.com",
+    "sources": [
+      "https://tech.eu/2026/10/26/swedish-ai-browser-strawberry-takes-on-us-ai-heavy-hitters-as-comes-out-of-beta/",
+      "https://www.producthunt.com/leaderboard/daily/2026/10/26",
+      "https://www.producthunt.com/products/strawberry"
+    ],
+    "uncertain_points": "付费转化与ARR未披露；「为团队每周节省>100小时」为PH文案口径；与Dia/Arc等AI浏览器的真实替代数据不足。"
+  }
+]
