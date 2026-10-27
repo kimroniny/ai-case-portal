@@ -1,0 +1,583 @@
+[
+  {
+    "id": "hex-100m-agent-native-analytics-4-0",
+    "date_collected": "2026-10-28",
+    "status": "new",
+    "type": "both",
+    "name": "Hex",
+    "one_liner": "数据协作平台在最好季度后推倒重写 Hex 4.0，以 agent-native 分析拿下$1亿融资、投后估值$12亿",
+    "category": "生产力办公",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "面向企业数据团队的协作分析平台（SQL/Python/交互式数据应用 + AI agent），按团队席位/企业订阅收费，对接 Snowflake、Databricks、BigQuery、Redshift 等仓",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "$1亿融资，投后估值$12亿；Peak XV 与 137 Ventures 领投，Amplify、a16z、Sequoia、Redpoint 等跟投",
+        "source_type": "官方博客",
+        "source_url": "https://hex.tech/blog/hex-new-era/"
+      },
+      {
+        "label": "客户规模",
+        "value": "全球超 2,500 支团队使用；CEO 称刚完成史上最好季度后仍决定从零重写",
+        "source_type": "官方博客",
+        "source_url": "https://hex.tech/blog/hex-new-era/"
+      },
+      {
+        "label": "产品形态",
+        "value": "发布 Hex 4.0：以代码为中心的重写，为人类与外部 agent（Cursor/Claude/Codex 等）提供上下文、权限与治理，并配套 MCP",
+        "source_type": "官方博客",
+        "source_url": "https://hex.tech/blog/hex-new-era/"
+      }
+    ],
+    "why_it_works": "BI 侧栏聊天无法解决「到处 vibe coding 报表、失去 provenance」的混乱；Hex 选择在增长最好时把六年产品推倒，用 agent 原生的代码与治理底座承接内外 agent，同时用大额融资扩工程与企业销售。",
+    "takeaway": "成熟 SaaS 若要真正 agent-native，往往要接受架构级重写，而不是再叠一个聊天框；有真实客户留存时，资本反而更愿意为「推倒重来」买单。",
+    "innovation_score": 4,
+    "business_score": 5,
+    "tags": [
+      "数据分析",
+      "Agent-native",
+      "Hex 4.0",
+      "估值12亿",
+      "Peak XV"
+    ],
+    "website": "https://hex.tech/",
+    "sources": [
+      "https://hex.tech/blog/hex-new-era/",
+      "https://www.finsmes.com/2026/10/hex-technologies-raises-100m-in-funding-at-1-2-billion-post-money-valuation.html",
+      "https://x.com/i/trending/2115127969333047789"
+    ],
+    "uncertain_points": "官方未披露 ARR/增速具体数字；FinSMEs 对领投方表述与官方博客（Peak XV + 137 Ventures）略有出入，以官方博客为准。"
+  },
+  {
+    "id": "hyphenate-45m-autonomous-finance-agents",
+    "date_collected": "2026-10-28",
+    "status": "new",
+    "type": "both",
+    "name": "Hyphenate",
+    "one_liner": "前微软财务负责人做的自主财务 Agent，用历史工单训练「部落知识」，完成$4500万A轮并称一年收入增86倍",
+    "category": "法律金融",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "向企业财务团队销售自主财务运营平台（总账、资金、O2C、P2P、报表等），Agent 对接现有 ERP/会计/银行系统，按工作流自动化深度收费",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "Series A $4500万，Nexus Venture Partners 领投，B Capital、Foundation Capital、BoldCap、Gaia Ventures 参投；累计融资约$5400万",
+        "source_type": "媒体报道（SiliconANGLE）",
+        "source_url": "https://siliconangle.com/2026/10/27/hyphenate-bags-45m-in-funding-to-accelerate-autonomous-financial-operations/"
+      },
+      {
+        "label": "增长与客户",
+        "value": "过去一年客户数增约11倍、收入增约86倍；已有6家上市公司客户（含 Groupon、Synthesia、HiBid、Mini Melts）；例：HiBid 处理逾$25亿 GMV，月结从三周压到一天",
+        "source_type": "媒体报道（引公司）",
+        "source_url": "https://siliconangle.com/2026/10/27/hyphenate-bags-45m-in-funding-to-accelerate-autonomous-financial-operations/"
+      },
+      {
+        "label": "效果口径",
+        "value": "客户称可消除至多90%例行手工财务工作，审计例外平均降约75%",
+        "source_type": "媒体报道（引公司）",
+        "source_url": "https://siliconangle.com/2026/10/27/hyphenate-bags-45m-in-funding-to-accelerate-autonomous-financial-operations/"
+      }
+    ],
+    "why_it_works": "CFO 怕幻觉，所以 Hyphenate 不用让专家写规则，而是从多年表格、邮件、发票里学「部落知识」，并保留可审计轨迹与关键节点人审，先拿下一两道流程再扩权。",
+    "takeaway": "金融自动化要先过审计与信任门槛；「从历史工单学流程 + 全量留痕」比通用财务聊天机器人更容易扩进上市公司。",
+    "innovation_score": 4,
+    "business_score": 5,
+    "tags": [
+      "财务Agent",
+      "Series A",
+      "审计留痕",
+      "O2C",
+      "ERP集成"
+    ],
+    "website": "https://siliconangle.com/2026/10/27/hyphenate-bags-45m-in-funding-to-accelerate-autonomous-financial-operations/",
+    "sources": [
+      "https://siliconangle.com/2026/10/27/hyphenate-bags-45m-in-funding-to-accelerate-autonomous-financial-operations/",
+      "https://x.com/i/trending/2115094792262635577"
+    ],
+    "uncertain_points": "公司原名 Maximor，本月改名；官网域名未在稿中明确；86倍收入与11倍客户为公司自述相对增速，绝对ARR未披露；客户名单中「上市公司」口径需自行核对。"
+  },
+  {
+    "id": "infisical-40m-agent-vault-series-b",
+    "date_collected": "2026-10-28",
+    "status": "new",
+    "type": "both",
+    "name": "Infisical",
+    "one_liner": "开源密钥平台用 Agent Vault 让 AI Agent 访问系统却拿不到真实凭证，以$6亿估值完成$4000万B轮",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "开源+商业化密钥/证书/特权访问管理；企业订阅；面向开发者、机器身份与 AI Agent 的 Agent Vault 代理访问",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "Series B $4000万，估值$6亿；Elad Gil 领投，Gradient、YC 等参与",
+        "source_type": "官方新闻稿",
+        "source_url": "https://www.prnewswire.com/news-releases/infisical-raises-40-million-at-600-million-valuation-to-secure-the-ai-agent-economy-302920994.html"
+      },
+      {
+        "label": "采用规模",
+        "value": "超1,300家客户、约30万开发者；日均保护约100亿个 secrets；开源项目 GitHub stars 超3万；客户含 Airbus、Hugging Face、OpenRouter、Wise 等",
+        "source_type": "官方新闻稿",
+        "source_url": "https://www.prnewswire.com/news-releases/infisical-raises-40-million-at-600-million-valuation-to-secure-the-ai-agent-economy-302920994.html"
+      },
+      {
+        "label": "财务状态",
+        "value": "X新闻摘要称已 cash-flow positive（需对照官方口径）",
+        "source_type": "媒体摘要（X）",
+        "source_url": "https://x.com/i/trending/2115122003233706257"
+      }
+    ],
+    "why_it_works": "Agent 要连代码库、数据库和云，就不能再把 API Key 塞进上下文；Agent Vault 用代理访问让 Agent「能干活但不持有密钥」，踩中企业安全采购刚需。",
+    "takeaway": "Agent 经济的下一层基建是身份与密钥；谁能把「人/机/Agent」统一成可控主体，谁就更像平台而非工具。",
+    "innovation_score": 4,
+    "business_score": 5,
+    "tags": [
+      "密钥管理",
+      "Agent Vault",
+      "开源",
+      "Series B",
+      "安全基建"
+    ],
+    "website": "https://infisical.com/",
+    "sources": [
+      "https://www.prnewswire.com/news-releases/infisical-raises-40-million-at-600-million-valuation-to-secure-the-ai-agent-economy-302920994.html",
+      "https://x.com/i/trending/2115122003233706257"
+    ],
+    "uncertain_points": "官方稿未写 ARR；「cash-flow positive」主要见于二次摘要，未在 PR Newswire 正文确认。"
+  },
+  {
+    "id": "machenta-40m-instant-robot-learning-seed",
+    "date_collected": "2026-10-28",
+    "status": "new",
+    "type": "innovative",
+    "name": "Machenta",
+    "one_liner": "帝国理工机器人教授创办，纯仿真预训练让机器人「看一次就会」，创英国机器人史上最大$4000万种子轮",
+    "category": "硬件与端侧",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "机器人基础模型 / Instant Robot Learning：面向本体厂商与产线部署，使机器人经单次真人演示即可学会打包、装配、整理等技能；当前仍早期商业化",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "种子轮$4000万，Creandum 与 Union Square Ventures 联合领投；称英国机器人公司史上最大种子轮；团队约11–12人，伦敦 King's Cross",
+        "source_type": "媒体报道（Imperial / Tech.eu）",
+        "source_url": "https://www.imperial.ac.uk/news/articles/2026/imperial-ai-spinout-machenta-raises-40-million-to-make-robots-instant-learners/"
+      },
+      {
+        "label": "技术主张",
+        "value": "模型完全在仿真中预训练、不依赖海量真人实机数据；部署后一次演示即可迁移到多种任务与本体（含人形）",
+        "source_type": "官方/媒体",
+        "source_url": "https://machenta.com/blog/instant-robot-learning"
+      }
+    ],
+    "why_it_works": "传统机器人教技能要反复演示与工程师更新模型；Machenta 把「学得有多快」当成智能本身，用仿真规模化预训练 + 单次演示，降低产线换任务成本。",
+    "takeaway": "Physical AI 下一阶段叙事从「再堆真实数据」转向「仿真可迁移 + 人类级学习速度」；大额种子轮说明资本在押注学习范式，而非又一个整机品牌。",
+    "innovation_score": 5,
+    "business_score": 3,
+    "tags": [
+      "Instant Robot Learning",
+      "仿真预训练",
+      "种子轮",
+      "Physical AI",
+      "帝国理工"
+    ],
+    "website": "https://machenta.com/",
+    "sources": [
+      "https://www.imperial.ac.uk/news/articles/2026/imperial-ai-spinout-machenta-raises-40-million-to-make-robots-instant-learners/",
+      "https://tech.eu/2026/10/27/london-robotics-startup-machenta-raises-40m-seed-investment/",
+      "https://machenta.com/blog/instant-robot-learning"
+    ],
+    "uncertain_points": "尚无公开付费客户/ARR；「英国最大机器人种子轮」为公司与媒体表述；跨本体即时学习的工业可靠性待独立验证。"
+  },
+  {
+    "id": "general-compute-100m-inference-neocloud",
+    "date_collected": "2026-10-28",
+    "status": "new",
+    "type": "profitable",
+    "name": "General Compute",
+    "one_liner": "专做非英伟达推理芯片裸金属云，凭约$1亿年经常性客户合同拿下$1亿A轮、投后估值$8亿",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "推理向 neocloud：租赁/改造机房与比特币矿场空间，部署 SambaNova、Cerebras、Positron 等推理芯片，向推理云厂商提供裸金属算力",
+    "metrics": [
+      {
+        "label": "融资与估值",
+        "value": "Series A $1亿，Blackbird Ventures 与 Abstract Ventures 联合领投；投后估值$8亿（5月种子后估值约$6000万）",
+        "source_type": "媒体报道（TechCrunch）",
+        "source_url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/"
+      },
+      {
+        "label": "商业合同",
+        "value": "据报道已有约$1亿年经常性收入规模的大客户合同；并与 SambaNova 达成约$4亿推理芯片采购/融资安排",
+        "source_type": "媒体报道（TechCrunch）",
+        "source_url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/"
+      },
+      {
+        "label": "产能规划",
+        "value": "计划2027年部署约75兆瓦算力，并称可接触约200兆瓦电力资源",
+        "source_type": "媒体报道（引CEO）",
+        "source_url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/"
+      }
+    ],
+    "why_it_works": "在 neocloud 叙事承压时，它避开自建超大园区与纯 Nvidia 军备赛，专做推理芯片分发与「有电就能插」的轻资产部署，并用大客户 ARR 合同给融资定价。",
+    "takeaway": "算力创业不一定要拼训练集群体量；锁定推理芯片供应链 + 可验证客户合同，也能在唱衰潮里拿到估值跃迁。",
+    "innovation_score": 3,
+    "business_score": 4,
+    "tags": [
+      "推理云",
+      "neocloud",
+      "SambaNova",
+      "Series A",
+      "ARR合同"
+    ],
+    "website": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
+    "sources": [
+      "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
+      "https://x.com/i/trending/2115124916374630713"
+    ],
+    "uncertain_points": "官网未在稿中突出；$1亿 ARR 合同是「annual customer contract」表述，未必等于已确认GAAP收入；债务与后续融资仍是CEO全职工作。"
+  },
+  {
+    "id": "cent-15m-preventive-scan-medsee",
+    "date_collected": "2026-10-28",
+    "status": "new",
+    "type": "both",
+    "name": "Cent",
+    "one_liner": "Practo 联合创始人做的 AI 预防体检，完成$1500万A轮并收购影像AI公司 Medsee，一年扫完1万例全身筛查",
+    "category": "医疗健康",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "面向无症状人群的付费全身预防筛查（MRI/低剂量CT/DEXA/心电等一站式，套餐约₹27,500），AI 汇总多模态并输出器官级风险；收购 Medsee 加速影像报告",
+    "metrics": [
+      {
+        "label": "融资与并购",
+        "value": "Series A $1500万（约₹143亿分位口径见稿），Blume Ventures 与 South Park Commons 联合领投；同期收购 AI 影像报告平台 Medsee；此前种子约$500万",
+        "source_type": "媒体报道（Inc42）",
+        "source_url": "https://inc42.com/buzz/cent-raises-15-mn-to-scale-ai-led-preventive-healthcare-platform/"
+      },
+      {
+        "label": "业务量",
+        "value": "成立首年在班加罗尔、孟买、德里NCR完成约1万例预防性全身扫描；称约1/4有可行动发现、1/40需立即就医（X新闻摘要）",
+        "source_type": "媒体报道/摘要",
+        "source_url": "https://inc42.com/buzz/cent-raises-15-mn-to-scale-ai-led-preventive-healthcare-platform/"
+      }
+    ],
+    "why_it_works": "把「活到100岁」叙事落到两小时一站式扫描 + AI 多模态汇总，用可感知的筛查结果卖高客单，再收购报告AI解决放量瓶颈。",
+    "takeaway": "医疗 AI 更容易先在预防体检这种「愿付费、可标准化」的闭环里跑通，而不是一上来做全科诊断替身。",
+    "innovation_score": 3,
+    "business_score": 4,
+    "tags": [
+      "预防医疗",
+      "影像AI",
+      "Series A",
+      "收购",
+      "印度"
+    ],
+    "website": "https://inc42.com/buzz/cent-raises-15-mn-to-scale-ai-led-preventive-healthcare-platform/",
+    "sources": [
+      "https://inc42.com/buzz/cent-raises-15-mn-to-scale-ai-led-preventive-healthcare-platform/",
+      "https://www.thehindubusinessline.com/markets/cent-raises-15-million-in-series-a-co-led-by-blume-ventures-and-spc-to-build-full-stack-preventive-health-platform-for-india/article71632165.ece",
+      "https://x.com/i/trending/2115011504479367436"
+    ],
+    "uncertain_points": "公司官网域名未在稿中明确；「1/4、1/40」发现率更多见于二次摘要；长期临床获益与监管路径未充分披露。"
+  },
+  {
+    "id": "lette-6-5m-residential-ai-os",
+    "date_collected": "2026-10-28",
+    "status": "new",
+    "type": "both",
+    "name": "Lette",
+    "one_liner": "英国/爱尔兰租赁物业的 AI 操作系统，覆盖3万+套房并自动处理六成住户请求，拿下$650万种子轮",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "向 BTR/学生公寓/单户租赁运营商销售 AI 运营系统：询盘到签约、住户支持、维修、欠租与合规；对接 Yardi/MRI，不替换现有 PMS",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "种子轮$650万，Peak 领投，Heliad、Foreword、Pitchdrive、Adeline 及 Intercom 联合创始人 Des Traynor 等参与",
+        "source_type": "官方博客",
+        "source_url": "https://www.lette.ai/blog/we%E2%80%99ve-raised-6.5m-seed-round"
+      },
+      {
+        "label": "运营指标",
+        "value": "覆盖逾3万套房；超60%住户支持与维修请求自动处理；整租周期从约两周压到四天内；曾帮一家 BTR 运营商在不加人情况下新增1000+套房",
+        "source_type": "官方博客",
+        "source_url": "https://www.lette.ai/blog/we%E2%80%99ve-raised-6.5m-seed-round"
+      },
+      {
+        "label": "客户",
+        "value": "客户含 JLL 及多家大型金融机构旗下住宅运营方",
+        "source_type": "官方博客",
+        "source_url": "https://www.lette.ai/blog/we%E2%80%99ve-raised-6.5m-seed-round"
+      }
+    ],
+    "why_it_works": "物业团队困在邮件和表格里，Lette 不做又一个 PMS，而是贴着现有系统用多通道 Agent 把租赁与住后服务串起来，指标直接对应人效。",
+    "takeaway": "垂直 Agent OS 的卖点是「不换底座也能提效」；住宅运营这种高重复、多通道沟通的行业很适合先证明自动处理占比。",
+    "innovation_score": 3,
+    "business_score": 4,
+    "tags": [
+      "物业Agent",
+      "种子轮",
+      "BTR",
+      "人效",
+      "英国"
+    ],
+    "website": "https://www.lette.ai/",
+    "sources": [
+      "https://www.lette.ai/blog/we%E2%80%99ve-raised-6.5m-seed-round",
+      "https://tech.eu/2026/10/27/lette-raises-65m-to-scale-ai-automation-for-uk-rental-operators/"
+    ],
+    "uncertain_points": "官方博客日期为10月26日，Tech.eu 10月27日跟进；ARR未披露；「60%自动处理」为公司自述。"
+  },
+  {
+    "id": "hyperbolic-30m-a1-compute-orchestration",
+    "date_collected": "2026-10-28",
+    "status": "new",
+    "type": "profitable",
+    "name": "Hyperbolic",
+    "one_liner": "把分散 GPU 云编成可编排的 Global Compute Grid，Intel CEO 创办的基金领投$3000万A1轮",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "多云 GPU 编排与流动性平台（Forge 控制面 + 托管 K8s/推理 API），让 AI 团队按需买算力、供应商提高利用率；面向开发者与推理客户",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "Series A1 $3000万，Walden Catalyst（Intel CEO Lip-Bu Tan 创办）领投，Dell Technologies Capital、General Catalyst、Vista Equity 等参与",
+        "source_type": "官方博客",
+        "source_url": "https://www.hyperbolic.ai/blog/a1-funding"
+      },
+      {
+        "label": "采用规模",
+        "value": "称超25万 AI builder 使用；客户/合作方包括 Modal、Higgsfield、Daytona、HeyGen、Pika 等；案例称 Higgsfield 转预留合同后比现货便宜约35%",
+        "source_type": "官方博客（引客户）",
+        "source_url": "https://www.hyperbolic.ai/blog/a1-funding"
+      }
+    ],
+    "why_it_works": "300+ GPU 供应商标准不一，买方难采购、卖方难消化空闲；Hyperbolic 用统一控制面做编排与「算力像电一样可买卖」的叙事，并拿到芯片/云战略资本背书。",
+    "takeaway": "当 neocloud 供给过剩叙事升温，赢家可能是做流动性与编排的中间层，而不只是再开一座园区。",
+    "innovation_score": 3,
+    "business_score": 4,
+    "tags": [
+      "GPU编排",
+      "多云",
+      "Series A1",
+      "推理",
+      "Walden Catalyst"
+    ],
+    "website": "https://www.hyperbolic.ai/",
+    "sources": [
+      "https://www.hyperbolic.ai/blog/a1-funding",
+      "https://www.businessinsider.com/intel-ceo-backs-30-million-round-ai-cloud-startup-hyperbolic-2026-10"
+    ],
+    "uncertain_points": "25万 builder 含免费/试用未拆分；公司级 ARR 未披露；「Global Compute Grid」仍在建设中。"
+  },
+  {
+    "id": "theysaid-4-0-ph1-ai-user-research",
+    "date_collected": "2026-10-28",
+    "status": "new",
+    "type": "innovative",
+    "name": "TheySaid 4.0",
+    "one_liner": "把 URL/内部文档一分钟训成可对话的用户研究 Agent，登 Product Hunt 日榜第一（约296分）",
+    "category": "营销内容",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "AI 用户访谈/调研 SaaS：用真实或合成用户在设计与构建工具内测反应；对接 Claude、Cursor、Jira、Linear 等；订阅制",
+    "metrics": [
+      {
+        "label": "社区热度",
+        "value": "2026-10-27 Product Hunt 日榜#1，score 约296、评论约85",
+        "source_type": "Product Hunt",
+        "source_url": "https://www.producthunt.com/leaderboard/daily/2026/10/27"
+      },
+      {
+        "label": "历史融资（背景）",
+        "value": "第三方库称累计约$430万、最近一轮约2026-07（Album VC）；非本窗口新融资",
+        "source_type": "第三方数据库",
+        "source_url": "https://www.cbinsights.com/company/nuffsaid/financials"
+      }
+    ],
+    "why_it_works": "把用户研究嵌进「正在做产品的地方」，降低调研启动成本；日榜第一说明开发者与增长团队对「边做边测」有强需求。",
+    "takeaway": "创新案例不一定要当天融资：PH 顶级热度 + 清晰工作流嵌入，也是可验证的产品形态突破信号。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": [
+      "用户研究",
+      "Product Hunt",
+      "合成用户",
+      "调研Agent"
+    ],
+    "website": "https://theysaid.io/",
+    "sources": [
+      "https://www.producthunt.com/leaderboard/daily/2026/10/27",
+      "https://www.producthunt.com/products/theysaid"
+    ],
+    "uncertain_points": "当日未披露新一轮融资或 ARR；CB Insights 融资数据为第三方汇总；合成用户研究的外部效度需自行评估。"
+  },
+  {
+    "id": "overmind-ph2-continuous-learning-platform",
+    "date_collected": "2026-10-28",
+    "status": "new",
+    "type": "innovative",
+    "name": "Overmind",
+    "one_liner": "开源持续学习平台：把生产 trace 变成团队自有的专用模型并训练/评测/托管，PH 日榜第二",
+    "category": "编程开发",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "面向 AI 团队的模型训练平台（开源）：生产 traces → 数据集/评测 → 微调开源权重 → OpenAI 兼容托管；商业化路径待观察",
+    "metrics": [
+      {
+        "label": "社区热度",
+        "value": "2026-10-27 Product Hunt 日榜#2，score 约256、评论约69",
+        "source_type": "Product Hunt",
+        "source_url": "https://www.producthunt.com/leaderboard/daily/2026/10/27"
+      }
+    ],
+    "why_it_works": "Agent 上线后最缺的是「用自己的生产轨迹持续变强」的闭环；Overmind 把这套流程产品化并开源，踩中团队想拥有模型权重的诉求。",
+    "takeaway": "Agent 基建下一层是 continuous learning 流水线；社区榜单高位说明开发者愿意先试用再谈大单。",
+    "innovation_score": 4,
+    "business_score": 2,
+    "tags": [
+      "持续学习",
+      "开源",
+      "Product Hunt",
+      "微调",
+      "Agent"
+    ],
+    "website": "https://overmindlab.ai/",
+    "sources": [
+      "https://www.producthunt.com/leaderboard/daily/2026/10/27",
+      "https://www.overmindlab.ai/"
+    ],
+    "uncertain_points": "存在同名伦敦 Agent 公司早期融资报道，与 overmindlab.ai 是否同一实体未核实；无公开 ARR。"
+  },
+  {
+    "id": "spacesheep-yc-agent-collab-spaces-ph",
+    "date_collected": "2026-10-28",
+    "status": "new",
+    "type": "innovative",
+    "name": "Spacesheep",
+    "one_liner": "YC F26：把任意 Agent 产出变成可协作的交互文档/看板/原型「space」，登 PH 日榜前列",
+    "category": "生产力办公",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "人机协作工作区：Claude Code、Codex、Cursor、ChatGPT 等 Agent 输出转为可分享编辑的 space；面向团队协作订阅（具体定价以官网为准）",
+    "metrics": [
+      {
+        "label": "社区与背景",
+        "value": "YC F26；2026-10-27 Product Hunt 日榜约#4（score≈174）",
+        "source_type": "Product Hunt / YC",
+        "source_url": "https://www.producthunt.com/leaderboard/daily/2026/10/27"
+      }
+    ],
+    "why_it_works": "Agent 输出常停在聊天窗或散落文件；Spacesheep 把它变成可权限分享、评论和再编辑的协作表面，补上「Agent → 团队」最后一公里。",
+    "takeaway": "Agent 协作层产品形态在从「又一个聊天」转向「可运营的工作产物容器」。",
+    "innovation_score": 4,
+    "business_score": 2,
+    "tags": [
+      "YC",
+      "Agent协作",
+      "Product Hunt",
+      "文档",
+      "工作区"
+    ],
+    "website": "https://spacesheep.dev/",
+    "sources": [
+      "https://www.producthunt.com/leaderboard/daily/2026/10/27",
+      "https://www.ycombinator.com/companies/spacesheep",
+      "https://spacesheep.dev/"
+    ],
+    "uncertain_points": "无公开融资额/ARR；产品仍早期。"
+  },
+  {
+    "id": "dingtalk-dws-harmony-open-agent-cli",
+    "date_collected": "2026-10-28",
+    "status": "new",
+    "type": "innovative",
+    "name": "钉钉 DWS（鸿蒙PC开源）",
+    "one_liner": "钉钉把25个业务模块、1000+命令行封装成 Agent 可调用的 CLI，完成鸿蒙PC适配并开源",
+    "category": "生产力办公",
+    "region": "中国",
+    "team_type": "大公司",
+    "business_model": "钉钉开放平台能力：以开源 CLI（Apache-2.0）向千问办公、Qoder 及企业自研 Agent 开放群聊、会议听记、待办、文档、审批等办公动作；商业化仍依托钉钉企业订阅生态",
+    "metrics": [
+      {
+        "label": "产品进展",
+        "value": "2026-10-27 报道：DWS 完成鸿蒙PC适配并正式开源；覆盖约25个业务模块、1000+命令行；支持本地部署与授权确认",
+        "source_type": "媒体报道",
+        "source_url": "https://sz.ifeng.com/c/8xYsy7eg2b6"
+      },
+      {
+        "label": "开源仓库",
+        "value": "GitHub DingTalk-Real-AI/dingtalk-workspace-cli（Apache-2.0）",
+        "source_type": "官方开源",
+        "source_url": "https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli/"
+      }
+    ],
+    "why_it_works": "Agent 只会写纪要不够，还要能建待办、约会议、改表格；CLI 把钉钉能力变成可编程工具，并强调授权与关键操作确认，降低企业接入门槛。",
+    "takeaway": "大厂办公套件的 Agent 战略，关键不是再做一个助手皮肤，而是把真实工作流动作成标准接口开放出去。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": [
+      "钉钉",
+      "鸿蒙",
+      "CLI",
+      "开源",
+      "办公Agent"
+    ],
+    "website": "https://open.dingtalk.com/dingtalk-cli",
+    "sources": [
+      "https://sz.ifeng.com/c/8xYsy7eg2b6",
+      "https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli/",
+      "https://open.dingtalk.com/dingtalk-cli"
+    ],
+    "uncertain_points": "未披露因 DWS 带来的增量付费或调用量；「近日」表述，精确发布时刻以仓库 release 为准。"
+  },
+  {
+    "id": "noitom-robotics-pre-a-plus-plus-plus-physical-ai-data",
+    "date_collected": "2026-10-28",
+    "status": "new",
+    "type": "profitable",
+    "name": "诺亦腾机器人",
+    "one_liner": "动捕老兵做 Physical AI 全模态训练数据服务，完成汇融基金独家 Pre-A+++ 轮",
+    "category": "硬件与端侧",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "向机器人本体、具身模型团队与科研机构销售多模态训练数据及采集/标注/质检基础设施（MOV/OM/ITW+ 体系），按数据与服务交付收费",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "Pre-A+++ 轮，汇融基金（河南投资集团）独家投资；金额未披露",
+        "source_type": "媒体报道（投资界/经济观察网）",
+        "source_url": "https://news.pedaily.cn/202610/570868.shtml"
+      },
+      {
+        "label": "产品体系",
+        "value": "MOV 多模态大空间交互、OM 全模态灵巧操作、ITW+ 多模态野采主观视觉；强调跨本体映射复用",
+        "source_type": "媒体报道（引公司）",
+        "source_url": "https://www.eeo.com.cn/2026/1026/1075901.shtml"
+      }
+    ],
+    "why_it_works": "具身模型缺高质量真实数据与跨本体标准；诺亦腾把多年动捕能力转成可规模交付的数据产品，并与地方具身智能训练场产业资本绑定。",
+    "takeaway": "中国 Physical AI 融资不只砸本体，数据服务商也能以「可训练、可复用」的交付界面持续拿到加轮。",
+    "innovation_score": 3,
+    "business_score": 3,
+    "tags": [
+      "Physical AI",
+      "训练数据",
+      "动捕",
+      "Pre-A+++",
+      "具身智能"
+    ],
+    "website": "https://news.pedaily.cn/202610/570868.shtml",
+    "sources": [
+      "https://news.pedaily.cn/202610/570868.shtml",
+      "https://www.eeo.com.cn/2026/1026/1075901.shtml"
+    ],
+    "uncertain_points": "融资金额与估值未披露；收入规模未公开；与河南具身智能产业协同仍偏规划表述。"
+  }
+]
