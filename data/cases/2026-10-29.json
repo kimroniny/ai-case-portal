@@ -1,0 +1,544 @@
+[
+  {
+    "id": "vera-health-28-5m-clinical-evidence-search",
+    "date_collected": "2026-10-29",
+    "status": "new",
+    "type": "both",
+    "name": "Vera Health",
+    "one_liner": "12人团队做的临床证据搜索引擎，凭医生口碑扩到80万+临床用户后拿下$2850万A轮，宣称月下载量超 OpenEvidence+Doximity 合计",
+    "category": "医疗健康",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "面向持证临床医生与医学生的免费临床 AI 搜索（证据检索/分级/引用），通过学会合作、出版方与医院系统集成扩展；对机构提供 Vera Spaces 本地协议接入，对个人保持免费获客",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "Series A $2850万，Threshold Ventures 领投，Mantis VC、SV Angel 参投；YC 与 Gradient 加码，累计融资$3200万",
+        "source_type": "官方新闻稿",
+        "source_url": "https://www.prnewswire.com/news-releases/vera-health-quietly-became-one-of-the-worlds-most-used-clinical-tools-now-it-has-raised-32-million-to-give-every-clinician-in-the-world-the-best-medical-knowledge-in-seconds-302920905.html"
+      },
+      {
+        "label": "用户与下载",
+        "value": "逾80万临床用户覆盖190国；称约1/4西班牙与意大利医生使用；自6月起连续成为全球下载最多的临床 App；9月下载量超过 OpenEvidence 与 Doximity 之和（公司自述）",
+        "source_type": "官方新闻稿（公司自述）",
+        "source_url": "https://www.prnewswire.com/news-releases/vera-health-quietly-became-one-of-the-worlds-most-used-clinical-tools-now-it-has-raised-32-million-to-give-every-clinician-in-the-world-the-best-medical-knowledge-in-seconds-302920905.html"
+      },
+      {
+        "label": "产品形态",
+        "value": "先检索再作答：覆盖逾6000万篇同行评议论文、指南、共识与药品说明书，按研究设计/证据等级/队列规模等着色标注证据强度；与 ACEP 等学会合作嵌入临床政策",
+        "source_type": "官方新闻稿",
+        "source_url": "https://www.prnewswire.com/news-releases/vera-health-quietly-became-one-of-the-worlds-most-used-clinical-tools-now-it-has-raised-32-million-to-give-every-clinician-in-the-world-the-best-medical-knowledge-in-seconds-302920905.html"
+      }
+    ],
+    "why_it_works": "通用聊天模型会把弱证据说得像定论；Vera 把「证据等级可视化」做成产品默认，并用医生口碑而非广告扩量。小团队+全球本地指南优先，卡在「可信临床情报层」而非又一个问答框。",
+    "takeaway": "严肃医疗 AI 的增长可以来自口碑与证据透明度，而不是堆销售；免费给临床端、把机构协议做成第二层变现，是常见但难执行的路径。",
+    "innovation_score": 4,
+    "business_score": 5,
+    "tags": [
+      "临床AI",
+      "证据检索",
+      "Series A",
+      "医生口碑",
+      "YC"
+    ],
+    "website": "https://www.verahealth.ai/",
+    "sources": [
+      "https://www.prnewswire.com/news-releases/vera-health-quietly-became-one-of-the-worlds-most-used-clinical-tools-now-it-has-raised-32-million-to-give-every-clinician-in-the-world-the-best-medical-knowledge-in-seconds-302920905.html",
+      "https://www.fiercehealthcare.com/finance/vera-health-secures-285m-series-ai-driven-clinical-search-engine",
+      "https://tech.eu/2026/10/27/from-two-doctors-to-800000-clinicians-vera-health-raises-285m/"
+    ],
+    "uncertain_points": "80万用户、App下载排名与「1/4西/意医生」均为公司新闻稿自述，未见独立审计；官网域名需以实际产品域名为准；收入/付费转化未披露。"
+  },
+  {
+    "id": "formation-bio-600m-drug-dev-accelerator-fund",
+    "date_collected": "2026-10-29",
+    "status": "new",
+    "type": "both",
+    "name": "Formation Bio",
+    "one_liner": "AI 原生药企用$6亿首支开发加速基金收购/引进临床资产，把融资结构做成「单药独立主体 + 共享开发平台」",
+    "category": "医疗健康",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "收购或引进 Phase 1/2 药物项目，用自有 AI 开发平台与临床运营基础设施推进至关键里程碑，再与药企合作商业化；基金 LP 含研究基金会、捐赠基金、医院与慈善机构，GP 为 Formation 全资子公司并跟投",
+    "metrics": [
+      {
+        "label": "基金规模",
+        "value": "Drug Development Accelerator Fund 承诺资本$6亿；目标未来3–5年收购约10–15个项目",
+        "source_type": "官方新闻稿",
+        "source_url": "https://www.formation.bio/press/formation-bio-announces-usd600-million-debut-fund-to-expand-drug-development-capacity"
+      },
+      {
+        "label": "结构创新",
+        "value": "每个资助项目置于独立公司实体，共享 Formation 开发组织，降低重复运营开销；目标收购后2–4年内达到关键临床里程碑",
+        "source_type": "官方新闻稿",
+        "source_url": "https://www.formation.bio/press/formation-bio-announces-usd600-million-debut-fund-to-expand-drug-development-capacity"
+      }
+    ],
+    "why_it_works": "很多有潜力的资产卡在管线里缺资本与执行力。Formation 用「AI 开发平台 + 专用基金」同时解决钱与交付，并把流动性做成不卖掉母公司也能退出的路径。",
+    "takeaway": "AI 制药的下一层叙事不只是发现分子，而是用资本结构规模化「接盘 stalled assets」；应用案例要看平台是否真能降低单药开发成本。",
+    "innovation_score": 4,
+    "business_score": 5,
+    "tags": [
+      "AI制药",
+      "临床开发",
+      "基金结构",
+      "hub-and-spoke",
+      "600M"
+    ],
+    "website": "https://www.formation.bio/",
+    "sources": [
+      "https://www.formation.bio/press/formation-bio-announces-usd600-million-debut-fund-to-expand-drug-development-capacity",
+      "https://www.prnewswire.com/news-releases/formation-bio-announces-600-million-debut-fund-to-expand-drug-development-capacity-302921852.html",
+      "https://www.forbes.com/sites/innovationrx/2026/10/28/why-an-ai-biotech-startup-launched-a-600-million-fund-to-buy-stalled-drugs/"
+    ],
+    "uncertain_points": "基金 LP 名单与已收购项目数量未详列；AI 平台对临床成功率的量化提升尚未有独立验证数据。"
+  },
+  {
+    "id": "circuit-mind-25m-agentic-pcb-verification",
+    "date_collected": "2026-10-29",
+    "status": "new",
+    "type": "both",
+    "name": "Circuit Mind",
+    "one_liner": "英国硬件设计 AI 同步发 Agentic Verification Engine 并用$2500万把「原理图纠错 Agent」推到设计全流程",
+    "category": "硬件与端侧",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "向硬件工程团队销售 PCB/原理图设计与验证软件（物理引擎 + AI Agent），对接既有 EDA，按平台订阅/企业席位收费",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "新融资$2500万：Norwest 领投$1850万 Series A（Lightscape、Third Prime、Differential、Blackhorn 参与）；另含此前未公布的 Third Prime 领投种子轮；累计约$3340万",
+        "source_type": "媒体报道（SiliconANGLE）",
+        "source_url": "https://siliconangle.com/2026/10/28/circuit-mind-lands-25m-and-puts-ai-agents-to-work-checking-circuit-board-schematics/"
+      },
+      {
+        "label": "客户效果",
+        "value": "洛斯阿拉莫斯国家实验室公开报告：中等难度板卡约4小时完成，手工估60–80小时；施耐德早期评估称架构探索工作量可降逾90%；称 BOM 成本可降约25%；客户含多家 Fortune 5 与 Emerson 等（公司/客户引述）",
+        "source_type": "媒体报道（引公司与客户）",
+        "source_url": "https://siliconangle.com/2026/10/28/circuit-mind-lands-25m-and-puts-ai-agents-to-work-checking-circuit-board-schematics/"
+      },
+      {
+        "label": "产品发布",
+        "value": "同步上线 Agentic Verification Engine：多 Agent 对照 datasheet 与客户检查清单追踪连接/总线错误，先自检再交工程师",
+        "source_type": "媒体报道",
+        "source_url": "https://siliconangle.com/2026/10/28/circuit-mind-lands-25m-and-puts-ai-agents-to-work-checking-circuit-board-schematics/"
+      }
+    ],
+    "why_it_works": "通用 LLM 没见过专业电路；Circuit Mind 用物理约束引擎 + 自有器件模型托底，再叠 Agent 做设计与审图，对标「硬件界的 Cursor」。",
+    "takeaway": "垂直工程软件的 Agent 化，关键是领域物理/规则底座，而不是聊天框；有实验室可公开复现的时长对比，比口号更有说服力。",
+    "innovation_score": 5,
+    "business_score": 4,
+    "tags": [
+      "硬件设计",
+      "PCB",
+      "Agent验证",
+      "Series A",
+      "EDA"
+    ],
+    "website": "https://www.circuitmind.io/",
+    "sources": [
+      "https://siliconangle.com/2026/10/28/circuit-mind-lands-25m-and-puts-ai-agents-to-work-checking-circuit-board-schematics/"
+    ],
+    "uncertain_points": "暂仅见 SiliconANGLE 详稿，待官方博客/融资稿交叉验证；Fortune 5 客户未点名；ARR 未披露。"
+  },
+  {
+    "id": "simplismart-14m-series-b-nvidia-inference",
+    "date_collected": "2026-10-29",
+    "status": "new",
+    "type": "both",
+    "name": "Simplismart",
+    "one_liner": "印度推理优化公司拿下 Nvidia 参与的$1400万B轮，官方称年化收入跑速半年增14倍，帮应用按成本/时延配服",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "向 AI 应用公司与云厂商出售模块化推理引擎与编排平台：按工作负载配硬件精度/批处理/缓存，并把第三方 GPU 产能转成可售卖的托管推理服务（含主权/私有化部署）",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "Series B $1400万，Dallas Venture Capital 领投，NVIDIA、Accel、Shastra VC、Micromax 参投；媒体称投后估值约$1亿",
+        "source_type": "官方博客",
+        "source_url": "https://simplismart.ai/blog/nvidia-backs-our-14m-series-b"
+      },
+      {
+        "label": "增长与客户",
+        "value": "CEO 信称过去六个月年化收入跑速增长14倍；生产客户含 HeyGen、Higgsfield、InVideo、Shiprocket、Apna、Ema 等",
+        "source_type": "官方博客（创始人自述）",
+        "source_url": "https://simplismart.ai/blog/nvidia-backs-our-14m-series-b"
+      },
+      {
+        "label": "成本案例",
+        "value": "举例 Ema：约180ms 延迟、约$0.07/百万 token 的生产配置；Exotel 语音场景托管推理约₹0.90–1.30/分钟，对比闭源 API 约₹2.10（公司自述对比）",
+        "source_type": "官方博客（公司自述）",
+        "source_url": "https://simplismart.ai/blog/nvidia-backs-our-14m-series-b"
+      }
+    ],
+    "why_it_works": "推理不是榜单冠军赛，而是「这个应用在真实流量下能撑住的成本-时延组合」。Simplismart 卖软件而非自建 GPU 舰队，站在应用与云厂商中间。",
+    "takeaway": "推理层创业可以不碰芯片也不碰大模型：把「配服工程」产品化，并用 Nvidia 背书打进云品牌白牌推理。",
+    "innovation_score": 3,
+    "business_score": 5,
+    "tags": [
+      "推理优化",
+      "Nvidia",
+      "Series B",
+      "印度",
+      "ARR增长"
+    ],
+    "website": "https://simplismart.ai/",
+    "sources": [
+      "https://simplismart.ai/blog/nvidia-backs-our-14m-series-b",
+      "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
+      "https://economictimes.indiatimes.com/tech/funding/ai-startup-simplismart-raises-14-million-from-dallas-venture-capital-nvidia-as-demand-for-inference-grows/articleshow/135231045.cms"
+    ],
+    "uncertain_points": "14x 为年化跑速相对增长，非披露绝对 ARR；估值$1亿来自媒体而非官方博客；客户名单为公司列举。"
+  },
+  {
+    "id": "plato-16m-simulated-workplaces-for-agents",
+    "date_collected": "2026-10-29",
+    "status": "new",
+    "type": "innovative",
+    "name": "Plato",
+    "one_liner": "给 AI Lab 造「可重置的真实工作模拟场」，$1600万A轮有 Gradient 与 Mustafa Suleyman 个人参与",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "向 AI 实验室/开发者提供模拟职场环境（客服、人事、财务、医疗行政等）用于强化学习训练与评估，按环境库与评测服务收费；雇领域专家复刻真实岗位",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "Series A $1600万，Nava Ventures 领投，Gradient Ventures、Transpose Platform 与 Microsoft AI CEO Mustafa Suleyman 参与；累计$1900万",
+        "source_type": "官方新闻稿",
+        "source_url": "https://www.prnewswire.com/news-releases/plato-raises-16-million-to-build-the-training-grounds-for-ais-next-leap-into-real-work-302921832.html"
+      },
+      {
+        "label": "产品定位",
+        "value": "在沙盒里复现软件工具与多步任务，避免模型在真实系统上下单/改记录；评估结果与过程约束（如预算），并检测刷分漏洞",
+        "source_type": "官方新闻稿",
+        "source_url": "https://www.prnewswire.com/news-releases/plato-raises-16-million-to-build-the-training-grounds-for-ais-next-leap-into-real-work-302921832.html"
+      }
+    ],
+    "why_it_works": "Agent 要进真实工作流，却不能在生产环境里练坏账。Plato 把「岗位经验」做成可重置数据集与评测，卡在训练基础设施层。",
+    "takeaway": "当模型从问答走向行动，训练数据会从网页文本转向「带工具与约束的岗位模拟」；这是评测与 RL 的新供给面。",
+    "innovation_score": 5,
+    "business_score": 3,
+    "tags": [
+      "Agent训练",
+      "模拟环境",
+      "RL",
+      "Series A",
+      "评测"
+    ],
+    "website": "https://plato.so/",
+    "sources": [
+      "https://www.prnewswire.com/news-releases/plato-raises-16-million-to-build-the-training-grounds-for-ais-next-leap-into-real-work-302921832.html"
+    ],
+    "uncertain_points": "客户实验室名单与收入未披露；Suleyman 为个人参投表述，权益细节未公开。"
+  },
+  {
+    "id": "scene-dalet-labs-7m-ai-visual-shopping",
+    "date_collected": "2026-10-29",
+    "status": "new",
+    "type": "both",
+    "name": "Scene（Dalet Labs）",
+    "one_liner": "前 Runway 工程师用 AI 生成可购物场景信息流，Lightspeed 领投$700万 Pre-seed 并开放美国 iOS 早鸟",
+    "category": "电商零售",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "面向消费者的 iOS 购物 App：AI 生成时尚/家居等真实感场景，点击商品跨品牌购买；早期以联盟/导流变现，邀请制美国上线",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "Pre-seed $700万，Lightspeed Venture Partners 领投，SV Angel 与天使参与（Business Insider / Dealroom 等报道）",
+        "source_type": "媒体报道",
+        "source_url": "https://www.businessinsider.com/dalet-labs-raises-preseed-millions-shopping-app-scene-pitch-deck-2026-10"
+      },
+      {
+        "label": "产品上线",
+        "value": "Scene iOS 早鸟于2026-10-28前后在美国开放；连接数百品牌真实商品的可购物 AI 场景流（媒体与 X 新闻摘要）",
+        "source_type": "媒体报道",
+        "source_url": "https://runtimewire.com/article/dalet-labs-scene-ai-shopping-feed"
+      }
+    ],
+    "why_it_works": "很多购物从「无明确搜索的灵感浏览」开始；Scene 用可购买的生成场景替代传统网格，赌生成媒体能在意图形成前创造需求。",
+    "takeaway": "消费侧 AI 电商不必先做搜索框——信息流形态若能接到真实库存与结算，就有机会重做发现层。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": [
+      "AI购物",
+      "生成场景",
+      "Pre-seed",
+      "Lightspeed",
+      "iOS"
+    ],
+    "website": "https://www.daletlabs.com/",
+    "sources": [
+      "https://www.businessinsider.com/dalet-labs-raises-preseed-millions-shopping-app-scene-pitch-deck-2026-10",
+      "https://runtimewire.com/article/dalet-labs-scene-ai-shopping-feed",
+      "https://x.com/i/trending/2115473669975953897"
+    ],
+    "uncertain_points": "官网域名以实际落地为准；GMV/转化未披露；Business Insider 可能付费墙，细节以公开摘要交叉核对。"
+  },
+  {
+    "id": "neuroxess-7yi-series-b-bci-clinical",
+    "date_collected": "2026-10-29",
+    "status": "new",
+    "type": "both",
+    "name": "脑虎科技（NeuroXess）",
+    "one_liner": "侵入式脑机接口完成7亿元B轮，「三全」系统进入三类械注册临床，并明确 BCI+AI 真实物理世界模型方向",
+    "category": "医疗健康",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "研发并推进「全植入、全无线、全功能」脑机接口系统的医疗器械注册与量产，面向脑疾病诊疗与后续人机交互；建设超级工厂并探索 BCI 调用 AI/工具/环境",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "B轮7亿元人民币；国投聚力、深创投、勤智资本联合领投，中芯聚源、IDG、基石等跟投",
+        "source_type": "官方公告",
+        "source_url": "https://www.neuroxess.com/news/naohukejiwancheng7yiyuanblunrongziguotoujulishenchuangtouyuqinzhizibenlingtou/"
+      },
+      {
+        "label": "临床与产业化",
+        "value": "已完成65例临床试验；2026-07-07 在华山医院启动 GCP 注册临床（国内首款进入三类械注册临床的硬膜下半侵入式产品）；超级工厂规划约1.43万㎡、目标万套级产能；目标两年内医疗市场落地",
+        "source_type": "官方公告",
+        "source_url": "https://www.neuroxess.com/news/naohukejiwancheng7yiyuanblunrongziguotoujulishenchuangtouyuqinzhizibenlingtou/"
+      }
+    ],
+    "why_it_works": "脑机接口从概念走向「注册临床+量产工厂」才有商业闭环；本轮国资+半导体+医疗资本同场，押的是临床路径与 BCI+AI 交互入口。",
+    "takeaway": "中国硬科技 AI 应用案例里，医疗器械注册节点比融资口号更硬；BCI 的下一叙事是接 AI Agent，而不只是解码运动意图。",
+    "innovation_score": 4,
+    "business_score": 4,
+    "tags": [
+      "脑机接口",
+      "B轮",
+      "注册临床",
+      "BCI+AI",
+      "国资"
+    ],
+    "website": "https://www.neuroxess.com/",
+    "sources": [
+      "https://www.neuroxess.com/news/naohukejiwancheng7yiyuanblunrongziguotoujulishenchuangtouyuqinzhizibenlingtou/",
+      "https://eu.36kr.com/zh/p/4043628160685189",
+      "https://cn.technode.com/post/2026-10-28/neuroxess-brain-computer-interface-series-b-funding/"
+    ],
+    "uncertain_points": "获批时间表与定价未定；BCI+AI 仍为探索方向，尚无大规模商用数据。"
+  },
+  {
+    "id": "biogeometry-1yi-usd-a-plus-protein-ai",
+    "date_collected": "2026-10-29",
+    "status": "new",
+    "type": "both",
+    "name": "百奥几何（BioGeometry）",
+    "one_liner": "AI Native 蛋白/细胞微观世界模型公司 A 轮系列融资超1亿美元，干湿 RSI 闭环推进双抗与合成生物管线",
+    "category": "医疗健康",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "以 GeoFlow（分子）与 GeoCell（细胞）生成式模型服务生物医药与合成生物学设计，自研管线商业化+对外合作；AI Agent 连接自动化实验室形成设计-实验-学习闭环",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "A+轮完成，A轮系列累计超1亿美元；国寿资本领投，上海生物医药基金、达晨财智等老股东加注，国开科创、瑞力、国方等跟投",
+        "source_type": "媒体报道（投资界）",
+        "source_url": "https://news.pedaily.cn/202610/570976.shtml"
+      },
+      {
+        "label": "管线进展",
+        "value": "多条双抗计划2027年进 IND；合成生物侧 AKG、天然冰片等超5条完成中试，称天然冰片生物合成成本较植物提取降约80%，计划2027年规模化收入（公司表述）",
+        "source_type": "媒体报道（引公司）",
+        "source_url": "https://news.pedaily.cn/202610/570976.shtml"
+      }
+    ],
+    "why_it_works": "不只做分子设计模型，还把细胞响应模型与自动化湿实验接成 RSI 飞轮，让数据与管线互相反哺，更接近「可商业化的 AI4S」。",
+    "takeaway": "中国 AI 制药案例里，看得到中试与收入时间表的，比纯模型发布更值得收；干湿闭环是差异化壁垒叙事。",
+    "innovation_score": 4,
+    "business_score": 4,
+    "tags": [
+      "AI制药",
+      "蛋白设计",
+      "虚拟细胞",
+      "A+",
+      "干湿闭环"
+    ],
+    "website": "https://www.biogeometry.tech/",
+    "sources": [
+      "https://news.pedaily.cn/202610/570976.shtml",
+      "https://www.chinaventure.com.cn/news/111-20261028-393794.html",
+      "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-28/doc-iniwukpx9555366.shtml"
+    ],
+    "uncertain_points": "官网域名待核对；1亿美元为A轮系列累计口径；中试成本下降与2027收入为公司前瞻表述。"
+  },
+  {
+    "id": "nanocore-10yi-c2-3d-cim-ai-chip",
+    "date_collected": "2026-10-29",
+    "status": "new",
+    "type": "profitable",
+    "name": "微纳核芯",
+    "one_liner": "三维存算一体 AI 芯片完成超10亿元C2轮，两月融资超20亿，面向端侧到智算中心推理",
+    "category": "硬件与端侧",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "研发销售3D-CIM存算一体芯片与方案，覆盖 AI 手机/PC/IoT/一体机/服务器/机器人等推理场景，对接产业与国资客户",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "C2轮超10亿元人民币，建投投资等领投/参与；叠加此前C1约10亿，媒体称两月融资超20亿",
+        "source_type": "媒体报道",
+        "source_url": "https://news.pedaily.cn/202610/570997.shtml"
+      },
+      {
+        "label": "产品节奏",
+        "value": "称三颗 AI 芯片已投片，计划2027年初送测并推进批量供货（媒体报道）",
+        "source_type": "媒体报道",
+        "source_url": "https://wallstreetcn.com/articles/3784665"
+      }
+    ],
+    "why_it_works": "推理成本与功耗是应用层瓶颈；存算一体试图同时打高性能、低功耗、低成本，国资大额押注说明算力「芯片内」环节仍是资本主战场。",
+    "takeaway": "应用门户也要跟踪底层推理芯片节点——没有可量产的便宜推理，端侧 Agent 很难铺开。",
+    "innovation_score": 3,
+    "business_score": 4,
+    "tags": [
+      "存算一体",
+      "AI芯片",
+      "C轮",
+      "国资",
+      "推理"
+    ],
+    "website": "https://www.nanocorechip.com/",
+    "sources": [
+      "https://news.pedaily.cn/202610/570997.shtml",
+      "https://www.zhitongcaijing.com/content/detail/1514178.html",
+      "https://wallstreetcn.com/articles/3784665"
+    ],
+    "uncertain_points": "确切轮次命名（C+/C2）媒体表述不一；量产与客户出货数据未公开；偏芯片硬件，应用层收入待观察。"
+  },
+  {
+    "id": "lige-wanwu-deepseek-embodied-brain-seed",
+    "date_collected": "2026-10-29",
+    "status": "new",
+    "type": "innovative",
+    "name": "理格万物",
+    "one_liner": "通用具身大脑种子轮引入红杉中国、砺思与 DeepSeek，大模型公司首次以投资方身份深度卡位具身行为基模",
+    "category": "硬件与端侧",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "研发「大语言模型+具身智能」的通用具身大脑/行为基模，向机器人与具身系统提供脑侧能力（早期融资阶段，商业化路径仍在展开）",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "种子轮/首轮融资，投资方含红杉中国、砺思资本（Monolith）、逐际动力、DeepSeek；金额未披露，市场传闻估值约$7000万（非官方）",
+        "source_type": "媒体报道",
+        "source_url": "https://www.bianews.com/news/details?id=247966"
+      },
+      {
+        "label": "产业信号",
+        "value": "多家创投日报将 DeepSeek 出现在投资方名单视为「大模型公司用资本绑定具身大脑」的标志性事件",
+        "source_type": "媒体报道",
+        "source_url": "https://www.aitomato.cn/article/6ae1a9d4b15ec06e2c576187/"
+      }
+    ],
+    "why_it_works": "具身落地缺的是可迁移的行为基模；DeepSeek 下场投资，比单纯 API 合作更强地表明模型厂对「身体侧」控制权的焦虑与布局。",
+    "takeaway": "跟踪中国具身案例时，投资方名单本身可能是信号——模型公司开始用股权锁定大脑层。",
+    "innovation_score": 4,
+    "business_score": 2,
+    "tags": [
+      "具身智能",
+      "DeepSeek",
+      "红杉",
+      "种子轮",
+      "行为基模"
+    ],
+    "website": "",
+    "sources": [
+      "https://www.bianews.com/news/details?id=247966",
+      "https://www.donews.com/news/detail/8/6756262.html",
+      "https://www.aitomato.cn/article/6ae1a9d4b15ec06e2c576187/"
+    ],
+    "uncertain_points": "融资金额与估值均为媒体/传闻，无公司官方数字；官网与产品形态公开信息少；窗口以创投日报10-28收录为准。"
+  },
+  {
+    "id": "dedica-ph1-agent-website-readiness",
+    "date_collected": "2026-10-29",
+    "status": "new",
+    "type": "innovative",
+    "name": "Dedica",
+    "one_liner": "检测「AI Agent 能不能用你的网站」的审计工具，Product Hunt 10/28 日榜第一，125项检查给出可丢进编码 Agent 的修复包",
+    "category": "编程开发",
+    "region": "海外",
+    "team_type": "独立开发者",
+    "business_model": "免费网站 Agent 可用性评分；付费一次性修复包（上线价约$30/站，常规$50）生成可交给 Cursor/Claude Code 等的指令文件；另提供 API 与 MCP",
+    "metrics": [
+      {
+        "label": "社区热度",
+        "value": "Product Hunt 2026-10-28 日榜约第1，约234–241 upvotes（榜单动态）",
+        "source_type": "Product Hunt",
+        "source_url": "https://www.producthunt.com/leaderboard/daily/2026/10/28"
+      },
+      {
+        "label": "产品形态",
+        "value": "125项检查覆盖 Discovery/Access/Usability/Payments；免费出百分制分数与优先修复项；付费 fix kit + 公共 API/MCP",
+        "source_type": "Product Hunt / 官网",
+        "source_url": "https://getdedica.com/"
+      }
+    ],
+    "why_it_works": "Agent 代浏览/代下单会撞上 JS 渲染空页与人机验证；Dedica 把「对 Agent 友好」做成可量化审计，卡在 Agent 经济的供给侧基建。",
+    "takeaway": "当 Agent 成为新流量入口，SEO 之外会出现 AEO/Agent-readiness；小工具也能用一次性付费打穿开发者心智。",
+    "innovation_score": 5,
+    "business_score": 3,
+    "tags": [
+      "Product Hunt",
+      "Agent就绪",
+      "网站审计",
+      "MCP",
+      "独立开发"
+    ],
+    "website": "https://getdedica.com/",
+    "sources": [
+      "https://www.producthunt.com/leaderboard/daily/2026/10/28",
+      "https://getdedica.com/",
+      "https://hunted.space/product/dedica"
+    ],
+    "uncertain_points": "团队规模与收入未公开；PH 票数随时间变动；付费转化未知。"
+  },
+  {
+    "id": "botgauge-ph3-agent-redteam-trust-layer",
+    "date_collected": "2026-10-29",
+    "status": "new",
+    "type": "innovative",
+    "name": "BotGauge",
+    "one_liner": "Agent 红队与评测「信任层」登 Product Hunt 日榜前三：自适应攻击、全链路回放，并把失败固化成回归测试",
+    "category": "编程开发",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "向工程团队销售 Agent 红队/评测/生产监控平台，对接 OpenAI、Anthropic、LangChain/LangGraph、CrewAI 等；宣称 SOC 2 Type II",
+    "metrics": [
+      {
+        "label": "社区热度",
+        "value": "Product Hunt 2026-10-28 日榜约第3，约198–202 upvotes",
+        "source_type": "Product Hunt",
+        "source_url": "https://www.producthunt.com/leaderboard/daily/2026/10/28"
+      },
+      {
+        "label": "产品能力",
+        "value": "按 Agent 用途生成定制攻击；失败关联 prompt/工具调用/执行路径；转为持续 eval 与护栏；支持黑盒与灰盒",
+        "source_type": "官网 / PH",
+        "source_url": "https://www.botgauge.com/"
+      }
+    ],
+    "why_it_works": "Agent 失败模式不同于普通软件：换模型/提示/MCP 就可能走出新路径。BotGauge 把安全评测做成从开发到生产的连续层。",
+    "takeaway": "Agent 编排爆发后，红队与可观测会成为标配采购项；PH 热度说明开发者已在为「上线前打自己」付注意力。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": [
+      "Agent安全",
+      "红队",
+      "评测",
+      "Product Hunt",
+      "SOC2"
+    ],
+    "website": "https://www.botgauge.com/",
+    "sources": [
+      "https://www.producthunt.com/leaderboard/daily/2026/10/28",
+      "https://www.botgauge.com/",
+      "https://hunted.space/product/botgauge-2"
+    ],
+    "uncertain_points": "融资与 ARR 未在本次窗口披露；PH 为社区热度信号而非营收证明。"
+  }
+]
