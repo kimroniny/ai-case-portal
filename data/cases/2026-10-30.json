@@ -1,0 +1,467 @@
+[
+  {
+    "id": "serval-150m-series-c-3b-enterprise-automation",
+    "date_collected": "2026-10-30",
+    "status": "new",
+    "type": "both",
+    "name": "Serval",
+    "one_liner": "Sequoia 领投$1.5亿C轮、估值$30亿的企业服务管理平台，用 Catalyst Agent 让非工程师用自然语言写 TypeScript 自动化，正面挑战 ServiceNow",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "面向企业 IT/HR/财务/法务等部门的 AI 原生服务管理与自动化平台：员工用自然语言描述流程，Catalyst Agent 生成并在受控环境测试后发布自动化；按平台订阅收费，并新增 ProServal 专业服务把自动化工程师嵌入客户侧",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "Series C $1.5亿，Sequoia 领投，估值$30亿（post-money）；Conviction、Headline 新进，Elad Gil、First Round、General Catalyst、Redpoint、Evantic 跟投；累计融资$2.77亿；12个月内第三轮",
+        "source_type": "官方新闻稿 / 媒体",
+        "source_url": "https://www.businesswire.com/news/home/20261029114967/en/Serval-Raises-%24150M-Series-C-at-%243B-Valuation-Led-by-Sequoia"
+      },
+      {
+        "label": "增长与客户",
+        "value": "自称自 Series B 以来 ARR 每季度翻倍；近月内 onboard 两家 Fortune 20 做全组织自动化；客户含 Fox、WPP、Live Nation、Lucid Motors、Ramp、Notion；多数客户 30 天内上线；团队从年初约20人扩至约200人",
+        "source_type": "官方新闻稿 / Fortune（公司自述）",
+        "source_url": "https://fortune.com/2026/10/29/serval-servicenow-fight-series-c-3-billion-valuation-sequoia/"
+      },
+      {
+        "label": "产品形态",
+        "value": "Catalyst 在隔离环境写自动化（分支/权限/审计），再发布给员工使用的第二层 Agent；ProServal 计划一年内招 100+ Automation Engineers 驻场改流程",
+        "source_type": "媒体报道（Fortune）",
+        "source_url": "https://fortune.com/2026/10/29/serval-servicenow-fight-series-c-3-billion-valuation-sequoia/"
+      }
+    ],
+    "why_it_works": "把「工程师式 vibe coding」平移到 IT/HR 等非技术部门，同时用沙箱、权限与审计压住企业治理风险；公开对标 ServiceNow，用替换叙事收割正在做厂商选型的大客户窗口。",
+    "takeaway": "企业工作流下一层壁垒不只是 Agent 写代码，而是系统-of-record + 治理 + 驻场交付；ARR 翻倍与 Fortune 20 扩招是信号，但绝对 ARR 未披露，需对照 ServiceNow 反击产品 Flow 的落地速度。",
+    "innovation_score": 4,
+    "business_score": 5,
+    "tags": ["企业自动化", "ServiceNow替代", "Series C", "Sequoia", "Catalyst Agent"],
+    "website": "https://serval.com/",
+    "sources": [
+      "https://www.businesswire.com/news/home/20261029114967/en/Serval-Raises-%24150M-Series-C-at-%243B-Valuation-Led-by-Sequoia",
+      "https://fortune.com/2026/10/29/serval-servicenow-fight-series-c-3-billion-valuation-sequoia/",
+      "https://www.axios.com/pro/enterprise-software-deals/2026/10/29/serval-sequoia-enterprise"
+    ],
+    "uncertain_points": "ARR 绝对值未披露，「每季翻倍」为公司自述；两家 Fortune 20 客户名称未公开；与 ServiceNow Flow 的 head-to-head 留存/置换数据未见独立审计。"
+  },
+  {
+    "id": "furiosaai-620m-series-d-2-9b-inference-chip",
+    "date_collected": "2026-10-30",
+    "status": "new",
+    "type": "both",
+    "name": "FuriosaAI",
+    "one_liner": "韩国推理芯片公司完成$6.2亿D轮、投后估值约$29亿，RNGD 已量产并进入三星 SDS / LG 等生产部署",
+    "category": "硬件与端侧",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "设计并销售专用于 AI 推理的加速卡与服务器（RNGD / NXT RNGD Server），面向云厂商、主权 AI、企业本地与混合云；配套自有编译器与 SDK，按硬件与软件栈交付",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "Series D $6.2亿，投后估值约$29亿；韩国国家成长基金约$2.8亿，国际投资约$1.1亿（Infinitum、Jericho、QUDA、Cisco Investments、NeoFort、Worldline 等），NAVER/DSC/KDB 等老股东跟投",
+        "source_type": "官方博客",
+        "source_url": "https://furiosa.ai/blog/furiosaai-620-million-series-d"
+      },
+      {
+        "label": "量产与客户",
+        "value": "RNGD 2026年1月进入量产；称今年生产约2万张卡，已锁定 2027 年产能可翻倍以上；客户部署含 Samsung SDS NPU-as-a-Service、LG Group 本地混合云（公司自述）",
+        "source_type": "官方博客（公司自述）",
+        "source_url": "https://furiosa.ai/blog/furiosaai-620-million-series-d"
+      },
+      {
+        "label": "产品规格",
+        "value": "180W 风冷 PCIe 卡；8卡组成 4U/3kW NXT 服务器（FP8 4 PFLOPS、384GB HBM3）；自称同卡数吞吐匹配 RTX PRO 6000、每 kW 服务用户数约2倍",
+        "source_type": "官方博客（公司自述）",
+        "source_url": "https://furiosa.ai/blog/furiosaai-620-million-series-d"
+      }
+    ],
+    "why_it_works": "训练一次性、推理反复发生——把芯片做成「单位瓦特更多 token」的经济账，并先闯过量产与大客户上线两道硬关，而不是只晒基准分。",
+    "takeaway": "Nvidia 替代叙事要看软件生态与真实 workload TCO；Furiosa 的信号是量产+企业部署，下一关是全球供货与 Gen3 集群是否跟得上 Agent 推理需求。",
+    "innovation_score": 4,
+    "business_score": 5,
+    "tags": ["推理芯片", "Series D", "韩国半导体", "RNGD", "能效"],
+    "website": "https://furiosa.ai/",
+    "sources": [
+      "https://furiosa.ai/blog/furiosaai-620-million-series-d",
+      "https://thenextweb.com/news/furiosaai-series-d-620m-2-9bn-valuation",
+      "https://techstartups.com/2026/10/29/startup-funding-news-today-october-29-2026-braid-casap-furiosaai-upwind-foundry-robotics-plato-more/"
+    ],
+    "uncertain_points": "吞吐/能效对比与客户名单主要为公司自述；lifetime 累计融资未完全对账；部分资金或为先期承诺的完成公告。"
+  },
+  {
+    "id": "upwind-400m-series-c-3-8b-cloud-ai-security",
+    "date_collected": "2026-10-30",
+    "status": "new",
+    "type": "both",
+    "name": "Upwind",
+    "one_liner": "拒绝 Datadog 收购后拿下 Bessemer 领投$4亿C轮、估值$38亿，用运行时上下文统一云负载与 AI Agent 安全",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "向企业销售 Cloud & AI Security 平台：以运行时情报关联云负载、API 与 Agent 行为，做风险排序、主动修复与攻击检测；覆盖 AWS/Azure/GCP/OCI，经 AWS Security Hub 可控制台集成计费",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "Series C $4亿，Bessemer 领投，估值$38亿（较 2026年1月 B 轮$15亿大幅上调）；Canapi 新进，Cyberstarts、Greylock、Craft、Salesforce Ventures、TCV 等跟投；累计融资逾$8亿（媒体口径）",
+        "source_type": "官方新闻稿",
+        "source_url": "https://www.globenewswire.com/news-release/2026/10/28/3390753/0/en/upwind-closes-400-million-series-c-at-3-8-billion-valuation-as-revenue-quadruples-in-2026.html"
+      },
+      {
+        "label": "增长",
+        "value": "称 2026 年收入翻 4 倍（未披露绝对收入）；客户含 Siemens、Roku、Carvana、Nubank、Supabase、ClickUp 等",
+        "source_type": "官方新闻稿（公司自述）",
+        "source_url": "https://www.globenewswire.com/news-release/2026/10/28/3390753/0/en/upwind-closes-400-million-series-c-at-3-8-billion-valuation-as-revenue-quadruples-in-2026.html"
+      }
+    ],
+    "why_it_works": "静态扫描给不出「Agent 是否真造成可达暴露」；Upwind 用运行时上下文把告警压成可行动风险，卡在 Agent 扩权时代的安全预算升级。",
+    "takeaway": "Agent 安全正在从扫描工具升到「云+Agent 统一运行时」平台；拒绝收购换独立融资说明赛道估值弹性大，但绝对收入未披露，需防估值叙事跑在单位经济前面。",
+    "innovation_score": 3,
+    "business_score": 5,
+    "tags": ["云安全", "Agent安全", "Series C", "Bessemer", "运行时"],
+    "website": "https://www.upwind.io/",
+    "sources": [
+      "https://www.globenewswire.com/news-release/2026/10/28/3390753/0/en/upwind-closes-400-million-series-c-at-3-8-billion-valuation-as-revenue-quadruples-in-2026.html",
+      "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
+      "https://www.axios.com/pro/enterprise-software-deals/2026/10/28/upwind-security-bessemer-cyber"
+    ],
+    "uncertain_points": "收入翻4倍未给基数；与 Wiz/CrowdStrike 等云安全巨头的置换份额未见独立数据；Datadog 收购报价细节未公开。"
+  },
+  {
+    "id": "wabi-55m-1-25b-multiplayer-personal-ai",
+    "date_collected": "2026-10-30",
+    "status": "new",
+    "type": "both",
+    "name": "Wabi",
+    "one_liner": "Replika 创始人 Eugenia Kuyda 的多人个人 AI，IVP 领投$5500万、估值$12.5亿，用共享空间+可复用 mini-app 做「生活操作系统」",
+    "category": "生产力办公",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "面向消费者的多人协作个人 AI：共享空间、主动助理与可复用 mini-app（餐饮计划、健身挑战、约会规划等）；iOS/Android/Mac 已上线，Windows 即将推出；融资用于产品与扩张（变现细节未详述）",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "新一轮$5500万，IVP 领投，估值$12.5亿；a16z、Forerunner、Amazon Alexa Fund 及 Tobi Lütke、Marc Benioff、Marissa Mayer、Dick Costolo、Alex Pall 等参投",
+        "source_type": "官方新闻稿",
+        "source_url": "https://www.prnewswire.com/news-releases/wabi-raises-55-million-at-a-1-25-billion-valuation-following-strong-early-demand-302923254.html"
+      },
+      {
+        "label": "产品定位",
+        "value": "从「用提示词做小应用」转向个人 Agent + 多人共享；TechCrunch 称此前公开上线后获得强需求，本轮在公测后数周内完成",
+        "source_type": "媒体报道（TechCrunch）",
+        "source_url": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/"
+      }
+    ],
+    "why_it_works": "单人聊天框难沉淀关系资产；Wabi 把 AI 放进朋友/家庭/情侣的共享任务与可复用小应用，用「一起用」提高粘性与场景密度。",
+    "takeaway": "消费级 Agent 的估值故事已从陪伴转向协作与小应用层；高估值但用户/收入未披露，需观察留存与付费路径是否跟得上叙事。",
+    "innovation_score": 4,
+    "business_score": 4,
+    "tags": ["个人AI", "多人协作", "mini-app", "IVP", "消费级Agent"],
+    "website": "https://wabi.ai/",
+    "sources": [
+      "https://www.prnewswire.com/news-releases/wabi-raises-55-million-at-a-1-25-billion-valuation-following-strong-early-demand-302923254.html",
+      "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
+      "https://www.citybiz.co/article/926515/wabi-raises-55-million-led-by-ivp-at-1-25-billion-valuation/"
+    ],
+    "uncertain_points": "用户规模、留存与收入未披露；产品从应用生成器到 messenger/agent 的定位仍在演进。"
+  },
+  {
+    "id": "broccoli-ai-52m-home-services-voice-agents",
+    "date_collected": "2026-10-30",
+    "status": "new",
+    "type": "both",
+    "name": "Broccoli",
+    "one_liner": "给水管工/暖通/电工做接单 Agent：Khosla 领投 A+B 共约$5200万，1500+ 商家、千万级对话与 250 万预约",
+    "category": "客服销售",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "向家装/家政服务商销售垂直 AI Agent：接听电话、预约排班、跟进报价、会员续费与售后回访，并对接承包商既有排程系统；按业务订阅/使用收费",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "Series A $2200万 + Series B $3000万，均由 Khosla Ventures 领投，YC、Operator Partners 参与；合计约$5200万（另有种子口径媒体称累计约$5350万）；Fortune 称投后估值约$3亿（公司未确认）",
+        "source_type": "官方新闻稿 / 媒体",
+        "source_url": "https://www.accessnewswire.com/newsroom/en/business-and-professional-services/broccoli-raises-52m-led-by-khosla-ventures-to-help-home-services-1243378"
+      },
+      {
+        "label": "采用与效果",
+        "value": "逾1500家商家（含 Ace Hardware Home Services、Mr. Electric、Any Hour Group、Authority Brands）；逾1000万次客户对话、预订约250万次服务/销售预约；称某全国多门店客户首年收入+29%、开销-36%（公司自述）",
+        "source_type": "官方新闻稿（公司自述）",
+        "source_url": "https://www.accessnewswire.com/newsroom/en/business-and-professional-services/broccoli-raises-52m-led-by-khosla-ventures-to-help-home-services-1243378"
+      }
+    ],
+    "why_it_works": "家装业夜间漏接电话=直接丢单；把行业运营者（首客 Armstrong Plumbing 老板）拉进产品团队，用垂直工作流而非通用客服机器人卡死排程与 CRM。",
+    "takeaway": "垂直语音 Agent 的商业证据是「预约数与收入增量」而不是通话量；Gen Z 创始人 + 行业 COO 组合，是把脏活场景产品化的常见模板。",
+    "innovation_score": 3,
+    "business_score": 5,
+    "tags": ["垂直AI", "语音Agent", "家装服务", "Khosla", "YC"],
+    "website": "https://broccoli.com/",
+    "sources": [
+      "https://www.accessnewswire.com/newsroom/en/business-and-professional-services/broccoli-raises-52m-led-by-khosla-ventures-to-help-home-services-1243378",
+      "https://fortune.com/2026/10/28/broccoli-ai-funding-khosla-ventures-marcelle-flowers-plumbing-gen-z-founders/",
+      "https://x.com/ycombinator/status/2115550323607740769"
+    ],
+    "uncertain_points": "估值约$3亿为 Fortune 引述、公司未确认；单客户 +29%/-36% 为公司案例自述；ARR 未披露。"
+  },
+  {
+    "id": "foundry-robotics-100m-series-a-autonomous-factory",
+    "date_collected": "2026-10-30",
+    "status": "new",
+    "type": "both",
+    "name": "Foundry Robotics",
+    "one_liner": "Marlinspike 领投$1亿A轮，在 Emeryville 13万平方英尺厂房做「制造即服务」自动驾驶装配厂，服务无人机/卫星等复杂硬件",
+    "category": "硬件与端侧",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "自建并运营以 AI 机器人装配为核心的工厂，向国防与工业客户提供制造即服务（MaaS），而非单纯卖机器人；软件 FoundryOS 随装配任务迭代，可重配置单元适配不同产品",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "超额认购 Series A $1亿，Marlinspike Partners 领投，Khosla Ventures、Red Glass、SE Ventures、Wing VC、Axiom、Hanabi、Zero Shot Fund 参与",
+        "source_type": "媒体报道 / BusinessWire",
+        "source_url": "https://www.businesswire.com/news/home/20261028508802/en/Foundry-Robotics-Raises-%24100-Million-Series-A-to-Build-Americas-First-Autonomous-Factory-for-Assembly"
+      },
+      {
+        "label": "产能扩张",
+        "value": "同期宣布扩建 Emeryville 约13万平方英尺制造设施；目标产品含无人机、水下航行器、卫星组件、工业设备与算力硬件装配（公司/媒体口径）",
+        "source_type": "媒体汇总",
+        "source_url": "https://techstartups.com/2026/10/29/startup-funding-news-today-october-29-2026-braid-casap-furiosaai-upwind-foundry-robotics-plato-more/"
+      }
+    ],
+    "why_it_works": "复杂小批量硬件难建专线；Foundry 卖的是「可重配置产能」而不是单台机械臂，用自有工厂吃下资本密集与工艺 know-how。",
+    "takeaway": "Physical AI 的商业化可以是工厂运营权，而不只是卖机器人；需盯产能利用率、良率与客户长期包量，否则重资产会被软件估值幻觉淹没。",
+    "innovation_score": 4,
+    "business_score": 4,
+    "tags": ["自主工厂", "制造即服务", "Series A", "机器人装配", "国防制造"],
+    "website": "https://www.foundryrobotics.com/",
+    "sources": [
+      "https://www.businesswire.com/news/home/20261028508802/en/Foundry-Robotics-Raises-%24100-Million-Series-A-to-Build-Americas-First-Autonomous-Factory-for-Assembly",
+      "https://techstartups.com/2026/10/29/startup-funding-news-today-october-29-2026-braid-casap-furiosaai-upwind-foundry-robotics-plato-more/",
+      "https://www.bizjournals.com/sanfrancisco/news/2026/10/28/foundry-robotics-emeryville-funding-headquarters.html"
+    ],
+    "uncertain_points": "估值未披露；客户合同与产能利用率细节有限；官网域名以实际为准；与收购 Avea Robotics 的整合进度待核。"
+  },
+  {
+    "id": "casap-56m-series-b-agentic-banking-disputes",
+    "date_collected": "2026-10-30",
+    "status": "new",
+    "type": "both",
+    "name": "Casap",
+    "one_liner": "Base10 领投$5600万B轮、累计$9000万，银行争议/欺诈 Agent 称把拒付胜率打到96%、处理时间从90天压到8天",
+    "category": "法律金融",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "面向银行、信用社、金融科技与处理商的 AI Agent 平台：在机构自有政策与系统上完成争议调查、决策、证据与消费者沟通，并扩展到催收、理赔等；前驻场团队协助落地",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "Series B $5600万，Base10 Partners 领投，Experian、Synchrony 战略参与，Emergence、Lightspeed 跟投；累计融资$9000万；距 A 轮（$2500万）约一年",
+        "source_type": "官方新闻稿",
+        "source_url": "https://www.prnewswire.com/news-releases/casap-raises-56m-series-b-to-deliver-agentic-outcomes-for-financial-services-302921778.html"
+      },
+      {
+        "label": "客户效果",
+        "value": "服务逾100家金融机构；称第一方欺诈损失最高降51%；拒付胜率96%（行业均值约60%）；争议解决周期从最长90天降至8天；73%争议案件由 Agent 自动化解决且保留人工监督；人工处理时间从45分钟降至1–2分钟；收入自称较上一轮后增长10倍",
+        "source_type": "官方新闻稿（公司自述）",
+        "source_url": "https://www.prnewswire.com/news-releases/casap-raises-56m-series-b-to-deliver-agentic-outcomes-for-financial-services-302921778.html"
+      }
+    ],
+    "why_it_works": "银行争议是高合规、多系统的脏活；Casap 用「政策内可审计 Agent + 人前驻场」同时打成本与结果质量，而不是只加速工单。",
+    "takeaway": "金融 Agent 的卖点是 outcome（欺诈损失、胜率、周期）而非座席替代率；战略投资方 Experian/Synchrony 提供分发与数据协同想象空间。",
+    "innovation_score": 3,
+    "business_score": 5,
+    "tags": ["金融Agent", "争议处理", "欺诈", "Series B", "银行运营"],
+    "website": "https://casap.ai/",
+    "sources": [
+      "https://www.prnewswire.com/news-releases/casap-raises-56m-series-b-to-deliver-agentic-outcomes-for-financial-services-302921778.html",
+      "https://fortune.com/2026/10/28/dd/",
+      "https://www.finextra.com/pressarticle/111485/ai-powered-payment-dispute-platform-casap-raises-56m"
+    ],
+    "uncertain_points": "效果指标均为公司自述；收入10倍无绝对基数；监管审计与模型失误责任边界未详述。"
+  },
+  {
+    "id": "dream-17m-seed-aec-built-world-models",
+    "date_collected": "2026-10-30",
+    "status": "new",
+    "type": "both",
+    "name": "Dream",
+    "one_liner": "前 Palantir 高管做建筑「世界模型」，a16z 领投$1700万种子轮，用逾1亿平方英尺许可档案训练可出结构级设计的 AEC Agent",
+    "category": "设计创意",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "向建筑师、结构工程师与开发商销售基于自研 built world model 的建筑设计/造价工具，目标替代 AutoCAD/Revit 等传统流程中的手工绘图环节",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "种子轮$1700万，Andreessen Horowitz 领投，SV Angel、XYZ、Zigg Capital 参投",
+        "source_type": "媒体报道（TechCrunch）",
+        "source_url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/"
+      },
+      {
+        "label": "数据与落地",
+        "value": "训练数据来自美国各地许可档案逾1亿平方英尺建筑；称已在德州与加州约10个在建项目部署，用于概念设计与总造价估算（创始人自述）",
+        "source_type": "媒体报道（引创始人）",
+        "source_url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/"
+      }
+    ],
+    "why_it_works": "通用图像模型画得出楼却不懂梁柱荷载；Dream 用许可档案做物理与规范约束的世界模型，把「能出图」抬成「结构可认知」。",
+    "takeaway": "AEC AI 的差异化在自有世界模型而非套 LLM 出图；早期项目数仍少，需验证施工图深度与责任边界。",
+    "innovation_score": 5,
+    "business_score": 3,
+    "tags": ["世界模型", "AEC", "建筑设计", "a16z", "种子轮"],
+    "website": "https://www.dreamhq.com/",
+    "sources": [
+      "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+      "https://www.businesswire.com/news/home/20261029712156/en/Dream-Raises-%2417M-in-Seed-to-Teach-AI-How-to-Understand-and-Build-the-Physical-World",
+      "https://www.citybiz.co/article/926733/dream-raises-17-million-in-seed-funding-for-building-design-ai/"
+    ],
+    "uncertain_points": "10个项目与「整栋瞬出」能力为创始人/媒体表述；收入与付费转化未披露；与 Motif/Snaptrude 等竞品对比缺独立评测。"
+  },
+  {
+    "id": "superme-20m-series-a-ai-expert-profiles",
+    "date_collected": "2026-10-30",
+    "status": "new",
+    "type": "both",
+    "name": "SuperMe",
+    "one_liner": "Forerunner 领投$2000万A轮，把真实专家的公开与授权资料做成可群聊的 AI Profile，并用 MCP 挂进 ChatGPT/Claude",
+    "category": "生产力办公",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "构建专家知识网络：扫描公开内容并连接 Drive/Notion/Gmail 等，匹配问题后生成专家 AI Profile 群聊或单聊；当前免费，计划对提问次数设限后收费，并探索专家贡献激励",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "Series A $2000万，Forerunner（Kirsten Green）领投，Greylock 参与",
+        "source_type": "媒体报道（TechCrunch）",
+        "source_url": "https://techcrunch.com/2026/10/29/superme-raises-20m-for-its-network-of-ai-expert-profiles/"
+      },
+      {
+        "label": "产品与团队",
+        "value": "支持 MCP，可在 Claude/ChatGPT 内提问；团队约13人；创始人 Casey Winters、Ludo Antonov 来自 Grubhub/Pinterest/Lyft 等",
+        "source_type": "媒体报道（TechCrunch）",
+        "source_url": "https://techcrunch.com/2026/10/29/superme-raises-20m-for-its-network-of-ai-expert-profiles/"
+      }
+    ],
+    "why_it_works": "通用模型给不出「该问谁」；SuperMe 把隐性专家网络产品化，用匹配+群聊降低找人对的成本，并用 MCP 嵌入既有聊天入口。",
+    "takeaway": "专家网络 × AI Profile 的商业化取决于付费墙与专家激励是否同时成立；当前免费获客，变现路径仍在设计。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": ["专家网络", "AI Profile", "MCP", "Series A", "知识市场"],
+    "website": "https://superme.ai/",
+    "sources": [
+      "https://techcrunch.com/2026/10/29/superme-raises-20m-for-its-network-of-ai-expert-profiles/",
+      "https://www.siliconreport.com/superme-raises-20m-in-funding-led-by-forerunner",
+      "https://x.com/i/trending/2115860506045256042"
+    ],
+    "uncertain_points": "用户/专家规模与留存未披露；官网域名以实际为准；付费模式尚未上线。"
+  },
+  {
+    "id": "mintive-11m-agent-identity-mcp-gateway",
+    "date_collected": "2026-10-30",
+    "status": "new",
+    "type": "both",
+    "name": "Mintive",
+    "one_liner": "Cowboy 领投$700万种子、累计$1100万，把每个企业 Agent 当员工管：MCP/LLM 网关+身份+审计，日处理逾250万次 Agent 调用",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "向企业销售 Agent 基础设施：MCP Gateway 管工具权限、LLM Gateway 管模型与预算、Agent Identity/Monitor 做可撤销凭证与全链路审计；另提供可进 Slack/Teams 的 Coworker Agent；按平台订阅",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "最新种子轮$700万，Cowboy Ventures 领投，Operator Collective、Burst Capital 新进，Coatue、Hustle Fund、Maven 跟投；天使含 Jeff Dean、Andrej Karpathy、Frederic Kerrest、Michael Grinich、Scott Belsky；累计融资$1100万",
+        "source_type": "官方博客",
+        "source_url": "https://www.mintive.com/blog/mintive-launch"
+      },
+      {
+        "label": "用量与客户",
+        "value": "逾50家付费客户（Ro、Modern Treasury、Braze、Coursera、密歇根大学、Apax、Stability AI 等）；日处理逾250万次 Agent 调用，7个月内累计逾2亿次；SOC 2 Type II",
+        "source_type": "官方博客（公司自述）",
+        "source_url": "https://www.mintive.com/blog/mintive-launch"
+      }
+    ],
+    "why_it_works": "Agent 扩权时「禁止」挡不住影子 IT；Mintive 把说「可以」变成默认路径——统一身份、权限与审计，让安全团队敢放行。",
+    "takeaway": "Agent 身份层正在成为企业标配；日调用量与付费客户是比融资名单更硬的信号，下一看点是多 Agent 编排下的策略一致性。",
+    "innovation_score": 4,
+    "business_score": 4,
+    "tags": ["Agent身份", "MCP网关", "企业安全", "种子轮", "治理"],
+    "website": "https://www.mintive.com/",
+    "sources": [
+      "https://www.mintive.com/blog/mintive-launch",
+      "https://techcrunch.com/2026/10/29/agent-identity-startup-mintive-lands-cowboy-ventures-coatue-angels-jeff-dean-andrej-karpathy/",
+      "https://www.businesswire.com/news/home/20261029787855/en/Mintive-Tops-2.5-Million-Daily-Agent-Calls-as-Enterprises-Make-AI-Agent-Identity-a-Security-Priority"
+    ],
+    "uncertain_points": "ARR 与单价未披露；「2.5 million daily agent calls」为公司自述；与 Infisical Agent Vault 等竞品边界需观察。"
+  },
+  {
+    "id": "perturbmind-angel-life-world-model-aidd",
+    "date_collected": "2026-10-30",
+    "status": "new",
+    "type": "both",
+    "name": "扰动之心",
+    "one_liner": "清松资本领投数千万元天使及天使+轮，做几何世界模型驱动的生命 AIDD，并发布虚拟细胞状态推演模型 AlphaCell 1.0 Pro",
+    "category": "医疗健康",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "面向药企与科研机构提供生命世界模型平台 PerturbSeek：端侧订阅、私有化部署到管线共建；AlphaCell 可按场景裁剪（Flash 300M）或扩展（Mega 50B）",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "数千万元天使轮及天使+轮，清松资本领投，同杨基金及多家药企跟投（具体金额未披露精确数字）",
+        "source_type": "媒体首发（动脉网）",
+        "source_url": "https://www.vbdata.cn/1519102081"
+      },
+      {
+        "label": "产品与合作",
+        "value": "发布 AlphaCell 1.0 Pro（标准约1B参数）；称学术预览版曾被 Nature 作为虚拟细胞世界模型代表报道；已与国产芯片公司签战略合作并适配国产 GPU，并与特定领域药企签合作协议推进原型系统（公司/媒体口径）",
+        "source_type": "媒体报道（引公司）",
+        "source_url": "https://www.vbdata.cn/1519102081"
+      }
+    ],
+    "why_it_works": "传统 AIDD 围着靶点转；扰动之心用「状态中心」的扰动组学世界模型做推演，试图把复杂疾病机制与新模态药物放进可工程化平台。",
+    "takeaway": "中国 AI for Science 开始出现可伸缩参数档位的商业包装；融资额为区间表述，真正检验是干湿闭环与管线共建是否出临床信号。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": ["AI制药", "世界模型", "虚拟细胞", "天使轮", "AIDD"],
+    "website": "",
+    "sources": [
+      "https://www.vbdata.cn/1519102081"
+    ],
+    "uncertain_points": "精确融资金额未披露；Nature 报道指向学术预览版，非商业审计；官网与英文名 PerturbMind AI 待进一步核验；单一媒体来源，商业化合同细节有限。"
+  },
+  {
+    "id": "tencent-buddy-one-cross-app-agent-suite",
+    "date_collected": "2026-10-30",
+    "status": "new",
+    "type": "innovative",
+    "name": "腾讯 Buddy One",
+    "one_liner": "腾讯数字生态大会发布跨应用 AI 协同体系：文档/会议/网盘/ima 共享 WorkBuddy Agent、账号与积分，并推出700元/月 VIP 打包",
+    "category": "生产力办公",
+    "region": "中国",
+    "team_type": "大公司",
+    "business_model": "面向个人用户的跨腾讯办公产品 AI 套件：统一 Agent 底座与积分池；Buddy One VIP 连续包月700元，含 WorkBuddy 旗舰、会议专业版、文档超级会员 Plus、跨应用 AI 积分与1TB存储",
+    "metrics": [
+      {
+        "label": "产品发布",
+        "value": "2026-10-29 腾讯全球数字生态大会官宣 Buddy One；打通腾讯文档、腾讯会议、腾讯网盘、ima，共享 WorkBuddy Agent；要求 WorkBuddy PC ≥5.9.0 关联账号",
+        "source_type": "媒体报道（IT之家）",
+        "source_url": "https://www.ithome.com/1/019/412.htm"
+      },
+      {
+        "label": "定价",
+        "value": "Buddy One VIP 连续包月700元/月；积分在 WorkBuddy、文档、ima、网盘间通用，消耗同步扣减",
+        "source_type": "媒体报道（IT之家）",
+        "source_url": "https://www.ithome.com/1/019/412.htm"
+      }
+    ],
+    "why_it_works": "办公 AI 的摩擦常在「换应用就丢上下文」；Buddy One 用统一账号/积分/检索把多款腾讯办公产品收成一个 Agent 入口，降低反复授权成本。",
+    "takeaway": "大厂个人 Agent 竞争进入「跨应用套餐」阶段；700元/月定价偏高，需看积分额度与真实跨应用任务完成率能否支撑转化。",
+    "innovation_score": 3,
+    "business_score": 3,
+    "tags": ["腾讯", "跨应用Agent", "办公套件", "WorkBuddy", "订阅"],
+    "website": "",
+    "sources": [
+      "https://www.ithome.com/1/019/412.htm",
+      "https://www.yicai.com/brief/103414785.html"
+    ],
+    "uncertain_points": "官方产品页与积分额度细则未在报道中完整列出；付费转化与活跃用户未披露；与钉钉/飞书个人 Agent 的对标数据缺失。"
+  }
+]
