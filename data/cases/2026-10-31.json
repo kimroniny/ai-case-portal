@@ -1,0 +1,604 @@
+[
+  {
+    "id": "solink-100m-ai-vision-intelligence-physical-ops",
+    "date_collected": "2026-10-31",
+    "status": "new",
+    "type": "both",
+    "name": "Solink",
+    "one_liner": "加拿大 AI 视觉智能平台获 Vertu 领投逾$1亿战略融资，把现有监控摄像头做成实体门店的业务侧写助手",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "面向餐饮/零售/仓储等实体业态：不自装摄像头，而是接入客户已有摄像头与运营数据，用 AI Vision Intelligence 做安全检索、缺货/排队等运营洞察；按地点与功能订阅收费，并拓展本地部署 AI Agent 硬件与渠道转售",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "新一轮战略融资逾$1亿（约1.4亿加元），Vertu Capital 领投；Goldman Sachs Alternatives 加码，Golub Growth、Comcast Ventures 新进；CEO 称金额与公布的$1亿「可能只是小幅舍入差」，超九成进入公司账本、其余为员工/老股东二级",
+        "source_type": "官方新闻稿 / BetaKit 采访",
+        "source_url": "https://betakit.com/solink-raises-more-than-100-million-usd-to-help-physical-stores-keep-an-eye-on-their-business/"
+      },
+      {
+        "label": "规模与增长",
+        "value": "平台覆盖逾3.5万个客户地点、约50万路摄像头、65国；每月处理逾7.5亿小时视频；CEO 称收入同比约增40–50%；Deloitte 2026 Enterprise–Industry Leaders 榜第10、四年收入增241%（公司/媒体口径）",
+        "source_type": "媒体报道（BetaKit，含公司自述）",
+        "source_url": "https://betakit.com/solink-raises-more-than-100-million-usd-to-help-physical-stores-keep-an-eye-on-their-business/"
+      },
+      {
+        "label": "客户",
+        "value": "公开点名 Gap、JYSK、Domino's、Moose Knuckles、Tim Hortons 等",
+        "source_type": "媒体报道（BetaKit）",
+        "source_url": "https://betakit.com/solink-raises-more-than-100-million-usd-to-help-physical-stores-keep-an-eye-on-their-business/"
+      }
+    ],
+    "why_it_works": "实体店本来就装了摄像头，痛点不是「再买硬件」，而是让那99%没人看的画面变成缺货、排队、损耗等可行动洞察；从安防 SaaS 升到「物理世界业务智能」，把已有设备变成分发入口。",
+    "takeaway": "Physical AI 不一定先造新传感器，先把存量摄像头变成运营数据源更快变现；需盯绝对收入、一级/二级拆分，以及监控舆论下的合规边界。",
+    "innovation_score": 4,
+    "business_score": 5,
+    "tags": [
+      "AI视觉",
+      "实体零售",
+      "视频智能",
+      "加拿大",
+      "战略融资"
+    ],
+    "website": "https://solink.com/",
+    "sources": [
+      "https://www.businesswire.com/news/home/20261029969930/en/Solink-Raises-More-Than-%24100-Million-in-New-Funding-to-Bring-its-AI-Vision-Intelligence-to-Physical-Business-Operations-Around-the-World",
+      "https://betakit.com/solink-raises-more-than-100-million-usd-to-help-physical-stores-keep-an-eye-on-their-business/",
+      "https://www.theglobeandmail.com/business/article-ottawa-based-ai-video-surveillance-company-solink-raises-100-million/"
+    ],
+    "uncertain_points": "确切融资额未披露（仅「逾$1亿」）；含部分二级交易；收入绝对数未公开，「40–50% YoY」为 CEO 口述。"
+  },
+  {
+    "id": "kling-ai-198yi-cny-capital-injection-closing",
+    "date_collected": "2026-10-31",
+    "status": "new",
+    "type": "both",
+    "name": "可灵AI",
+    "one_liner": "快手旗下视频生成应用可灵完成本轮约198.02亿元增资交割，中东份额部分由金蝶、沐曦等接盘，快手仍控股",
+    "category": "设计创意",
+    "region": "中国",
+    "team_type": "大公司",
+    "business_model": "面向创作者与企业的视频/图像生成大模型与应用（可灵）：按订阅/积分/API 等商业化；本轮为独立主体可灵AI增资，引入产业与财务投资方，快手通过 Lucky Labs 等保持控制权，并布局潜在港股 IPO",
+    "metrics": [
+      {
+        "label": "融资交割",
+        "value": "快手10月30日晚公告：本轮增资实际到账约198.02亿元（约29.05亿美元），低于原公告上限204.47亿元约6.45亿元；差额主因 BlueFive 旗下 BFI MIDCO、达康兰五未按期缴款退出/减持",
+        "source_type": "媒体转述上市公司公告（财联社/科创板日报）",
+        "source_url": "https://finance.sina.com.cn/roll/2026-10-30/doc-iniwzprp8083394.shtml"
+      },
+      {
+        "label": "股权与接盘",
+        "value": "交割后快手经 Lucky Labs 持有66.68%股权、52.45%表决权；达康兰五转出约7.8亿元份额由金蝶软件（中国）3亿、温州睿达2.1亿、共青城君可2亿、沐曦数智5500万、宁波知春华燕1455万等承接；外部股东含国方数科、国家人工智能产业投资基金、阿里云飞天、腾讯系、百度等",
+        "source_type": "媒体转述公告",
+        "source_url": "https://finance.sina.com.cn/roll/2026-10-30/doc-iniwzprp8083394.shtml"
+      },
+      {
+        "label": "退出条款与IPO传闻",
+        "value": "协议约定若2031年10月30日前未完成IPO等条件，投资方可要求按年化8%单利回购；另有媒体称拟最早2027年赴港上市、募资至少约10亿美元，可灵未回应、仍属早期传闻",
+        "source_type": "媒体报道（含未证实传闻）",
+        "source_url": "https://finance.sina.com.cn/roll/2026-10-30/doc-iniwzprp8083394.shtml"
+      }
+    ],
+    "why_it_works": "视频生成已从「模型发布」进入「独立融资实体 + 产业股东 + 上市时间表」阶段；交割落地比上限数字更重要，接盘方从芯片到企业软件说明应用侧生态绑定。",
+    "takeaway": "中国生成式视频应用的资本化路径：母公司控股 + 产业/国资入局 + 回购兜底；观察点是实际 ARR/调用量是否跟上近200亿现金，以及港股时间表是否兑现。",
+    "innovation_score": 3,
+    "business_score": 5,
+    "tags": [
+      "视频生成",
+      "快手",
+      "增资交割",
+      "金蝶",
+      "沐曦"
+    ],
+    "website": "https://klingai.com/",
+    "sources": [
+      "https://finance.sina.com.cn/roll/2026-10-30/doc-iniwzprp8083394.shtml",
+      "https://stock.10jqka.com.cn/20261030/c681313315.shtml",
+      "https://news.ifeng.com/c/8xeRAeFJvYH"
+    ],
+    "uncertain_points": "本轮投后估值未在摘录中完整给出；港股IPO承销与募资规模为媒体传闻、公司未确认；可灵独立收入/MAU未随交割公告披露。"
+  },
+  {
+    "id": "dulo-130m-seed-ai-engineering-hardware-design",
+    "date_collected": "2026-10-31",
+    "status": "new",
+    "type": "innovative",
+    "name": "Dulo",
+    "one_liner": "Sebastian Thrun 与 Adrian Aoun 创办的工程/硬件设计 AI 公司，据报以$1.3亿种子轮开局，瞄准物理产品设计自动化",
+    "category": "设计创意",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "研发面向工程与硬件设计的基础模型/工具，帮助工程师生成与验证可制造的物理产品设计；商业化细节尚未公开，早期以研发与团队扩张为主",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "种子轮约$1.3亿（2026年成立于旧金山）；投资人含 Eric Schmidt、John Doerr，以及 DST Global、Construct Capital、Lowercarbon Capital",
+        "source_type": "媒体（The Information 线人，Benzinga 转载）",
+        "source_url": "https://www.theinformation.com/articles/sebastian-thrun-raises-130-million-ai-engineering-startup-dulo"
+      },
+      {
+        "label": "团队与定位",
+        "value": "联合创始人 Sebastian Thrun（Google 早期自动驾驶等）、Adrian Aoun；定位为工程/硬件设计 AI，而非通用聊天模型",
+        "source_type": "媒体",
+        "source_url": "https://www.benzinga.com/content/62705826/sebastian-thrun-raises-130-million-ai-engineering-startup-dulo"
+      }
+    ],
+    "why_it_works": "软件编码已被 Agent 吃掉一大块，物理工程仍受材料、结构、制造约束；用明星创始人+超大种子轮抢「工程世界模型」卡位。",
+    "takeaway": "硬件设计 AI 的验收标准是可制造、可安全、可成本，不是好看的渲染；在官方产品与客户案例公开前，当作高潜创新线索而非已验证盈利模式。",
+    "innovation_score": 5,
+    "business_score": 2,
+    "tags": [
+      "工程AI",
+      "硬件设计",
+      "种子轮",
+      "Sebastian Thrun",
+      "物理AI"
+    ],
+    "website": "",
+    "sources": [
+      "https://www.theinformation.com/articles/sebastian-thrun-raises-130-million-ai-engineering-startup-dulo",
+      "https://www.benzinga.com/content/62705826/sebastian-thrun-raises-130-million-ai-engineering-startup-dulo",
+      "https://techstartups.com/2026/10/30/startup-funding-news-today-october-30-2026-kalshi-cohere-bites-dulo-opentrons-firehawk-defense-more/"
+    ],
+    "uncertain_points": "金额与投资人主要来自知情人士转述，未见公司官方新闻稿；官网/产品规格/客户与收入均未公开；估值未披露。"
+  },
+  {
+    "id": "collective-40m-series-b-60m-cvf-ai-financial-os",
+    "date_collected": "2026-10-31",
+    "status": "new",
+    "type": "both",
+    "name": "Collective",
+    "one_liner": "面向一人公司的 AI 原生财务操作系统拿到$4000万B轮+General Catalyst CVF $6000万获客设施，自称 ARR 同比增约120%",
+    "category": "法律金融",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "为自雇/一人公司提供一站式财务 OS：公司设立、记账、开票、工资、报税、保险等；会员制（如 LLC 约$199/月、S Corp 约$349/月），用 AI 自动执行后台财务工作流，并配人工支持",
+    "metrics": [
+      {
+        "label": "融资结构",
+        "value": "合计宣布$1亿新资金：$4000万 Series B 由 General Catalyst、QED Investors、Gradient Ventures 领投，Intuit Ventures、FT Partners、SemperVirens 等跟投；另有 General Catalyst Customer Value Fund $6000万增长设施专用于获客",
+        "source_type": "官方博客 / PR Newswire",
+        "source_url": "https://www.collective.com/blog/collective-raises-100m"
+      },
+      {
+        "label": "增长与价值主张",
+        "value": "自称 ARR 同比增长约120%；累计帮助用户节省约$3.5亿税费（公司估算）；高收入用户自称最高可年省约$4万税；美国一人企业约3000万家（行业背景引用）",
+        "source_type": "官方博客（公司自述）",
+        "source_url": "https://www.collective.com/blog/collective-raises-100m"
+      },
+      {
+        "label": "产品",
+        "value": "覆盖实体设立、记账对账、开票、发薪、报税优化、商业/健康保险；称 AI 可自主处理约50%支持请求，满意度约4.5星",
+        "source_type": "官方博客（公司自述）",
+        "source_url": "https://www.collective.com/blog/collective-raises-100m"
+      }
+    ],
+    "why_it_works": "AI 放大一人公司产出后，瓶颈落到「没有财务部」；Collective 卖的是代做财务工作流，不是又一款记账插件，并用 CVF 把获客与股权融资拆开。",
+    "takeaway": "Agentic 财务 OS 的单位经济取决于获客设施成本 vs LTV；绝对 ARR 未披露，$1亿标题需拆成股权$4000万+设施$6000万来读。",
+    "innovation_score": 3,
+    "business_score": 4,
+    "tags": [
+      "一人公司",
+      "财务OS",
+      "Series B",
+      "General Catalyst",
+      "税务"
+    ],
+    "website": "https://www.collective.com/",
+    "sources": [
+      "https://www.collective.com/blog/collective-raises-100m",
+      "https://www.prnewswire.com/news-releases/collective-raises-100m-for-full-stack-ai-financial-os-powering-the-solopreneur-revolution-302924105.html",
+      "https://thenextweb.com/news/collective-100m-solo-business-ai-finance"
+    ],
+    "uncertain_points": "绝对 ARR 未披露；$3.5亿节税为公司估算；CVF 设施条款与还款义务未详列。"
+  },
+  {
+    "id": "bites-40m-series-a-ai-frontline-training",
+    "date_collected": "2026-10-31",
+    "status": "new",
+    "type": "both",
+    "name": "Bites",
+    "one_liner": "PeakSpan 领投$4000万A轮的一线员工 AI 培训平台，把 SOP 变成90秒视频经 WhatsApp/Teams 送达，自称 NRR 约161%",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "面向餐饮、零售、酒店、制造等 deskless 劳动力的绩效赋能 SaaS：AI 将文档/SOP 生成品牌化短视频课程，经 WhatsApp/SMS/Teams/Slack/链接分发；按企业订阅，并打通 POS/CRM 等数据闭环到业务结果",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "Series A $4000万，PeakSpan Capital 领投，Vertex Ventures、Horizon Capital、Rittenhouse、Lyra 等跟投；累计融资$5500万；PeakSpan 的 Phil Dur、Charlie Reinkemeyer 入董事会",
+        "source_type": "官方新闻稿",
+        "source_url": "https://www.globenewswire.com/news-release/2026/10/29/3391083/0/en/bites-raises-40m-series-a-to-turn-frontline-training-into-a-business-performance-engine.html"
+      },
+      {
+        "label": "采用与留存",
+        "value": "称客户通常三周内参与度逾90%；净收入留存约161%；客户含 Unilever、Coca-Cola、Shake Shack、Wynn、The Venetian、Compass Group",
+        "source_type": "官方新闻稿（公司自述）",
+        "source_url": "https://www.globenewswire.com/news-release/2026/10/29/3391083/0/en/bites-raises-40m-series-a-to-turn-frontline-training-into-a-business-performance-engine.html"
+      },
+      {
+        "label": "产品能力",
+        "value": "单条 Bite≤90秒；Ask-AI 仅基于公司批准内容作答；AI Studio 分钟级出片、150+语言；规划 Detect→Create→Deliver→Prove 与 POS/CRM 联动",
+        "source_type": "官方新闻稿",
+        "source_url": "https://www.globenewswire.com/news-release/2026/10/29/3391083/0/en/bites-raises-40m-series-a-to-turn-frontline-training-into-a-business-performance-engine.html"
+      }
+    ],
+    "why_it_works": "全球约80%劳动力不坐办公室，传统 LMS 登不上去；把培训塞进员工已在用的聊天渠道，再把完成度接到销售/服务指标，才卖得动运营预算。",
+    "takeaway": "一线 AI 应用的分发比模型更关键；NRR 与大客户名单是强信号，但「培训→业绩」归因仍待独立验证。",
+    "innovation_score": 3,
+    "business_score": 4,
+    "tags": [
+      "一线培训",
+      "微学习",
+      "Series A",
+      "WhatsApp",
+      "以色列"
+    ],
+    "website": "https://mybites.io/",
+    "sources": [
+      "https://www.globenewswire.com/news-release/2026/10/29/3391083/0/en/bites-raises-40m-series-a-to-turn-frontline-training-into-a-business-performance-engine.html",
+      "https://www.calcalistech.com/ctechnews/article/s1t5soetmx",
+      "https://horizoncap.vc/bites-raises-40m-series-a-to-turn-frontline-training-into-a-business-performance-engine/"
+    ],
+    "uncertain_points": "参与度与 NRR 为公司自述；业绩归因闭环部分能力仍在建设；绝对 ARR 未披露。"
+  },
+  {
+    "id": "opentrons-40m-series-e-ai-driven-lab-robots",
+    "date_collected": "2026-10-31",
+    "status": "new",
+    "type": "both",
+    "name": "Opentrons",
+    "one_liner": "开放实验室机器人平台完成 Avego 领投$4000万E轮，要把 AI 假说闭环到可复现的自动化实验执行层",
+    "category": "医疗健康",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "销售开放 API 驱动的实验室自动化机器人（如 Opentrons Flex）及软件/数据基础设施，服务药企、高校与诊断实验室；按硬件+软件订阅/服务扩展，定位「自主科学」的执行层",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "Series E $4000万，医疗投资方 Avego 领投，BroadOak Capital Partners 跟投；老股东含 SoftBank Vision Fund、Khosla Ventures 等",
+        "source_type": "官方新闻稿",
+        "source_url": "https://opentrons.com/archives/news/opentrons-announces-40m-series-e-round-to-standardize-ai-driven-science-on-its-robots"
+      },
+      {
+        "label": "装机与客户",
+        "value": "称全球部署逾1.1万台机器人、覆盖80+国家；含约90%的全球前20药企、美国前20研究型大学全部、全球前15生物制药中的14家（公告口径前后略有表述差异）",
+        "source_type": "官方新闻稿（公司自述）",
+        "source_url": "https://opentrons.com/archives/news/opentrons-announces-40m-series-e-round-to-standardize-ai-driven-science-on-its-robots"
+      }
+    ],
+    "why_it_works": "AI 生成假说的速度已超过人工实验台吞吐；谁能提供结构化、可复现的机器人实验数据，谁就卡住「自主科学」的物理瓶颈。",
+    "takeaway": "应用案例里「AI+机器人」要看装机与药企渗透，而不是只看模型论文；估值与收入未披露，E轮更像平台扩张而非早期故事。",
+    "innovation_score": 4,
+    "business_score": 4,
+    "tags": [
+      "实验室自动化",
+      "自主科学",
+      "Series E",
+      "生物实验",
+      "机器人"
+    ],
+    "website": "https://opentrons.com/",
+    "sources": [
+      "https://opentrons.com/archives/news/opentrons-announces-40m-series-e-round-to-standardize-ai-driven-science-on-its-robots",
+      "https://www.businesswire.com/news/home/20261029104545/en/Opentrons-Announces-%2440M-Series-E-Round-to-Standardize-AI-Driven-Science-on-Its-Robots",
+      "https://www.biospace.com/press-releases/opentrons-announces-40m-series-e-round-to-standardize-ai-driven-science-on-its-robots"
+    ],
+    "uncertain_points": "估值与累计融资未披露；客户渗透率为公司自述；「AI 直接跑实验」的产品成熟度需对照实际协议库与案例。"
+  },
+  {
+    "id": "phonic-27-5m-series-a-speech-to-speech-agents",
+    "date_collected": "2026-10-31",
+    "status": "new",
+    "type": "both",
+    "name": "Phonic",
+    "one_liner": "First Round 领投$2750万A轮的语音到语音模型公司发布 Phonic-1，自称可在对方说话时并行调工具，已服务六大洲客户",
+    "category": "客服销售",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "提供生产级 speech-to-speech 模型与语音 Agent 平台，面向客服、医疗、招聘、物流等实时通话场景；按调用/坐席或平台订阅向企业收费",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "Series A $2750万，First Round 领投，Lux Capital、Felicis、Definition、Essence VC 等参与；累计融资$3150万；天使含 Modal/HF/Dropbox/Replit/Vercel 等创始人",
+        "source_type": "官方博客",
+        "source_url": "https://phonic.ai/blog/phonic-1"
+      },
+      {
+        "label": "模型与评测",
+        "value": "发布 Phonic-1：称登顶 Artificial Analysis Speech-to-Speech Index；Sierra 多语全双工 τ³-Voice 得分83.2（对比 GPT-Live-1 79.9、Gemini 3.8 Live 68.5，公司引用第三方榜）",
+        "source_type": "官方博客（引用第三方评测）",
+        "source_url": "https://phonic.ai/blog/phonic-1"
+      },
+      {
+        "label": "落地",
+        "value": "称已在六大洲为 Ashby、Maven AGI、Rho 及一家 Fortune 50 IT 基础设施公司等提供通话；Ashby 称用其做25国 AI 面试",
+        "source_type": "官方博客 / 客户引言",
+        "source_url": "https://phonic.ai/blog/phonic-1"
+      }
+    ],
+    "why_it_works": "级联 ASR→LLM→TTS 会丢掉语气与打断；端到端语音模型若能边听边调工具，才配得上真实客服/招聘通话的时延与自然度要求。",
+    "takeaway": "语音 Agent 竞争从「能聊天」转到「全双工+工具调用+多语生产」；榜单与客户名是信号，绝对通话量/收入仍未披露。",
+    "innovation_score": 5,
+    "business_score": 3,
+    "tags": [
+      "语音Agent",
+      "speech-to-speech",
+      "Series A",
+      "全双工",
+      "First Round"
+    ],
+    "website": "https://phonic.ai/",
+    "sources": [
+      "https://phonic.ai/blog/phonic-1",
+      "https://ashutoshai.com/ai-compass/2026/10/29/phonic-phonic-1/",
+      "https://presspool.ai/ai-startup-funding/week-of-2026-10-26"
+    ],
+    "uncertain_points": "榜单名次与分数来自公司引用的第三方快照；收入与通话量未披露；与大厂 Live 模型的生产差距需持续对照。"
+  },
+  {
+    "id": "ravical-17m-seed-ai-platform-accounting-firms",
+    "date_collected": "2026-10-31",
+    "status": "new",
+    "type": "both",
+    "name": "Ravical",
+    "one_liner": "Silverfin 联合创始人新作：MMC 领投$1700万种子轮，做会计师事务所可共享的 AI 工作方式平台，欧洲已有100+所采用",
+    "category": "法律金融",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "向会计与税务事务所销售 AI 平台：把顶尖合伙人的判断沉淀为所级共享工作流，覆盖准备、复核、跨客户机会发现等；按所订阅，并与现有 CRM/财务软件集成",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "种子轮$1700万，MMC Ventures 领投，老股东 Lakestar、Pitchdrive 与新投资者 Shapers 参与；累计融资$2500万",
+        "source_type": "官方博客",
+        "source_url": "https://ravical.com/blog/ravical-secures-17m-to-help-accounting-firms-break-the-link-between-growth-and-headcount"
+      },
+      {
+        "label": "采用",
+        "value": "称欧洲逾100家会计师事务所已在平台上构建；资金将加强英/比/荷/德并进入美国",
+        "source_type": "官方博客（公司自述）",
+        "source_url": "https://ravical.com/blog/ravical-secures-17m-to-help-accounting-firms-break-the-link-between-growth-and-headcount"
+      },
+      {
+        "label": "客户效果案例",
+        "value": "英国 Gascoynes 称税务筹划费用同比+49%且几乎来自存量客户；多家事务所称复核与准备工作可规模化（客户引言，非审计指标）",
+        "source_type": "官方博客客户引言",
+        "source_url": "https://ravical.com/blog/ravical-secures-17m-to-help-accounting-firms-break-the-link-between-growth-and-headcount"
+      }
+    ],
+    "why_it_works": "会计业缺人又怕个人助手把所级标准打散；Ravical 卖「所的工作方式」而非单点自动化，对准 Harvey/Legora 在法律侧已验证的所级平台叙事。",
+    "takeaway": "专业服务 AI 的下一站是 firm-wide OS；100+所是采用信号，收入与 ARPU 仍待披露。",
+    "innovation_score": 3,
+    "business_score": 4,
+    "tags": [
+      "会计AI",
+      "事务所平台",
+      "种子轮",
+      "MMC",
+      "欧洲"
+    ],
+    "website": "https://ravical.com/",
+    "sources": [
+      "https://ravical.com/blog/ravical-secures-17m-to-help-accounting-firms-break-the-link-between-growth-and-headcount",
+      "https://tech.eu/2026/10/29/ravical-raises-17m-to-break-the-link-between-accounting-firms-growth-and-hiring/",
+      "https://thenextweb.com/news/ravical-17m-seed-ai-accounting"
+    ],
+    "uncertain_points": "客户效果多为引言；ARR/付费结构未披露；与 Dougs 等会计 Agent 的边界需持续区分。"
+  },
+  {
+    "id": "arisglobal-1-8b-dassault-acquisition-life-sciences-ai",
+    "date_collected": "2026-10-31",
+    "status": "new",
+    "type": "both",
+    "name": "ArisGlobal",
+    "one_liner": "达索系统以$18亿现金（另或有最高$2亿 AI 收入对赌）完成收购，把监管/安全/质量 AI 平台并入生命科学统一底座",
+    "category": "医疗健康",
+    "region": "海外",
+    "team_type": "大公司",
+    "business_model": "向药企提供监管、安全、质量与医学事务的 AI 原生合规与情报平台（单一事实源）；被达索收购后与 BIOVIA、MEDIDATA 整合，按企业软件持续收费",
+    "metrics": [
+      {
+        "label": "收购对价",
+        "value": "达索系统完成收购：交割现金$18亿，另有与多年 AI 相关收入里程碑挂钩的或有对价最高$2亿",
+        "source_type": "官方新闻稿",
+        "source_url": "https://www.3ds.com/newsroom/press-releases/dassault-systemes-takes-its-life-sciences-ambition-next-level-unified-ai-platform-connecting-science-medicine-and-patients"
+      },
+      {
+        "label": "客户覆盖",
+        "value": "称服务逾200家客户，含全球前50生物制药公司的一半；CEO Aman Wasan 继续领导，并入达索生命科学与健康板块",
+        "source_type": "官方新闻稿",
+        "source_url": "https://www.3ds.com/newsroom/press-releases/dassault-systemes-takes-its-life-sciences-ambition-next-level-unified-ai-platform-connecting-science-medicine-and-patients"
+      }
+    ],
+    "why_it_works": "药企从发现到真实世界结局数据长期割裂；买下监管安全层，才能把虚拟孪生/临床试验/制造串成可学习的闭环，而不是又堆一个点工具。",
+    "takeaway": "生命科学 AI 并购看的是「能否接上已有临床与制造数据飞轮」；$18亿现金是强商业验证，整合与对赌收入是下一观察点。",
+    "innovation_score": 3,
+    "business_score": 5,
+    "tags": [
+      "生命科学",
+      "收购",
+      "达索",
+      "药企合规",
+      "AI平台"
+    ],
+    "website": "https://www.arisglobal.com/",
+    "sources": [
+      "https://www.3ds.com/newsroom/press-releases/dassault-systemes-takes-its-life-sciences-ambition-next-level-unified-ai-platform-connecting-science-medicine-and-patients",
+      "https://www.arisglobal.com/media/press-release/dassault-systemes-to-acquire-arisglobal-creating-a-unified-ai-intelligence-platform-for-the-life-sciences-industry-connecting-molecule-patient-and-rea/",
+      "https://www.globenewswire.com/news-release/2026/10/28/3389851/0/en/dassault-systemes-takes-its-life-sciences-ambition-to-the-next-level-with-a-unified-ai-platform-connecting-science-medicine-and-patients.html"
+    ],
+    "uncertain_points": "交割日为10月28日，略早于严格24小时窗口但属窗口内重大闭环新闻；ArisGlobal 独立 ARR 未在收购稿详列；或有对价能否兑现未知。"
+  },
+  {
+    "id": "neuron-industries-10m-seed-ai-native-industrial-controller",
+    "date_collected": "2026-10-31",
+    "status": "new",
+    "type": "both",
+    "name": "Neuron Industries",
+    "one_liner": "FCVC 与 Obvious 领投超额认购$1000万种子轮，用自然语言+仿真重建工业控制器，自称改造老产线可快近10倍",
+    "category": "硬件与端侧",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "销售 AI 原生工业控制器 Cortex 与开发环境 Synapse：工程师用自然语言描述设备行为、生成可读控制代码并在仿真中验证后部署；面向新建工厂与设备商，计划2027 Q1 发布 Cortex 并推进美国本地制造",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "超额认购种子轮$1000万，FCVC 与 Obvious Ventures 联合领投，Y Combinator、Thin Line、Zee Prime、Founder Factor 参与",
+        "source_type": "官方新闻稿",
+        "source_url": "https://neuronindustries.com/press/neuron-industries-seed-round"
+      },
+      {
+        "label": "试点效果",
+        "value": "在 CureWood 将1991年 Siemens S5（189点硬接线）替换为 Neuron 方案，称约3小时人机协同工程、8小时停机，较传统集成商接近快10倍且首次上电成功；另称服务十余家制造初创作为系统记录",
+        "source_type": "官方新闻稿（公司自述）",
+        "source_url": "https://neuronindustries.com/press/neuron-industries-seed-round"
+      }
+    ],
+    "why_it_works": "美国再工业化卡在会写 PLC 的人与厂商碎片工具；把控制器和 IDE 一起 AI 化，降低入门门槛又保留可读代码与仿真，对准新建产能窗口。",
+    "takeaway": "工业 Agent 要落到实时控制与安全认证，种子轮故事漂亮，量产与认证进度比 Demo 更关键。",
+    "innovation_score": 5,
+    "business_score": 3,
+    "tags": [
+      "工业控制",
+      "PLC",
+      "种子轮",
+      "再工业化",
+      "YC"
+    ],
+    "website": "https://neuronindustries.com/",
+    "sources": [
+      "https://neuronindustries.com/press/neuron-industries-seed-round",
+      "https://www.globenewswire.com/news-release/2026/10/29/3391788/0/en/neuron-industries-raises-an-oversubscribed-10-million-seed-round-to-cut-industrial-automation-development-from-months-to-days.html",
+      "https://obvious.com/ideas/why-we-invested-in-neuron-industries/"
+    ],
+    "uncertain_points": "试点速度对比为公司自述；Cortex 尚未正式量产；安全认证与收入未披露。"
+  },
+  {
+    "id": "stairmed-14yi-h2-bci-cumulative-26yi",
+    "date_collected": "2026-10-31",
+    "status": "new",
+    "type": "both",
+    "name": "阶梯医疗",
+    "one_liner": "植入式脑机接口公司披露下半年以来融资约14亿元、截至9月累计约26亿元，股东涵盖腾讯阿里宁德时代等",
+    "category": "医疗健康",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "研发微创植入式脑机接口（超柔性电极、植入体、算法与植入设备），推进临床转化；商业化路径以医疗器械注册与临床应用为主，尚处融资与临床验证阶段",
+    "metrics": [
+      {
+        "label": "融资披露",
+        "value": "披露2026年下半年以来完成约14亿元融资；截至2026年9月累计融资约26亿元",
+        "source_type": "媒体报道（投中网等）",
+        "source_url": "https://finance.sina.cn/tech/2026-10-30/detail-iniwyfwf4787917.d.html?node_id=76524&vt=4"
+      },
+      {
+        "label": "股东与临床",
+        "value": "股东含腾讯、阿里巴巴、吉利资本、宁德时代、国投创合、上海国投先导、奥博、启明、礼来亚洲、源码、达晨、中科创星、鼎晖、中金、易方达等；另有报道称以42例长期植入推进临床验证（需对照公司口径）",
+        "source_type": "媒体报道",
+        "source_url": "https://elsewhere.news/zh/gaorong/2642"
+      }
+    ],
+    "why_it_works": "侵入式 BCI 需要长周期临床与产业资本耐力；在脑虎等同行大额融资窗口，阶梯用累计26亿与产业股东名单证明赛道仍在加码。",
+    "takeaway": "中国植入式 BCI 进入「临床例数+产业股东」双验证阶段；单笔轮次细节与估值仍不透明，不宜与消费级穿戴混谈。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": [
+      "脑机接口",
+      "植入式",
+      "临床",
+      "腾讯",
+      "阿里"
+    ],
+    "website": "https://www.stairmed.com/",
+    "sources": [
+      "https://finance.sina.cn/tech/2026-10-30/detail-iniwyfwf4787917.d.html?node_id=76524&vt=4",
+      "https://elsewhere.news/zh/gaorong/2642",
+      "https://t.cj.sina.com.cn/articles/view/9171525735/222aa606700103jll4"
+    ],
+    "uncertain_points": "约14亿为「下半年以来」汇总而非单一轮次明细；投后估值未披露；42例长期植入等临床数字来自部分媒体，需对照官方。"
+  },
+  {
+    "id": "tianxiu-angel-plus-machine-olfaction-hangzhou-factory",
+    "date_collected": "2026-10-31",
+    "status": "new",
+    "type": "innovative",
+    "name": "天嗅智能",
+    "one_liner": "杭州市科创集团领投天使+轮、投后估值超2亿元，机器嗅觉杭州智造基地投产，补齐具身智能气味感知缺口",
+    "category": "硬件与端侧",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "研发嗅觉芯片、嗅觉大模型与气味数据库，交付嗅探防爆巡检机器人/无人机/机器狗及电子鼻等，服务危化、电力、消防等行业；硬件+方案销售",
+    "metrics": [
+      {
+        "label": "融资与估值",
+        "value": "天使+轮（成立以来第二轮），杭州市科创集团有限公司领投，投后估值超2亿元；金额未披露；资金用于芯片迭代量产、杭州基地产能与九大行业方案落地",
+        "source_type": "媒体报道（投资界）",
+        "source_url": "https://news.pedaily.cn/202610/571137.shtml"
+      },
+      {
+        "label": "产业化进展",
+        "value": "2026年10月11日杭州滨江智造基地暨天大自动化学院创新研发中心启幕，称国内机器嗅觉领域首个具备完整产品矩阵与量产能力的产业基地投入运营；已服务多家央国企及部委单位（公司/媒体口径）",
+        "source_type": "媒体报道",
+        "source_url": "https://news.pedaily.cn/202610/571137.shtml"
+      }
+    ],
+    "why_it_works": "具身智能标配视听触，气体泄漏、绝缘老化等风险却先以气味出现；把嗅觉做成可量产芯片+行业方案，卡的是安全巡检刚需而非玩具传感器。",
+    "takeaway": "中国具身感知补齐嗅觉赛道；估值与基地投产是信号，融资金额与收入未公开，需跟量产良率与复购。",
+    "innovation_score": 5,
+    "business_score": 2,
+    "tags": [
+      "机器嗅觉",
+      "具身智能",
+      "天使轮",
+      "杭州",
+      "电子鼻"
+    ],
+    "website": "",
+    "sources": [
+      "https://news.pedaily.cn/202610/571137.shtml",
+      "http://www.investorscn.com/2026/10/14/137163/",
+      "https://www.pedaily.cn/first/189022.shtml"
+    ],
+    "uncertain_points": "融资金额未披露；官网未在公开稿中明确；客户与收入细节不足；基地启幕日为10月11日，融资消息10月30日放出。"
+  },
+  {
+    "id": "allox-10-5m-seed-allosteric-drug-discovery",
+    "date_collected": "2026-10-31",
+    "status": "new",
+    "type": "innovative",
+    "name": "ALLOX",
+    "one_liner": "巴塞罗那 CRG 衍生公司获 Asabys 领投$1050万种子轮，用 AI+生物物理高通量平台挖变构药靶",
+    "category": "医疗健康",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "以高通量生物物理与 AI 平台发现蛋白质变构/调控位点，推进小分子管线；早期以平台合作与自有管线研发为主",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "种子轮$1050万（约€940万），Asabys（Sabadell Asabys II）领投，CDTI/SICC Innvierte、ICF 等参与；并任命 Morten Graugaard 为董事长",
+        "source_type": "官方新闻稿",
+        "source_url": "https://www.globenewswire.com/news-release/2026/10/29/3390985/0/en/allox-closes-10-5m-seed-financing-and-appoints-morten-graugaard-as-chair-to-scale-allosteric-drug-discovery-platform-and-build-pipeline.html"
+      }
+    ],
+    "why_it_works": "很多蛋白-蛋白与转录因子靶点难成药；变构位点是另一条进攻面，AI+实验闭环比纯计算虚拟筛选更贴近可成药位点。",
+    "takeaway": "欧洲 AIDD 工具公司仍能以千万美元种子轮起步；管线资产与合作药企才是下一张成绩单。",
+    "innovation_score": 4,
+    "business_score": 2,
+    "tags": [
+      "药物发现",
+      "变构",
+      "种子轮",
+      "西班牙",
+      "AIDD"
+    ],
+    "website": "https://allox.bio/",
+    "sources": [
+      "https://www.globenewswire.com/news-release/2026/10/29/3390985/0/en/allox-closes-10-5m-seed-financing-and-appoints-morten-graugaard-as-chair-to-scale-allosteric-drug-discovery-platform-and-build-pipeline.html",
+      "https://tech.eu/2026/10/29/allox-closes-105m-seed-financing-to-scale-drug-discovery-platform/",
+      "https://european-biotechnology.com/latest-news/barcelonas-allox-raises-e9-4m-to-turn-protein-maps-into-drug-candidates/"
+    ],
+    "uncertain_points": "管线资产与收入未披露；平台性能多为公司叙事。"
+  }
+]
