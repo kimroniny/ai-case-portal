@@ -1,0 +1,638 @@
+[
+  {
+    "id": "sierra-400m-arr-outcome-agents",
+    "date_collected": "2026-11-01",
+    "status": "new",
+    "type": "both",
+    "name": "Sierra",
+    "one_liner": "企业客服/成交 Agent 平台官方披露 ARR 突破$4亿+，单季新增逾$1.5亿，服务近半数 Fortune 50",
+    "category": "客服销售",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "面向大型受监管企业部署多轮、跨系统的结果导向 AI Agent（理赔、再融资、成交、留存等）；按业务结果（outcomes）而非 token 计费；配套 Ghostwriter 构建与改进 Agent，并推动个人 Agent 与品牌交互的开放标准 Poppy",
+    "metrics": [
+      {
+        "label": "ARR",
+        "value": "官方称本周 ARR 达$4亿+；Q3 单季新增逾$1.5亿 ARR，超过公司去年全年新增；从$1亿→$2亿用约6个月，从$2亿→$4亿约5个月（加速翻倍）",
+        "source_type": "官方博客（联合创始人 Bret Taylor / Clay Bavor）",
+        "source_url": "https://sierra.ai/blog/our-customers-ambition-is-accelerating-our-growth"
+      },
+      {
+        "label": "客户",
+        "value": "称已服务近半数 Fortune 50；举例一家年收入$400亿+美国零售商从首次会议到上线 Agent 仅27天",
+        "source_type": "官方博客",
+        "source_url": "https://sierra.ai/blog/our-customers-ambition-is-accelerating-our-growth"
+      },
+      {
+        "label": "产品叙事",
+        "value": "Agent 从一次性客服对话扩展到可持续数周/数月并驱动收入的交互；与 Meta、Instinct、Rocket、Shopify、Stripe、Walmart 等逾50家企业共推 Poppy 开放标准",
+        "source_type": "官方博客",
+        "source_url": "https://sierra.ai/blog/our-customers-ambition-is-accelerating-our-growth"
+      }
+    ],
+    "why_it_works": "把计费钉在「贷款再融资成功、理赔办结、成交」等可计量结果上，而不是模型调用量；在强监管、长流程客户里用 Ghostwriter 把交付周期压到周级，形成可复述的 ROI 故事。",
+    "takeaway": "企业 Agent 的下一阶段门槛是「可审计的结果定价 + 长周期上下文」，而不只是更强模型；观察站此前只收过 Sierra×Stripe 通话付款能力，本次以独立 ARR 里程碑新收录。",
+    "innovation_score": 4,
+    "business_score": 5,
+    "tags": [
+      "企业Agent",
+      "结果定价",
+      "客服销售",
+      "ARR",
+      "Fortune50"
+    ],
+    "website": "https://sierra.ai",
+    "sources": [
+      "https://sierra.ai/blog/our-customers-ambition-is-accelerating-our-growth",
+      "https://x.com/i/trending/2116246505979801667"
+    ],
+    "uncertain_points": "绝对利润与合同结构未披露；ARR 为公司自述；X 新闻摘要与官方博客一致但非独立审计。"
+  },
+  {
+    "id": "andtruth-70m-seed-universal-code-verification",
+    "date_collected": "2026-11-01",
+    "status": "new",
+    "type": "innovative",
+    "name": "&Truth",
+    "one_liner": "斯坦福/NUS 背景公益公司获$7000万种子轮出隐，做跨语言「通用验证机」用形式化证明给 AI 生成代码上数学保险",
+    "category": "编程开发",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "Public benefit corporation：构建可读任意编程语言的通用验证机与「规格工厂」，把业务意图译成形式化规格，再生成可独立复核的安全/正确性证明；计划开源基础库，服务关键软件与 AI 生成代码治理",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "种子轮$7000万；官方称来自「AI 安全与风投领域 formative leaders」群体，未在新闻稿中逐一列名金额拆分",
+        "source_type": "官方新闻稿 / BusinessWire",
+        "source_url": "https://andtruth.com/press/andtruth-emerges-from-stealth/"
+      },
+      {
+        "label": "技术主张",
+        "value": "称 AI 已将形式化证明加速约100倍，自家证明自动化再叠加约100倍，目标把证明周期从年/月压到小时/分钟；基于 Lean / Mathlib / CSLib 等",
+        "source_type": "官方新闻稿",
+        "source_url": "https://andtruth.com/press/andtruth-emerges-from-stealth/"
+      },
+      {
+        "label": "团队与布局",
+        "value": "联合创始人含 Clark Barrett（斯坦福）、Ilya Sergey（NUS）、Chris Hsu；总部 Palo Alto + 新加坡国际总部；WIRED 等跟进「用数学兜底 vibe coding」叙事",
+        "source_type": "官方新闻稿 / 媒体",
+        "source_url": "https://www.wired.com/story/software-verification-is-the-hot-new-answer-to-the-ai-safety-crisis/"
+      }
+    ],
+    "why_it_works": "AI 写代码速度已经超过人工 review 能力，而测试无法覆盖「所有输入」；把 Lean 那套可独立核验的证明栈搬到软件，对准关键基础设施与 AI 生成代码的信任缺口。",
+    "takeaway": "「veri-coding」是对 vibe coding 的制度性补丁：商业化还看规格工厂能否吃进真实企业需求，以及客户是否愿意为数学保证付费。",
+    "innovation_score": 5,
+    "business_score": 3,
+    "tags": [
+      "形式化验证",
+      "AI安全",
+      "Lean",
+      "编程开发",
+      "种子轮"
+    ],
+    "website": "https://andtruth.com",
+    "sources": [
+      "https://andtruth.com/press/andtruth-emerges-from-stealth/",
+      "https://www.businesswire.com/news/home/20261029287395/en/Truth-Emerges-From-Stealth-Pioneering-the-Universal-Verification-Machine-for-Code",
+      "https://www.wired.com/story/software-verification-is-the-hot-new-answer-to-the-ai-safety-crisis/"
+    ],
+    "uncertain_points": "投资方名单与估值未完整披露；100x×100x 加速为公司主张；尚无公开付费客户与收入。"
+  },
+  {
+    "id": "thrive-holdings-adt-15-3b-ai-smart-home-security",
+    "date_collected": "2026-11-01",
+    "status": "new",
+    "type": "both",
+    "name": "Thrive Holdings × ADT",
+    "one_liner": "OpenAI 合作方 Thrive Holdings 以约$76亿股权/$153亿企业价值全现金收购安防巨头 ADT，计划用长期资本+工程能力重做智能家居安防",
+    "category": "硬件与端侧",
+    "region": "海外",
+    "team_type": "大公司",
+    "business_model": "永久资本控股平台收购成熟安防/智能家居业务：保留 ADT 服务网络与品牌，注入 Thrive 工程团队与 OpenAI 模型/前部署工程师能力，长期私有化运营并拓展智能家居安防产品线",
+    "metrics": [
+      {
+        "label": "交易规模",
+        "value": "ADT 股东每股$10现金；股权价值约$76亿、企业价值约$153亿；较未受影响收盘价$6.87溢价约45.6%；预计2027年一季度交割（须股东与反垄断等条件）",
+        "source_type": "ADT 官方投资者新闻稿",
+        "source_url": "https://investor.adt.com/News--Events/news/news-details/2026/ADT-to-be-Acquired-by-Thrive-Holdings-in-15-3-Billion-Transaction/default.aspx"
+      },
+      {
+        "label": "战略定位",
+        "value": "交割后 ADT 将构成 Thrive smart home security 业务底座；Thrive 称已控股逾75家企业；融资承诺由 Apollo 关联基金提供",
+        "source_type": "官方新闻稿 / TechCrunch",
+        "source_url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/"
+      },
+      {
+        "label": "AI 角色",
+        "value": "TechCrunch 指出 OpenAI 为 Thrive 合作方与投资方，提供模型与 forward-deployed engineers；双方尚未公布具体新产品清单",
+        "source_type": "媒体报道（TechCrunch）",
+        "source_url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/"
+      }
+    ],
+    "why_it_works": "安防装机量与上门网络是物理世界分发入口；用控股+长期资本 bypass 上市季报压力，把 AI 嵌进误报、告警与设备健康，而不是另起一套摄像头品牌。",
+    "takeaway": "继 Solink「存量摄像头→业务智能」之后，本窗口出现「收购全国安防网络→AI 智能家居」的更大尺度押注；需盯 go-shop、交割与真正落地的 AI 产品。",
+    "innovation_score": 3,
+    "business_score": 5,
+    "tags": [
+      "并购",
+      "智能家居",
+      "安防",
+      "OpenAI",
+      "Physical AI"
+    ],
+    "website": "https://www.thriveholdings.com/thrive-holdings-adt",
+    "sources": [
+      "https://investor.adt.com/News--Events/news/news-details/2026/ADT-to-be-Acquired-by-Thrive-Holdings-in-15-3-Billion-Transaction/default.aspx",
+      "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/"
+    ],
+    "uncertain_points": "AI 产品路线图未披露；交易尚未交割且有 go-shop；OpenAI 具体持股与工程师投入规模未量化。"
+  },
+  {
+    "id": "salesforce-rune-375m-defense-logistics-ai",
+    "date_collected": "2026-11-01",
+    "status": "new",
+    "type": "both",
+    "name": "Salesforce × Rune Technologies",
+    "one_liner": "Salesforce 签署协议收购前线后勤 AI 初创 Rune，媒体报道对价约$3.75亿现金+股票，补齐 Missionforce 战术边缘物流",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "大公司",
+    "business_model": "把边缘原生后勤/保障软件并入 Salesforce Missionforce：在 DDIL（拒止/降级/间歇/受限连接）环境下预测补给、优化资源与路线，并与企业系统记录同步；面向美军与盟友国防客户",
+    "metrics": [
+      {
+        "label": "交易",
+        "value": "Salesforce 官方确认签署确定性收购协议；Resilience Media / TechCrunch 报道对价约$3.75亿现金+股票（官方未披露价格）；预计 Salesforce FY2027 Q4 交割",
+        "source_type": "官方新闻 / 媒体估算",
+        "source_url": "https://www.salesforce.com/news/stories/salesforce-signs-definitive-agreement-to-acquire-rune-technologies/"
+      },
+      {
+        "label": "被收购方背景",
+        "value": "2024 年由前 Anduril 背景创始人创立；累计融资约$3000万（a16z、Point72、IQT 等）；已部署于美国陆军与海军陆战队；PitchBook 口径上次估值约$1.27亿",
+        "source_type": "媒体报道（TechCrunch）",
+        "source_url": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/"
+      },
+      {
+        "label": "买方业务",
+        "value": "Missionforce 称国防业务同比增约80%；含与美国陆军十年、上限约$56亿合同等里程碑",
+        "source_type": "Salesforce 官方",
+        "source_url": "https://www.salesforce.com/news/stories/salesforce-signs-definitive-agreement-to-acquire-rune-technologies/"
+      }
+    ],
+    "why_it_works": "国防 CRM/流程自动化停在「有网的总部」不够；Rune 把补给决策做到断连前线，正好补齐 edge-to-enterprise 第三层。",
+    "takeaway": "大厂买的不是又一个聊天 Agent，而是能在断连战场跑的后勤智能；对价为媒体报道，交割前仍可能调整。",
+    "innovation_score": 4,
+    "business_score": 4,
+    "tags": [
+      "并购",
+      "国防",
+      "后勤AI",
+      "Salesforce",
+      "边缘计算"
+    ],
+    "website": "https://www.salesforce.com/news/stories/salesforce-signs-definitive-agreement-to-acquire-rune-technologies/",
+    "sources": [
+      "https://www.salesforce.com/news/stories/salesforce-signs-definitive-agreement-to-acquire-rune-technologies/",
+      "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
+      "https://resiliencemedia.co/scoop-salesforce-is-paying-375m-for-rune-technologies/"
+    ],
+    "uncertain_points": "官方未确认$3.75亿数字；交割条件未完成；与观察站已有 Watchtower Labs 等国防后勤案例为不同公司。"
+  },
+  {
+    "id": "factory-droid-1-typedef-programmatic-tool-calling",
+    "date_collected": "2026-11-01",
+    "status": "new",
+    "type": "innovative",
+    "name": "Factory（Droid 1.0 + Typedef）",
+    "one_liner": "企业编码 Agent 厂商发布 Droid 1.0（默认程序化工具调用）并收购 Typedef，给 Droids 补上数据血缘与证据链",
+    "category": "编程开发",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "向企业出售模型无关的自主软件工程 harness（Droid）：在客户环境内规划/构建/验证；SDK 与桌面/CLI 分发；通过并购补齐数据上下文能力以支撑迁移与排障类长任务",
+    "metrics": [
+      {
+        "label": "产品",
+        "value": "Droid 1.0 默认启用 programmatic tool calling（Script 模式）：模型写沙箱 JS 一次跑上百次工具调用；官方称同任务上较原生 harness 最高约高20%效率，Terminal-Bench 4 等多模型对比有公开方法论",
+        "source_type": "官方博客",
+        "source_url": "https://factory.com/news/frontier-harness"
+      },
+      {
+        "label": "并购",
+        "value": "2026-10-30 宣布 Typedef 团队整体加入，补数据血缘/上下文层；金额未披露",
+        "source_type": "官方博客",
+        "source_url": "https://factory.com/news/typedef"
+      },
+      {
+        "label": "规模口径",
+        "value": "称过去一年与「数十万开发者」及大型企业并肩打磨 harness（公司自述）",
+        "source_type": "官方博客",
+        "source_url": "https://factory.com/news/frontier-harness"
+      }
+    ],
+    "why_it_works": "长程 Agent 的成本与可靠性瓶颈在「每步重发工具结果」；把工具循环下沉成程序，上下文更干净、请求更少，再靠 Typedef 让改 schema 可解释。",
+    "takeaway": "企业编码 Agent 竞争正从「哪个模型」转向「哪个 harness + 数据上下文」；并购金额与 ARR 仍未披露。",
+    "innovation_score": 5,
+    "business_score": 3,
+    "tags": [
+      "编码Agent",
+      "程序化工具调用",
+      "并购",
+      "企业开发",
+      "harness"
+    ],
+    "website": "https://factory.com",
+    "sources": [
+      "https://factory.com/news/frontier-harness",
+      "https://factory.com/news/typedef",
+      "https://www.typedef.ai/blog/factory-acquires-typedef"
+    ],
+    "uncertain_points": "Typedef 收购价格未披露；benchmark 为厂商自测；收入与估值未公开。"
+  },
+  {
+    "id": "crosby-weil-gotshal-asset-bid-ai-law-firm",
+    "date_collected": "2026-11-01",
+    "status": "new",
+    "type": "innovative",
+    "name": "Crosby",
+    "one_liner": "AI 原生律所向解体中的华尔街老牌 Weil Gotshal 出价收购品牌/商标与内部数据，并招募部分律师——用「做律所」而非「卖软件」吃 Big Law 资产",
+    "category": "法律金融",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "本身是持牌律所：律师使用自研 AI Agent 交付法律服务；扩张路径是收购传统律所品牌与数据资产并挖人，而不是向 Harvey/Legora 那样只卖软件给律所",
+    "metrics": [
+      {
+        "label": "交易进展",
+        "value": "TechCrunch 证实已就 Weil 部分资产（商标、品牌、未指明内部数据）提交意向；另寻招募其约1200名律师中的部分；Axios Pro 称交易或在「low double-digit millions」且数周内可能完成（非官宣成交）",
+        "source_type": "媒体报道（TechCrunch / Axios Pro）",
+        "source_url": "https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/"
+      },
+      {
+        "label": "融资与规模",
+        "value": "累计融资约$8500万，含2026年3月 Lux+Index 领投$6000万 B 轮；Dealroom 等口径约50名律师用 Agent 办案、估值报道约$4亿（第三方）",
+        "source_type": "媒体报道",
+        "source_url": "https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/"
+      }
+    ],
+    "why_it_works": "法律 AI 多数在卖工具给旧组织；Crosby 直接做交付方，在 Weil 解体窗口用品牌+数据+人才一次性换分布与信任。",
+    "takeaway": "形态突破大于单笔成交金额：值不值得跟，取决于意向书能否落地、数据合规与律师留存，而非叙事本身。",
+    "innovation_score": 5,
+    "business_score": 3,
+    "tags": [
+      "法律AI",
+      "并购意向",
+      "AI律所",
+      "Big Law",
+      "数据资产"
+    ],
+    "website": "https://crosby.ai",
+    "sources": [
+      "https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/",
+      "https://www.axios.com/pro/enterprise-software-deals/2026/10/30/crosby-weil-legal-tech"
+    ],
+    "uncertain_points": "交易未完成；对价为媒体区间；Weil 合伙人表决与监管结果未知；网站域名以公开报道常用域名为准。"
+  },
+  {
+    "id": "green-voltis-series-a-ai-power-trading-agent",
+    "date_collected": "2026-11-01",
+    "status": "new",
+    "type": "both",
+    "name": "Green Voltis",
+    "one_liner": "前华为副总裁创办的瑞典 AI 原生电力资产运营商获宁德时代系基金数千万美元 A 轮，Aether 交易智能体覆盖欧洲10国电力市场准入",
+    "category": "其他",
+    "region": "全球",
+    "team_type": "初创公司",
+    "business_model": "为独立储能与风光配储提供并网调试+Chronos EMS 控制+Aether AI 电力交易的一站式运营；可收益分成/容量租赁/保底；并把同一套「灵活性」能力延伸到 Power-to-Compute（帮算力更快接上电）",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "A 轮由 Lochpine Capital（宁德时代支持的美元基金）独家投资「数千万美元」；资金用于 Aether/Chronos 研发、欧洲市场与 AI 基建布局",
+        "source_type": "36氪硬氪独家 / 新浪科技",
+        "source_url": "https://eu.36kr.com/en/p/4047734928259592"
+      },
+      {
+        "label": "市场准入",
+        "value": "称已获得欧洲10国电力市场准入；瑞典全境持 BRP 牌照的 VPP 类公司自称仅约2家（含本公司）",
+        "source_type": "创始人访谈（36氪）",
+        "source_url": "https://eu.36kr.com/en/p/4047734928259592"
+      },
+      {
+        "label": "运营与储备",
+        "value": "称所管储能收益持续跑赢 Clean Horizon 指数（同期行业均值约该指数75%）；北欧约储备120MW 具备并网条件的数据中心用地（Powered Land，非已建成机房）",
+        "source_type": "公司自述（经36氪）",
+        "source_url": "https://finance.sina.com.cn/jjxw/2026-10-30/doc-iniwzprr4525729.shtml"
+      }
+    ],
+    "why_it_works": "欧洲算力扩张卡在并网与碳约束，不在买 GPU；把储能做成可交易灵活性资产，再用同一能力帮数据中心「可调负荷换电力」，切中 AI×能源交汇。",
+    "takeaway": "中国创始人+欧洲牌照+宁德时代资本的组合，是「行业纵深 Agent」样本；精确融资金额与审计后收益需后续披露。",
+    "innovation_score": 4,
+    "business_score": 4,
+    "tags": [
+      "电力交易",
+      "储能",
+      "AIDC",
+      "欧洲",
+      "宁德时代"
+    ],
+    "website": "https://greenvoltis.com",
+    "sources": [
+      "https://eu.36kr.com/en/p/4047734928259592",
+      "https://finance.sina.com.cn/jjxw/2026-10-30/doc-iniwzprr4525729.shtml"
+    ],
+    "uncertain_points": "「数千万美元」未给精确值；收益跑赢指数与120MW 为公司口径；官网域名待用户侧再确认。"
+  },
+  {
+    "id": "powerlattice-86m-ai-power-delivery-chiplet",
+    "date_collected": "2026-11-01",
+    "status": "new",
+    "type": "profitable",
+    "name": "Powerlattice",
+    "one_liner": "SEC 文件显示 AI 供电 chiplet 公司新募约$8600万（寻求最高约$1.11亿），把电压调节塞进封装内以砍掉 AI 芯片供电损耗",
+    "category": "硬件与端侧",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "向 GPU/CPU/定制加速器厂商提供封装内集成电压调节（IVR）chiplet 与工程样品，缩短供电路径以降低能耗与发热；多颗 chiplet 可并联匹配负载",
+    "metrics": [
+      {
+        "label": "融资文件",
+        "value": "GeekWire：Form D 显示已募集约$8600万、目标约$1.11亿，18名合格投资者；约为2025年11月出隐时累计约$3100万的近三倍；公司拒绝对媒体置评",
+        "source_type": "媒体报道（基于 SEC Form D）",
+        "source_url": "https://www.geekwire.com/2026/filing-chip-startup-powerlattice-raises-86m-to-ease-ais-power-crunch/"
+      },
+      {
+        "label": "技术进展",
+        "value": "同周宣称演示业界首款单片集成电压调节 chiplet（控制器+功率管+电感同片）；称可把能耗降逾一半（公司主张）",
+        "source_type": "媒体报道（转述公司）",
+        "source_url": "https://www.geekwire.com/2026/filing-chip-startup-powerlattice-raises-86m-to-ease-ais-power-crunch/"
+      },
+      {
+        "label": "治理",
+        "value": "董事会含前 Intel CEO Pat Gelsinger（Playground）等；总部华盛顿州 Vancouver，另有亚利桑那/圣何塞/新竹办公室",
+        "source_type": "媒体报道",
+        "source_url": "https://www.geekwire.com/2026/filing-chip-startup-powerlattice-raises-86m-to-ease-ais-power-crunch/"
+      }
+    ],
+    "why_it_works": "AI 扩张的硬约束正从「有钱买卡」转向「电站与散热」；把供电损耗砍在封装里，是算力供应链上可验证的物理杠杆。",
+    "takeaway": "这是基础设施层盈利信号（大额股权融资+样品），不是应用层 ARR；轮次名称与投资方完整名单仍不透明。",
+    "innovation_score": 4,
+    "business_score": 4,
+    "tags": [
+      "AI芯片",
+      "供电",
+      "chiplet",
+      "数据中心",
+      "Form D"
+    ],
+    "website": "https://www.powerlatticeinc.com/",
+    "sources": [
+      "https://www.geekwire.com/2026/filing-chip-startup-powerlattice-raises-86m-to-ease-ais-power-crunch/",
+      "https://www.unite.ai/powerlattice-raises-86m-in-equity-offering-sec-filing-shows/"
+    ],
+    "uncertain_points": "非公司主动官宣的命名轮次；投资方未公开；「能耗降一半」为公司技术主张；收入未披露。"
+  },
+  {
+    "id": "avante-30m-series-a-benefits-ai-agents",
+    "date_collected": "2026-11-01",
+    "status": "new",
+    "type": "both",
+    "name": "Avante",
+    "one_liner": "企业福利团队 AI 平台完成 Frist Cressey 领投$3000万 A 轮，累计$4000万；服务38.5万+雇员家属，客户续约率自称100%",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "为雇主福利/Total Rewards 团队提供领域 Agent：读计划文书与合约、准备续约谈判、在员工既有入口（Slack/Teams/邮箱等）答疑；人工审阅输出；按企业订阅",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "$3000万 A 轮，Frist Cressey Ventures 领投；新进 Sorenson、Hearst Ventures、Morgan Stanley Next Level Fund，老股东 FUSE；累计融资$4000万",
+        "source_type": "官方博客",
+        "source_url": "https://www.avante.ai/articles/avante-raises-a-30m-series-a-led-by-frist-cressey-ventures"
+      },
+      {
+        "label": "客户与覆盖",
+        "value": "上线约18个月获70+客户（含多家 Fortune 500 / Global 2000）；签约客户数同比近5倍；到期续约自称100%；覆盖逾38.5万雇员与家属",
+        "source_type": "官方博客（公司自述）",
+        "source_url": "https://www.avante.ai/articles/avante-raises-a-30m-series-a-led-by-frist-cressey-ventures"
+      },
+      {
+        "label": "效果案例",
+        "value": "称三星半导体侧心理健康福利发现/使用人数+66%；Real Chemistry 美国员工互动率83%；并上线 Ava Agents beta",
+        "source_type": "官方博客（客户效果为公司口径）",
+        "source_url": "https://www.avante.ai/articles/avante-raises-a-30m-series-a-led-by-frist-cressey-ventures"
+      }
+    ],
+    "why_it_works": "福利决策管着万亿级支出，却长期困在 PDF 与表格；通用模型幻觉成本极高（公司转述经纪商测试约40%幻觉），垂直 Agent + 人工闸门更卖得动。",
+    "takeaway": "昨日观察站已把 Avante 列为窗口边缘线索，今日补正式收录；续约率与效果数字均为公司自述。",
+    "innovation_score": 3,
+    "business_score": 4,
+    "tags": [
+      "福利HR",
+      "垂直Agent",
+      "Series A",
+      "合规",
+      "企业服务"
+    ],
+    "website": "https://www.avante.ai",
+    "sources": [
+      "https://www.avante.ai/articles/avante-raises-a-30m-series-a-led-by-frist-cressey-ventures",
+      "https://www.geekwire.com/2026/seattle-startup-avante-raises-30m-to-bring-ai-agents-to-corporate-benefits-teams/"
+    ],
+    "uncertain_points": "ARR/收入未披露；客户效果与续约率为公司自述；Ava Agents 仍为 beta。"
+  },
+  {
+    "id": "bleu-robotics-5m-euro-preseed-humanoid-software",
+    "date_collected": "2026-11-01",
+    "status": "new",
+    "type": "innovative",
+    "name": "Bleu Robotics",
+    "one_liner": "巴黎工业人形软件公司获€500万预种子轮，称用十次示教级 abductive learning 把产线部署压到约一小时",
+    "category": "硬件与端侧",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "不做本体、做可插到多厂商人形平台的工业软件：操作员用手柄示教，模型推断任务目标与约束并复现；卖部署与再训练能力给工厂与分销商",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "€500万预种子轮，Contrarian Ventures 与 OVNI Capital 联合领投，Kvanted、WEPA、Motier、Charlie Songhurst 等参投",
+        "source_type": "媒体报道",
+        "source_url": "https://roboticsandautomationnews.com/2026/10/30/bleu-robotics-raises-e5-million-to-scale-humanoid-robot-deployment-in-factories/106554/"
+      },
+      {
+        "label": "产品主张",
+        "value": "称约10次操作员示教即可学新任务；目标把完整部署压到1小时内；准确率叙事为产线所需的99%+；已与两家大型工业企业合作（未具名）",
+        "source_type": "媒体报道（公司口径）",
+        "source_url": "https://roboticsandautomationnews.com/2026/10/30/bleu-robotics-raises-e5-million-to-scale-humanoid-robot-deployment-in-factories/106554/"
+      },
+      {
+        "label": "团队",
+        "value": "2025年12月成立；联合创始人含雷诺产线背景 CEO 与 INRIA 人形/AI 研究主管",
+        "source_type": "媒体报道",
+        "source_url": "https://sifted.eu/articles/french-robotics-startup-industrial-humanoids-20-minutes-of-training"
+      }
+    ],
+    "why_it_works": "工厂缺的是「互联网规模机器人数据」，不是又一个通才端到端大模型；少样本+可解释更贴近产线安全与换型现实。",
+    "takeaway": "欧洲「软件定义人形部署」值得跟进，但客户名、实测节拍与付费合同仍薄。",
+    "innovation_score": 4,
+    "business_score": 2,
+    "tags": [
+      "人形机器人",
+      "工业软件",
+      "少样本学习",
+      "法国",
+      "预种子"
+    ],
+    "website": "https://bleurobotics.com",
+    "sources": [
+      "https://roboticsandautomationnews.com/2026/10/30/bleu-robotics-raises-e5-million-to-scale-humanoid-robot-deployment-in-factories/106554/",
+      "https://sifted.eu/articles/french-robotics-startup-industrial-humanoids-20-minutes-of-training"
+    ],
+    "uncertain_points": "客户未具名；1小时部署与99%+为公司目标/主张；官网域名按公开报道常用写法，可能跳转。"
+  },
+  {
+    "id": "sharewillow-8-5m-seed-trades-technician-ai-pay",
+    "date_collected": "2026-11-01",
+    "status": "new",
+    "type": "both",
+    "name": "ShareWillow",
+    "one_liner": "家服技师绩效薪酬平台获$850万种子轮，用 Agent 对接 ServiceTitan 等计算提成并规划 Willow 行前简报/教练",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "SaaS：接入 ServiceTitan / Housecall Pro / Jobber，按雇主激励规则自动算单次工单提成并在 App 展示；收费订阅；2027 年初扩展 Willow Agent（行前简报、目标教练、薪酬方案仿真）",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "$850万种子轮；参投含 Lerer Hippeau、Circadian、Twelve Below、Charge、Notation；AlleyWatch 称累计融资至约$1230万",
+        "source_type": "媒体报道",
+        "source_url": "https://www.unite.ai/sharewillow-raises-8-5m-seed-ai-agents-trades-technicians/"
+      },
+      {
+        "label": "使用与收入口径",
+        "value": "称数百家企业在用；过去18个月收入增约8倍；过去一年逾1.4万笔技师发放；2026年9月单月经平台发放绩效薪资约$200万",
+        "source_type": "媒体报道（公司自述）",
+        "source_url": "https://www.unite.ai/sharewillow-raises-8-5m-seed-ai-agents-trades-technicians/"
+      },
+      {
+        "label": "产品边界",
+        "value": "现有核心是绩效薪酬工作流；完整 Willow Agent 平台计划2027年初，需与现网能力区分",
+        "source_type": "媒体报道",
+        "source_url": "https://www.unite.ai/sharewillow-raises-8-5m-seed-ai-agents-trades-technicians/"
+      }
+    ],
+    "why_it_works": "家服留存瓶颈常在「技师看不清这单赚多少」；把工单数据接到激励规则，比先做通用排程 Agent 更贴现金流。",
+    "takeaway": "垂直 AI 可以先吃「算薪+可见性」再长出教练 Agent；8倍收入等为公司口径。",
+    "innovation_score": 3,
+    "business_score": 4,
+    "tags": [
+      "家服",
+      "绩效薪酬",
+      "Field Service",
+      "种子轮",
+      "Agent"
+    ],
+    "website": "https://sharewillow.com",
+    "sources": [
+      "https://www.unite.ai/sharewillow-raises-8-5m-seed-ai-agents-trades-technicians/",
+      "https://alleywatch.com/2026/10/sharewillow-home-field-service-technicians-performance-pay-platform-ai-agents-skilled-trades-ryan-shank/"
+    ],
+    "uncertain_points": "Unite.AI 文末标明作者为 AI research agent；部分增长数字缺独立审计；Willow 全量 Agent 尚未上线。"
+  },
+  {
+    "id": "jingshuo-tech-70m-cny-pre-a-physical-ai-data",
+    "date_collected": "2026-11-01",
+    "status": "new",
+    "type": "both",
+    "name": "景烁科技",
+    "one_liner": "文远知行体系物理 AI 数据公司完成7000万元 Pre-A，WorldEngine + 自研世界模型承接 Ego/真机数据与技能资产",
+    "category": "硬件与端侧",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "向大模型与具身企业销售高质量数据集、定制数采与数据—模型一体化平台（WorldEngine / GENESIS-Robotics），并提供第一视角采集设备 EGOK；融资后仍为文远知行控股并表子公司（多家中文报道口径）",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "Pre-A 轮7000万元，投资方嘉御资本、天狼星资本、HKSTP 香港科技园；部分标题写作「数千万美元」但金额报道以7000万人民币为准",
+        "source_type": "科创板日报 / 东方财富转载",
+        "source_url": "https://finance.eastmoney.com/a/202610293914993498.html"
+      },
+      {
+        "label": "商业口径",
+        "value": "称已与全球数十家顶尖大模型与具身企业合作，100+客户与生态伙伴；在手订单「数十亿元」、年收入增长超100%（公司/报道口径）",
+        "source_type": "媒体报道（公司口径）",
+        "source_url": "https://finance.eastmoney.com/a/202610293914993498.html"
+      },
+      {
+        "label": "团队",
+        "value": "CEO 霍达为文远知行001号员工；核心团队来自文远物理 AI 研发体系；总部浙江台州黄岩",
+        "source_type": "媒体报道",
+        "source_url": "https://www.bjnews.com.cn/detail/1793236287129864.html"
+      }
+    ],
+    "why_it_works": "具身大模型缺的是可规模化的真实世界交互数据；依托整车/机器人集团的数据基因做 Ego+真机供给，比纯算法叙事更易签单。",
+    "takeaway": "中国物理 AI 数据层继续资本化；「数十亿在手订单」需谨慎交叉验证，避免与并表关联交易混淆。",
+    "innovation_score": 3,
+    "business_score": 4,
+    "tags": [
+      "物理AI",
+      "数据基础设施",
+      "具身智能",
+      "文远知行",
+      "Pre-A"
+    ],
+    "website": "https://www.weRide.ai",
+    "sources": [
+      "https://finance.eastmoney.com/a/202610293914993498.html",
+      "https://www.bjnews.com.cn/detail/1793236287129864.html",
+      "https://www.nbd.com.cn/articles/2026-10-29/4626206.html"
+    ],
+    "uncertain_points": "在手订单与收入增速为报道转述公司口径；独立官网未在本稿核实；部分英文稿「数千万美元」与7000万人民币并存，以人民币报道为准。"
+  },
+  {
+    "id": "copperpilot-390k-preseed-pcb-design-agent",
+    "date_collected": "2026-11-01",
+    "status": "new",
+    "type": "innovative",
+    "name": "CopperPilot",
+    "one_liner": "印度 PCB 设计 Agent 初创获$39万预种子并开放 Epsilon：自然语言到可制造原理图/布线，打通 KiCad/Altium 与编码 Agent",
+    "category": "硬件与端侧",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "向硬件工程师提供 AI Agent（Epsilon）做器件选型、原理图、布局布线与 ERC/DRC；集成 KiCad/Altium/LTspice 及 Claude Code/Cursor/Codex；早期预种子阶段",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "预种子约$39万，Neon Fund 领投（多家印度科技媒体）",
+        "source_type": "媒体报道",
+        "source_url": "https://entrepreneur.economictimes.indiatimes.com/news/funding/copperpilot-raises-390k-pre-seed-funding-led-by-neon-fund/135227152"
+      },
+      {
+        "label": "产品指标",
+        "value": "自称内部 341 项 KiCad 基准 83.2 vs 通用 Agent 54.7；端到端板级任务分从18.6提到78.0（公司/创始人披露）",
+        "source_type": "公司博客 / 创始人披露",
+        "source_url": "https://copperpilot.ai/blog/epsilon-pcb-design-complexity-cliff"
+      },
+      {
+        "label": "场景",
+        "value": "媒体称可在约30分钟量级完成树莓派摄像头板等设计演示（需视为营销口径）",
+        "source_type": "媒体报道",
+        "source_url": "https://www.ciol.com/startups/copperpilot-raises-390000-ai-agent-raspberry-pi-camera-board-12765145"
+      }
+    ],
+    "why_it_works": "电子设计「复杂度悬崖」让通用编码 Agent 容易在约束上翻车；垂直到 PCB+EDA 工具链，才能输出可制造文件。",
+    "takeaway": "金额虽小，但是「硬件 Agent」形态清晰的创新样本；与已收录 Circuit Mind（PCB 验证）形成设计vs验证互补，勿合并去重。",
+    "innovation_score": 4,
+    "business_score": 2,
+    "tags": [
+      "PCB",
+      "硬件Agent",
+      "EDA",
+      "印度",
+      "预种子"
+    ],
+    "website": "https://copperpilot.ai",
+    "sources": [
+      "https://www.eetimes.com/copperpilot-raises-pre-seed-to-develop-ai-agent-for-pcb-design/",
+      "https://copperpilot.ai/blog/epsilon-pcb-design-complexity-cliff",
+      "https://entrepreneur.economictimes.indiatimes.com/news/funding/copperpilot-raises-390k-pre-seed-funding-led-by-neon-fund/135227152"
+    ],
+    "uncertain_points": "基准为公司内部；付费客户与收入未披露；媒体「30分钟做完」需独立复现。"
+  }
+]
