@@ -1,0 +1,560 @@
+[
+  {
+    "id": "lumaril-66m-series-a-industrial-autonomy",
+    "date_collected": "2026-11-02",
+    "status": "new",
+    "type": "both",
+    "name": "Lumaril",
+    "one_liner": "前 Palantir Foundry 创始团队做出厂工业自主层，Elad Gil 领投$6600万 A 轮、估值$4亿；自称不卖软件、按增产吞吐与良率分成",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "接入工厂既有 PLC/控制系统，持续建模并向安全层内自主调设定点与控制逻辑；面向制造、化工、生物、油气、农业、聚合物等资本密集产线；宣称按新增吞吐与良率收费，并向意向工厂免费提供 Monocle（AI PLC historian）",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "Series A $6600万、估值$4亿，由回归投资人 Elad Gil 领投；公司称累计融资$7800万；参投含 Felicis、Koch Disruptive Technologies、Pax Ventures、Lux Capital、General Catalyst 等",
+        "source_type": "媒体综合公司声明 / SaasBuzz、Implicator",
+        "source_url": "https://www.saasbuzz.com/funding/lumaril-series-a-funding"
+      },
+      {
+        "label": "商业模式",
+        "value": "官方文案：「We don't sell software. We sell production, and we're paid on the throughput and yield we add.」未披露分成比例、基线算法或收入",
+        "source_type": "公司官网/媒体转述创始人声明",
+        "source_url": "https://lumaril.com/"
+      },
+      {
+        "label": "客户叙事",
+        "value": "称向 Ultra-Poly、The Arthur Companies 等工厂学习并部署；未披露客户数与 ARR",
+        "source_type": "媒体估算/公司自述",
+        "source_url": "https://www.implicator.ai/lumaril-which-develops-ai-software-optimizing-industrial/"
+      }
+    ],
+    "why_it_works": "把「退休技工的隐性经验」产品化为接到现有控制层的自主调参，并把风险用结果分成绑到买方 ROI；免费 Monocle 降低试错成本，契合资本密集产线不愿 rip-and-replace 的采购惯性。",
+    "takeaway": "物理经济里的 Agent 叙事开始从机器人本体转向「把既有工厂跑满」；观察站关注其能否公开可核验的增产基线与合同结构。",
+    "innovation_score": 4,
+    "business_score": 4,
+    "tags": [
+      "工业AI",
+      "结果定价",
+      "PLC",
+      "制造",
+      "Palantir背景"
+    ],
+    "website": "https://lumaril.com/",
+    "sources": [
+      "https://lumaril.com/",
+      "https://www.saasbuzz.com/funding/lumaril-series-a-funding",
+      "https://www.implicator.ai/lumaril-which-develops-ai-software-optimizing-industrial/",
+      "https://www.wsj.com/pro/venture-capital/ai-startup-lumaril-wants-to-make-factories-the-best-version-of-themselves-b65ea83d"
+    ],
+    "uncertain_points": "官方官网未见完整融资新闻稿；$400M 为 pre 还是 post 未写清；增产分成比例与收入未披露；出隐/融资公告日期媒体写 10/27，本窗口以 11/1 前后 WSJ 等二次传播补收，存在窗口归属争议。"
+  },
+  {
+    "id": "guidewire-hyperexponential-1-7b-agentic-underwriting",
+    "date_collected": "2026-11-02",
+    "status": "new",
+    "type": "both",
+    "name": "hyperexponential（Guidewire 收购）",
+    "one_liner": "Guidewire 以现金$17亿（另最高$4亿业绩对价）收购伦敦 agentic 承保定价平台，覆盖逾$750亿年商业财险保费决策",
+    "category": "法律金融",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "为商业/特种 P&C 保险公司提供 AI-native 承保与定价平台，让 AI Agent 与核保人、精算师并肩做风险评估、报价与组合导向；被 Guidewire 整合进核心保险系统生态以定义「agentic underwriting」",
+    "metrics": [
+      {
+        "label": "收购对价",
+        "value": "基础现金对价$17亿（可调整）+ 最高$4亿或有对价（挂钩经常性收入目标）；Guidewire 拟用$10亿定期贷款+现金支付；预计 FY2027 Q2 交割",
+        "source_type": "官方新闻稿",
+        "source_url": "https://www.guidewire.com/about/press-center/press-releases/20261027/guidewire-signs-definitive-agreement-to-acquire-hyperexponential"
+      },
+      {
+        "label": "业务规模",
+        "value": "称已为全球领先保险公司/再保/MGA 的承保决策提供支持，覆盖逾$750亿年商业 P&C 保费；客户举例 Aviva、Allianz、Sompo、Beazley、Markel 等",
+        "source_type": "官方新闻稿",
+        "source_url": "https://www.guidewire.com/about/press-center/press-releases/20261027/guidewire-signs-definitive-agreement-to-acquire-hyperexponential"
+      },
+      {
+        "label": "对买方 ARR 影响",
+        "value": "Guidewire 预计交易对 FY2027 ARR 增长贡献至少约 650bp（无机），自 FY2028 起对可持续有机 ARR 增长贡献至少约 150bp",
+        "source_type": "官方新闻稿（前瞻性表述）",
+        "source_url": "https://www.guidewire.com/about/press-center/press-releases/20261027/guidewire-signs-definitive-agreement-to-acquire-hyperexponential"
+      }
+    ],
+    "why_it_works": "保险核保是高杠杆专业判断；把已验证的 agentic 定价层并入 Guidewire 的核心保单与风险数据底座，可同时卖「更快报价」和「更好损失率」，并购对价也用经常性收入对价对齐执行。",
+    "takeaway": "垂直行业大收购开始按「Agent 能否改损失率」定价；比通用聊天助手更接近可审计的业务结果。",
+    "innovation_score": 4,
+    "business_score": 5,
+    "tags": [
+      "保险",
+      "承保Agent",
+      "并购",
+      "Guidewire",
+      "P&C"
+    ],
+    "website": "https://hyperexponential.com",
+    "sources": [
+      "https://www.guidewire.com/about/press-center/press-releases/20261027/guidewire-signs-definitive-agreement-to-acquire-hyperexponential",
+      "https://www.ksl.com/article/51641526/guidewire-to-buy-uk-insurance-ai-firm-hyperexponential-in-deal-worth-up-to-21-billion"
+    ],
+    "uncertain_points": "公告日为 10/27，属补收重大并购；交割与或有对价尚未实现；买方 ARR 贡献为前瞻指引。"
+  },
+  {
+    "id": "cohere-series-e-sovereign-ai-north-arr",
+    "date_collected": "2026-11-02",
+    "status": "new",
+    "type": "both",
+    "name": "Cohere",
+    "one_liner": "主权企业 AI 厂商宣布 E 轮首轮交割、整轮目标最高 C$70亿/估值 C$357亿；称 North 推出后 Q3 ARR 同比+165%、客户扩至 300 家",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "向受监管企业与政府提供可控部署的模型、搜索与 agentic 平台 North（可公有云/私有云/本地/气隙）；按模型能力、企业软件与部署服务收费；并推进与 Aleph Alpha 等结合及垂直行业方案",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "Series E 首轮交割，整轮目标最高约 C$70亿、所述估值 C$357亿；Schwarz Group 旗下公司领投；新投资者含 Bell Ventures、Bullhound Capital、加拿大政府等，NVIDIA/Inovia/Prosperity7 等回归；首轮实际募资额未披露",
+        "source_type": "官方新闻稿",
+        "source_url": "https://www.prnewswire.com/news-releases/cohere-announces-series-e-fundraise-targeting-cad-7-billion-to-meet-surging-global-demand-for-secure-sovereign-ai-302923951.html"
+      },
+      {
+        "label": "ARR / 客户",
+        "value": "称截至 2026 Q3，ARR 同比+165%（归因 North 获客与扩容）；过去一年客户基数扩至 300 家（称增长约 20 倍），举例 RBC、TD Bank、Bell Canada、Fujitsu、PwC 等",
+        "source_type": "官方新闻稿（公司自述经营指标）",
+        "source_url": "https://www.prnewswire.com/news-releases/cohere-announces-series-e-fundraise-targeting-cad-7-billion-to-meet-surging-global-demand-for-secure-sovereign-ai-302923951.html"
+      },
+      {
+        "label": "政府配套",
+        "value": "媒体报道加拿大政府拟最高约 C$16亿股权投资，并附岗位与本地算力建设承诺；细节以政府与公司后续披露为准",
+        "source_type": "媒体 / X 新闻摘要",
+        "source_url": "https://x.com/i/trending/2116935599294689604"
+      }
+    ],
+    "why_it_works": "把「数据驻留与部署主权」做成可采购的产品差异，再用 North agentic 层把模型能力落到受监管工作流；巨额主权资本与云伙伴降低企业采购的合规顾虑。",
+    "takeaway": "观察站此前将其作线索；本窗口以官方 ARR/客户与 E 轮目标一并立档。需区分「目标募资」与「已到账金额」。",
+    "innovation_score": 3,
+    "business_score": 5,
+    "tags": [
+      "主权AI",
+      "企业Agent",
+      "ARR",
+      "北美",
+      "受监管行业"
+    ],
+    "website": "https://cohere.com",
+    "sources": [
+      "https://www.prnewswire.com/news-releases/cohere-announces-series-e-fundraise-targeting-cad-7-billion-to-meet-surging-global-demand-for-secure-sovereign-ai-302923951.html",
+      "https://cohere.com/blog/who-gets-to-build-the-frontier-for-ai",
+      "https://en.wowtale.net/2026/11/01/235817/"
+    ],
+    "uncertain_points": "首轮实际交割金额未公布；ARR 与客户数为公司自述非审计收入；加拿大投资附带条件与时间表待落实；公告首发 10/29，11/1 仍有大量二次传播。"
+  },
+  {
+    "id": "affle-acquires-perion-420m-ai-adtech",
+    "date_collected": "2026-11-02",
+    "status": "new",
+    "type": "profitable",
+    "name": "Affle × Perion",
+    "one_liner": "印度上市 AI 转化广告平台 Affle 以全现金约$4.2亿收购以色列 Perion，拼装 CTV/零售媒体到移动转化的 omnichannel CPCU 栈",
+    "category": "营销内容",
+    "region": "全球",
+    "team_type": "大公司",
+    "business_model": "Affle 以垂直化 AI Consumer Platform 与 CPCU（按转化用户计费）做广告主转化；Perion 提供 CTV、DOOH、零售媒体等上漏斗 AI 原生广告基建与 Outmax AI Agent；合并后瞄准 Developed Markets 的 CTV/DOOH-to-Cart 等场景",
+    "metrics": [
+      {
+        "label": "收购对价",
+        "value": "每股$11.70 全现金，隐含股权价值约$4.2亿；Perion 截至 2026-09-30 现金约$2.28亿、无金融债务；预计 2027 年初交割，需监管与股东批准",
+        "source_type": "官方新闻稿",
+        "source_url": "https://www.prnewswire.com/news-releases/affle-to-acquire-perion-to-scale-its-cpcu-business-across-developed-markets-302925764.html"
+      },
+      {
+        "label": "合并后指引",
+        "value": "Affle 称交割后仍净无债务，并展望 FY2028 收入运行率逾$7亿；称历史有机增长与 EBITDA 均超 20%（公司自述）",
+        "source_type": "官方新闻稿（前瞻/自述）",
+        "source_url": "https://www.prnewswire.com/news-releases/affle-to-acquire-perion-to-scale-its-cpcu-business-across-developed-markets-302925764.html"
+      }
+    ],
+    "why_it_works": "把「按转化付费」的移动漏斗能力接到已有上漏斗库存与 AI Agent 执行层，形成可讲 ROI 故事的全渠道转化平台，并用并购快速进入发达市场。",
+    "takeaway": "广告科技里的 AI Agent 叙事若能钉在 CPCU/可计量转化上，并购逻辑会比「多一个创意模型」更硬。",
+    "innovation_score": 3,
+    "business_score": 4,
+    "tags": [
+      "广告科技",
+      "并购",
+      "CPCU",
+      "CTV",
+      "零售媒体"
+    ],
+    "website": "https://www.affle.com",
+    "sources": [
+      "https://www.prnewswire.com/news-releases/affle-to-acquire-perion-to-scale-its-cpcu-business-across-developed-markets-302925764.html",
+      "https://perion.com/investors/press/perion-enters-into-definitive-merger-agreement-with-affle/",
+      "https://x.com/i/trending/2116915788724470019"
+    ],
+    "uncertain_points": "协同与 FY2028 运行率均为前瞻；go-shop 与监管结果未知；AI 深度需看交割后产品整合，不宜高估「Agent」口号。"
+  },
+  {
+    "id": "deepgram-acquires-daily-pipecat-voice-agent-stack",
+    "date_collected": "2026-11-02",
+    "status": "new",
+    "type": "both",
+    "name": "Deepgram × Daily（Pipecat）",
+    "one_liner": "语音 AI 基建商收购 Daily/Pipecat，拼出开放的生产级对话语音 Agent 栈，并推出 Real-Time Context Standard 开放协议",
+    "category": "客服销售",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "Deepgram 提供语音模型与实时基建；收购后整合 Daily 全球实时网络与开源 Pipecat 编排框架，推出 Voice Agent Platform；Pipecat 保持 BSD-2 开源并建独立基金会；对开发者卖语音 API/自托管与即将推出的一体化 Agent 平台",
+    "metrics": [
+      {
+        "label": "收购与开源承诺",
+        "value": "正式宣布收购 Daily（Pipecat 创造者）；Daily 团队并入 Deepgram；Pipecat 继续免费开源，并与社区共建独立 Pipecat Foundation；对价未披露",
+        "source_type": "官方博客 / BusinessWire",
+        "source_url": "https://deepgram.com/blog/daily-pipecat-deepgram"
+      },
+      {
+        "label": "使用规模",
+        "value": "Deepgram 称服务逾 5000 家组织、逾 65 万开发者、处理逾 20 万年音频；Pipecat 被描述为最广泛使用的生产语音 Agent 编排层（公司表述）",
+        "source_type": "官方博客（公司自述）",
+        "source_url": "https://deepgram.com/blog/daily-pipecat-deepgram"
+      },
+      {
+        "label": "产品形态",
+        "value": "同期提出 Real-Time Context Standard（RCS）开放协议，保留语气/说话人等音频上下文跨模型传递；预告 Voice Agent Platform",
+        "source_type": "官方博客",
+        "source_url": "https://deepgram.com/blog/daily-pipecat-deepgram"
+      }
+    ],
+    "why_it_works": "语音 Agent 失败多在「整条链路」而非单模型；收购把 STT/TTS、实时传输与开源编排收拢，同时用基金会承诺降低锁死恐惧，适合开发者从 demo 走到生产。",
+    "takeaway": "语音赛道并购开始争「完整开放栈」定义权；对价未披露，但开源承诺本身是差异化信号。",
+    "innovation_score": 4,
+    "business_score": 4,
+    "tags": [
+      "语音Agent",
+      "开源",
+      "并购",
+      "Pipecat",
+      "实时通信"
+    ],
+    "website": "https://deepgram.com",
+    "sources": [
+      "https://deepgram.com/blog/daily-pipecat-deepgram",
+      "https://www.daily.co/blog/deepgram-is-acquiring-daily-and-establishing-an-independent-pipecat-foundation/",
+      "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/"
+    ],
+    "uncertain_points": "收购对价未披露；公告日 10/29，属补收；「最流行开源框架」等表述为公司宣传；平台全面可用性时间表未完全公开。"
+  },
+  {
+    "id": "humain-aramco-49-percent-2-6b-sovereign-ai",
+    "date_collected": "2026-11-02",
+    "status": "new",
+    "type": "innovative",
+    "name": "HUMAIN（Aramco×PIF）",
+    "one_liner": "沙特主权 AI 公司交割：Aramco 以约$26亿现金加 AI/算力资产获 49% 股权，PIF 保留 51%，目标 2030 年前部署 3GW AI 数据中心",
+    "category": "其他",
+    "region": "海外",
+    "team_type": "大公司",
+    "business_model": "全栈主权 AI：下一代数据中心、高性能云、含 ALLaM 等阿拉伯语多模态模型，以及行业解决方案；股东侧 Aramco 拟把能力用于工业场景并货币化已有数字/AI 资产",
+    "metrics": [
+      {
+        "label": "交易结构",
+        "value": "Aramco 全资子公司获 49% 股权，PIF 保留 51%；Aramco 2026 年向 HUMAIN 注入约 SAR 99亿（约$26亿）现金，另加 AI、算力与数字资产",
+        "source_type": "官方新闻稿",
+        "source_url": "https://www.aramco.com/en/news-media/news/2026/pif-and-aramco-close-humain-transaction-to-accelerate-humains-global-growth"
+      },
+      {
+        "label": "产能目标",
+        "value": "计划到 2030 年部署 3GW AI 数据中心容量；公司 2025 年 5 月成立",
+        "source_type": "官方新闻稿",
+        "source_url": "https://www.aramco.com/en/news-media/news/2026/pif-and-aramco-close-humain-transaction-to-accelerate-humains-global-growth"
+      },
+      {
+        "label": "Aramco AI 价值叙事",
+        "value": "Aramco CEO 称自 2023 年起 Technology Realized Value 达$113亿，其中显著部分来自 AI 方案（公司口径，非 HUMAIN 单独收入）",
+        "source_type": "官方新闻稿（公司自述）",
+        "source_url": "https://www.aramco.com/en/news-media/news/2026/pif-and-aramco-close-humain-transaction-to-accelerate-humains-global-growth"
+      }
+    ],
+    "why_it_works": "能源巨头把算力、工业场景与主权资本捆成一体化 AI 出口平台，降低「只有模型、没有电和客户」的断层。",
+    "takeaway": "更偏主权基建与生态，而非单一应用 SaaS；收录因其交割金额与工业 AI 落地叙事清晰，应用层 ARR 仍待观察。",
+    "innovation_score": 3,
+    "business_score": 4,
+    "tags": [
+      "主权AI",
+      "数据中心",
+      "中东",
+      "工业AI",
+      "交割"
+    ],
+    "website": "https://www.aramco.com",
+    "sources": [
+      "https://www.aramco.com/en/news-media/news/2026/pif-and-aramco-close-humain-transaction-to-accelerate-humains-global-growth",
+      "https://www.arabnews.com/finance/aramco-closes-26bn-deal-for-49-stake-in-humain-3009220"
+    ],
+    "uncertain_points": "HUMAIN 自身收入/客户未披露；资产作价细节有限；3GW 为规划目标。"
+  },
+  {
+    "id": "dataline-10-6m-agent-data-network",
+    "date_collected": "2026-11-02",
+    "status": "new",
+    "type": "innovative",
+    "name": "Dataline",
+    "one_liner": "面向 AI Agent 的去中心化按次付费数据网络获$1060万，称已支撑 1940 万笔链上交易、Agent 任务成功率 96.4%",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "双边市场：任何人可发布数据源，Agent 按次付费调用；响应带可靠性/新鲜度/一致性置信分；支持 bounty 定制取数与质押slash；计划在 Base/Robinhood Chain 做 token 发售",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "$1060万轮次，Lattice 与三星背景 Dispersion Capital 联合领投；Symbolic Capital、Coinbase Ventures、Anagram 等参与",
+        "source_type": "官方新闻稿",
+        "source_url": "https://www.globenewswire.com/news-release/2026/10/31/3392722/0/en/dataline-raises-10-6m-to-give-ai-agents-data-they-can-trust.html"
+      },
+      {
+        "label": "使用指标",
+        "value": "称已支撑 1940 万笔链上交易、Agent 任务成功率 96.4%、社区逾 30 万人；曾获 2025 BNB Chain AI Hackathon 奖",
+        "source_type": "官方新闻稿（公司自述）",
+        "source_url": "https://www.globenewswire.com/news-release/2026/10/31/3392722/0/en/dataline-raises-10-6m-to-give-ai-agents-data-they-can-trust.html"
+      }
+    ],
+    "why_it_works": "Agent 失败常因脏数据；把「可计费、可slash 的数据路由」做成类似 OpenRouter 的数据层，直接卖给自动调用方而非人类仪表盘。",
+    "takeaway": "加密+Agent 基建噪音大，需持续核验真实付费调用 vs 任务/空投指标。",
+    "innovation_score": 4,
+    "business_score": 2,
+    "tags": [
+      "Agent基建",
+      "数据网络",
+      "Web3",
+      "x402",
+      "种子轮"
+    ],
+    "website": "https://dataline.xyz",
+    "sources": [
+      "https://www.globenewswire.com/news-release/2026/10/31/3392722/0/en/dataline-raises-10-6m-to-give-ai-agents-data-they-can-trust.html",
+      "https://www.theblock.co/news/deals/2026-10-21-dataline-decentralized-data-network-ai-agents-funding-ico-421596"
+    ],
+    "uncertain_points": "交易量与成功率自述；代币经济与监管风险高；部分报道日期早于 10/31 新闻稿，窗口边界需注意。"
+  },
+  {
+    "id": "riverside-agents-video-production-team",
+    "date_collected": "2026-11-02",
+    "status": "new",
+    "type": "innovative",
+    "name": "Riverside Agents",
+    "one_liner": "播客/视频平台 Riverside 推出 Producer/Editor/Clipper/Marketer 四人分工的视频专用 Agent 团队，PH 11/1 登日榜前列",
+    "category": "设计创意",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "嵌在 Riverside 录制-剪辑-分发产品内的多 Agent 工作流，随既有订阅计划提供（含试用）；强调人工审批后才发布",
+    "metrics": [
+      {
+        "label": "产品形态",
+        "value": "四个专职 Agent：Producer 备场与录制辅助、Editor 整集剪辑计划、Clipper 切片、Marketer 文案与排期发布；Web+iOS",
+        "source_type": "官方博客",
+        "source_url": "https://riverside.com/blog/first-team-of-ai-agents-built-for-video"
+      },
+      {
+        "label": "社区热度",
+        "value": "Product Hunt 2026-11-01 日榜约第 3（score≈160）",
+        "source_type": "Product Hunt 排行榜",
+        "source_url": "https://www.producthunt.com/leaderboard/daily/2026/11/1"
+      }
+    ],
+    "why_it_works": "创作者缺的不是单点字幕/裁切，而是「懂视频工序的制作组」；按角色拆 Agent 并默认推进下一工序，比万能聊天框更贴合制作 SOP。",
+    "takeaway": "形态创新明确；公开 ARR/付费转化未在本窗口披露，偏创新收录。",
+    "innovation_score": 4,
+    "business_score": 2,
+    "tags": [
+      "视频Agent",
+      "播客",
+      "创作者工具",
+      "ProductHunt"
+    ],
+    "website": "https://riverside.com/agents",
+    "sources": [
+      "https://riverside.com/blog/first-team-of-ai-agents-built-for-video",
+      "https://www.producthunt.com/products/riverside-fm",
+      "https://www.producthunt.com/leaderboard/daily/2026/11/1"
+    ],
+    "uncertain_points": "官方博客署期/更新显示约 10/26，PH 为 11/1 二次曝光；无独立营收数字。"
+  },
+  {
+    "id": "clawsgo-science-ai-research-cloud-lab",
+    "date_collected": "2026-11-02",
+    "status": "new",
+    "type": "innovative",
+    "name": "ClawsGO Science",
+    "one_liner": "带常驻云实验室的科研 Agent：可长时间无人值守检索、跑代码、写带引用论文/报告；PH 11/1 日榜约第 2",
+    "category": "教育",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "积分/额度制科研 Agent（免费试用额度后按智能用量计费，云主机运行时据称不另计）；支持 Web/手机/桌面与 SSH 连接实验室 GPU",
+    "metrics": [
+      {
+        "label": "产品能力",
+        "value": "官网演示长时间多步骤科研流程（文献检索、统计分析、LaTeX 成稿、可复现作图）；宣称可对接实验室 GPU",
+        "source_type": "官方产品站",
+        "source_url": "https://clawsgo.ai/"
+      },
+      {
+        "label": "社区热度",
+        "value": "Product Hunt 2026-11-01 日榜约第 2（score≈186）",
+        "source_type": "Product Hunt 排行榜",
+        "source_url": "https://www.producthunt.com/leaderboard/daily/2026/11/1"
+      }
+    ],
+    "why_it_works": "把「隔夜跑完一篇带引用草稿」做成可离开电脑的云任务，匹配科研真实节奏；可追溯步骤降低黑箱恐惧。",
+    "takeaway": "高热创新形态；付费转化与论文质量需独立验证，勿把演示当成已发表成果。",
+    "innovation_score": 5,
+    "business_score": 2,
+    "tags": [
+      "科研Agent",
+      "AI4Science",
+      "ProductHunt",
+      "云实验室"
+    ],
+    "website": "https://clawsgo.ai/",
+    "sources": [
+      "https://clawsgo.ai/",
+      "https://www.producthunt.com/products/clawsgo-science",
+      "https://www.producthunt.com/leaderboard/daily/2026/11/1"
+    ],
+    "uncertain_points": "无公开融资/ARR；科学结论需人工核验；产品文案含演示性数字。"
+  },
+  {
+    "id": "zhihe-ai-legal-agent-23x-tasks",
+    "date_collected": "2026-11-02",
+    "status": "new",
+    "type": "both",
+    "name": "智合AI",
+    "one_liner": "法律工作流 Agent：工作日日均任务量较上线首月增 23.2 倍至约 8.8 万次，单日峰值近 10 万；A 轮后寻求新融资",
+    "category": "法律金融",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "面向律师/律所/企业法务的可核验法律 Agent（研究、合同审查、文书、尽调与合规）；个人订阅→律所团队版→企业数字法务 Z-Counsel，高风险事项仍由律师复核",
+    "metrics": [
+      {
+        "label": "使用量",
+        "value": "截至 2026-10-26：工作日日均任务量 3785→87842（23.2×），日均使用人数 1204→20810（17.3×），人均任务 3.14→4.22；10/26 单日任务 99968；30/90 日留存约 58%/55%",
+        "source_type": "媒体报道公司披露",
+        "source_url": "https://eu.36kr.com/zh/p/4028161120407940"
+      },
+      {
+        "label": "融资与网络",
+        "value": "2026年8月完成数千万元 A 轮（达泰资本领投等报道）；称行业服务网络覆盖 1000+ 律所、4000+ 企业客户（不等于 AI 产品付费客户）；正寻求新一轮融资",
+        "source_type": "媒体报道",
+        "source_url": "https://eu.36kr.com/zh/p/4028161120407940"
+      }
+    ],
+    "why_it_works": "先用专业个人订阅验证「可核验任务」再渗入组织采购，比一上来卖大客户实施更贴合法律行业信任结构。",
+    "takeaway": "中国垂直 Agent 里少见同时给出任务量、留存与产品分层的公开样本；付费转化率仍待披露。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": [
+      "法律AI",
+      "中国",
+      "工作流Agent",
+      "留存",
+      "订阅"
+    ],
+    "website": "https://www.zhiexa.com/",
+    "sources": [
+      "https://eu.36kr.com/zh/p/4028161120407940",
+      "https://cn.chinadaily.com.cn/a/202608/19/WS6a856d6ea3105d3d7a27bd19.html"
+    ],
+    "uncertain_points": "指标为公司披露经媒体转述；行业网络客户≠AI 付费客户；A 轮在 8 月，本窗口主要是 10/30 增长披露补强。"
+  },
+  {
+    "id": "juqiao-ant-series-a-fabric-tactile-skin",
+    "date_collected": "2026-11-02",
+    "status": "new",
+    "type": "both",
+    "name": "矩侨工业",
+    "one_liner": "蚂蚁领投亿元 A 轮的织物电子皮肤：400+ 客户（具身超 200）、触觉手套累计交付近万只，切入机器人数采与康养座椅",
+    "category": "硬件与端侧",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "压阻纤维织成柔性电子皮肤，卖触觉手套/机械臂皮肤及床垫、座椅、护理感知模组；手套服务真人示教与模型训练数据采集，并拓展家居/康养/汽车",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "亿元级 A 轮，蚂蚁集团领投，零以创投、威海港融、青岛和信跟投",
+        "source_type": "媒体报道（多维资本/36氪/第一财经）",
+        "source_url": "https://eu.36kr.com/zh/p/4046601648559232"
+      },
+      {
+        "label": "交付与客户",
+        "value": "服务 400 余家客户，具身智能领域超 200 家；触觉手套累计交付接近 1 万只；威海产线良率称超 95%",
+        "source_type": "媒体报道公司披露",
+        "source_url": "https://robrief.com/zh/articles/juqiao-ant-group-series-a-fabric-tactile-gloves"
+      },
+      {
+        "label": "产品参数",
+        "value": "全掌手套每手数百感知点、最小点距 2mm、可响应低至 0.01N；多层传感器厚度<0.8mm",
+        "source_type": "媒体报道公司披露",
+        "source_url": "https://eu.36kr.com/zh/p/4046601648559232"
+      }
+    ],
+    "why_it_works": "物理 AI 缺「接触力」数据；先用可量产织物手套从真人侧规模化采数，再延伸到机器人皮肤与日常家具，比纯实验室传感器更容易起量。",
+    "takeaway": "具身数据层的中国样本；需区分手套数采收入与机器人本体皮肤收入。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": [
+      "具身智能",
+      "触觉",
+      "电子皮肤",
+      "蚂蚁",
+      "硬件"
+    ],
+    "website": "https://www.gasgoo.com/robot/news/70476241-seeds-%E8%9A%82%E8%9A%81%E9%9B%86%E5%9B%A2%E9%A2%86%E6%8A%95/",
+    "sources": [
+      "https://eu.36kr.com/zh/p/4046601648559232",
+      "https://robrief.com/zh/articles/juqiao-ant-group-series-a-fabric-tactile-gloves",
+      "https://www.yicai.com/news/103414649.html"
+    ],
+    "uncertain_points": "融资精确金额未披露（「亿元」）；官网入口不清晰；公告约 10/28–29，属补收；部分自媒体提到营收数字未在主源交叉验证故未写入指标。"
+  },
+  {
+    "id": "agentmash-multiplayer-coding-agents",
+    "date_collected": "2026-11-02",
+    "status": "new",
+    "type": "innovative",
+    "name": "agentmash",
+    "one_liner": "开源多人协作层：让团队各成员的 coding agent 共享改动上下文、互相 @，减少并行改同一文件冲突",
+    "category": "编程开发",
+    "region": "海外",
+    "team_type": "独立开发者",
+    "business_model": "开源共享上下文层，可连接 Claude Code、Codex 等；商业化路径尚未在本窗口清晰披露",
+    "metrics": [
+      {
+        "label": "社区热度",
+        "value": "Product Hunt 2026-11-01 日榜约第 6（score≈115，评论约 15）",
+        "source_type": "Product Hunt 排行榜",
+        "source_url": "https://www.producthunt.com/leaderboard/daily/2026/11/1"
+      },
+      {
+        "label": "产品主张",
+        "value": "共享「队友 agent 正在改哪些文件」的上下文，支持跨模型任务切换与类 Slack 的 @mention",
+        "source_type": "Product Hunt / 官网",
+        "source_url": "https://agentmash.dev/"
+      }
+    ],
+    "why_it_works": "单人 vibe coding 工具已多，团队并行时缺的是 agent 之间的冲突感知；把 IDE 协作问题前移到 agent 层是自然下一步。",
+    "takeaway": "纯创新/开源热度收录，尚无融资或收入信号。",
+    "innovation_score": 4,
+    "business_score": 1,
+    "tags": [
+      "编程Agent",
+      "开源",
+      "多人协作",
+      "ProductHunt"
+    ],
+    "website": "https://agentmash.dev/",
+    "sources": [
+      "https://agentmash.dev/",
+      "https://www.producthunt.com/products/agentmash",
+      "https://www.producthunt.com/leaderboard/daily/2026/11/1"
+    ],
+    "uncertain_points": "无公开营收/融资；星标与生产采用量未核实。"
+  }
+]
