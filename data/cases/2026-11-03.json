@@ -1,0 +1,367 @@
+[
+  {
+    "id": "tutor-intelligence-75m-series-b-robot-workers",
+    "date_collected": "2026-11-03",
+    "status": "new",
+    "type": "both",
+    "name": "Tutor Intelligence",
+    "one_liner": "a16z 领投$7500万 B 轮、累计$1.17亿；以远程「导师」+按小时/按拣货计费，把仓库机器人 Sonny/Cassie 当劳动力卖而非卖硬件",
+    "category": "硬件与端侧",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "RaaS：客户不买机器人，按小时或按拣货付费、无长期合同；远程人类 tutors 介入卡住任务并产生训练数据，持续改进自研机器人基础模型；面向美国制造与物流仓储",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "Series B $7500万，Andreessen Horowitz 领投；USV、Neo 跟投；累计融资$1.17亿；估值未披露",
+        "source_type": "官方声明 / BusinessWire、公司与 a16z 投资笔记",
+        "source_url": "https://www.businesswire.com/news/home/20261102314852/en/Tutor-Intelligence-Raises-%2475-Million-Series-B-Led-by-Andreessen-Horowitz-to-Scale-Frontier-Robotics-Model-Training-Manufacturing-and-Deployment"
+      },
+      {
+        "label": "商业与部署",
+        "value": "按小时或按拣货收费；官网示意约自$14/小时起；设施数约为一年前近4倍；近1/3新部署客户为扩容老客；目标2027年底合同机器人超1000台；营收未披露",
+        "source_type": "媒体转述公司声明 / TNW、a16z",
+        "source_url": "https://thenextweb.com/news/tutor-intelligence-75m-series-b-a16z-robot-workers"
+      }
+    ],
+    "why_it_works": "先把硬件以远程导师跑通客户 ROI，再倒推训模型，避开「先堆通用模型再找场景」的烧钱路径；把 CapEx 机器人变成 OpEx 劳动力，打到中小制造物流的采购惯性。",
+    "takeaway": "物理 AI 的可验证叙事正在从「人形秀肌肉」转向「按小时交付吞吐」；观察站盯合同机器人规模与 tutors 人效能否随模型提升下降。",
+    "innovation_score": 5,
+    "business_score": 4,
+    "tags": ["机器人", "RaaS", "仓储物流", "a16z", "结果交付"],
+    "website": "https://tutorintelligence.com/",
+    "sources": [
+      "https://tutorintelligence.com/",
+      "https://www.businesswire.com/news/home/20261102314852/en/Tutor-Intelligence-Raises-%2475-Million-Series-B-Led-by-Andreessen-Horowitz-to-Scale-Frontier-Robotics-Model-Training-Manufacturing-and-Deployment",
+      "https://thenextweb.com/news/tutor-intelligence-75m-series-b-a16z-robot-workers",
+      "https://www.a16z.news/p/investing-in-tutor-intelligence"
+    ],
+    "uncertain_points": "估值与营收未披露；当前在运机器人台数未公开；官网小时价为营销页示意，合同结构可能因客户而异。"
+  },
+  {
+    "id": "larridin-30m-series-a-ai-measurement",
+    "date_collected": "2026-11-03",
+    "status": "new",
+    "type": "both",
+    "name": "Larridin",
+    "one_liner": "Pelion 领投$3000万 A 轮、累计$4700万；前 Comscore 团队做企业 AI 花费与人/Agent 产出测量，自称客户一年内从1家扩到50家",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "连接企业 AI 工具、用量账单与工作产出，衡量 ROI、优化花费并指导下一自动化流程；面向工程与跨部门 AI 采用场景",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "Series A $3000万，Pelion Ventures 领投；a16z、Gradient 等跟投；累计$4700万",
+        "source_type": "公司博客 / BusinessWire",
+        "source_url": "https://larridin.com/blog/larridin-raises-30-million-series-a-to-prove-the-impact-of-ai"
+      },
+      {
+        "label": "客户与效果（公司自述）",
+        "value": "CEO 称企业客户从去年12月1家增至约50家；已测超20亿次 AI session、超8.2万工作流；自称可测产出平均+47%、首年中位优化 AI 花费$240万；客户含 SurveyMonkey、Vertiv、Klaviyo、Gainsight 等",
+        "source_type": "创始人自述 / 公司声明 + TNW、Business Insider 转述",
+        "source_url": "https://thenextweb.com/news/larridin-30m-series-a-ai-spending-measurement"
+      }
+    ],
+    "why_it_works": "AI 账单突然变成公司前十大开支项时，买方需要独立于厂商仪表盘的「Comscore」；把费用、会话与交付物绑在一起，直接服务 CFO/工程负责人的问责压力。",
+    "takeaway": "Agent 经济的下一层基础设施是可审计的测量；观察站关注其指标能否被客户财务口径复算，而非只停在供应商叙事。",
+    "innovation_score": 3,
+    "business_score": 4,
+    "tags": ["AI测量", "FinOps", "企业AI", "ROI", "工程效能"],
+    "website": "https://larridin.com/",
+    "sources": [
+      "https://larridin.com/blog/larridin-raises-30-million-series-a-to-prove-the-impact-of-ai",
+      "https://thenextweb.com/news/larridin-30m-series-a-ai-spending-measurement",
+      "https://www.businesswire.com/news/home/20261102830406/en/Larridin-Raises-%2430-Million-in-Series-A-to-Prove-AIs-Impact-Across-the-Human-and-Agent-Workforce"
+    ],
+    "uncertain_points": "产出提升与花费优化数字均为公司自述，未见独立审计；ARR 未披露；客户「50家」为 CEO 对媒体口述。"
+  },
+  {
+    "id": "clark-11m-seed-ai-audit-clerks",
+    "date_collected": "2026-11-03",
+    "status": "new",
+    "type": "both",
+    "name": "Clark",
+    "one_liner": "Touring Capital 领投$1100万种子轮、累计$1600万；发布 Clerks——给 CPA 事务所做审计文书与追件的自主 AI 员工，已有35+家事务所使用",
+    "category": "法律金融",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "向 CPA 事务所提供审计 Agent（Clerks）：审阅文件、执行测试、准备底稿并主动向客户追索缺失材料；持证 CPA 保留判断与签字；提供准确性/同业复核相关承诺",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "种子轮$1100万，Touring Capital 领投；Marathon、Rerail、Sofeon 参投；连同2025年9月$500万，累计$1600万",
+        "source_type": "官方新闻稿 / PR Newswire",
+        "source_url": "https://www.prnewswire.com/news-releases/clark-launches-autonomous-ai-employees-for-audit-and-raises-11m-seed-round-bringing-total-funding-to-16m-302925250.html"
+      },
+      {
+        "label": "客户",
+        "value": "公司称超35家 CPA 事务所使用，名单含 CliftonLarsonAllen、Aprio、Kreischer Miller、Sensiba 等；ARR 未披露",
+        "source_type": "公司声明 / TNW 转述",
+        "source_url": "https://thenextweb.com/news/clark-11m-seed-clerks-ai-audit-employees"
+      }
+    ],
+    "why_it_works": "审计是按小时卖信任的生意，文书追件与底稿是可产品化的长链路工作；把 Agent 绑在持证 CPA 签字责任上，并用金钱担保准确性，降低监管与声誉风险。",
+    "takeaway": "专业服务 Agent 的分水岭是「谁对错误付钱」；观察站跟进其担保兑现与政府连续审计扩展是否落地。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": ["审计", "CPA", "自主Agent", "专业服务", "合规"],
+    "website": "https://getclark.com/",
+    "sources": [
+      "https://www.prnewswire.com/news-releases/clark-launches-autonomous-ai-employees-for-audit-and-raises-11m-seed-round-bringing-total-funding-to-16m-302925250.html",
+      "https://thenextweb.com/news/clark-11m-seed-clerks-ai-audit-employees",
+      "https://getclark.com/"
+    ],
+    "uncertain_points": "「100%准确性担保」的赔付条款未公开；35家客户中付费深度与 ARR 未知；前身 uiAgent 改名后的历史指标未单独披露。"
+  },
+  {
+    "id": "roleo-2-9m-euro-ai-career-agent",
+    "date_collected": "2026-11-03",
+    "status": "new",
+    "type": "both",
+    "name": "Roleo",
+    "one_liner": "Practica 领投€290万、累计€346万；Veriff 联合创始人做面向欧洲科技人的免费个人职业 Agent，企业按招聘付费，自称已促成3万次用户主动探索机会",
+    "category": "客服销售",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "C 端免费个人职业 Agent：持续盯岗、筛选并在合适时引荐至招聘经理；B 端企业在成功招聘时付费；匿名直至候选人同意",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "€290万，Practica Capital 领投，Inventure 参投；累计融资€346万",
+        "source_type": "公司博客 / Tech.eu",
+        "source_url": "https://roleo.com/blog/roleo-raises-funding-europe"
+      },
+      {
+        "label": "使用（公司自述）",
+        "value": "自2026年初起，Agent 已为用户连接约3万个其选择进一步了解的职业机会；每周评估数十万岗位；用户含 Google、Amazon、Stripe、Spotify 等背景人士（未披露付费客户数/收入）",
+        "source_type": "创始人/公司自述",
+        "source_url": "https://tech.eu/2026/11/02/veriff-co-founders-roleo-raises-eur29m-to-expand-ai-career-agent-across-europe/"
+      }
+    ],
+    "why_it_works": "被动候选人是招聘市场最贵的池子；免费 Agent 换取持续偏好数据，企业按结果付费，避开求职板广告的注意力税。",
+    "takeaway": "职业市场的 Agent 形态更像「常驻猎头」而非简历改写器；需验证欧洲扩城后的匹配转化与雇主付费意愿。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": ["职业Agent", "招聘", "欧洲", "双边市场", "免费获客"],
+    "website": "https://roleo.com/",
+    "sources": [
+      "https://roleo.com/blog/roleo-raises-funding-europe",
+      "https://tech.eu/2026/11/02/veriff-co-founders-roleo-raises-eur29m-to-expand-ai-career-agent-across-europe/"
+    ],
+    "uncertain_points": "3万「探索机会」非成交雇佣数；收入与雇主付费率未披露；「免费」可持续性依赖 B 端转化。"
+  },
+  {
+    "id": "genrobot-100m-series-a-plus-robot-data",
+    "date_collected": "2026-11-03",
+    "status": "new",
+    "type": "both",
+    "name": "简智机器人（GenRobot AI）",
+    "one_liner": "北京具身数据公司披露 Q3 交割的$1亿 A+ 轮；上汽、百度、银河通用等产业方入局，卖人类示教采集设备与 Matrix 数据治理/评测平台",
+    "category": "硬件与端侧",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "为机器人/世界模型研发提供数据采集设备、同步清洗标注平台与评测产线；覆盖家庭、工业、物流等场景的人类示教数据",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "A+ 轮$1亿，2026年Q3完成、11月2日披露；产业方含上汽、Eastworlds、百度、首程控股、银河通用；财务方含光合创投、中信金石、建银国际、华泰紫金等",
+        "source_type": "媒体综合公司披露 / 动点科技、第一财经",
+        "source_url": "https://cn.technode.com/post/2026-11-02/genrobot-ai-100-million-series-a-plus-funding/"
+      },
+      {
+        "label": "客户",
+        "value": "公司称已与30多家国内外 AI 企业合作；收入未披露",
+        "source_type": "公司官网/媒体转述",
+        "source_url": "https://cn.technode.com/post/2026-11-02/genrobot-ai-100-million-series-a-plus-funding/"
+      }
+    ],
+    "why_it_works": "人形与操作机器人瓶颈在高质量交互数据；不造本体、专做采集+治理，能同时吃产业资本与多家机器人客户的重复采购。",
+    "takeaway": "中国具身赛道资本继续加码「卖铲子」；观察站看其数据能否形成可迁移的标准评测，而非一次性项目交付。",
+    "innovation_score": 3,
+    "business_score": 4,
+    "tags": ["具身智能", "训练数据", "示教采集", "产业资本", "物理AI"],
+    "website": "https://www.genrobot.ai/",
+    "sources": [
+      "https://cn.technode.com/post/2026-11-02/genrobot-ai-100-million-series-a-plus-funding/",
+      "https://technode.com/2026/11/02/robot-training-data-startup-genrobot-ai-raises-100-million-in-series-a-funding/",
+      "https://www.yicai.com/news/103420710.html"
+    ],
+    "uncertain_points": "官网域名以公开报道为准，若跳转异常需复核；估值未披露；「30多家合作」深度与付费结构未知；交割在Q3、披露在11/2，属披露窗口收录。"
+  },
+  {
+    "id": "roboscience-a2-hundreds-millions-cny-embodied",
+    "date_collected": "2026-11-03",
+    "status": "new",
+    "type": "both",
+    "name": "RoboScience（机器科学）",
+    "one_liner": "前苹果 AI Platform 负责人田野团队完成 A2 轮「数亿元」融资，360战投等参与；推 Visics 具身大模型、REX G1 与腾讯云 EaaS",
+    "category": "硬件与端侧",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "「数据-模型-本体」一体：仿真+视频数据飞轮、Visics 通用具身大模型、REX G1 轮式仿人操作机器人，并以云端 EaaS/API（已上线腾讯云）对外调用",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "A2 轮数亿元人民币，琥珀资本、鸿瑞达、上海半导体产投联合领投；爽资本、360战投、国联通宝、金鼎等跟投；此前已完成种子/天使/Pre-A/A（媒体称A轮约10亿元）",
+        "source_type": "媒体报道公司声明 / 智东西、每日经济新闻",
+        "source_url": "https://www.zhidx.com/p/606459.html"
+      },
+      {
+        "label": "数据规模（公司自述）",
+        "value": "称2026年初至10月视频训练数据从100万小时增至400万小时，仿真轨迹累计超百亿次；单条数据成本自称可压至约0.05元",
+        "source_type": "公司自述 / 智东西转述",
+        "source_url": "https://www.zhidx.com/p/606459.html"
+      }
+    ],
+    "why_it_works": "把苹果端云协同经验迁到具身，并用极低边际成本数据飞轮支撑跨本体操作；云 API 打开「不买整机也能试模型」的销售漏斗。",
+    "takeaway": "国内具身融资仍密，但「数亿元」模糊金额要求后续交割与落地订单来验证；关注零售/物流 POC 是否转成付费规模。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": ["具身大模型", "仿真数据", "EaaS", "360战投", "机器人"],
+    "website": "https://www.roboscience.ai/",
+    "sources": [
+      "https://www.zhidx.com/p/606459.html",
+      "https://www.nbd.com.cn/articles/2026-11-02/4633983.html",
+      "https://www.21jingji.com/article/20261102/herald/0774e2f91d54e3e60f04af84a8e759e3.html"
+    ],
+    "uncertain_points": "A2 精确金额未披露（仅「数亿元」）；历史A轮「10亿元」为媒体口径；官网域名待页面可达性复核；商业收入与付费客户未披露。"
+  },
+  {
+    "id": "manuprax-near-10m-usd-dexterous-cerebellum",
+    "date_collected": "2026-11-03",
+    "status": "new",
+    "type": "innovative",
+    "name": "机本智能",
+    "one_liner": "清北00后团队9月成立即连续两轮近千万美元，做机器人灵巧操作「小脑」软硬一体方案，通院背景项目",
+    "category": "硬件与端侧",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "定位上层大模型与硬件之间的灵巧操作基础模型/灵巧手方案：用强化学习把操作目标转为连续协调动作，并适配不同灵巧手硬件",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "连续完成两轮，累计近千万美元（媒体约合¥0.67亿）；分别由 Alphaist Partners、耀途资本领投，接力天使及零部件产业方实控人跟投",
+        "source_type": "媒体报道 / 智东西、投中网",
+        "source_url": "https://www.zhidx.com/p/606419.html"
+      }
+    ],
+    "why_it_works": "把「小脑」做成可调用中间层，避开整机军备竞赛，瞄准所有需要灵巧手的本体厂商与集成商。",
+    "takeaway": "极早期项目，商业信号主要是融资与研究院背书；收入与真机交付尚待验证，作创新形态收录。",
+    "innovation_score": 4,
+    "business_score": 2,
+    "tags": ["灵巧操作", "小脑模型", "00后创业", "强化学习", "具身"],
+    "website": "",
+    "sources": [
+      "https://www.zhidx.com/p/606419.html",
+      "https://www.chinaventure.com.cn/flash/20261102-90221.html"
+    ],
+    "uncertain_points": "精确分轮金额未拆；官网未在公开报道中稳定给出；尚无公开收入/客户；「近千万美元」为累计口径。"
+  },
+  {
+    "id": "easol-30m-teammates-experience-agents",
+    "date_collected": "2026-11-03",
+    "status": "new",
+    "type": "both",
+    "name": "Easol",
+    "one_liner": "体验业 commerce 平台完成$3000万 A 轮增资（含债）、累计$6000万，并上线站内 Teammates Agent；2026年已服务约280万宾客预订",
+    "category": "电商零售",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "为音乐节、场馆、运动与本地娱乐等体验业务提供预订/支付/营销/客服一体平台，并在平台内生成使用实时业务数据的 Teammates AI 员工做销售、运营与追款",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "$3000万 Series A extension：$2000万股权（YC、Tiger Global、Foundation Capital 等）+$1000万 Viola Credit 债务；累计融资$6000万",
+        "source_type": "官方新闻稿 / PR Newswire（2026-10-28）",
+        "source_url": "https://www.prnewswire.com/news-releases/experience-commerce-platform-easol-raises-30-million-launches-total-ai-solution-for-experience-businesses-302921596.html"
+      },
+      {
+        "label": "业务规模（公司自述）",
+        "value": "2026年迄今为135+国约280万宾客提供预订；客户含 Coachella、Stagecoach、Defected、Swingers 等；案例称某 Teammate 发现约$5万追加销售机会、另一例秒级识别约$2.8万可追回款项",
+        "source_type": "公司声明",
+        "source_url": "https://www.prnewswire.com/news-releases/experience-commerce-platform-easol-raises-30-million-launches-total-ai-solution-for-experience-businesses-302921596.html"
+      }
+    ],
+    "why_it_works": "体验商家团队极小、工具碎片化；把 Agent 嵌进已托管的预订与支付数据平面，比外挂聊天机器人更能直接抓漏单与坏账。",
+    "takeaway": "垂直 SaaS + 站内 Agent 是「有数据才有员工」的典型路径；本条为10/28公告、观察站11/3补收。",
+    "innovation_score": 3,
+    "business_score": 4,
+    "tags": ["体验经济", "站内Agent", "票务", "垂直SaaS", "增收自动化"],
+    "website": "https://www.easol.com/",
+    "sources": [
+      "https://www.prnewswire.com/news-releases/experience-commerce-platform-easol-raises-30-million-launches-total-ai-solution-for-experience-businesses-302921596.html",
+      "https://www.phocuswire.com/news/finance/easol-lands-30m-bring-ai-experiences-businesses"
+    ],
+    "uncertain_points": "公告日为10/28，属略超严格24h窗口的补收；Agent 增收案例为公司挑选故事；ARR 未披露。"
+  },
+  {
+    "id": "itau-neospace-2-925b-brl-ai-acquisition",
+    "date_collected": "2026-11-03",
+    "status": "new",
+    "type": "profitable",
+    "name": "NeoSpace（Itaú 收购）",
+    "one_liner": "巴西银行 Itaú 签约以约29.25亿雷亚尔（媒体约合$5.8–5.9亿）收购数据基础模型公司 NeoSpace，深化信贷/风控/投顾等生成式 AI",
+    "category": "法律金融",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "为金融机构开发数据基础模型与生成式 AI 应用（信贷、财务管理、客户关系、反欺诈等）；收购后保持相对独立运营，服务 Itaú 的 ia.i 平台与对外金融场景",
+    "metrics": [
+      {
+        "label": "收购对价",
+        "value": "Itaú 签约收购全部股份，对价 R$29.25亿；部分交割时支付、其余约五年分期；尚待 CADE 与巴西央行批准",
+        "source_type": "官方/监管披露 + Valor International、路透系转述",
+        "source_url": "https://valorinternational.globo.com/business/news/2026/10/26/itau-agrees-to-buy-neospace-for-r29bn-expanding-ai-investment.ghtml"
+      }
+    ],
+    "why_it_works": "大行不愿只做模型租户，宁愿买下已共同打磨两年的数据基础模型团队，把差异化锁进自有栈。",
+    "takeaway": "银行对「进流程的 AI」愿付整价；本条为10/26签约、观察站补收，交割与协同产品仍待观察。",
+    "innovation_score": 3,
+    "business_score": 5,
+    "tags": ["银行并购", "基础模型", "巴西", "金融AI", "退出"],
+    "website": "",
+    "sources": [
+      "https://valorinternational.globo.com/business/news/2026/10/26/itau-agrees-to-buy-neospace-for-r29bn-expanding-ai-investment.ghtml",
+      "https://www.channelnewsasia.com/business/brazils-itau-agrees-buy-ai-startup-neospace-589-million-6492871"
+    ],
+    "uncertain_points": "签约日10/26，略出24h窗，作重大并购补收；美元换算随汇率浮动；NeoSpace 独立官网与历史收入未在英文稿中完整披露；交易未交割。"
+  },
+  {
+    "id": "asymptote-beacon-5-5m-agent-runtime",
+    "date_collected": "2026-11-03",
+    "status": "new",
+    "type": "both",
+    "name": "Asymptote Labs（Beacon）",
+    "one_liner": "Tower Research 领投$550万种子轮的 Agent 运行时可见性层；开源 Beacon 11/2 登顶 Product Hunt，覆盖 Claude Code/Cursor 等20+ Agent 框架",
+    "category": "编程开发",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "开源 Beacon 采集并归一化多框架 Agent 遥测；商业版在此之上做实时检测、策略护栏与治理，卖给企业安全/平台团队",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "超额认购种子轮$550万，Tower Research Ventures 领投；Lytical、1984 Ventures、South Park Commons 参投（公司公告日期2026-10-20）",
+        "source_type": "公司官方博客",
+        "source_url": "https://www.asymptotelabs.ai/blog/asymptote-labs-raises-5-5m-seed-round"
+      },
+      {
+        "label": "社区热度",
+        "value": "称 GitHub star 9月增长超460%，曾进 GitHub 全球趋势 Top3；2026-11-02 Product Hunt 日榜第1（beacon.sh）",
+        "source_type": "公司自述 + Product Hunt 日榜",
+        "source_url": "https://www.producthunt.com/leaderboard/daily/2026/11/2"
+      }
+    ],
+    "why_it_works": "企业同时跑多套 Agent 框架却没有统一运行时账本；开源换开发者分布，商业版卖安全响应，踩中合规采购。",
+    "takeaway": "Agent 安全/可观测正在产品化；融资公告偏早、以 PH 爆发与持续传播纳入本窗口，需区分融资日与上架日。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": ["Agent运行时", "开源", "安全可观测", "ProductHunt", "OTel"],
+    "website": "https://beacon.sh/",
+    "sources": [
+      "https://www.asymptotelabs.ai/blog/asymptote-labs-raises-5-5m-seed-round",
+      "https://beacon.sh/",
+      "https://www.producthunt.com/leaderboard/daily/2026/11/2"
+    ],
+    "uncertain_points": "融资公告为10/20，本窗口主要依据11/2 PH#1与传播；企业付费客户数与 ARR 未披露；star 增长为公司自述。"
+  }
+]
