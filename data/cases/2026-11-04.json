@@ -1,0 +1,529 @@
+[
+  {
+    "id": "traversal-120m-1b-ai-sre",
+    "date_collected": "2026-11-04",
+    "status": "new",
+    "type": "both",
+    "name": "Traversal",
+    "one_liner": "Kleiner Perkins、Redpoint、Khosla 联合领投$1.2亿、估值$10亿；做企业级 AI SRE，用因果 ML + Production World Model 自主排查生产故障，公司称 YTD ARR 增约9倍",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "向企业工程/SRE 团队销售 AI 站点可靠性工程师（AI SRE）：持续建模生产依赖与遥测，自主调查、定位根因并协助修复/预防事故；客户含 Nubank、Harvey、DigitalOcean、PepsiCo 等",
+    "metrics": [
+      {
+        "label": "融资与估值",
+        "value": "新融资$1.2亿，估值$10亿；Kleiner Perkins、Redpoint、Khosla 联合领投，Sequoia、Battery、Amex Ventures 参投；累计融资约$1.73亿",
+        "source_type": "官方新闻稿 / BusinessWire + 公司博客",
+        "source_url": "https://www.businesswire.com/news/home/20261103122345/en/Traversal-Raises-%24120M-with-a-%241-Billion-Valuation-to-Keep-Code-Running-With-a-Superintelligent-AI-Site-Reliability-Engineer"
+      },
+      {
+        "label": "采用与增长（公司自述）",
+        "value": "称 YTD ARR 增长约9倍、产品用量近100倍、MAU 近20倍；上季度客户调查超15万次，支撑超4000名工程师、1000+重大与5万+次要事故；营收绝对额未披露",
+        "source_type": "公司声明 / BusinessWire、媒体转述",
+        "source_url": "https://techstartups.com/2026/11/03/traversal-raises-120m-at-1b-valuation-to-build-ai-engineers-that-tackle-software-outages/"
+      }
+    ],
+    "why_it_works": "AI 写码提速让生产事故更密、更贵，而通用 Agent 在真实 RCA 上准确率仍低；Traversal 用因果搜索与生产世界模型把「外环运维」产品化，直接卖给被 on-call 压垮的平台团队。",
+    "takeaway": "编码 Agent 的对称面是可靠性 Agent；观察站盯其绝对 ARR、自动修复闭环深度，以及 ORCA-bench 类基准能否被第三方复现。",
+    "innovation_score": 5,
+    "business_score": 5,
+    "tags": [
+      "AI SRE",
+      "因果机器学习",
+      "企业运维",
+      "独角兽",
+      "生产事故"
+    ],
+    "website": "https://www.traversal.com/",
+    "sources": [
+      "https://www.traversal.com/blog",
+      "https://www.businesswire.com/news/home/20261103122345/en/Traversal-Raises-%24120M-with-a-%241-Billion-Valuation-to-Keep-Code-Running-With-a-Superintelligent-AI-Site-Reliability-Engineer",
+      "https://techstartups.com/2026/11/03/traversal-raises-120m-at-1b-valuation-to-build-ai-engineers-that-tackle-software-outages/"
+    ],
+    "uncertain_points": "ARR 仅披露倍数未给绝对数；根因准确率与 MTTR 改善多为公司口径；「自修复」与「辅助诊断」边界未在公开材料中严格拆分。"
+  },
+  {
+    "id": "fal-1-65b-series-e-f-16b-valuation",
+    "date_collected": "2026-11-04",
+    "status": "new",
+    "type": "both",
+    "name": "fal",
+    "one_liner": "Sequoia 领投 E + Bessemer 领投 F，合计$16.5亿、估值$160亿；面向生成式媒体推理 API，Bloomberg 称年内 ARR 已超$8亿",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "托管并运行图像/视频/音频等生成模型的推理平台，按 API/用量向娱乐、广告、电商与游戏等客户收费；兼做后训练与自研模型以提升生成媒体质量与速度",
+    "metrics": [
+      {
+        "label": "融资与估值",
+        "value": "Series E（Sequoia）与 Series F（Bessemer，NVIDIA 战略投资）合计$16.5亿；最新一轮估值$160亿（较4月约$80亿翻倍）；F 轮约$13亿口径见 TechCrunch/Bloomberg",
+        "source_type": "公司博客 / TechCrunch、Bloomberg 报道",
+        "source_url": "https://fal.ai/blog/series-e-f"
+      },
+      {
+        "label": "营收（媒体转述）",
+        "value": "Bloomberg 称 fal 年内早些时候年化收入已超$8亿；毛利率承压因算力成本高，同赛道共性",
+        "source_type": "媒体估算/转述 / TechCrunch 引 Bloomberg",
+        "source_url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/"
+      }
+    ],
+    "why_it_works": "生成媒体从实验变成流水线产能后，买方要的是「多模型一条 API + 足够快的吞吐」；fal 把推理容量与创作者工作流绑在一起，吃到开源/专用媒体模型爆发。",
+    "takeaway": "推理层巨额融资仍在加速，但高收入不等于厚利润；观察站对照 Modal/Baseten 等看毛利与客户集中度。",
+    "innovation_score": 3,
+    "business_score": 5,
+    "tags": [
+      "推理平台",
+      "生成媒体",
+      "API",
+      "GPU算力",
+      "估值"
+    ],
+    "website": "https://fal.ai/",
+    "sources": [
+      "https://fal.ai/blog/series-e-f",
+      "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+      "https://www.bvp.com/news/investing-in-fal-the-generative-media-company"
+    ],
+    "uncertain_points": "公司博客未分拆 E/F 各自金额；$8亿 ARR 来自 Bloomberg 二手报道而非公司财报；毛利率与净利未披露。"
+  },
+  {
+    "id": "applied-compute-350m-100m-arr",
+    "date_collected": "2026-11-04",
+    "status": "new",
+    "type": "both",
+    "name": "Applied Compute",
+    "one_liner": "Elad Gil 领投$3.5亿、估值$32.5亿；成立不足18个月称达$1亿年化收入，为企业在自有数据上训练并持续改进模型",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "为企业提供定制模型训练、推理与持续改进平台（含 AC2 Agent Cloud）；客户用自有生产数据与反馈 post-train，并在同一栈上做部署与评估；案例含 Harvey、Clay 等",
+    "metrics": [
+      {
+        "label": "融资与估值",
+        "value": "新融资$3.5亿，估值$32.5亿；Elad Gil 领投，Kleiner Perkins、Lux、NVIDIA、Blackstone、Shopify Ventures、HubSpot Ventures 等参投",
+        "source_type": "公司官方博客",
+        "source_url": "https://appliedcompute.network/company/100m-run-rate-fundraise"
+      },
+      {
+        "label": "营收与用量（公司自述）",
+        "value": "成立不到18个月达$1亿年化收入 run rate；AC Inference 日处理超1万亿 token；自7月以来客户完成超1700次训练；约40%客户同时使用训练与推理",
+        "source_type": "创始人自述 / 公司声明",
+        "source_url": "https://appliedcompute.network/company/100m-run-rate-fundraise"
+      }
+    ],
+    "why_it_works": "开源底座够强后，企业真正买单的是「用自己的工作反馈把模型训成自家资产」；把训练、推理、路由与持续改进捆成一站，缩短从试点到生产的路径。",
+    "takeaway": "企业 AI 基建叙事从「调 API」转向「拥有并迭代专属智能」；观察站核对$1亿 run rate 的可持续性与大客户依赖。",
+    "innovation_score": 4,
+    "business_score": 5,
+    "tags": [
+      "企业模型",
+      "训练推理一体",
+      "Agent Cloud",
+      "定制模型",
+      "ARR"
+    ],
+    "website": "https://appliedcompute.network/",
+    "sources": [
+      "https://appliedcompute.network/company/100m-run-rate-fundraise",
+      "https://www.lw.com/en/news/2026/11/latham-advises-applied-compute-on-financing"
+    ],
+    "uncertain_points": "官宣落在11月2日，本窗口作补收；run rate 与 token 量均为公司自述，未见独立审计；估值与轮次条款细节有限。"
+  },
+  {
+    "id": "lazarus-ai-43m-independent-enterprise-ai",
+    "date_collected": "2026-11-04",
+    "status": "new",
+    "type": "both",
+    "name": "Lazarus AI",
+    "one_liner": "融资$4300万；主打企业/政府可控的「Independent AI」——文档分析、代码安全与遗留系统现代化，客户保留数据、模型与部署经济学",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "向保险、医疗、政府、金融等受监管客户销售可本地/主权/自有云部署的 AI 系统；产品含复杂文档核验、Clearwing 源码漏洞复现与修复建议、Constructor 遗留系统现代化；宣称非按 token 计费",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "融资$4300万；参投方含 QBE、Mucker Capital、Motivate Ventures、State Farm Ventures、Wave Function Ventures、Techstars、Plug and Play 等；轮次名称未单独标明",
+        "source_type": "官方新闻稿 / BusinessWire + Pulse2",
+        "source_url": "https://www.businesswire.com/news/home/20261103440906/en/Lazarus-AI-Raises-%2443-Million-to-Advance-Independent-AI"
+      },
+      {
+        "label": "产品效果（公司自述）",
+        "value": "称跨150个客户用例字段级准确率较独立模型提升12.5个百分点；模型化高用量部署场景年运营成本可降约78%；Constructor 正与两家大型主机厂商试点；ARR 未披露",
+        "source_type": "公司声明 / Pulse2 转述",
+        "source_url": "https://pulse2.com/lazarus-ai-raises-43-million-to-expand-independent-ai-platform-for-enterprises-and-governments/"
+      }
+    ],
+    "why_it_works": "受监管买方把「谁拥有模型与证据链」当成采购门槛；Lazarus 用可验证引用、本地部署与非 token 经济学回应控制权焦虑，而不是再卖一层黑盒 API。",
+    "takeaway": "主权/可控 AI 从口号变成可报价产品线；观察站关注其准确率提升与成本对比是否可被客户审计复算。",
+    "innovation_score": 3,
+    "business_score": 3,
+    "tags": [
+      "企业AI",
+      "主权AI",
+      "文档智能",
+      "网络安全",
+      "遗留现代化"
+    ],
+    "website": "https://www.lazarusai.com/",
+    "sources": [
+      "https://www.businesswire.com/news/home/20261103440906/en/Lazarus-AI-Raises-%2443-Million-to-Advance-Independent-AI",
+      "https://pulse2.com/lazarus-ai-raises-43-million-to-expand-independent-ai-platform-for-enterprises-and-governments/",
+      "https://www.lazarusai.com/"
+    ],
+    "uncertain_points": "轮次与投前/投后估值未披露；78%成本降幅为模型化示例；客户数量与付费深度未公开。"
+  },
+  {
+    "id": "42ai-62-5m-seed-behavioral-world-model",
+    "date_collected": "2026-11-04",
+    "status": "new",
+    "type": "both",
+    "name": "42AI",
+    "one_liner": "以色列团队以$6250万种子资金出隐身；做预测交易者行为的「行为世界模型」，称已服务10家大型券商并有七位数收入",
+    "category": "法律金融",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "向券商等金融机构出售行为世界模型，用于预测客户在波动行情下的交易方向/量级，辅助流动性、保证金与对冲；收费为固定费或按创造价值抽成",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "种子资金$6250万，由创始人与 Infinity Group 在约三年内投入（非常规外部财团轮）；计划继续对外融资",
+        "source_type": "媒体采访 / TechCrunch",
+        "source_url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/"
+      },
+      {
+        "label": "客户与收入（创始人自述）",
+        "value": "称与10家大型券商合作；收入「超过七位数」；自称交易流预测区间准确率约98%、方向与量级 F1 约0.8–0.85；一例称动态对冲为客户多创造约$3000万价值",
+        "source_type": "创始人自述 / TechCrunch、SiliconANGLE",
+        "source_url": "https://siliconangle.com/2026/11/02/42ai-launches-with-62-5m-to-predict-how-traders-act-when-markets-turn-volatile/"
+      }
+    ],
+    "why_it_works": "券商在波动日真正怕的是客户行为突变带来的流动性与保证金缺口；把非交易互动（入职、客服、转账）与市场上下文编成可解释的行为概率，比纯行情模型更贴买方痛点。",
+    "takeaway": "「世界模型」叙事进入金融行为层；融资结构偏家族资本、效果指标需独立复核，伦理与滥用风险也需盯紧。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": [
+      "行为世界模型",
+      "金融AI",
+      "券商",
+      "预测",
+      "以色列"
+    ],
+    "website": "https://42ai.com/",
+    "sources": [
+      "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+      "https://siliconangle.com/2026/11/02/42ai-launches-with-62-5m-to-predict-how-traders-act-when-markets-turn-volatile/",
+      "https://42ai.com/"
+    ],
+    "uncertain_points": "官宣约11月2日 PST，作窗口补收；资金主要来自创始人/关联 Infinity，非典型市场化种子轮；准确率定义偏「落在预测区间内」；隐私与客户剥削风险公司回应偏原则性。"
+  },
+  {
+    "id": "moffett-ai-c-plus-nearly-1b-cny-inference-chip",
+    "date_collected": "2026-11-04",
+    "status": "new",
+    "type": "both",
+    "name": "墨芯人工智能（Moffett AI）",
+    "one_liner": "稀疏推理芯片再融近10亿元 C+，五个月内两轮合计近20亿元；推理集群已落四区域并接入运营商算力服务",
+    "category": "硬件与端侧",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "围绕稀疏计算做云端/终端 AI 推理芯片与软件栈，向云计算与运营商场景提供推理集群与板卡（规划 SP200），按硬件与算力服务商业化",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "C+轮近10亿元人民币；投资方含仁爱资本、海棠基金、东恒石油、比丘资本、派拉资本、中财资本等；距上一轮近10亿约五个月，两轮累计近20亿",
+        "source_type": "媒体报道公司披露 / 动点科技、投资界、投中网",
+        "source_url": "https://cn.technode.com/post/2026-11-03/moffett-ai-series-c-plus-funding-one-billion-yuan/"
+      },
+      {
+        "label": "部署与增长（公司自述）",
+        "value": "称自研芯片推理集群已在西北、西南、华东、华北部署，并与头部电信运营商合作纳入算力服务；称2026年三季度营收数倍增长；绝对营收未披露",
+        "source_type": "公司声明 / 动点科技转述",
+        "source_url": "https://news.pedaily.cn/202611/571246.shtml"
+      }
+    ],
+    "why_it_works": "推理成本成为生成式应用扩量瓶颈时，稀疏专用芯片用「少算」换吞吐；运营商渠道把芯片卖进标准化算力货架，缩短从板卡到账单的路径。",
+    "takeaway": "中国推理芯片仍在用连续大额融资换生态位；观察站跟进 SP200 出货与运营商合同是否可验证。",
+    "innovation_score": 3,
+    "business_score": 4,
+    "tags": [
+      "推理芯片",
+      "稀疏计算",
+      "算力",
+      "运营商",
+      "国产AI芯片"
+    ],
+    "website": "https://www.moffett.ai/",
+    "sources": [
+      "https://cn.technode.com/post/2026-11-03/moffett-ai-series-c-plus-funding-one-billion-yuan/",
+      "https://news.pedaily.cn/202611/571246.shtml",
+      "https://www.chinaventure.com.cn/news/64-20261103-393892.html"
+    ],
+    "uncertain_points": "「近10亿」为约数；三季度「数倍增长」无基数；网站与英文品牌拼写以公开报道为准，客户名单未详列。"
+  },
+  {
+    "id": "nanochap-500m-cny-c-plus-visual-bci",
+    "date_collected": "2026-11-04",
+    "status": "new",
+    "type": "both",
+    "name": "暖芯迦（Nanochap）",
+    "one_liner": "高榕领投5亿元 C+、累计约10亿元；视觉重建脑机接口进入 GCP 临床试验，已有三位受试者植入并完成字母识别等任务",
+    "category": "医疗健康",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "研发视网膜与视皮层视觉重建脑机接口（自研芯片/电极/算法/系统），通过临床试验推进医疗器械注册与商业化；当前重点在临床转化而非消费硬件销售",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "C+轮5亿元人民币，高榕创投领投；人保股权、Monolith砺思、建发新兴、东方嘉富、丹合、杭州产投等跟投，君联等老股东超额追投；年内第二轮，累计约10亿元",
+        "source_type": "公司新闻 / 动点科技、投资界、东方财富",
+        "source_url": "https://cn.technode.com/post/2026-11-03/nanochap-series-c-plus-funding-visual-brain-computer-interface/"
+      },
+      {
+        "label": "临床进展（公司披露）",
+        "value": "320通道视网膜 E-BCI 进入 GCP 临床试验，已有三位受试者植入；称首位开机次日可识别部分字母，两月内逐步完成书写、抓杯、沿线行走等；1280通道皮层产品仍在研发",
+        "source_type": "公司声明 / 动点科技、智东西",
+        "source_url": "https://www.zhidx.com/p/606828.html"
+      }
+    ],
+    "why_it_works": "视觉重建是少有可被「识别字母/抓取行走」直观验证的 BCI 场景；自研全栈降低临床迭代摩擦，资本愿意为进入人体试验的稀缺资产加注。",
+    "takeaway": "中国视觉 BCI 进入可数的人体样本阶段；观察站跟进更大样本、对照结果与器械审批节点，而非单次个案叙事。",
+    "innovation_score": 5,
+    "business_score": 3,
+    "tags": [
+      "脑机接口",
+      "视觉重建",
+      "临床试验",
+      "医疗器械",
+      "神经科技"
+    ],
+    "website": "https://www.nanochap.cn/",
+    "sources": [
+      "https://cn.technode.com/post/2026-11-03/nanochap-series-c-plus-funding-visual-brain-computer-interface/",
+      "https://news.pedaily.cn/202611/571250.shtml",
+      "https://www.zhidx.com/p/606828.html"
+    ],
+    "uncertain_points": "受试者仅三例，长期安全性与可重复性未充分公开；商业化路径与定价未披露；「识别字母」等结果为公司叙述。"
+  },
+  {
+    "id": "sazi-intelligent-pre-b-multiarm-industrial-robots",
+    "date_collected": "2026-11-04",
+    "status": "new",
+    "type": "both",
+    "name": "飒智智能",
+    "one_liner": "建投投资、南通投管、云启资本投出数亿元 Pre-B；多臂工业具身机器人+玄枢世界模型，称全球500强/上市客户超50家、上半年已完成去年全年任务",
+    "category": "硬件与端侧",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "向3C半导体、汽车、能源、食品医药等卖多臂工业机器人本体与工业世界模型能力，靠产线交付与复购变现；同步拓展墨西哥与东南亚等海外订单",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "Pre-B轮数亿元人民币；投资方为建投投资、南通投管、云启资本；资金用于大模型、多臂本体、产线扩建与海外拓展",
+        "source_type": "36氪首发 / 智通财经、虎嗅",
+        "source_url": "https://eu.36kr.com/zh/p/4053394503603076"
+      },
+      {
+        "label": "商业化（创始人自述）",
+        "value": "称覆盖四大行业，全球500强或上市公司客户超50家；今年上半年已完成去年全年任务，全年业务基本翻番（增速约100%–120%）；海外意向订单超五亿元；ARR/利润未披露",
+        "source_type": "创始人自述 / 36氪访谈",
+        "source_url": "https://eu.36kr.com/zh/p/4053394503603076"
+      }
+    ],
+    "why_it_works": "工业客户要的是狭小空间里可验证的节拍与确定性，而不是秀人形；多臂构型+工业世界模型把「替人工序」做成可复购的产线资产。",
+    "takeaway": "具身落地正从通用人形叙事切回工业多臂与世界模型；观察站核对海外意向单转化与「数亿元」轮次精确额。",
+    "innovation_score": 4,
+    "business_score": 4,
+    "tags": [
+      "工业机器人",
+      "多臂",
+      "世界模型",
+      "具身智能",
+      "制造业"
+    ],
+    "website": "https://www.sazi.ai/",
+    "sources": [
+      "https://eu.36kr.com/zh/p/4053394503603076",
+      "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-03/doc-inixncmu6639497.shtml",
+      "https://www.huxiu.com/moment/1293544.html"
+    ],
+    "uncertain_points": "融资额仅为「数亿元」区间；官网域名以公开报道为准可能变动；海外「意向订单」非已签约确认收入；99.9%可靠性为公司口径。"
+  },
+  {
+    "id": "yicheng-innovation-200m-cny-series-c-physical-ai",
+    "date_collected": "2026-11-04",
+    "status": "new",
+    "type": "both",
+    "name": "易成创新",
+    "one_liner": "粤科集团等联合投资2亿元 C 轮；L4 工商无人转运+具身装卸，单车均价约40万元，CEO 称数百客户、产能目标从约3000抬至1万台/年",
+    "category": "硬件与端侧",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "向大型工业园区/仓储/港口矿山等销售 L4 无人转运车与轮式底盘+机械臂装卸方案，硬件销售为主并推进全域无人作业订阅式部署；单车均价约40万元",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "C轮2亿元人民币；投资方含粤科集团、善达投资、安徽国投、佛山创投等；资金用于工厂产能、世界模型与物理交互数据、商业化部署",
+        "source_type": "36氪首发 / 公司新闻、投资界",
+        "source_url": "https://eu.36kr.com/zh/p/4053301163185280"
+      },
+      {
+        "label": "商业化（公司/CEO披露）",
+        "value": "称数百客户、累计落地案例超200个；具身相关订单规模达数亿元、头部客户覆盖率超80%；现年产能约3000辆、目标升至1万；单车均价约40万元",
+        "source_type": "创始人自述 / 36氪、智通财经",
+        "source_url": "https://www.echiev.com/News/info_itemid_359.html"
+      }
+    ],
+    "why_it_works": "封闭园区是自动驾驶少有的高频、可算账场景；重载无人车把 AGV 效率瓶颈换成可替代司机班次的吞吐，再叠机械臂打通装卸闭环。",
+    "takeaway": "物理 AI 工业短驳比开放道路更接近现金流；观察站看产能爬坡与「全域无人作业」明年三季度试验是否兑现。",
+    "innovation_score": 3,
+    "business_score": 4,
+    "tags": [
+      "无人转运",
+      "物理AI",
+      "工业园区",
+      "L4",
+      "具身装卸"
+    ],
+    "website": "https://www.echiev.com/",
+    "sources": [
+      "https://eu.36kr.com/zh/p/4053301163185280",
+      "https://www.echiev.com/News/info_itemid_359.html",
+      "https://news.pedaily.cn/202611/571274.shtml"
+    ],
+    "uncertain_points": "「数百客户」付费深度与复购未知；具身订单「数亿元」口径含意向可能；毛利与盈利未披露。"
+  },
+  {
+    "id": "gongji-tech-hundreds-millions-cny-distributed-compute",
+    "date_collected": "2026-11-04",
+    "status": "new",
+    "type": "both",
+    "name": "共绩科技",
+    "one_liner": "中国互联网投资基金、宁德时代系等数亿元加持；清华00后团队做分布式 GPU 调度，称 ARR 超2亿元、年收入增幅超800%",
+    "category": "企业服务",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "轻资产接入分散 GPU/边缘节点，按需调度给模型训练与推理客户（潮汐与突发流量场景），以弹性算力服务收费；宣称接入70万+个人/网吧设备与50+数据中心",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "新一轮数亿元人民币；投资方含中国互联网投资基金、宁德时代系宁波问鼎与溥泉资本、元禾璞华、赛目科技、德石投资、启恒共创等，春华、新进等老股东追投",
+        "source_type": "投资界首发 / 新京报、钛媒体",
+        "source_url": "https://news.pedaily.cn/202611/571247.shtml"
+      },
+      {
+        "label": "收入与规模（公司披露）",
+        "value": "称服务上万家企业及团队；年收入增幅超800%，2026年季度收入连续翻倍，ARR 超过2亿元；SLA 称超99.9%",
+        "source_type": "公司声明 / 投资界",
+        "source_url": "https://news.pedaily.cn/202611/571247.shtml"
+      }
+    ],
+    "why_it_works": "推理流量潮汐明显时，买断大集群不划算；把闲置与边缘 GPU 调度成「忙时自用、闲时并网」的弹性池，直接打到创作者应用与中小模型团队的成本痛点。",
+    "takeaway": "分布式算力从概念走到可报 ARR；观察站核对节点质量、跨架构上下文迁移稳定性与大客户续约。",
+    "innovation_score": 4,
+    "business_score": 4,
+    "tags": [
+      "分布式算力",
+      "GPU调度",
+      "推理弹性",
+      "00后创业",
+      "基础设施"
+    ],
+    "website": "https://www.gongji.ai/",
+    "sources": [
+      "https://news.pedaily.cn/202611/571247.shtml",
+      "https://www.bjnews.com.cn/detail/1793678220129022.html",
+      "https://www.tmtpost.com/nictation/8191386.html"
+    ],
+    "uncertain_points": "融资额为「数亿元」区间；官网域名以报道为准；70万设备含个人/网吧节点，实际可用高质量 GPU 占比未知；ARR 为公司自述。"
+  },
+  {
+    "id": "e2e-8m-seed-ai-code-verification-testing",
+    "date_collected": "2026-11-04",
+    "status": "new",
+    "type": "both",
+    "name": "e2e（原 TesterArmy）",
+    "one_liner": "Credo 等领投约$800万种子、累计约$920万；开源端到端测试框架服务 AI 写码时代，上线约一个月称超100万下载、1.25万+ GitHub stars",
+    "category": "编程开发",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "开源免费提供 web/iOS/Android 端到端测试框架；计划通过大规模测试基础设施、企业部署与服务在2027年前后变现（框架本身保持可商用 OSS）",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "种子轮约€700万/$800万，Credo、KAYA、Point Nine、Baobab、Script Capital 等，Snowflake 联合创始人 Marcin Żukowski、Uber 联合创始人 Oscar Salazar 参投；连同预种子累计约€805万/$920万",
+        "source_type": "媒体报道 / The Recursive、波兰商业媒体",
+        "source_url": "https://www.therecursive.com/polish-e2e-raises-eur7m-to-develop-ai-powered-software-testing/"
+      },
+      {
+        "label": "社区采用（公司自述）",
+        "value": "称10月1日上线以来超100万下载、GitHub stars 超1.25万、运行超1000万次测试；付费 ARR 尚未形成主叙事",
+        "source_type": "公司声明 / The Recursive",
+        "source_url": "https://www.therecursive.com/polish-e2e-raises-eur7m-to-develop-ai-powered-software-testing/"
+      }
+    ],
+    "why_it_works": "Agent 写码快过人类审阅时，验证工程变成瓶颈；从「给人用的测试工具加 AI」改为「为 Agent 时代重建框架」并开源获开发者心智，再卖云端跑测与企业交付。",
+    "takeaway": "编码 Agent 热潮的下一单是验证层；观察站看 OSS 热度能否转成2027基础设施收入。",
+    "innovation_score": 4,
+    "business_score": 2,
+    "tags": [
+      "开源",
+      "E2E测试",
+      "验证工程",
+      "AI写码",
+      "开发者工具"
+    ],
+    "website": "https://e2e.tester.army/",
+    "sources": [
+      "https://www.therecursive.com/polish-e2e-raises-eur7m-to-develop-ai-powered-software-testing/",
+      "https://www.pb.pl/startup-testerarmy-zmienil-nazwe-i-strategie-jako-e2e-pozyskal-dodatkowe-8-mln-usd-1269873",
+      "https://e2e.tester.army/blog"
+    ],
+    "uncertain_points": "下载与 stars 为增长早期快照；商业化主要在规划中；部分英文媒体写$8M、波兰媒体写金额换算略有出入。"
+  },
+  {
+    "id": "scalekit-agentkit-ph1-mcp-gateway",
+    "date_collected": "2026-11-04",
+    "status": "new",
+    "type": "innovative",
+    "name": "AgentKit by Scalekit",
+    "one_liner": "Product Hunt 11/3 日榜第一；面向生产 Agent 的 MCP 网关，统一鉴权与600+应用/3万+工具调用，免费档1万次工具调用/月",
+    "category": "编程开发",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "向开发者提供 Agent 生产级 MCP 网关与连接器：按用户身份与授权范围执行工具调用并完整日志；免费档约1万工具调用/月，Growth 约$99/月起按量超额",
+    "metrics": [
+      {
+        "label": "产品热度",
+        "value": "2026-11-03 Product Hunt 日榜第1，约290+分/60+评论量级（排行榜快照）；定位生产 Agent 的 MCP gateway",
+        "source_type": "Product Hunt 排行榜",
+        "source_url": "https://www.producthunt.com/leaderboard/daily/2026/11/3"
+      },
+      {
+        "label": "产品与定价",
+        "value": "宣称覆盖600+应用、3万+工具；Virtual MCP、自定义连接器与 Triggers；免费档1万工具调用/月，付费 Growth 约$99/月；客户页列举 Brand24、Rocketlane 等团队",
+        "source_type": "公司官网 / Product Hunt",
+        "source_url": "https://www.scalekit.com/"
+      }
+    ],
+    "why_it_works": "Agent 上生产的第一道墙是「以谁的身份、在什么权限里调工具」；把鉴权、范围与审计收成 MCP 网关，比让每个 Agent 自接 OAuth 更可运维。",
+    "takeaway": "Agent 基础设施正在从模型层下沉到身份与工具网关；观察站跟进付费转化与企业 SSO 深度。",
+    "innovation_score": 4,
+    "business_score": 2,
+    "tags": [
+      "MCP",
+      "Agent基础设施",
+      "鉴权",
+      "Product Hunt",
+      "开发者工具"
+    ],
+    "website": "https://www.scalekit.com/",
+    "sources": [
+      "https://www.producthunt.com/leaderboard/daily/2026/11/3",
+      "https://www.producthunt.com/products/scalekit",
+      "https://www.scalekit.com/pricing"
+    ],
+    "uncertain_points": "PH 分数为抓取时快照；ARR 与付费客户数未披露；与竞品 Agent 网关的差异化仍需更多生产案例验证。"
+  }
+]
