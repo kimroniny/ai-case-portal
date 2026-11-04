@@ -1,0 +1,607 @@
+[
+  {
+    "id": "nooks-500m-cvf-revenue-agent-platform",
+    "date_collected": "2026-11-05",
+    "status": "new",
+    "type": "both",
+    "name": "Nooks",
+    "one_liner": "General Catalyst Customer Value Fund 承诺$5亿非稀释增长资本（非股权）；发布 Revenue Agent Platform 与销售私人助理 Node；服务2000+客户、NRR 135%，称年底 ARR 有望近三倍",
+    "category": "客服销售",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "向销售团队销售 Revenue Agent Platform：Outbound/Sequencing/Deal/Expansion/Coaching 等 Agent 在自有拨打与发送基建上完成获客到续约；并推出面向 AE 的常驻私人助理 Node（早鸟，GA 预计2027初）。客户含 Glean、Notion、Deel、Replit、Factory 等",
+    "metrics": [
+      {
+        "label": "融资结构",
+        "value": "General Catalyst Customer Value Fund 承诺$5亿非稀释增长资本（按资本帮助产生的回报分成，非买股权）；条款细节未披露；历史投资方含 Kleiner Perkins、Lachy Groom 等",
+        "source_type": "官方新闻稿 / PR Newswire + Reuters",
+        "source_url": "https://www.prnewswire.com/news-releases/nooks-secures-500-million-from-general-catalyst-and-launches-node-the-first-ai-personal-assistant-for-sales-302928795.html"
+      },
+      {
+        "label": "客户与增长（公司自述）",
+        "value": "服务超2000家公司；净收入留存率135%；称同比约3倍增长，年底 ARR 有望近三倍（绝对 ARR 未披露）；超半数客户使用不止一个产品；称客户通常用 Nooks 获得约3倍于旧工具的 pipeline，96% Agent 邮件无需编辑发出",
+        "source_type": "公司声明 / PR Newswire、Reuters 转述",
+        "source_url": "https://www.investing.com/news/stock-market-news/ai-sales-startup-nooks-secures-500-million-in-funding-for-expansion-4998523"
+      }
+    ],
+    "why_it_works": "销售是继编码、客服之后最重人力与流程的岗位；Nooks 不只卖「写邮件的 Agent」，而是自建拨打/发送执行层，用真实成交闭环训练 Agent，再用 CVF 这类非稀释资本同时砸增长与新产品，避开股权稀释与 ARR 证明的矛盾。",
+    "takeaway": "CVF 式资本是「有真实单位经济的 AI 应用」的重要信号；观察站盯绝对 ARR、Node 是否真能 GA，以及与 Outreach/Salesloft 等传统序列工具的替换份额。",
+    "innovation_score": 4,
+    "business_score": 5,
+    "tags": [
+      "销售Agent",
+      "非稀释融资",
+      "Revenue Agent",
+      "Node",
+      "General Catalyst"
+    ],
+    "website": "https://www.nooks.ai/",
+    "sources": [
+      "https://www.prnewswire.com/news-releases/nooks-secures-500-million-from-general-catalyst-and-launches-node-the-first-ai-personal-assistant-for-sales-302928795.html",
+      "https://www.nooks.ai/blog-posts/introducing-node-revenue-agent-platform",
+      "https://www.investing.com/news/stock-market-news/ai-sales-startup-nooks-secures-500-million-in-funding-for-expansion-4998523"
+    ],
+    "uncertain_points": "绝对 ARR 未披露；$5亿是「承诺/commitment」而非已到账股权融资，分成条款不透明；Node 仍为 early access，生产力「最高80%」等为早期用户口径。"
+  },
+  {
+    "id": "sentra-150m-series-c-ai-agent-data-security",
+    "date_collected": "2026-11-05",
+    "status": "new",
+    "type": "both",
+    "name": "Sentra",
+    "one_liner": "Capital One Ventures 领投$1.5亿 Series C；数据安全平台转向管控企业内 AI Agent 可触达的数据，公司称过去一年业务增长超300%，累计融资超$2.5亿",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "向企业销售数据安全平台：在客户环境内对静态数据做分类与身份映射（人、服务账号、AI Agent），最小化权限、自动剥离过期共享，并在 Agent 异常触达敏感数据时告警/收敛；分析不出境，面向受监管行业",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "Series C $1.5亿，Capital One Ventures 领投并将占董事会席位；Bessemer、Zeev、Standard Investments、Munich Re Ventures、Key1 等跟投；含本轮累计融资超$2.5亿；估值未披露",
+        "source_type": "媒体报道 / SiliconANGLE 引公司",
+        "source_url": "https://siliconangle.com/2026/11/04/sentra-raises-150m-to-control-what-ai-agents-can-reach-in-corporate-data/"
+      },
+      {
+        "label": "增长（公司自述）",
+        "value": "称过去一年业务增长超300%；2025年4月曾由 Key1 领投$5000万 Series B",
+        "source_type": "公司口径 / SiliconANGLE",
+        "source_url": "https://siliconangle.com/2026/11/04/sentra-raises-150m-to-control-what-ai-agents-can-reach-in-corporate-data/"
+      }
+    ],
+    "why_it_works": "企业突然多出大量 7×24 消费数据的 Agent 身份，传统边界与 DLP 跟不上；Sentra 把 DSPM 叙事从「人」扩到「Agent」，卖给安全团队一个可治理的控制面。",
+    "takeaway": "Agent 普及会同步催生 Agent 安全/身份/权限层；观察站核对 ARR 绝对值与和 Varonis/Cyera 等 DSPM 的差异化。",
+    "innovation_score": 3,
+    "business_score": 5,
+    "tags": [
+      "数据安全",
+      "DSPM",
+      "Agent治理",
+      "Series C",
+      "Capital One"
+    ],
+    "website": "https://www.sentra.io/",
+    "sources": [
+      "https://siliconangle.com/2026/11/04/sentra-raises-150m-to-control-what-ai-agents-can-reach-in-corporate-data/"
+    ],
+    "uncertain_points": "增长「超300%」未标明是 ARR、收入还是客户数；估值与绝对营收未披露；目前主要依赖 SiliconANGLE 单篇深度报道，官方新闻稿未在本轮检索中独立抓到。"
+  },
+  {
+    "id": "phaze-8-75m-seed-a16z-remote-agent-desktops",
+    "date_collected": "2026-11-05",
+    "status": "new",
+    "type": "both",
+    "name": "Phaze",
+    "one_liner": "a16z 领投$875万种子轮；Parsec 创始团队再创业，把高端工作站做成「人与 AI Agent 共用」的远程桌面与机器池，并发布 MCP Server 让 computer-use Agent 操控远程电脑",
+    "category": "生产力办公",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "为企业提供高性能远程桌面与共享工作站管理：人可远程 CAD/设计/开发，Agent 通过 MCP 获得完整 GUI 与应用控制；支持人机同会话交接、后台 Agent 作业与集中 IAM/审计",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "种子轮$875万，a16z 领投，Indie、NextView、Makers、Lerer Hippeau 参投",
+        "source_type": "官方新闻稿 / PR Newswire + a16z",
+        "source_url": "https://www.prnewswire.com/news-releases/phaze-raises-8-75-million-seed-led-by-a16z-to-give-people-and-ai-agents-access-to-computers-302929303.html"
+      }
+    ],
+    "why_it_works": "Agent 要真正干活需要「一台可控的电脑」，而企业又不愿把高价工作站永久绑在个人桌上；Parsec 团队把低延迟远程接入做成共享基建，正好卡在 computer-use 爆发的接口上。",
+    "takeaway": "「Agent 需要桌子」是继沙箱云之外的另一条算力形态；对照 Daytona（隔离沙箱）与 Phaze（真实 GUI 工作站）看场景分工。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": [
+      "远程桌面",
+      "computer-use",
+      "MCP",
+      "a16z",
+      "共享工作站"
+    ],
+    "website": "https://phaze.app/",
+    "sources": [
+      "https://www.prnewswire.com/news-releases/phaze-raises-8-75-million-seed-led-by-a16z-to-give-people-and-ai-agents-access-to-computers-302929303.html",
+      "https://a16z.com/announcement/investing-in-phaze/",
+      "https://phaze.app/blog/phaze-raises-$8.75-million-to-build-a-better-remote-desktop/"
+    ],
+    "uncertain_points": "种子阶段，付费客户数与 ARR 未披露；MCP Agent 能力演示偏早期；与传统 VDI/云工作站竞品对比缺少第三方评测。"
+  },
+  {
+    "id": "meta-acquires-conductor-multi-agent-coding",
+    "date_collected": "2026-11-05",
+    "status": "new",
+    "type": "both",
+    "name": "Conductor（被 Meta 收购）",
+    "one_liner": "Meta 收购多 Agent 编码编排工具 Conductor；团队将加入 Meta Superintelligence Labs；Cloud 11/20 关停，本地应用维护至2027年初",
+    "category": "编程开发",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "原面向开发者销售/提供 Mac 与云上并行运行多个 AI 编码 Agent 的编排产品；收购后团队并入 Meta，独立云服务关停，后续能力预计融入 Meta 编码产品线",
+    "metrics": [
+      {
+        "label": "收购",
+        "value": "Meta 收购 Conductor（金额未披露）；CEO Charlie Holtz、CTO Jackson de Campos 将加入 Meta Superintelligence Labs；Axios 同日还称 OpenAI 计划收购另一开发者工具 Pierre",
+        "source_type": "独家报道 / Axios + 公司 changelog",
+        "source_url": "https://www.axios.com/2026/11/04/meta-acquires-ai-coding-startup-conductor"
+      },
+      {
+        "label": "产品日落",
+        "value": "Conductor Cloud 11/13 只读、11/20 关停；本地应用继续更新模型与关键修复至2027年初",
+        "source_type": "官方 changelog",
+        "source_url": "https://www.conductor.build/changelog/0.93.0-conductor-is-joining-meta"
+      }
+    ],
+    "why_it_works": "巨头竞抢的不只是「更强模型」，而是开发者工作流入口；并行多 Agent 编排正成为编码产品差异化，Meta 用收购补齐体验与人才。",
+    "takeaway": "编码 Agent 编排层正被大厂收编；独立创业者要警惕「功能被平台吸收」的窗口，观察站跟进交易金额与新 Meta 编码产品形态。",
+    "innovation_score": 4,
+    "business_score": 4,
+    "tags": [
+      "收购",
+      "编码Agent",
+      "Meta",
+      "多Agent编排",
+      "开发者工具"
+    ],
+    "website": "https://www.conductor.build/",
+    "sources": [
+      "https://www.axios.com/2026/11/04/meta-acquires-ai-coding-startup-conductor",
+      "https://www.conductor.build/changelog/0.93.0-conductor-is-joining-meta",
+      "https://www.techmeme.com/261104/p46"
+    ],
+    "uncertain_points": "收购金额与估值未披露；并入后新产品时间表未公开；早期用户迁移与数据导出体验待观察。"
+  },
+  {
+    "id": "shackleton-ai-5m-seed-construction-agentic-os",
+    "date_collected": "2026-11-05",
+    "status": "new",
+    "type": "both",
+    "name": "Shackleton AI",
+    "one_liner": "Battery 领投$500万种子轮并出隐身；建筑业 Agent 操作系统，平台管理超$10亿项目价值、覆盖15+州，客户含 Red Lobster 等连锁品牌",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "向中型总包与多店品牌销售统一开发/施工管理平台，AI Agent 跨流程起草 RFI、跟催逾期递交、标记预算偏差、把现场笔记转成日报；创始团队曾把科技型总包 Ernest 做到约$3500万年营收",
+    "metrics": [
+      {
+        "label": "融资与采用",
+        "value": "种子轮$500万，Battery Ventures 领投，Brick & Mortar、Trust、Correlation、Motivate 等参投；平台管理超$10亿项目价值，覆盖15+州；2026年6月上线",
+        "source_type": "官方新闻稿 / PR Newswire",
+        "source_url": "https://www.prnewswire.com/news-releases/shackleton-ai-unveils-agentic-operating-system-for-construction-raises-5-million-led-by-battery-ventures-302928375.html"
+      },
+      {
+        "label": "客户效果（公司/客户口径）",
+        "value": "称多店客户改造可提前至多35%、最多低于预算18%；Red Lobster 高管公开背书用于品牌翻新排期",
+        "source_type": "公司新闻稿引客户",
+        "source_url": "https://www.prnewswire.com/news-releases/shackleton-ai-unveils-agentic-operating-system-for-construction-raises-5-million-led-by-battery-ventures-302928375.html"
+      }
+    ],
+    "why_it_works": "建筑业系统碎片化、行政拖累严重；创始人先自用再产品化，Agent 做跨系统跟催而不是又一个记录系统，切中「系统 of record」之外的执行层。",
+    "takeaway": "垂直 Agent OS 要以「真实项目金额在跑」证明，而非 demo；观察站核对 ARR、续约与相对 Procore 等的替换深度。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": [
+      "建筑科技",
+      "Agent OS",
+      "Battery",
+      "垂直行业",
+      "项目管理"
+    ],
+    "website": "https://shackleton.ai/",
+    "sources": [
+      "https://www.prnewswire.com/news-releases/shackleton-ai-unveils-agentic-operating-system-for-construction-raises-5-million-led-by-battery-ventures-302928375.html"
+    ],
+    "uncertain_points": "「$10亿项目价值」是管理规模非营收；ARR 与付费客户数未披露；提前完工/省预算数字来自公司自述客户案例。"
+  },
+  {
+    "id": "pliant-80m-series-c-agentic-b2b-payments",
+    "date_collected": "2026-11-05",
+    "status": "new",
+    "type": "both",
+    "name": "Pliant",
+    "one_liner": "Seaya Nova 与 Speedinvest 领投$8000万 Series C；柏林 B2B 支付基建向 AI Agent 开放 MCP，公司称刚突破$1亿 ARR，连续三年翻倍",
+    "category": "法律金融",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "模块化 B2B 支付平台（商户卡发行、支付账户、FX、支出管理）以 API 向企业与 AI Agent 开放；自有 Agent 自动化财务流程，第三方 Agent（Claude/ChatGPT 等）经 MCP 嵌入支付工作流（带权限与审计）",
+    "metrics": [
+      {
+        "label": "融资与营收",
+        "value": "Series C $8000万，Seaya Nova、Speedinvest 领投，Illuminate Financial、Motive Partners、Molten Ventures 参投；称刚突破$1亿 ARR，连续三年业务翻倍；300+人、8个办公室",
+        "source_type": "官方新闻稿",
+        "source_url": "https://www.getpliant.com/en-us/press/80-million-series-c"
+      }
+    ],
+    "why_it_works": "Agent 要「能花钱」才算完整闭环；持牌支付基建比纯聊天插件更难复制，Pliant 用已有$1亿 ARR 的商用支付能力叠加 Agent 接口，卡位 agentic commerce 的合规层。",
+    "takeaway": "Agent 支付/凭证层会是下一波基础设施；核对 MCP 实际可执行权限边界（是否真能动账）与北美扩张进度。",
+    "innovation_score": 4,
+    "business_score": 5,
+    "tags": [
+      "B2B支付",
+      "Agent支付",
+      "MCP",
+      "ARR",
+      "Series C"
+    ],
+    "website": "https://www.getpliant.com/",
+    "sources": [
+      "https://www.getpliant.com/en-us/press/80-million-series-c",
+      "https://www.pymnts.com/news/investment-tracker/2026/pliant-raises-80-million-to-open-b2b-payments-to-ai-agents/"
+    ],
+    "uncertain_points": "$1亿 ARR 为公司自述，非审计数字；Agent「动钱」能力与确认/审计边界需对照产品文档；估值未披露。"
+  },
+  {
+    "id": "trajectory-45m-series-a-self-serve-post-training",
+    "date_collected": "2026-11-05",
+    "status": "new",
+    "type": "both",
+    "name": "Trajectory",
+    "one_liner": "Sequoia 领投$4500万 Series A、估值$3亿；自助后训练平台让非技术专家用生产反馈持续改进专用模型，客户含 Harvey、Rogo、Nvidia 等",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "向企业提供自助 post-training / continual learning 平台：接入应用收集反馈，对开源模型再训练、评估与部署；目标用户含法律、金融等领域专家而非仅 ML 团队",
+    "metrics": [
+      {
+        "label": "融资与估值",
+        "value": "Series A $4500万，估值$3亿，Sequoia 领投，Nvidia、Bessemer、Bain Capital Ventures 参投；累计融资口径媒体称约$6000万；团队约18人",
+        "source_type": "媒体报道 / TechCrunch",
+        "source_url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/"
+      }
+    ],
+    "why_it_works": "通用模型「每次都像新入职博士」，企业要的是「干了30年的专家」；Trajectory 把后训练做成专家可操作的产品，切入 Harvey 等垂直应用不愿自建训练团队的需求。",
+    "takeaway": "与 Applied Compute / Thinking Machines 等同赛道对照：谁真正让非 ML 用户闭环改进模型，谁拿走后训练预算。",
+    "innovation_score": 4,
+    "business_score": 4,
+    "tags": [
+      "后训练",
+      "Continual Learning",
+      "Sequoia",
+      "企业定制模型",
+      "自助平台"
+    ],
+    "website": "https://www.trajectory.ai/",
+    "sources": [
+      "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+      "https://0hour.media/ventures/trajectory-raises-45m-series/"
+    ],
+    "uncertain_points": "公告窗口落在11/2，略早于本观察日但昨日 digest 列为待跟进；ARR 与付费深度未披露；「累计$6000万」为媒体汇总。"
+  },
+  {
+    "id": "lingchuan-1b-cny-series-b-ai-video-chip",
+    "date_collected": "2026-11-05",
+    "status": "new",
+    "type": "both",
+    "name": "凌川科技",
+    "one_liner": "完成10亿元人民币 B 轮（启明/亦庄国投/朝晖等联合领投）；快手系拆分的智能视频与生成视频算力芯片，SL200 已售近10万颗、覆盖快手99.7%直播相关业务",
+    "category": "硬件与端侧",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "研发并销售面向智能视频与 AIGV 的专用算力芯片及软件栈（LUCAS/Nebula）；客户含快手、阿里云、百度云、B站及电信合作场景；资金用于下一代芯片研发量产与全球拓展",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "B轮10亿元人民币；亦庄国投屹唐盛和、启明创投、朝晖资本联合领投，国泰海通开元、华控、国寿长三角、北工投资等及产业方参投，老股东追加",
+        "source_type": "投资方官方 / 启明创投",
+        "source_url": "https://www.qimingvc.com/cn/news/%E5%90%AF%E6%98%8E%E6%98%9F-%E5%BF%AB%E6%89%8B%E7%B3%BB%E8%8A%AF%E7%89%87%E5%85%AC%E5%8F%B8%E5%87%8C%E5%B7%9D%E7%A7%91%E6%8A%80%E5%AE%8C%E6%88%9010%E4%BA%BF%E5%85%83b%E8%BD%AE%E8%9E%8D%E8%B5%84%EF%BC%8C%E5%90%AF%E6%98%8E%E5%88%9B%E6%8A%95%E8%81%94%E5%90%88%E9%A2%86%E6%8A%95"
+      },
+      {
+        "label": "出货与客户（公司/投资方口径）",
+        "value": "SL200 智能视频芯片已销售近10万颗；覆盖快手99.7%直播相关业务，并部署于阿里云、百度云、哔哩哔哩等；下一代全国产3D堆叠芯片2026年4月流片、近日回片，预计2027年规模出货",
+        "source_type": "投资方官方披露",
+        "source_url": "https://www.qimingvc.com/cn/news/%E5%90%AF%E6%98%8E%E6%98%9F-%E5%BF%AB%E6%89%8B%E7%B3%BB%E8%8A%AF%E7%89%87%E5%85%AC%E5%8F%B8%E5%87%8C%E5%B7%9D%E7%A7%91%E6%8A%80%E5%AE%8C%E6%88%9010%E4%BA%BF%E5%85%83b%E8%BD%AE%E8%9E%8D%E8%B5%84%EF%BC%8C%E5%90%AF%E6%98%8E%E5%88%9B%E6%8A%95%E8%81%94%E5%90%88%E9%A2%86%E6%8A%95"
+      }
+    ],
+    "why_it_works": "生成视频把算力需求从「通用 GPU」推向垂直专用器件；凌川带着快手大规模视频业务基因与已放量芯片，用专用架构打成本与延迟，吃 AIGV 与直播转码双场景。",
+    "takeaway": "中国侧「视频/生成视频专用芯」与昨日墨芯稀疏推理形成对照；盯下一代芯片2027出货与非快手收入占比。",
+    "innovation_score": 4,
+    "business_score": 4,
+    "tags": [
+      "AI芯片",
+      "视频算力",
+      "AIGV",
+      "快手",
+      "RISC-V"
+    ],
+    "website": "https://www.qimingvc.com/",
+    "sources": [
+      "https://www.qimingvc.com/cn/news/%E5%90%AF%E6%98%8E%E6%98%9F-%E5%BF%AB%E6%89%8B%E7%B3%BB%E8%8A%AF%E7%89%87%E5%85%AC%E5%8F%B8%E5%87%8C%E5%B7%9D%E7%A7%91%E6%8A%80%E5%AE%8C%E6%88%9010%E4%BA%BF%E5%85%83b%E8%BD%AE%E8%9E%8D%E8%B5%84%EF%BC%8C%E5%90%AF%E6%98%8E%E5%88%9B%E6%8A%95%E8%81%94%E5%90%88%E9%A2%86%E6%8A%95",
+      "http://www.eeo.com.cn/2026/1104/1083921.shtml"
+    ],
+    "uncertain_points": "公司独立官网公开材料较少，主要依赖投资方通稿；营收与毛利未披露；客户集中度（快手）风险需后续验证；website 暂以投资方信息页作入口。"
+  },
+  {
+    "id": "zhudong-tech-464m-cny-angel-plus-invasive-bci",
+    "date_collected": "2026-11-05",
+    "status": "new",
+    "type": "both",
+    "name": "主动科技",
+    "one_liner": "高榕/国投先导/上海科创投联合领投4.64亿元天使+轮；侵入式脑机接口，与8月天使合计约8亿元，创国内 BCI 天使系列融资纪录；核心产品「天枢」面向运动功能障碍",
+    "category": "医疗健康",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "研发侵入式脑机接口全链路（柔性电极、专用芯片、算法、系统），产品矩阵覆盖运动/视觉/情绪；以三类医疗器械临床转化为主，远期探索与 AI、具身智能融合",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "天使+轮4.64亿元人民币；高榕创投、国投先导、上海科创投联合领投；康君、中网投、国泰海通、浦东创投等跟投，道彤/华大松禾/英诺追加；与8月3.3亿元天使轮合计约8亿元",
+        "source_type": "媒体报道 / 36氪",
+        "source_url": "https://www.36kr.com/p/4054822621303941"
+      },
+      {
+        "label": "技术节点（公司口径）",
+        "value": "2026年2月成立；团队2025年11月1024通道侵入式系统获型式检验报告；临港实验室孵化",
+        "source_type": "36氪引公司",
+        "source_url": "https://www.36kr.com/p/4054822621303941"
+      }
+    ],
+    "why_it_works": "国内 BCI 从论文走向三类器械验证，资本用超大额天使系列押注全链路自研团队；临床刚需（中风/脊髓损伤/渐冻）比消费级头环更清晰。",
+    "takeaway": "与昨日暖芯迦视觉 BCI 同属中国脑机接口窗口；观察站跟临床入组、型检到注册进展，而非融资热度本身。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": [
+      "脑机接口",
+      "侵入式BCI",
+      "医疗器械",
+      "天使轮",
+      "临港实验室"
+    ],
+    "website": "https://www.36kr.com/p/4054822621303941",
+    "sources": [
+      "https://www.36kr.com/p/4054822621303941",
+      "https://www.chinaventure.com.cn/news/114-20261104-393909.html"
+    ],
+    "uncertain_points": "成立仅数月即累计约8亿融资，产品仍处临床前/转化早期；「纪录」表述来自媒体比较口径；尚无公开付费或收入信号。"
+  },
+  {
+    "id": "denseai-hundreds-millions-cny-physical-world-model",
+    "date_collected": "2026-11-05",
+    "status": "new",
+    "type": "both",
+    "name": "幂级智能（DenseAI）",
+    "one_liner": "完成第三轮融资，半年累计数亿元人民币；清华 Nature 封面团队做物理世界模型 DenseWorld + 密集学习，服务机器人/自动驾驶等，称已有赛事支撑与商业化交付",
+    "category": "硬件与端侧",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "研发物理 AI 世界模型与密集学习训练体系，为机器人、自动驾驶、无人机等提供预训练/后训练与决策能力；强调低边际成本真实物理数据与自主进化训练",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "第三轮融资完成，半年内累计数亿元人民币；投资方包括北京、深圳头部国资、知名美元基金及 AI 生态基金（单轮金额与估值未拆分披露）",
+        "source_type": "媒体报道 / AI科技评论（网易转载）",
+        "source_url": "https://www.163.com/dy/article/LASK4E400511DPVD.html"
+      },
+      {
+        "label": "产品进展（公司口径）",
+        "value": "称世界模型已在某全球机器人赛事提供底层技术支撑，并开始真实场景商业化交付；真机任务中密集强化学习使失败率「数量级下降」（未给绝对值）",
+        "source_type": "公司披露 / AI科技评论",
+        "source_url": "https://www.163.com/dy/article/LASK4E400511DPVD.html"
+      }
+    ],
+    "why_it_works": "世界模型热潮里多数团队堆视频生成或本体数据；幂级抓住「稀疏度灾难」做密集学习与可规模化真实数据，学术招牌（Nature 封面）帮助融资与招人。",
+    "takeaway": "物理世界模型赛道已批量融资，关键看可复现的真机指标与付费交付，而非「数亿元」口径本身。",
+    "innovation_score": 5,
+    "business_score": 3,
+    "tags": [
+      "世界模型",
+      "物理AI",
+      "密集学习",
+      "具身智能",
+      "清华"
+    ],
+    "website": "https://www.163.com/dy/article/LASK4E400511DPVD.html",
+    "sources": [
+      "https://www.163.com/dy/article/LASK4E400511DPVD.html",
+      "https://www.donews.com/news/detail/8/6765026.html"
+    ],
+    "uncertain_points": "「数亿元」未拆单轮与估值；商业化客户与合同金额未具名；失败率改善缺第三方复现；公司官网入口未在公开稿中明确。"
+  },
+  {
+    "id": "wanaka-studio-ph1-ai-native-3d-game-engine",
+    "date_collected": "2026-11-05",
+    "status": "new",
+    "type": "innovative",
+    "name": "Wanaka Studio",
+    "one_liner": "Product Hunt 11/4 日榜第1（约327 upvotes）；AI 原生 3D 游戏引擎，用自然语言生成可玩浏览器游戏，支持可视化编辑与一键发布",
+    "category": "游戏娱乐",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "提供 AI 辅助 3D 游戏工作室：描述想法生成可玩世界，再人工/Agent 迭代角色、动画与玩法；浏览器即玩、免费起步并有付费套餐（具体定价以官网为准）",
+    "metrics": [
+      {
+        "label": "社区热度",
+        "value": "Product Hunt 2026-11-04 日榜第1，约327 points / 92 comments（第三方排行榜与 PH awards 页）",
+        "source_type": "Product Hunt / 第三方日榜",
+        "source_url": "https://www.producthunt.com/leaderboard/daily/2026/11/4"
+      }
+    ],
+    "why_it_works": "把「会写码的人做游戏」变成「会描述的人做可玩 3D 世界」，降低 3D 游戏创作门槛；浏览器分发减少安装摩擦，适合社区裂变。",
+    "takeaway": "创新形态明确但商业指标仍薄；观察站跟留存、付费转化与生成游戏可玩时长，避免只追 PH 榜。",
+    "innovation_score": 5,
+    "business_score": 2,
+    "tags": [
+      "Product Hunt",
+      "AI游戏",
+      "3D引擎",
+      "无代码",
+      "浏览器游戏"
+    ],
+    "website": "https://wanaka.app/",
+    "sources": [
+      "https://wanaka.app/",
+      "https://www.producthunt.com/leaderboard/daily/2026/11/4",
+      "https://www.producthunt.com/products/wanaka-studio/awards"
+    ],
+    "uncertain_points": "融资与 ARR 未披露；团队类型按产品形态暂标初创公司；生成游戏质量与多玩家稳定性待独立评测。"
+  },
+  {
+    "id": "guava-12-5m-seed-enterprise-voice-agents",
+    "date_collected": "2026-11-05",
+    "status": "new",
+    "type": "both",
+    "name": "Guava",
+    "one_liner": "Acrew 领投$1250万种子轮；前 Marqeta 营收负责人联合 Gridspace 语音实验室商业化，全栈自研语音 Agent 平台，已服务十余家企业、日均支撑数万通电话",
+    "category": "客服销售",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "向企业与 BPO 销售开发者可控的语音 Agent 平台：自研 ASR/LLM/TTS 一体栈，用 SDK（Python/TypeScript）把业务规则写进对话，而非纯提示词拼装；首个公开模型 Daytona",
+    "metrics": [
+      {
+        "label": "融资与采用",
+        "value": "种子轮$1250万，Acrew Capital 领投，Flourish、WillowTree、Clocktower、Commerce Ventures 参投；称 Daytona 模型已支撑十余家企业客户、每日数万通电话；在 Coval WER 榜常居前十甚至前二",
+        "source_type": "官方新闻稿 / BusinessWire",
+        "source_url": "https://www.businesswire.com/news/home/20261102236960/en/Guava-Lands-%2412.5-Million-to-Tackle-Voice-AIs-Real-world-Growing-Pains"
+      }
+    ],
+    "why_it_works": "企业抱怨语音 Agent「demo 好听、真打电话翻车」；Guava 用十年呼叫中心数据训全栈模型，再配上会卖企业软件的 CEO，对准受监管高通话量场景。",
+    "takeaway": "语音赛道比拼的是真实通话可靠性与开发者控制权；注意与公司内部同名「Daytona」沙箱云区分。",
+    "innovation_score": 3,
+    "business_score": 3,
+    "tags": [
+      "语音Agent",
+      "呼叫中心",
+      "全栈模型",
+      "BPO",
+      "种子轮"
+    ],
+    "website": "https://goguava.ai/",
+    "sources": [
+      "https://www.businesswire.com/news/home/20261102236960/en/Guava-Lands-%2412.5-Million-to-Tackle-Voice-AIs-Real-world-Growing-Pains",
+      "https://www.axios.com/pro/enterprise-software-deals/2026/11/03/voice-agents-guava-gridspace"
+    ],
+    "uncertain_points": "公告约11/2–11/3，落在观察窗口边缘；ARR 未披露；「数万通/日」与客户数公司自述；内部模型名 Daytona 易与 Daytona 云混淆。"
+  },
+  {
+    "id": "syncere-11m-preseed-lume-home-robot",
+    "date_collected": "2026-11-05",
+    "status": "new",
+    "type": "innovative",
+    "name": "SYNCERE",
+    "one_liner": "a16z Speedrun 领投$1100万 Pre-Seed；首款产品 LUME 是「落地灯形态」的家用机器人，主张先部署再靠实家数据进化智能，称预购需求达数百万美元价值",
+    "category": "硬件与端侧",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "面向消费家庭销售家具形态机器人 LUME（照明+移动操作：折叠衣物、整理、辅助铺床等），以软件更新扩展能力；用早期部署换真实家庭数据训练更通用家庭机器人",
+    "metrics": [
+      {
+        "label": "融资与市场信号",
+        "value": "Pre-Seed $1100万，a16z Speedrun 领投，Draper Associates、Physical World、SeaX、Sequel 等参投；称入选 TIME 2026 Best Inventions、获 Fast Company Innovation by Design，预购需求「数百万美元价值」",
+        "source_type": "公司新闻室",
+        "source_url": "https://syncere.com/newsroom/funding"
+      }
+    ],
+    "why_it_works": "通用家用机器人卡在「不够有用就卖不出去、卖不出去就没数据」；LUME 用灯具日用价值换入户，用软件迭代补能力，路径类似「先卖车再练自动驾驶」。",
+    "takeaway": "形态创新强，量产与真实家务完成率才是硬指标；预购「价值」≠已确认收入。",
+    "innovation_score": 5,
+    "business_score": 2,
+    "tags": [
+      "家用机器人",
+      "具身智能",
+      "a16z Speedrun",
+      "消费硬件",
+      "LUME"
+    ],
+    "website": "https://syncere.com/",
+    "sources": [
+      "https://syncere.com/newsroom/funding",
+      "https://www.businesswire.com/news/home/20261103881782/en/SYNCERE-Raises-%2411M-Pre-Seed-to-Bring-Home-Robotics-to-the-Mass-Market"
+    ],
+    "uncertain_points": "仍为 Pre-Seed/预购阶段；实际交付量与家务成功率未披露；「数百万美元预购价值」口径偏软。"
+  },
+  {
+    "id": "daytona-100m-run-rate-agent-execution-cloud",
+    "date_collected": "2026-11-05",
+    "status": "update",
+    "type": "both",
+    "name": "Daytona",
+    "one_liner": "重大更新：CEO 称从$100万 run rate 到$1亿仅用4个季度，年内增长约37.5倍；Agent Execution Cloud 为编码/浏览/RL 提供毫秒级隔离沙箱",
+    "category": "编程开发",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "向构建 Agent 的实验室与企业销售 Agent Execution Cloud：快速启动、可持久状态、可 fork/snapshot 的隔离计算环境，按秒计费；客户涵盖从 YC 团队到大型实验室",
+    "metrics": [
+      {
+        "label": "营收里程碑（创始人自述）",
+        "value": "称4个季度内从约$100万 run rate 增至约$1亿；2026年增长约37.5倍；10月上旬预测已触及$1亿并完成当月",
+        "source_type": "创始人博客 / 公司官方",
+        "source_url": "https://www.daytona.io/dotfiles/1m-to-100m-run-rate-in-4-quarters"
+      },
+      {
+        "label": "此前融资（已收录对照）",
+        "value": "2026-10 曾披露约$6000万 Series B、估值约$10亿（观察站 2026-10-21 已收录）；本次为 ARR 里程碑更新而非新一轮融资公告",
+        "source_type": "历史收录 / TechCrunch 等",
+        "source_url": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/"
+      }
+    ],
+    "why_it_works": "模型在 GPU 上思考，工作在 CPU 沙箱里发生；Daytona 把「给每个 Agent 一台真电脑」产品化，吃到编码 Agent 与 RL/eval 流量爆炸。",
+    "takeaway": "基础设施层出现 Anthropic/Cursor 级增速；继续核对审计口径的 ARR、毛利与大客户集中度。",
+    "innovation_score": 4,
+    "business_score": 5,
+    "tags": [
+      "Agent云",
+      "沙箱",
+      "ARR里程碑",
+      "独角兽",
+      "更新"
+    ],
+    "website": "https://www.daytona.io/",
+    "sources": [
+      "https://www.daytona.io/dotfiles/1m-to-100m-run-rate-in-4-quarters",
+      "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/"
+    ],
+    "uncertain_points": "「run rate」为创始人投影/自述，非经审计 ARR；与 Guava 内部模型名 Daytona 易混淆；大客户占比未披露。"
+  },
+  {
+    "id": "ai-fiesta-47-crore-bootstrapped-multi-model",
+    "date_collected": "2026-11-05",
+    "status": "new",
+    "type": "profitable",
+    "name": "AI Fiesta",
+    "one_liner": "印度 YouTuber Dhruv Rathee 周年视频自述：零外部融资一年营收约₹47 crore（约合$560万）、超10万付费用户、处理约9 crore 条消息；多模型聚合订阅",
+    "category": "生产力办公",
+    "region": "海外",
+    "team_type": "独立开发者",
+    "business_model": "面向印度等市场的多模型聚合订阅（ChatGPT/Claude/Grok 等 100+ 模型与图文工具），低价月费（媒体称约₹999 起）靠创作者流量获客，自筹运营",
+    "metrics": [
+      {
+        "label": "营收与用户（创始人自述）",
+        "value": "约一年总营收₹47 crore；付费用户超10万；消息约9 crore；团队27人；零外部融资、无债务；创始人强调营收≠利润，API/服务器/薪资占大头",
+        "source_type": "创始人视频 / 社交媒体与媒体转述",
+        "source_url": "https://x.com/dhruv_rathee/status/2117980955118026783"
+      }
+    ],
+    "why_it_works": "用超大创作者分发换订阅，把「一个入口用很多模型」做成印度定价的消费级产品；证明影响力分发仍可在聚合层赚到真金白银。",
+    "takeaway": "爆款分发 × 简单聚合也能做出千万级营收，但毛利被 API 成本挤压；需防「营收叙事」与可持续利润脱节。",
+    "innovation_score": 2,
+    "business_score": 4,
+    "tags": [
+      "独立开发者",
+      "多模型聚合",
+      "印度",
+      "创作者经济",
+      "自举"
+    ],
+    "website": "https://aifiesta.ai/",
+    "sources": [
+      "https://x.com/dhruv_rathee/status/2117980955118026783",
+      "https://www.outlookbusiness.com/interviews/exclusive-dhruv-rathee-on-his-new-start-up-ai-fiesta-chatgpt-rivalry-and-indias-ai-future"
+    ],
+    "uncertain_points": "数字来自创始人周年视频与二手转述，缺独立财报；网站域名以公开资料为准可能变动；产品差异化相对 Poe 等有限；曾有争议/质疑需持续观察。"
+  }
+]
