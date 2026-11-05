@@ -1,0 +1,539 @@
+[
+  {
+    "id": "shield-ai-echodyne-5-3b-series-h-28-8b",
+    "date_collected": "2026-11-06",
+    "status": "new",
+    "type": "both",
+    "name": "Shield AI × Echodyne",
+    "one_liner": "防务自主公司 Shield 以$53亿交易收购雷达商 Echodyne，同步筹资$25亿（含 Series H 投后估值$288亿）；双方均称本财年营收三位数增长，瞄准反无/任务系统",
+    "category": "硬件与端侧",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "Shield 以 Hivemind 自主软件、V-BAT/X-BAT 无人系统与 Aechelon 仿真构成三块业务；收购 Echodyne 后把基于超材料的软件定义雷达并入 Mission Systems，服务美军与盟国反无人机及 40+ 国政企客户；Echodyne 雷达仍可独立外售，团队留任",
+    "metrics": [
+      {
+        "label": "收购对价",
+        "value": "交易估值$53亿：交割时支付/发行$48亿，另有最高$5亿业绩对赌；预计2027年初交割，待监管批准",
+        "source_type": "官方新闻稿",
+        "source_url": "https://shield.ai/shield-to-acquire-echodyne-in-a-transaction-valued-at-5-3-billion-and-raise-2-5-billion-at-a-28-8-billion-valuation/"
+      },
+      {
+        "label": "同步融资",
+        "value": "$25亿配套：Disruptive 与 Innovation X Capital 等领投的$10亿 Series H（投后$288亿）+$10亿 Blackstone 结构化股权 + JPM 牵头$5亿债务；Series H 主要用于支付收购款",
+        "source_type": "官方新闻稿 / Axios",
+        "source_url": "https://www.axios.com/pro/merger-deals/2026/11/05/shield-ai-echodyne-radar-deal-series-h-fundraise"
+      },
+      {
+        "label": "商业信号",
+        "value": "双方均称本财年营收三位数增长；Echodyne 9月获 JIATF 401 最高$2.5亿上限反无雷达合同；Kirkland 新厂年产能约3万台雷达",
+        "source_type": "官方新闻稿",
+        "source_url": "https://shield.ai/shield-to-acquire-echodyne-in-a-transaction-valued-at-5-3-billion-and-raise-2-5-billion-at-a-28-8-billion-valuation/"
+      }
+    ],
+    "why_it_works": "自主无人系统要「先感知再决策」：Echodyne 的低成本高性能力学扫描雷达已嵌进数百套反无与边防系统；Shield 用股权+债务一把买传感器、产能与合同管道，把软件自主能力接到可量产的物理层。",
+    "takeaway": "物理 AI 并购开始按「软件估值买硬件护城河」定价；盯交割能否过监管、Echodyne 独立雷达渠道是否被稀释，以及合并后真实营收增速。",
+    "innovation_score": 4,
+    "business_score": 5,
+    "tags": [
+      "防务AI",
+      "反无人机",
+      "雷达",
+      "并购",
+      "Series H"
+    ],
+    "website": "https://shield.ai/",
+    "sources": [
+      "https://shield.ai/shield-to-acquire-echodyne-in-a-transaction-valued-at-5-3-billion-and-raise-2-5-billion-at-a-28-8-billion-valuation/",
+      "https://breakingdefense.com/2026/11/shield-ai-acquires-radar-firm-echodyne-in-5-3b-deal/",
+      "https://www.axios.com/pro/merger-deals/2026/11/05/shield-ai-echodyne-radar-deal-series-h-fundraise"
+    ],
+    "uncertain_points": "绝对营收与利润未披露；「三位数增长」无基数；交割待监管，对赌$5亿能否兑现未知。"
+  },
+  {
+    "id": "sand-ai-200m-series-a-plus-vidmuse-unicorn",
+    "date_collected": "2026-11-06",
+    "status": "new",
+    "type": "both",
+    "name": "Sand.ai（三呆科技）",
+    "one_liner": "上海视频生成创企完成$2亿 A+轮、10个月累计约$3亿并称跻身独角兽；付费产品 VidMuse 上线约两月 ARR 破千万美元（媒体转述公司口径）",
+    "category": "设计创意",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "研发 MAGI 系列视频/音视频基础模型（含开源 MAGI-2 Preview，约114B MoE），并以 VidMuse 等付费应用面向音乐视频、广告与动漫剧等场景变现；融资用于模型研发、训推基建、产品与全球拓展",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "A+轮$2亿，基石资本与网宿科技联合领投，浦东创投/国方等上海国资与经纬等老股东参与；2026年第三轮，10个月累计约$3亿；公司称跻身独角兽，精确估值未披露",
+        "source_type": "公司声明 / 智东西、DealStreetAsia",
+        "source_url": "https://zhidx.com/p/607594.html"
+      },
+      {
+        "label": "产品收入（公司口径经媒体）",
+        "value": "VidMuse 上线约两个月 ARR 突破千万美元（DealStreetAsia 报道为 over $10 million）",
+        "source_type": "媒体转述公司口径",
+        "source_url": "https://www.dealstreetasia.com/stories/sand-ai-enters-unicorn-club-500283"
+      },
+      {
+        "label": "模型进展",
+        "value": "MAGI-2 Preview 开源千亿参数级 MoE 视频模型；正式版 MAGI-2 将近期发布",
+        "source_type": "公司声明 / 智东西",
+        "source_url": "https://zhidx.com/p/607594.html"
+      }
+    ],
+    "why_it_works": "在可灵等巨头系视频模型吸金同时，Sand.ai 用开源千亿 MoE + 付费应用双线：一边抢开发者心智，一边用 VidMuse 证明「两个月破千万美元 ARR」的应用层转化，产业资本（网宿）押推理与分发协同。",
+    "takeaway": "中国视频模型赛道仍有独立独角兽空间，但观察站更盯 ARR 可持续性与海外 GMV，而非单轮估值口号。",
+    "innovation_score": 4,
+    "business_score": 4,
+    "tags": [
+      "视频生成",
+      "开源模型",
+      "VidMuse",
+      "独角兽",
+      "A+轮"
+    ],
+    "website": "https://sand.ai/",
+    "sources": [
+      "https://zhidx.com/p/607594.html",
+      "https://www.dealstreetasia.com/stories/sand-ai-enters-unicorn-club-500283",
+      "https://tech.caijing.com.cn/20261105/5191943.shtml"
+    ],
+    "uncertain_points": "精确投后估值未披露；VidMuse ARR 为媒体转述公司口径，未见独立审计；与可灵/Runway 等份额对比缺失。"
+  },
+  {
+    "id": "agility-robotics-nasdaq-aglt-humanoid-public",
+    "date_collected": "2026-11-06",
+    "status": "new",
+    "type": "both",
+    "name": "Agility Robotics",
+    "one_liner": "人形机器人公司完成与 Churchill Capital XI 的业务合并，纳斯达克代码 AGLT 开盘交易，成美国首家纯人形机器人上市公司；合计约$4.65亿毛融资，Digit 5 多年期订单超$3亿",
+    "category": "硬件与端侧",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "向物流与制造客户部署 Digit 人形机器人（含 Agility Arc 车队软件），以硬件+软件+部署服务收费；客户含 GXO、Schaeffler、丰田加拿大等；下一代 Digit 5 面向 2027 年 GA",
+    "metrics": [
+      {
+        "label": "上市与融资",
+        "value": "2026-11-05 纳斯达克 AGLT/AGLTW 开盘；与 Churchill XI 业务合并及相关融资合计约$4.65亿毛额（含 Foxconn 领投 PIPE 等）",
+        "source_type": "官方新闻稿",
+        "source_url": "https://www.agilityrobotics.com/content/agility-becomes-first-u-s-publicly-listed-pure-play-humanoid-robotics-company-begins-trading-today-on-nasdaq-as-aglt"
+      },
+      {
+        "label": "商业部署",
+        "value": "累计超6.5万小时客户现场运行；乔治亚 GXO 现场 Digit 已搬运超10万托盘；Digit 5 多年期承诺订单超$3亿（受合同里程碑与规格约束）",
+        "source_type": "官方新闻稿",
+        "source_url": "https://www.agilityrobotics.com/content/agility-becomes-first-u-s-publicly-listed-pure-play-humanoid-robotics-company-begins-trading-today-on-nasdaq-as-aglt"
+      },
+      {
+        "label": "产能规划",
+        "value": "俄勒冈 RoboFab 设计年产能最高约1万台；另有匹兹堡扩建与 Fremont 研发中心",
+        "source_type": "官方新闻稿",
+        "source_url": "https://www.agilityrobotics.com/content/agility-becomes-first-u-s-publicly-listed-pure-play-humanoid-robotics-company-begins-trading-today-on-nasdaq-as-aglt"
+      }
+    ],
+    "why_it_works": "人形机器人叙事长期缺「公开市场标尺」；Agility 用真实仓内工时、托盘吞吐与可验证客户名单换取公众资本，把物理 AI 从演示推进到可审计的商业化阶段。",
+    "takeaway": "首家美股纯人形标的意味着估值与交付将季度对账；盯 Digit 5 订单兑现率、单位经济与持续亏损幅度。",
+    "innovation_score": 5,
+    "business_score": 4,
+    "tags": [
+      "人形机器人",
+      "IPO",
+      "Digit",
+      "物流自动化",
+      "物理AI"
+    ],
+    "website": "https://www.agilityrobotics.com/",
+    "sources": [
+      "https://www.agilityrobotics.com/content/agility-becomes-first-u-s-publicly-listed-pure-play-humanoid-robotics-company-begins-trading-today-on-nasdaq-as-aglt",
+      "https://www.therobotreport.com/agility-robotics-begins-trading-on-nasdaq/",
+      "https://qz.com/agility-robotics-nasdaq-listing-humanoid-robot-maker-110526"
+    ],
+    "uncertain_points": "历史净亏损与当期收入绝对值未在本新闻稿量化；$3亿 Digit 5 订单附条件；SPAC 结构常伴稀释与费用。"
+  },
+  {
+    "id": "zipline-1-5b-21-5b-walmart-drone-delivery",
+    "date_collected": "2026-11-06",
+    "status": "new",
+    "type": "both",
+    "name": "Zipline",
+    "one_liner": "自主无人机配送公司融资$15亿、估值$215亿；与沃尔玛新增多年协议再开300个配送站点（现有约21个），配送收入占比从3月10.8%升至10月34.9%",
+    "category": "电商零售",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "运营无人机、起降设施与物流软件，向零售、医疗与政府客户提供自主配送；美国以 Platform 2 做约10英里半径家庭配送，Platform 1 做长途企业/政府配送；非洲多国仍承担医疗补给",
+    "metrics": [
+      {
+        "label": "融资与估值",
+        "value": "$15亿融资，Paradigm、WCM、Layer Global 领投，Uber、Tiger、JPM、ARK、Salesforce Ventures 等参与；投后估值$215亿",
+        "source_type": "TechCrunch / GlobeNewswire",
+        "source_url": "https://techcrunch.com/2026/11/05/zipline-hits-21-5b-valuation-as-walmart-expands-bet-on-drone-delivery/"
+      },
+      {
+        "label": "沃尔玛扩张",
+        "value": "新增多年协议，美国再开约300个无人机配送站点（相对现有约21个活跃站点）",
+        "source_type": "TechCrunch",
+        "source_url": "https://techcrunch.com/2026/11/05/zipline-hits-21-5b-valuation-as-walmart-expands-bet-on-drone-delivery/"
+      },
+      {
+        "label": "收入结构（公司披露）",
+        "value": "配送收入占比由2026年3月的10.8%升至10月的34.9%",
+        "source_type": "公司声明经 TechCrunch",
+        "source_url": "https://techcrunch.com/2026/11/05/zipline-hits-21-5b-valuation-as-walmart-expands-bet-on-drone-delivery/"
+      }
+    ],
+    "why_it_works": "自主飞行+监管牌照（Part 135）把「能飞」变成「能收费」；沃尔玛站点数量级扩张把无人机从试点变成零售履约的一条正式通道。",
+    "takeaway": "物理物流 AI 的商业化看点是收入结构（配送 vs 其他）与站点利用率，而不只是估值倍数。",
+    "innovation_score": 4,
+    "business_score": 5,
+    "tags": [
+      "无人机配送",
+      "自主物流",
+      "Walmart",
+      "高估值融资"
+    ],
+    "website": "https://www.zipline.com/",
+    "sources": [
+      "https://techcrunch.com/2026/11/05/zipline-hits-21-5b-valuation-as-walmart-expands-bet-on-drone-delivery/",
+      "https://www.globenewswire.com/news-release/2026/11/05/3396242/0/en/zipline-raises-1-5-billion-to-build-nationwide-drone-delivery-network.html",
+      "https://www.axios.com/2026/11/05/zipline-walmart-drone-delivery"
+    ],
+    "uncertain_points": "绝对营收与利润未披露；300站点落地节奏与单位经济未公开。"
+  },
+  {
+    "id": "ocient-100m-series-c-agentic-ai-analytics",
+    "date_collected": "2026-11-06",
+    "status": "new",
+    "type": "profitable",
+    "name": "Ocient",
+    "one_liner": "面向 PB 级数据的 agentic AI 分析公司完成$1亿 Series C（累计$2.6亿），推出 OcientAIQ Solutions；公司称今年营收有望超三倍",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "向关键基础设施、网络安全、合规与政府等客户销售 OcientAIQ 统一数据平台及行业 Solution Pack（含治理、语义与 Agent 技能），支持本地与云部署，分析在引擎内运行以便审计与降 token 成本",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "$1亿 Series C，BOKA Capital 与 OCA Ventures 联合领投，Greycroft、In-Q-Tel、Blue Bear 等老股东跟投；累计融资$2.6亿",
+        "source_type": "官方新闻稿",
+        "source_url": "https://ocient.com/newsroom/press-releases/ocient-raises-100m-in-series-c-funding/"
+      },
+      {
+        "label": "增长（公司自述）",
+        "value": "预期今年营收超三倍；已设立印度业务与 Ocient National Security Solutions 子公司",
+        "source_type": "官方新闻稿 / Chicago Business Journal",
+        "source_url": "https://ocient.com/newsroom/press-releases/ocient-raises-100m-in-series-c-funding/"
+      }
+    ],
+    "why_it_works": "Agent 要可信答案，先要「可治理、可复现」的全量数据引擎；Ocient 把分析留在引擎内而非外抛给大模型，切中安全与合规客户的审计痛点。",
+    "takeaway": "Agent 基建下一层是「带治理的分析运行时」；需补绝对 ARR 与国防/电信客户占比。",
+    "innovation_score": 3,
+    "business_score": 4,
+    "tags": [
+      "Agent分析",
+      "数据治理",
+      "Series C",
+      "关键基础设施"
+    ],
+    "website": "https://ocient.com/",
+    "sources": [
+      "https://ocient.com/newsroom/press-releases/ocient-raises-100m-in-series-c-funding/",
+      "https://siliconangle.com/2026/11/05/ocient-raises-100-million-as-agentic-ai-drives-growth-in-large-scale-analytics/",
+      "https://www.blocksandfiles.com/ai-ml/2026/11/05/ai-energized-trillion-row-database-startup-ocient-raises-100-million/5307819"
+    ],
+    "uncertain_points": "绝对营收基数未披露；「超三倍」为公司预期而非已审计结果。"
+  },
+  {
+    "id": "dropbox-tigris-350m-dbx-agent-cloud",
+    "date_collected": "2026-11-06",
+    "status": "new",
+    "type": "both",
+    "name": "Dropbox × Tigris（DBX Agent Cloud）",
+    "one_liner": "Dropbox 计划以约$3.5亿现金收购 AI 对象存储创企 Tigris，并发布面向 Agent 的 DBX Agent Cloud；核心 AI 体验已覆盖超7万团队",
+    "category": "生产力办公",
+    "region": "海外",
+    "team_type": "大公司",
+    "business_model": "在原有文件协作之上，向开发者与企业出售 S3 兼容的独立对象存储（DBX Agent Cloud），并在 Dropbox 产品内提供可审批的 Agent 文件操作与多模型选择；内容可连到 ChatGPT/Claude/Muse",
+    "metrics": [
+      {
+        "label": "收购",
+        "value": "TechCrunch 等报道约$3.5亿现金收购 Tigris，预计2026 Q4 交割；官方 BusinessWire 未写明金额，称加速进入 AI 基础设施",
+        "source_type": "TechCrunch（媒体）+ 官方声明",
+        "source_url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/"
+      },
+      {
+        "label": "产品覆盖",
+        "value": "新 Dropbox AI 体验已向超7万团队推送（美/英/澳合格 Standard/Advanced 团队起步）",
+        "source_type": "官方新闻稿",
+        "source_url": "https://www.businesswire.com/news/home/20261105637007/en/Dropbox-Announces-Plans-to-Acquire-Tigris-Data-Inc.-and-Unveils-DBX-Agent-Cloud-as-Part-of-AI-Powered-Product-Evolution"
+      }
+    ],
+    "why_it_works": "Agent 需要跨云、低延迟、少 egress 的内容家；Dropbox 用近20年存储经验收购 Tigris，把「文件柜」改造成 Agent 可读写的运行时存储层。",
+    "takeaway": "大厂二次创业常从「给 Agent 一个家」切入；金额以媒体报道为准，交割后看 Agent Cloud 是否独立计收。",
+    "innovation_score": 3,
+    "business_score": 4,
+    "tags": [
+      "对象存储",
+      "Agent基建",
+      "并购",
+      "Dropbox"
+    ],
+    "website": "https://www.dropbox.com/",
+    "sources": [
+      "https://www.businesswire.com/news/home/20261105637007/en/Dropbox-Announces-Plans-to-Acquire-Tigris-Data-Inc.-and-Unveils-DBX-Agent-Cloud-as-Part-of-AI-Powered-Product-Evolution",
+      "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+      "https://www.tigrisdata.com/blog/dropbox-plans-acquire-tigris.md"
+    ],
+    "uncertain_points": "官方稿未确认$3.5亿数字，依赖 TechCrunch/SEC 相关报道；Agent Cloud 独立 ARR 未知。"
+  },
+  {
+    "id": "firmly-15m-series-a-ask-agent-commerce",
+    "date_collected": "2026-11-06",
+    "status": "new",
+    "type": "both",
+    "name": "firmly",
+    "one_liner": "Agentic commerce 基建完成$1500万 Series A（Squarepoint 领投，JPM Payments、Mastercard、Samsung NEXT 战略参与），同步推出站内 Ask Agent；早期商户转化率最高+18%、AOV+23%",
+    "category": "电商零售",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "以 firmly Connect 无代码把商户实时目录、库存、支付与结账接到 AI 助手/市场/社交等渠道，商户保持 merchant of record；Ask Agent 一行 JS 嵌入官网做对话购物；称可触达超1100万商户、超$9000亿 GMV",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "$1500万 Series A，Squarepoint Capital 领投，J.P. Morgan Payments、Mastercard、Samsung NEXT 等参与；累计约$2000万",
+        "source_type": "官方新闻稿 / GlobeNewswire",
+        "source_url": "https://www.globenewswire.com/news-release/2026/11/05/3396499/0/en/firmly-raises-15-million-series-a-and-launches-ask-agent-to-help-merchants-more-easily-adopt-agentic-commerce.html"
+      },
+      {
+        "label": "早期效果（公司自述）",
+        "value": "Ask Agent 早期部署转化率最高提升约18%、客单价最高约23%",
+        "source_type": "公司声明",
+        "source_url": "https://www.globenewswire.com/news-release/2026/11/05/3396499/0/en/firmly-raises-15-million-series-a-and-launches-ask-agent-to-help-merchants-more-easily-adopt-agentic-commerce.html"
+      }
+    ],
+    "why_it_works": "Agent 购物协议碎片化，商户不可能为每个助手单独对接；firmly 做「反向集成」——平台连商户而非商户连平台，并有卡组织与银行战略背书。",
+    "takeaway": "Agentic commerce 的胜负手是商户侧零工程接入 + 支付可信；需验证 GMV 与付费商户数是否独立可核。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": [
+      "Agentic Commerce",
+      "Ask Agent",
+      "支付基建",
+      "Series A"
+    ],
+    "website": "https://www.firmly.ai/",
+    "sources": [
+      "https://www.globenewswire.com/news-release/2026/11/05/3396499/0/en/firmly-raises-15-million-series-a-and-launches-ask-agent-to-help-merchants-more-easily-adopt-agentic-commerce.html",
+      "https://www.axios.com/pro/fintech-deals/2026/11/05/firmly-15-million-series-a-jpmorgan-mastercard",
+      "https://www.pymnts.com/news/artificial-intelligence/2026/firmly-lands-15-million-as-investors-back-the-merchant-side-of-agentic-commerce/"
+    ],
+    "uncertain_points": "1100万商户/$9000亿 GMV 为可连接潜力口径；转化/AOV 提升为早期部署峰值，非平均；ARR 未披露。"
+  },
+  {
+    "id": "eabot-yibotu-near-400m-cny-heavy-duty-physical-ai",
+    "date_collected": "2026-11-06",
+    "status": "new",
+    "type": "both",
+    "name": "易博图（EABOT）",
+    "one_liner": "重载物理 AI 创企成立约9个月连续两轮近4亿元融资（葛卫东、辰韬、弘毅、零一汽车等）；自营100+重卡、60条线路做 L4 短倒，再卖智驾套件与 AI Driver 订阅",
+    "category": "硬件与端侧",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "先自持车队在新疆/内蒙古等做 0–300 公里大宗物料短倒赚运费并攒数据，再向车队提供智驾套件、AI Driver 软件订阅与运营支持；技术上以多模态+世界模型与 TwinFast 做场景判断与规划",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "连续两轮合计近4亿元人民币；投资方含葛卫东、辰韬资本、弘毅投资、零一汽车、兴富资本、星奇基金等",
+        "source_type": "科创板日报 / 财联社",
+        "source_url": "https://finance.eastmoney.com/a/202611053923343641.html"
+      },
+      {
+        "label": "运营规模（公司披露）",
+        "value": "运营100多台重卡、覆盖约60条线路；每月新增超200万段驾驶数据；真实道路零接管测试进行中",
+        "source_type": "媒体转述公司披露",
+        "source_url": "https://www.163.com/dy/article/LB0MLADG05198CJN.html"
+      }
+    ],
+    "why_it_works": "重卡短倒线路固定、频次高，适合用自营车队把物理 AI「跑出单位经济」再产品化；产业方零一汽车入局缩短整车适配路径。",
+    "takeaway": "无人重卡已从概念进入「车队即验证平台」；尚无对外付费订阅数字，需盯线路复制与计入全成本后的价格竞争力。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": [
+      "物理AI",
+      "无人重卡",
+      "L4",
+      "世界模型",
+      "中国融资"
+    ],
+    "website": "",
+    "sources": [
+      "https://finance.eastmoney.com/a/202611053923343641.html",
+      "https://www.163.com/dy/article/LB0MLADG05198CJN.html",
+      "http://stock.10jqka.com.cn/20261105/c681518887.shtml"
+    ],
+    "uncertain_points": "两轮各自金额未拆分；尚无对外付费客户与订阅收入披露；官网未确认。"
+  },
+  {
+    "id": "finpilot-10m-series-a-institutional-capital-os",
+    "date_collected": "2026-11-06",
+    "status": "new",
+    "type": "profitable",
+    "name": "Finpilot",
+    "one_liner": "机构资金「AI 原生操作系统」完成$1000万 Series A（Lobby Capital 领投，Madrona 参与）；客户含西雅图儿童医院、TIFF、怀俄明州退休系统等",
+    "category": "法律金融",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "为大学捐赠、养老金、基金会、医院系统等机构投资团队提供统一持仓与文档记录层，叠加可追溯的 AI Agent 完成读报告、更新数字、出分析；按机构软件订阅收费",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "$1000万 Series A，Lobby Capital 领投，Madrona 参与；官宣日期 2026-11-04，窗口内持续传播",
+        "source_type": "公司博客 / BusinessWire",
+        "source_url": "https://finpilot.ai/blog/finpilot-raises-10m-series-a"
+      },
+      {
+        "label": "客户（公司点名）",
+        "value": "Seattle Children’s、Children’s Health of Dallas、Hackensack Meridian Health、TIFF、Blue Cross Blue Shield、Wyoming Retirement System 等",
+        "source_type": "公司博客",
+        "source_url": "https://finpilot.ai/blog/finpilot-raises-10m-series-a"
+      }
+    ],
+    "why_it_works": "机构资本工作流仍是 PDF+邮件+老系统；Finpilot 把「读、对、录、报」交给 Agent，同时保留董事会级可追溯，切中高合规、高重复场景。",
+    "takeaway": "金融 Agent 卖的是审计链而非聊天窗口；缺 ARR/席位数，列为早期盈利信号案例。",
+    "innovation_score": 3,
+    "business_score": 3,
+    "tags": [
+      "机构投资",
+      "金融Agent",
+      "Series A",
+      "操作系统"
+    ],
+    "website": "https://finpilot.ai/",
+    "sources": [
+      "https://finpilot.ai/blog/finpilot-raises-10m-series-a",
+      "https://www.businesswire.com/news/home/20261104339022/en/Finpilot-Raises-%2410-Million-Series-A-Led-by-Lobby-Capital-to-Bring-AI-Agents-to-Institutional-Investors",
+      "https://www.geekwire.com/2026/finpilot-raises-10m-for-ai-agents-that-handle-the-grunt-work-for-institutional-investors/"
+    ],
+    "uncertain_points": "ARR、付费席位与合同价值未披露；官宣略早于本窗口起点，按 11/5 传播纳入。"
+  },
+  {
+    "id": "rivio-33m-series-a-hospital-revenue-cycle-agents",
+    "date_collected": "2026-11-06",
+    "status": "new",
+    "type": "both",
+    "name": "Rivio",
+    "one_liner": "巴西医院效率 AI 公司 Series A 扩展至约$3300万、估值约$2亿；Agent+专家运营做收入周期，按医保回款结果收费；已服务 Einstein、Sírio-Libanês 等13个医院集团",
+    "category": "医疗健康",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "以 AI Agent 审单、找拒付风险，叠加医疗运营专家落地执行，对医院收入周期结果负责并从医保成功回款中分成；计划扩展到排班、床位与物资等管理面",
+    "metrics": [
+      {
+        "label": "融资与估值",
+        "value": "Series A 扩展融资约$3300万（约合 R$1.8亿），Valor Capital 领投，Monashees、Positive、APL 等参与；估值约$2亿（R$10亿+）；成立约一年",
+        "source_type": "公司新闻稿",
+        "source_url": "https://www.rivio.com.br/en/news/rivio-series-a-extension"
+      },
+      {
+        "label": "客户",
+        "value": "运营于13个医院集团；公开点名 Albert Einstein、Sírio-Libanês、Oswaldo Cruz、São Camilo、A.C.Camargo、Hcor、AACD 等",
+        "source_type": "公司新闻稿",
+        "source_url": "https://www.rivio.com.br/en/news/rivio-series-a-extension"
+      }
+    ],
+    "why_it_works": "拉美医院「临床先进、管理表格化」；Rivio 不卖纯软件，而是以结果分成绑定回款，让 Agent 直接进入现金流闭环。",
+    "takeaway": "医疗 Agent 的强商业模式是 outcome-based 运营外包；需补具体回款提升幅度与毛利。",
+    "innovation_score": 4,
+    "business_score": 4,
+    "tags": [
+      "医疗AI",
+      "收入周期",
+      "结果付费",
+      "拉美",
+      "Series A"
+    ],
+    "website": "https://www.rivio.com.br/",
+    "sources": [
+      "https://www.rivio.com.br/en/news/rivio-series-a-extension",
+      "https://www.thesaasnews.com/news/rivio-raises-33m-series-a-extension/"
+    ],
+    "uncertain_points": "具体回款提升%与 ARR 未披露；美元换算依赖稿内 PTAX；官宣日期标 Nov 4。"
+  },
+  {
+    "id": "floot-payments-ph-chatgpt-claude-app-checkout",
+    "date_collected": "2026-11-06",
+    "status": "new",
+    "type": "innovative",
+    "name": "Floot Payments",
+    "one_liner": "Product Hunt 11/5 日榜约第2（约312票）：在 ChatGPT/Claude/Cursor 里做的应用可直接接 Stripe 订阅、一次性付款、票务与物流，无需自配 API/webhook",
+    "category": "电商零售",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "Floot 平台内建支付：对话指令即可加订阅套餐、结账页、运单；预览免费，正式收款走 Floot Pro/Power 计划叠加 Stripe 手续费",
+    "metrics": [
+      {
+        "label": "社区热度",
+        "value": "Product Hunt 2026-11-05 日榜约第2，约312 upvotes / 86 comments（聚合站数据）",
+        "source_type": "Product Hunt 日报聚合",
+        "source_url": "https://product-daily.haha.ai/posts/20261105"
+      },
+      {
+        "label": "产品形态",
+        "value": "文档显示支持订阅、一次性付款、优惠券、退款、运费与物流跟踪，底层 Stripe",
+        "source_type": "产品文档",
+        "source_url": "https://floot.com/docs/integrations/payments"
+      }
+    ],
+    "why_it_works": "「在对话里做应用」若不能收款就只是玩具；Floot 把结账嵌进同一对话循环，补齐 vibe coding 的最后一公里变现。",
+    "takeaway": "创新信号强、商业指标仍薄；待观察付费开发者数与 GMV。",
+    "innovation_score": 4,
+    "business_score": 2,
+    "tags": [
+      "Product Hunt",
+      "对话应用",
+      "Stripe",
+      "Agent支付"
+    ],
+    "website": "https://floot.com/",
+    "sources": [
+      "https://product-daily.haha.ai/posts/20261105",
+      "https://floot.com/docs/integrations/payments",
+      "https://www.producthunt.com/products/floot"
+    ],
+    "uncertain_points": "无公开 ARR/GMV；PH 票数来自第三方日报，可能与官网页有偏差；昨日待跟进线索已点名，今日以支付能力上线作为创新收录。"
+  },
+  {
+    "id": "render-sandboxes-agent-dedicated-computers",
+    "date_collected": "2026-11-06",
+    "status": "new",
+    "type": "innovative",
+    "name": "Render Sandboxes",
+    "one_liner": "Product Hunt 11/5 日榜约第4（约228票）：为每个 Agent 提供可秒启的独立 Linux 电脑，闲置自动挂起计费，可跑 Claude Code/Codex 与 Docker Compose 测改动",
+    "category": "编程开发",
+    "region": "海外",
+    "team_type": "大公司",
+    "business_model": "云托管商 Render 将沙箱作为 Agent 执行层产品，按计算时长计费；与应用同平台部署，域名访问可控，支持大规模并行",
+    "metrics": [
+      {
+        "label": "社区热度",
+        "value": "Product Hunt 2026-11-05 日榜约第4，约228 upvotes / 10 comments（聚合站数据）",
+        "source_type": "Product Hunt 日报聚合",
+        "source_url": "https://product-daily.haha.ai/posts/20261105"
+      }
+    ],
+    "why_it_works": "编码 Agent 需要真实电脑而非纯 API；Render 把「一人一机」变成「一 Agent 一机」，并用挂起计费对齐 Agent 突发负载。",
+    "takeaway": "与 Daytona/Phaze 等同赛道；创新在云厂商原生沙箱分发，商业化深度待补。",
+    "innovation_score": 4,
+    "business_score": 2,
+    "tags": [
+      "Agent沙箱",
+      "Product Hunt",
+      "开发者基建",
+      "Render"
+    ],
+    "website": "https://render.com/",
+    "sources": [
+      "https://product-daily.haha.ai/posts/20261105",
+      "https://render.com/"
+    ],
+    "uncertain_points": "缺官方独立新闻稿与收入指标；PH 排名来自第三方聚合；与既有 Daytona 等案例存在品类重叠但产品主体不同。"
+  }
+]
