@@ -1,0 +1,529 @@
+[
+  {
+    "id": "kalepa-75m-series-b-470m-insurance-ai",
+    "date_collected": "2026-11-07",
+    "status": "new",
+    "type": "both",
+    "name": "Kalepa",
+    "one_liner": "保险 Professional Grade AI 平台完成$7500万 Series B（估值$4.7亿），过去一年营收与客户数均约3倍，已连续两年以上现金流转正",
+    "category": "法律金融",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "面向保险公司、MGA、再保与项目管理人的 Professional Grade AI：在核保、定价、组合管理上编排可审计 Agent，按任务风险调节自主度，人审关键节点；客户含 W.R. Berkley、Bowhead Specialty、AmRisc 等",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "$7500万 Series B，估值$4.7亿；Updata Partners 领投，IA Ventures 与 Inspired Capital 跟投；累计融资约$9100万",
+        "source_type": "官方新闻稿",
+        "source_url": "https://kalepa.com/news-posts/kalepa-raises-75-million-series-b"
+      },
+      {
+        "label": "商业信号",
+        "value": "过去一年营收与客户数均约3倍；平台工作量约4倍；公司称已连续两年以上现金流转正；客户反馈单核保员保费产能提升约30%–60%、报价时长降约58%、综合成本率改善约960bp、报价到承保率翻倍（客户自述）",
+        "source_type": "官方新闻稿",
+        "source_url": "https://kalepa.com/news-posts/kalepa-raises-75-million-series-b"
+      },
+      {
+        "label": "覆盖",
+        "value": "业务覆盖逾10国；上一轮为2021年 Inspired Capital 领投的$1400万 Series A",
+        "source_type": "媒体报道",
+        "source_url": "https://techfundingnews.com/kalepa-75m-series-b-updata-insurance-ai/"
+      }
+    ],
+    "why_it_works": "保险核保缺的不是聊天机器人，而是可审计、可按风险调节自主度的工作流层；Kalepa 用行业 Harness 把调研、缺口提示、报价与组合动作串起来，让人把时间留给复杂风险与经纪人关系。",
+    "takeaway": "五年才再融资却已现金流为正的 AI 保险样本：盯绝对 ARR、综合成本率改善是否可复核，以及「任务级人机分工」能否挡住更激进的端到端核保 Agent。",
+    "innovation_score": 4,
+    "business_score": 5,
+    "tags": [
+      "保险AI",
+      "核保",
+      "Agent",
+      "Series B",
+      "现金流"
+    ],
+    "website": "https://kalepa.com/",
+    "sources": [
+      "https://kalepa.com/news-posts/kalepa-raises-75-million-series-b",
+      "https://techfundingnews.com/kalepa-75m-series-b-updata-insurance-ai/",
+      "https://fintech.global/2026/11/06/kalepa-raises-75m-to-scale-ai-across-insurance/"
+    ],
+    "uncertain_points": "绝对营收/ARR未披露；客户 KPI 为客户侧反馈而非统一审计；「现金流转正两年以上」无口径细节。"
+  },
+  {
+    "id": "humble-robotics-51m-series-a-cabless-electric-freight",
+    "date_collected": "2026-11-07",
+    "status": "new",
+    "type": "profitable",
+    "name": "Humble Robotics",
+    "one_liner": "无驾驶室电动自动驾驶货车公司完成$5100万 Series A（Obvious 领投），累计融资约$7500万，瞄准港口/铁路/仓配 dock-to-dock 区域货运",
+    "category": "硬件与端侧",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "软硬一体设计无驾驶室电动 Class 8 货运车 Humble Hauler：车与驾驶系统同构，首版承运集装箱，续航约200英里、最高约55mph；聚焦港口、铁路场站、仓配之间的区域短倒，计划以客户试点切入商业运营",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "$5100万 Series A，Obvious Ventures 领投，Eclipse 与 Energy Impact Partners 跟投；累计融资约$7500万（约半年前$2400万种子）",
+        "source_type": "官方新闻稿 / 媒体",
+        "source_url": "https://www.businesswire.com/news/home/20261105576352/en/Humble-Robotics-Raises-%2451-Million-Series-A-to-Scale-Its-Unified-Approach-to-Autonomous-and-Electric-Freight"
+      },
+      {
+        "label": "产品与里程碑",
+        "value": "创始人称客户试点计划2027年Q1启动、商业运营目标2027年Q3；尚无商业货运量",
+        "source_type": "媒体转述创始人",
+        "source_url": "https://thenextweb.com/news/humble-robotics-51m-series-a-cabless-electric-autonomous-trucks"
+      }
+    ],
+    "why_it_works": "区域货运占美国吨公里大头，无驾驶室可减重约20%并统一软硬栈；先做 dock-to-dock 可控场景，比跨州长途更易证明「运营商每天能靠的自主」。",
+    "takeaway": "物理 AI 货运进入「车+软件同构」赛道；真正分水岭是2027试点能否形成可复核的货运量与单位经济，而非融资叙事。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": [
+      "自动驾驶",
+      "电动货运",
+      "无驾驶室",
+      "Series A",
+      "物理AI"
+    ],
+    "website": "https://humblerobotics.ai/",
+    "sources": [
+      "https://www.businesswire.com/news/home/20261105576352/en/Humble-Robotics-Raises-%2451-Million-Series-A-to-Scale-Its-Unified-Approach-to-Autonomous-and-Electric-Freight",
+      "https://thenextweb.com/news/humble-robotics-51m-series-a-cabless-electric-autonomous-trucks",
+      "https://www.freightwaves.com/news/humble-robotics-51m-series-a-cabless-hauler"
+    ],
+    "uncertain_points": "尚无付费货运合同披露；监管与量产时间表仍属规划。"
+  },
+  {
+    "id": "kabilio-10m-euro-ai-accounting-agents",
+    "date_collected": "2026-11-07",
+    "status": "new",
+    "type": "both",
+    "name": "Kabilio",
+    "one_liner": "巴塞罗那 AI 会计平台完成€1000万融资（Picus/Visionaries 领投），事务所客户近500家，正上线可经邮件/WhatsApp 跟催的会计 Agent",
+    "category": "法律金融",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "服务会计事务所及其中小客户：AI 读票、建议分录、银企对账并保留会计师审批；同步推 Kabilio Empresas 让客户开票/连银行，再上线受控自主度的会计 Agent 拉票、对账、催缺件",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "€1000万本轮，Picus Capital 与 Visionaries 领投，西班牙 CDTI 参投；累计融资约€1400万",
+        "source_type": "媒体报道",
+        "source_url": "https://tech.eu/2026/11/05/kabilio-raises-eur10m-to-expand-ai-accounting-platform-and-introduce-ai-agents/"
+      },
+      {
+        "label": "客户与效率",
+        "value": "事务所客户近一年从约100增至近500，年底目标逾500；公司称记账/对账耗时约降60%；团队约80人",
+        "source_type": "公司/媒体",
+        "source_url": "https://www.eu-startups.com/2026/11/barcelonas-kabilio-raises-e10-million-to-deploy-its-ai-accounting-agent-as-client-base-nears-500-firms/"
+      }
+    ],
+    "why_it_works": "欧洲小企业外包记账的结构，让「事务所+客户同平台」成为 Agent 的数据入口；先做可审批自动化，再给完整工作流 Agent，符合合规行业的采用路径。",
+    "takeaway": "会计 Agent 比通用办公 Agent 更可卖：盯 Agent 是否从试点变成按事务所付费的标配，以及 Empresas 侧是否带来新增 ARR。",
+    "innovation_score": 4,
+    "business_score": 4,
+    "tags": [
+      "会计AI",
+      "Agent",
+      "SME",
+      "西班牙",
+      "融资"
+    ],
+    "website": "https://kabilio.com/",
+    "sources": [
+      "https://tech.eu/2026/11/05/kabilio-raises-eur10m-to-expand-ai-accounting-platform-and-introduce-ai-agents/",
+      "https://www.eu-startups.com/2026/11/barcelonas-kabilio-raises-e10-million-to-deploy-its-ai-accounting-agent-as-client-base-nears-500-firms/",
+      "https://techfundingnews.com/kabilio-10m-funding-ai-accounting-agents/"
+    ],
+    "uncertain_points": "未披露 ARR/付费单价；60%耗时下降为公司口径；Agent 仍处试点阶段。"
+  },
+  {
+    "id": "physicl-10m-seed-physical-ai-synthetic-data",
+    "date_collected": "2026-11-07",
+    "status": "new",
+    "type": "innovative",
+    "name": "Physicl",
+    "one_liner": "巴黎 Physicl 获 Inovia 领投$1000万种子轮，把电商级高保真 3D 管线改造成物理 AI 边缘案例合成数据与 Studio 工具",
+    "category": "硬件与端侧",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "向世界模型与机器人团队出售/提供 Studio：约1万个3D环境与10万资产，生成针对边缘案例的合成训练数据；早期客户含世界模型公司 SpAItial；愿景是把海量图像/激光雷达转成可在线生成的高保真物理表征",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "$1000万种子轮，Inovia Capital 领投，US Venture Partners 等参投",
+        "source_type": "媒体报道",
+        "source_url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/"
+      },
+      {
+        "label": "产品",
+        "value": "Studio 宣称提供约10,000个3D环境与100,000资产，用于针对性合成数据；已与 SpAItial 等早期客户合作",
+        "source_type": "媒体转述公司",
+        "source_url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/"
+      }
+    ],
+    "why_it_works": "真实采集边缘案例贵且慢；把「非结构化现实→高保真物理表征」做成可被训练循环调用的工具，比卖静态数据集更贴近机器人 post-training 需求。",
+    "takeaway": "物理 AI 数据层继续细分到「边缘案例合成」；需验证仿真到真机的迁移增益与付费合同，而不只是资产库规模。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": [
+      "物理AI",
+      "合成数据",
+      "仿真",
+      "种子轮",
+      "机器人"
+    ],
+    "website": "https://www.physicl.ai/",
+    "sources": [
+      "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+      "https://www.globenewswire.com/news-release/2026/11/06/3397485/0/en/physicl-raises-10-million-to-solve-physical-ai-s-edge-case-gap.html"
+    ],
+    "uncertain_points": "营收与合同金额未披露；环境/资产数量为公司宣称；真机迁移效果缺独立评测。"
+  },
+  {
+    "id": "atmospheric-ai-10-1m-seed-raw-material-twin",
+    "date_collected": "2026-11-07",
+    "status": "new",
+    "type": "both",
+    "name": "Atmospheric AI",
+    "one_liner": "原料供应链计算孪生公司获 DBL 领投约$1010万种子轮，建模约5万座设施，服务 Haleon 等制造客户的成本/碳/韧性 sourcing",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "用化工过程与工厂经济模型构建全球原料世界的可计算视图，帮助采购团队判断应有成本、替代产能与供应中断影响，而不依赖供应商主动披露内部数据；先做塑料，融资后扩化工/纸/金属",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "$1010万种子轮，DBL Partners 领投，Raise、Broadscale、Working Capital Fund、Tiny.vc、Norrsken Evolve、Anamcara 等参投",
+        "source_type": "媒体报道 / 官方博客",
+        "source_url": "https://www.axios.com/pro/climate-deals/2026/11/04/atmospheric-ai-dbl-seed"
+      },
+      {
+        "label": "产品与客户",
+        "value": "公司称运行约50,000个设施模型；在一次测试中不依赖生产商自有数据复现已公布碳足迹误差约4.4%；客户含 Haleon；计划深化约100家领先制造商合作",
+        "source_type": "官方博客",
+        "source_url": "https://atmosphericai.com/essays/atmospheric-ai-raises-10-million-to-make-the-raw-material-economy-computable"
+      }
+    ],
+    "why_it_works": "原料 sourcing 长期信息不对称；把工厂工艺与物流建成可反推成本/碳的模型，让采购从「报价谈判」变成「应有成本谈判」，在地缘扰动时尤其有用。",
+    "takeaway": "工业 AI 里少见的「化工计算+采购决策」产品；盯塑料以外品类能否复用同一模型栈，以及是否形成可披露 ARR。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": [
+      "供应链",
+      "碳足迹",
+      "数字孪生",
+      "种子轮",
+      "工业AI"
+    ],
+    "website": "https://atmosphericai.com/",
+    "sources": [
+      "https://atmosphericai.com/essays/atmospheric-ai-raises-10-million-to-make-the-raw-material-economy-computable",
+      "https://www.axios.com/pro/climate-deals/2026/11/04/atmospheric-ai-dbl-seed"
+    ],
+    "uncertain_points": "ARR与付费客户数未披露；Hormuz 案例为公司叙述；设施模型数量与精度缺第三方审计。"
+  },
+  {
+    "id": "claimlane-5-6m-euro-series-a-aftersales-agents",
+    "date_collected": "2026-11-07",
+    "status": "new",
+    "type": "both",
+    "name": "Claimlane",
+    "one_liner": "售后理赔/维修协同平台完成€560万 Series A，网络覆盖逾2万零售与品牌客户，融资用于客户专属 AI Agent 与美国扩张",
+    "category": "电商零售",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "连接品牌、零售、供应商、维修方，把保修判定、责任归属、维修/换货/退款与贷项串成一端到端售后；在此基础上建设按客户产品政策定制的 AI Agent，北美已是新增客户最大市场",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "€560万 Series A，Verb Ventures 领投，Skagerak Capital 与 Vendep Capital 参投",
+        "source_type": "官方博客",
+        "source_url": "https://www.claimlane.com/resources/blog/series-a-announcement"
+      },
+      {
+        "label": "网络与增长",
+        "value": "网络覆盖逾20,000零售商与品牌，客户含 Skechers、Black Diamond、tonies®、Hummel；公司称北美新增客户已居首位，美国销售机会同比约+150%",
+        "source_type": "官方博客",
+        "source_url": "https://www.claimlane.com/resources/blog/series-a-announcement"
+      }
+    ],
+    "why_it_works": "售后是多主体协同，不是单点客服；先有网络与工单真相，再叠客户专属 Agent，比从零训通用客服 Agent 更贴现金流场景。",
+    "takeaway": "「售后变利润中心」叙事可复制；需区分平台网络效应与 Agent 增量贡献，以及美国扩张是否带来可核验 ARR。",
+    "innovation_score": 3,
+    "business_score": 4,
+    "tags": [
+      "售后",
+      "电商",
+      "Agent",
+      "Series A",
+      "欧洲"
+    ],
+    "website": "https://www.claimlane.com/",
+    "sources": [
+      "https://www.claimlane.com/resources/blog/series-a-announcement",
+      "https://tech.eu/2026/11/05/claimlane-bags-eur56m-to-turn-product-claims-into-business-value/"
+    ],
+    "uncertain_points": "未披露 ARR；2万网络含潜在连接还是活跃付费未拆分；美国同比数据为公司口径。"
+  },
+  {
+    "id": "brava-security-15m-seed-secops-ground-truth",
+    "date_collected": "2026-11-07",
+    "status": "new",
+    "type": "both",
+    "name": "Brava Security",
+    "one_liner": "SecOps「攻击遥测真值」平台出隐蔽并获$1500万种子轮（F2/Pitango），服务 Fortune 100，称日处理约2.4万亿事件",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "多 Agent 合成「真实攻击会留下的遥测」而不执行攻击，用于检测工程、调查 Agent Aquarium 与 SIEM 管道优化；宣称可把 SIEM 成本降约65%–85%，已服务零售/能源/酒店等 Fortune 100",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "$1500万种子轮，F2 Venture Capital 与 Pitango 领投，天使含 Anthropic/Microsoft/Check Point 高管",
+        "source_type": "官方博客",
+        "source_url": "https://www.brava.security/news/announcing-brava"
+      },
+      {
+        "label": "规模信号",
+        "value": "公司称已与 Fortune 100 客户合作；每日处理约2.4万亿事件，并有数千条检测被日常验证；客户侧 SIEM 成本降约65%–85%",
+        "source_type": "官方博客",
+        "source_url": "https://www.brava.security/news/announcing-brava"
+      }
+    ],
+    "why_it_works": "Agent 化 SOC 若看不见攻击痕迹就会「聪明地漏报」；用合成攻击遥测给检测规则与调查 Agent 提供可证明的真值层，补上 agentic 安全的地基。",
+    "takeaway": "安全 Agent 叙事从「自动响应」回到「先证明看得见」；2.4万亿事件与成本降幅需独立客户背书。",
+    "innovation_score": 5,
+    "business_score": 3,
+    "tags": [
+      "网络安全",
+      "SecOps",
+      "Agent",
+      "种子轮",
+      "SIEM"
+    ],
+    "website": "https://www.brava.security/",
+    "sources": [
+      "https://www.brava.security/news/announcing-brava",
+      "https://thenextweb.com/news/brava-security-15m-seed-f2-pitango-ai-soc-telemetry"
+    ],
+    "uncertain_points": "事件量与成本节省为公司宣称；合同金额与 ARR 未披露；Axios Pro 等报道或需订阅核对细节。"
+  },
+  {
+    "id": "cowboy-5m-seed-ai-agent-app-store",
+    "date_collected": "2026-11-07",
+    "status": "new",
+    "type": "innovative",
+    "name": "Cowboy",
+    "one_liner": "AI Agent「应用商店」Cowboy 获$500万种子轮并上线 General Store：隔离沙箱租用 Agent，开发者可订阅/按次变现",
+    "category": "编程开发",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "开发者构建 Agent/技能/数据/算力并上架 General Store；买方获得隔离私有副本，看不到源码；Cowboy 处理托管、支付与退款；宣称上线时有100+可租用 Agent 与1万+数据源，并推 Cowboy Cloud 与链测试网",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "$500万种子轮，投资方含 Nebular、Compound、Semantic Ventures、Anagram、Shine Ventures、Uncommon Projects 及多名天使",
+        "source_type": "官方博客 / BusinessWire",
+        "source_url": "https://cowboy.inc/blog/meet-cowboy"
+      },
+      {
+        "label": "产品上线",
+        "value": "公司称 Cowboy Cloud 与 General Store 已上线，启动时有逾100个可租 Agent、逾10,000数据源；支持订阅或按次计费",
+        "source_type": "官方博客",
+        "source_url": "https://cowboy.inc/blog/meet-cowboy"
+      }
+    ],
+    "why_it_works": "Agent 易做难托管难变现；把「隔离运行+分成」做成应用商店原语，把开发者从自建服务器与密钥分发里解放出来。",
+    "takeaway": "Agent 分发层值得盯 GMV 与复购，而非上架数量；加密运行时叙事与企业采购合规仍是问号。",
+    "innovation_score": 4,
+    "business_score": 2,
+    "tags": [
+      "Agent市场",
+      "开发者",
+      "沙箱",
+      "种子轮",
+      "变现"
+    ],
+    "website": "https://cowboy.inc/",
+    "sources": [
+      "https://cowboy.inc/blog/meet-cowboy",
+      "https://www.businesswire.com/news/home/20261104730692/en/Cowboy-Raises-%245-Million-in-Seed-Funding-to-Help-Developers-Own-Control-and-Monetize-AI"
+    ],
+    "uncertain_points": "100+ Agent/1万数据源为上线宣称；GMV/付费开发者未披露；主网与合规路径未定。"
+  },
+  {
+    "id": "glasshand-agent-iphone-mac-rental",
+    "date_collected": "2026-11-07",
+    "status": "new",
+    "type": "innovative",
+    "name": "Glasshand",
+    "one_liner": "Product Hunt 日榜第一：按月出租数据中心里的真实 iPhone（$60）与 Mac（$90）给 AI Agent 点触操作，对接 Claude Code/Codex 等",
+    "category": "硬件与端侧",
+    "region": "海外",
+    "team_type": "独立开发者",
+    "business_model": "在数据中心托管真实苹果设备，Agent 经 API/提示词租用独占机，像人一样看屏点触（发 TikTok、叫车、测 iOS）；月租 iPhone $60、Mac $90，退租后擦除并恢复出厂",
+    "metrics": [
+      {
+        "label": "发布热度",
+        "value": "2026-11-05 前后上线，Product Hunt 当日/当周日榜第一（媒体与PH页面记录）",
+        "source_type": "Product Hunt / 媒体",
+        "source_url": "https://www.producthunt.com/products/glasshand"
+      },
+      {
+        "label": "定价",
+        "value": "官网定价：iPhone 约$60/月，Mac 约$90/月，按月计费可取消；设备独占，退租擦除重置",
+        "source_type": "媒体核验官网",
+        "source_url": "https://i10x.ai/news/glasshand-ai-agents-rent-iphones-macs"
+      }
+    ],
+    "why_it_works": "浏览器/模拟器过不了 App Store、iMessage 等苹果墙；给 Agent 一台真机是粗暴但立刻可用的「手」，把端侧操作从 demo 变成可订阅基础设施。",
+    "takeaway": "Agent 基础设施开始卖物理 SKU；平台反滥用与账号安全是下一道闸，月租模式对 CI 突发负载未必友好。",
+    "innovation_score": 5,
+    "business_score": 3,
+    "tags": [
+      "Agent",
+      "真机租赁",
+      "Product Hunt",
+      "iPhone",
+      "基础设施"
+    ],
+    "website": "https://glasshand.com/",
+    "sources": [
+      "https://www.producthunt.com/products/glasshand",
+      "https://i10x.ai/news/glasshand-ai-agents-rent-iphones-macs",
+      "https://product-daily.haha.ai/posts/20261106"
+    ],
+    "uncertain_points": "精确 upvote 数随时间变化；团队规模与营收未披露；苹果与主流 App 对机柜自动化的态度未知。"
+  },
+  {
+    "id": "jushi-tech-hundreds-millions-cny-series-c-semiconductor-ai",
+    "date_collected": "2026-11-07",
+    "status": "new",
+    "type": "profitable",
+    "name": "聚时科技",
+    "one_liner": "工业 AI 与半导体检量测设备公司完成数亿元 C 轮，产业资本加持，加速 AI 半导体检测设备规模化产能",
+    "category": "硬件与端侧",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "研发国产替代半导体检测量测高精度设备与 AI 良率分析系统，服务集成电路高端制造；总部上海松江，并在绍兴等地建晶圆无尘车间与多地研发中心",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "数亿元人民币 C 轮；投资方含财通资本、益华资本、日联科技（688531）、上海国投旗下上海科创、吉力创投等；多为老股东相关基金加码",
+        "source_type": "媒体报道",
+        "source_url": "https://news.pedaily.cn/202611/571405.shtml"
+      },
+      {
+        "label": "用途",
+        "value": "融资用于加速 AI 半导体检量测设备规模化制造产能布局与产品竞争力",
+        "source_type": "媒体报道",
+        "source_url": "https://news.pedaily.cn/202611/571405.shtml"
+      }
+    ],
+    "why_it_works": "先进制程良率依赖检量测；把深度学习与高精度光学/运控做成可量产设备，踩在国产替代与 AI 半导体双周期上。",
+    "takeaway": "中国物理 AI 资本继续涌向「设备+AI」而非纯软件；「数亿元」未拆具体数字与订单，需跟进产能与客户验证。",
+    "innovation_score": 3,
+    "business_score": 3,
+    "tags": [
+      "半导体",
+      "检量测",
+      "工业AI",
+      "C轮",
+      "中国"
+    ],
+    "website": "https://www.matrixtime.com/",
+    "sources": [
+      "https://news.pedaily.cn/202611/571405.shtml",
+      "https://feng.ifeng.com/c/8xpur1Ujbv5"
+    ],
+    "uncertain_points": "确切融资金额未披露；营收/出货量未公开。"
+  },
+  {
+    "id": "aformic-6-95m-seed-industrial-amr-34m-orders",
+    "date_collected": "2026-11-07",
+    "status": "new",
+    "type": "both",
+    "name": "AFORMIC",
+    "one_liner": "工业 AMR/叉车机器人公司获$695万种子轮，累计订单逾$3400万，数百台机器人在产线日均执行逾5000单",
+    "category": "硬件与端侧",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "自研 AMR、自动叉车与 Qursor 工厂软件，部署并运维厂内物流；客户含 Toyota、3M、Hitachi、First Solar、Oshkosh Defense 等；融资还将拓展 AI 数据中心建设运维场景",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "$695万种子轮，Veteran Ventures Capital 领投，ffVC、Mana Ventures、Red Beard Ventures、Alamo Angels 等参投",
+        "source_type": "官方新闻稿",
+        "source_url": "https://aformic.com/aformic-raises-6-95-million-seed-round-to-automate-the-industries-that-matter/"
+      },
+      {
+        "label": "商业牵引",
+        "value": "累计订单逾$3400万；数百台机器人在产；过去12个月生产里程逾18.6万英里；日均执行逾5000个生产/配送订单",
+        "source_type": "官方新闻稿",
+        "source_url": "https://aformic.com/aformic-raises-6-95-million-seed-round-to-automate-the-industries-that-matter/"
+      }
+    ],
+    "why_it_works": "工业物流缺人且可标准化；以「机器+驻场+软件」卖可计量的日订单吞吐，比只卖 demo 机器人更接近工厂采购逻辑。",
+    "takeaway": "种子轮金额不大但订单/在产指标硬；关注数据中心新场景是否稀释现有交付能力。",
+    "innovation_score": 3,
+    "business_score": 4,
+    "tags": [
+      "工业机器人",
+      "AMR",
+      "工厂物流",
+      "种子轮",
+      "订单"
+    ],
+    "website": "https://aformic.com/",
+    "sources": [
+      "https://aformic.com/aformic-raises-6-95-million-seed-round-to-automate-the-industries-that-matter/",
+      "https://thenextweb.com/news/aformic-6-95m-seed-industrial-robots-veteran-ventures"
+    ],
+    "uncertain_points": "订单是否全部确认为收入未知；与母公司 AIUT 的收入归属需留意；数据中心场景尚属规划。"
+  },
+  {
+    "id": "rerun-oss-ai-coworkers-on-subscriptions",
+    "date_collected": "2026-11-07",
+    "status": "new",
+    "type": "innovative",
+    "name": "Rerun",
+    "one_liner": "开源（AGPL）AI 同事平台：把已有 ChatGPT/Claude 订阅变成带工具、电脑与共享工作区的可调度 Agent 团队，PH 热榜前列",
+    "category": "生产力办公",
+    "region": "海外",
+    "team_type": "独立开发者",
+    "business_model": "开源可自托管的 Agent 协作运行时：复用用户现有大模型订阅，为每个「同事」配备工具与电脑，按日程/触发运行，风险操作先请示；云托管与自托管并存",
+    "metrics": [
+      {
+        "label": "发布热度",
+        "value": "约2026-11-05/06 登上 Product Hunt 日榜前列（媒体汇编约236赞量级，随时间变化）",
+        "source_type": "Product Hunt 汇编",
+        "source_url": "https://product-daily.haha.ai/posts/20261106"
+      },
+      {
+        "label": "产品形态",
+        "value": "AGPL 开源，支持 Docker/自托管；官方定位为把 ChatGPT 或 Claude 订阅变成 AI 协作团队",
+        "source_type": "官网 / GitHub",
+        "source_url": "https://rerun.build/"
+      }
+    ],
+    "why_it_works": "很多人已有模型订阅却缺「能跑任务的同事壳」；开源 Harness + 自带电脑/审批，降低从聊天到自动化的门槛。",
+    "takeaway": "订阅复用型 Agent 壳层会继续卷；需观察付费云与企业自托管转化，以及与 Claude Code 原生生态的差异化。",
+    "innovation_score": 4,
+    "business_score": 2,
+    "tags": [
+      "开源",
+      "Agent",
+      "Product Hunt",
+      "自托管",
+      "生产力"
+    ],
+    "website": "https://rerun.build/",
+    "sources": [
+      "https://rerun.build/",
+      "https://www.producthunt.com/products/rerun-2",
+      "https://product-daily.haha.ai/posts/20261106"
+    ],
+    "uncertain_points": "营收模式与付费转化未披露；PH 赞数非实时；与同名可视化项目 Rerun 易混淆，以 rerun.build 为准。"
+  }
+]
