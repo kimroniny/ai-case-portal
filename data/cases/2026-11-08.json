@@ -1,0 +1,530 @@
+[
+  {
+    "id": "openai-11b-tranche-1-25t-valuation",
+    "date_collected": "2026-11-08",
+    "status": "new",
+    "type": "profitable",
+    "name": "OpenAI",
+    "one_liner": "彭博等报道 OpenAI 完成约$110亿新融资首批交割，估值约$1.25万亿；整轮原目标最高约$300亿已下调，软银与阿布扎比 MGX 等参与",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "大公司",
+    "business_model": "面向消费者与企业的生成式 AI 平台与 API：ChatGPT、Codex、企业席位与基础设施合作；本轮现金用于继续扩张算力与数据中心以满足客户需求",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "约$110亿为首批交割；估值约$1.25万亿；整轮曾瞄准最高约$300亿、估值约$1.5万亿后下调；整轮或扩至约$200亿",
+        "source_type": "媒体报道",
+        "source_url": "https://www.bloomberg.com/news/articles/2026-11-06/openai-completes-11-billion-portion-of-funding-at-1-25-trillion-value"
+      },
+      {
+        "label": "投资方",
+        "value": "报道称 SoftBank、MGX 等参与；另有投资者称 Coatue、T. Rowe Price 等亦在本轮讨论中",
+        "source_type": "媒体报道",
+        "source_url": "https://www.cnbctv18.com/technology/openai-gets-dollar-11-billion-funding-at-dollar-1-25-trillion-valuation-report-20029333.htm"
+      }
+    ],
+    "why_it_works": "龙头实验室用「先交割一批、目标下调」换现金与建厂能力：在公开市场杀估值时，私有轮仍能按万亿级定价吸金，说明企业与算力需求叙事仍压过短期股价情绪。",
+    "takeaway": "巨头融资进入「讨价还价」阶段：盯后续 tranche 是否凑满、估值锚是否继续下移，以及数据中心承诺能否换成可复核的企业 ARR。",
+    "innovation_score": 3,
+    "business_score": 5,
+    "tags": [
+      "OpenAI",
+      "融资",
+      "估值",
+      "软银",
+      "算力"
+    ],
+    "website": "https://openai.com/",
+    "sources": [
+      "https://www.bloomberg.com/news/articles/2026-11-06/openai-completes-11-billion-portion-of-funding-at-1-25-trillion-value",
+      "https://www.cnbctv18.com/technology/openai-gets-dollar-11-billion-funding-at-dollar-1-25-trillion-valuation-report-20029333.htm",
+      "https://qz.com/openai-raises-11-billion-short-30-billion-funding-target-110726"
+    ],
+    "uncertain_points": "OpenAI 未正式官宣完整条款；$110亿为首批、整轮最终规模与完整投资人名单仍以媒体引述为主；与此前公开 ARR/用户数口径未在本轮稿件中同步更新。"
+  },
+  {
+    "id": "future-secure-ai-80m-unicorn-asx-ai-coworkers",
+    "date_collected": "2026-11-08",
+    "status": "new",
+    "type": "profitable",
+    "name": "Future Secure AI",
+    "one_liner": "澳系企业 AI「数字同事」公司以可转债再融资约$8000万–逾$1亿，估值约$12亿/A$17亿，目标2026年底 ARR 接近$1亿并筹备2027年 ASX 上市",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "组装多角色 AI Agent 团队，在人类监督下自动化跨部门复杂流程（财务报告、税务、客服等），服务投行、咨询、医疗与法律等企业客户；总部迁至奥斯汀并保留澳美多地办公室",
+    "metrics": [
+      {
+        "label": "融资与估值",
+        "value": "报道约$8000万–逾$1亿（约A$1.15亿）可转债；估值约$12亿（A$17亿）；Square Peg、Yarra、Macquarie Asset Management、Firetrail 等参与",
+        "source_type": "媒体报道",
+        "source_url": "https://www.afr.com/technology/macquarie-backed-ai-start-up-hits-1-7b-valuation-readies-asx-float-20261106-p61bmc"
+      },
+      {
+        "label": "商业目标",
+        "value": "公司称预计2026年底 ARR 接近$1亿，并瞄准下一季度盈利；筹备2027年末前后 ASX 上市",
+        "source_type": "媒体引述公司",
+        "source_url": "https://beinsure.com/news/future-secure-ai-raises-80mn/"
+      }
+    ],
+    "why_it_works": "把 Agent 包装成「有名字的同事团队」降低企业采购心理门槛，同时用可转债与 ASX 路径对接澳资本；卖的是跨系统流程自动化，不是单次聊天。",
+    "takeaway": "澳新独角兽叙事要核对：实际 ARR 是否贴近$1亿、可转债转股稀释，以及「下一季度盈利」是口径还是一次性调整。",
+    "innovation_score": 3,
+    "business_score": 4,
+    "tags": [
+      "企业Agent",
+      "独角兽",
+      "ASX",
+      "可转债",
+      "澳大利亚"
+    ],
+    "website": "https://www.futuresecure.ai/",
+    "sources": [
+      "https://www.afr.com/technology/macquarie-backed-ai-start-up-hits-1-7b-valuation-readies-asx-float-20261106-p61bmc",
+      "https://beinsure.com/news/future-secure-ai-raises-80mn/",
+      "https://dealroom.co/news/170131-macquarie-backed-future-secure-ai-raises-80m-hits-unicorn-status-ahead-o/"
+    ],
+    "uncertain_points": "融资金额在$80M/$82M/「逾$1亿」间报道不一；官网域名与产品页需再核；ARR$1亿与下一季度盈利为前瞻目标，非已审计财报；官网 URL 以公开检索为准，若跳转失败以 AFR 报道为准。"
+  },
+  {
+    "id": "beacon-software-425m-series-c-cppib-ai-rollup",
+    "date_collected": "2026-11-08",
+    "status": "new",
+    "type": "both",
+    "name": "Beacon Software",
+    "one_liner": "多伦多 AI 控股公司获 CPP Investments $5000万注资，Series C 扩至约$4.25亿、估值约$17.5亿；组合约45家软件公司、合并年收入超$2亿",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "收购并整合物流、教育、金融、制造、公用事业等垂直软件公司，注入共享 AI 操作系统与「前沿 AI 工程师」中台，对标 Constellation 式 rollup + 中央 Agent 能力",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "CPP Investments Growth Equity 投资$5000万；Series C 由去年约$2.25亿扩至约$4.25亿；估值约$17.5亿；累计融资报道超$7.5亿",
+        "source_type": "媒体报道",
+        "source_url": "https://betakit.com/cppib-takes-50-million-usd-stake-in-ai-holding-firm-beacon-software/"
+      },
+      {
+        "label": "经营",
+        "value": "组合约45家公司；合并年收入超$2亿（Globe and Mail/BetaKit 引述）",
+        "source_type": "媒体报道",
+        "source_url": "https://www.theglobeandmail.com/business/technology/article-cppib-invests-50-million-beacon-software-fast-rising-toronto-ai-star/"
+      }
+    ],
+    "why_it_works": "先买有现金流的行业软件，再统一铺 Agent，比从零做垂直 SaaS 更快证明「AI 提高利润」；养老金入局给 rollup 叙事加了长久期背书。",
+    "takeaway": "AI rollup 的关键不是收购速度，而是共享 OS 是否真能抬高被收购公司的毛利与留存——盯单公司 AI 附加 ARR。",
+    "innovation_score": 4,
+    "business_score": 5,
+    "tags": [
+      "AI控股",
+      "rollup",
+      "CPP",
+      "加拿大",
+      "Series C"
+    ],
+    "website": "https://www.beacon.software/",
+    "sources": [
+      "https://betakit.com/cppib-takes-50-million-usd-stake-in-ai-holding-firm-beacon-software/",
+      "https://www.theglobeandmail.com/business/technology/article-cppib-invests-50-million-beacon-software-fast-rising-toronto-ai-star/",
+      "https://www.businesswire.com/news/home/20261105648072/en/Beacon-Holdings-Secures-Strategic-Investment-from-CPP-Investments-to-Scale-AI-Across-the-Real-Economy"
+    ],
+    "uncertain_points": "BusinessWire 标题用 Beacon Holdings；合并收入与估值主要来自 Globe and Mail 引述；各被收购公司的 AI 改造深度与增量收入未分拆披露。"
+  },
+  {
+    "id": "laza-medical-160m-series-b-ge-healthcare-cath-lab-ai",
+    "date_collected": "2026-11-08",
+    "status": "new",
+    "type": "both",
+    "name": "Laza Medical",
+    "one_liner": "心导管室 AI 机器人成像公司完成最高$1.6亿结构化 Series B，GE HealthCare 领投，目标把智能成像做成未来机器人介入的基础层",
+    "category": "医疗健康",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "开发 AI+机器人驱动的心导管室智能成像系统：实时三维心脏建模、超声引导与探头机器人控制，降低对稀缺影像专家的依赖；Shifamed 组合公司",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "最高$1.6亿结构化 Series B；GE HealthCare 领投，Unorthodox Ventures、PA MedTech、AMED 跟投",
+        "source_type": "官方新闻稿",
+        "source_url": "https://www.prnewswire.com/news-releases/laza-medical-raises-up-to-160-million-in-series-b-financing-led-by-ge-healthcare-to-advance-intelligent-imaging-for-transforming-the-cath-lab-302929797.html"
+      },
+      {
+        "label": "产品状态",
+        "value": "系统仍在研发，尚未在任何地区获批商业销售；曾有 first-in-human 临床软件体验反馈",
+        "source_type": "官方新闻稿",
+        "source_url": "https://www.prnewswire.com/news-releases/laza-medical-raises-up-to-160-million-in-series-b-financing-led-by-ge-healthcare-to-advance-intelligent-imaging-for-transforming-the-cath-lab-302929797.html"
+      }
+    ],
+    "why_it_works": "器械巨头用领投锁定下一代导管室工作流入口：先把成像做稳、再叠机器人介入，比直接卖「全自动手术机器人」更贴医院采购路径。",
+    "takeaway": "大额医械融资不等于收入：盯审批路径、与 GE 影像栈的捆绑深度，以及「最高$1.6亿」结构化条款的实际到账节奏。",
+    "innovation_score": 5,
+    "business_score": 4,
+    "tags": [
+      "医械AI",
+      "心导管",
+      "GE HealthCare",
+      "机器人成像",
+      "Series B"
+    ],
+    "website": "https://www.lazamedical.com/",
+    "sources": [
+      "https://www.prnewswire.com/news-releases/laza-medical-raises-up-to-160-million-in-series-b-financing-led-by-ge-healthcare-to-advance-intelligent-imaging-for-transforming-the-cath-lab-302929797.html",
+      "https://cardiovascularbusiness.com/topics/healthcare-management/healthcare-economics/startup-ai-robotics-cath-lab-160m-ge-healthcare",
+      "https://www.wilmerhale.com/en/insights/news/20261105-wilmerhale-advises-ge-healthcare-as-lead-investor-in-laza-medicals-160-million-series-b-financing"
+    ],
+    "uncertain_points": "「最高$1.6亿」为结构化额度，实际首批到账未披露；无获批销售与营收数字；临床证据仍早期。"
+  },
+  {
+    "id": "sandbaseai-multi-million-seed-personal-agent-infra",
+    "date_collected": "2026-11-08",
+    "status": "new",
+    "type": "innovative",
+    "name": "SandBaseAI",
+    "one_liner": "中国 Personal Agent 基础设施公司完成数百万美元种子轮，用统一 API Key 把数据 API、模型与 Agent Runtime 打包给开发者",
+    "category": "编程开发",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "面向开发者与 AI Builder 的 Agent 基建：Data API + Agent Runtime + SDK/CLI/MCP 桥接，宣称覆盖 2000+ 模型与 API、100+ 平台；免费额度 + 按调用计费",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "数百万美元种子轮；投资方含大模型公司及 AI 创业社区/开发者生态背景机构（具体名单与精确金额未披露）",
+        "source_type": "媒体报道",
+        "source_url": "https://finance.sina.com.cn/cj/2026-11-07/doc-inixwnyk5121341.shtml"
+      },
+      {
+        "label": "产品能力",
+        "value": "官方材料称提供 2000+ 模型与 API、覆盖 100+ 平台；开源 SDK/CLI；可把工具挂到 Claude Code/Codex/Cursor",
+        "source_type": "媒体引述公司",
+        "source_url": "https://www.woshipm.com/digest/529226"
+      }
+    ],
+    "why_it_works": "Personal Agent 难在「取数+跑任务」两段重复工程；把入口收成一把钥匙，降低独立开发者从 demo 到可运营 Agent 的摩擦。",
+    "takeaway": "中国 Agent 基建要看付费转化与数据合规：数百万美元种子只证明叙事热，盯留存调用量与是否陷入纯 API 转售。",
+    "innovation_score": 4,
+    "business_score": 2,
+    "tags": [
+      "Personal Agent",
+      "开发者基建",
+      "种子轮",
+      "Runtime",
+      "中国"
+    ],
+    "website": "https://www.sandbase.ai/",
+    "sources": [
+      "https://finance.sina.com.cn/cj/2026-11-07/doc-inixwnyk5121341.shtml",
+      "https://www.woshipm.com/digest/529226",
+      "https://m.aitntnews.com/newDetail.html?newId=31048"
+    ],
+    "uncertain_points": "精确融资金额与完整投资人名单未公开；2000+ 模型/100+ 平台为公司自述；付费 ARR/调用量未披露。"
+  },
+  {
+    "id": "qilinbo-tens-of-millions-cny-angel-openharmony-robot-brain",
+    "date_collected": "2026-11-08",
+    "status": "new",
+    "type": "both",
+    "name": "奇林波",
+    "one_liner": "成都具身大脑公司完成千万级人民币天使轮，基于开源鸿蒙做「灵雁引擎」单机智能与「雁阵」多机协同，并称已有教育科研订单现金流",
+    "category": "硬件与端侧",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "具身智能核心软件：端侧灵雁引擎负责任务理解与自主执行，云端雁阵系统做多机调度；优先教育科研桌面履带机/机器狗，再向园区巡检与工业四足拓展；强调国产芯片与开源鸿蒙适配",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "千万级人民币天使轮；投资方含成都方寸引擎科技及天使投资人",
+        "source_type": "媒体报道",
+        "source_url": "https://www.36kr.com/p/4052696726328452"
+      },
+      {
+        "label": "商业信号",
+        "value": "36氪报道称依托鸿蒙体系积累「已形成稳定现金流订单」，优先交付中小学与高校教学科研场景",
+        "source_type": "媒体引述公司",
+        "source_url": "https://www.36kr.com/p/4052696726328452"
+      }
+    ],
+    "why_it_works": "把国产化基座当成矿山/能源等场景的准入前提，而不是口号；用教育科研订单先验证端云两级大脑，再谈工业多机协同。",
+    "takeaway": "具身「大脑」公司的胜负手是多机任务闭环是否可复现——盯园区实测接管率与订单是否只停留在教具。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": [
+      "具身智能",
+      "开源鸿蒙",
+      "多机协同",
+      "天使轮",
+      "成都"
+    ],
+    "website": "https://www.36kr.com/p/4052696726328452",
+    "sources": [
+      "https://www.36kr.com/p/4052696726328452",
+      "https://recodex.ai/startup/robotics/909706.html",
+      "https://www.jushenhome.com/newsflash_d.php?id=373"
+    ],
+    "uncertain_points": "精确融资金额未披露；「稳定现金流订单」无公开金额与客户名单；公司独立官网未在报道中明确给出，暂以36氪首发为入口。"
+  },
+  {
+    "id": "livereview-ph-risk-aware-code-review-auto-approve",
+    "date_collected": "2026-11-08",
+    "status": "new",
+    "type": "innovative",
+    "name": "LiveReview",
+    "one_liner": "Hexmos 在 Product Hunt 推出风险感知代码审查：按风险分自动批准约30%–50%低风险 PR，自托管免费起步，思路对齐 Meta 内部 RADAR",
+    "category": "编程开发",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "LLM + 自有事故/回滚训练的 ML + 代码图爆炸半径，给每个 PR/hunk 打风险分；低风险自动合并，高风险排序给人审；源码可得、可自托管，按审查代码行数分档收费",
+    "metrics": [
+      {
+        "label": "产品主张",
+        "value": "自动批准最低风险约30%–50% 的 PR；支持 GitHub/GitLab/Bitbucket 等；承诺用生产事故与回滚反馈训练组织自有模型",
+        "source_type": "官方博客",
+        "source_url": "https://journal.hexmos.com/introducing-livereview/"
+      },
+      {
+        "label": "对标效果（Meta）",
+        "value": "文中引述 Meta 内部同类思路：生产事故约降50倍、回滚约降3倍、审查约快35%（为 Meta 内部结果，非 LiveReview 客户实测）",
+        "source_type": "官方博客引述",
+        "source_url": "https://journal.hexmos.com/introducing-livereview/"
+      }
+    ],
+    "why_it_works": "AI 写码变便宜后，真正瓶颈是高代价人审；把「要不要人看」做成可校准策略，比再堆一条评论机器人更贴工程组织痛点。",
+    "takeaway": "创新点清晰，但商业证据仍早期：盯误批准率、真实客户生产指标，以及与 CodeRabbit 等的差异能否换成付费席位。",
+    "innovation_score": 5,
+    "business_score": 2,
+    "tags": [
+      "代码审查",
+      "Product Hunt",
+      "自托管",
+      "风险评分",
+      "DevTools"
+    ],
+    "website": "https://hexmos.com/livereview/",
+    "sources": [
+      "https://journal.hexmos.com/introducing-livereview/",
+      "https://www.producthunt.com/products/livereview?launch=livereview",
+      "https://github.com/HexmosTech/LiveReview/"
+    ],
+    "uncertain_points": "Meta 50×/3× 数据来自内部系统引述，非 LiveReview 客户实证；付费转化与生产误批准率未公布。"
+  },
+  {
+    "id": "exa-monitors-v2-agent-scheduled-web-search",
+    "date_collected": "2026-11-08",
+    "status": "new",
+    "type": "innovative",
+    "name": "Exa Monitors v2",
+    "one_liner": "Exa 推出面向 Agent 的定时网页监测 v2：只在有新相关结果时回调 webhook，报价降至每千次运行$2（原$15），PH 当日排名靠前",
+    "category": "编程开发",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "为 AI Agent 提供「Google Alerts 式」但直达 webhook 的监测：描述监视目标与频率，过滤已推送内容后只推新相关摘要/JSON；按运行次数计费，提供 API 与 Python SDK",
+    "metrics": [
+      {
+        "label": "定价",
+        "value": "v2 每千次运行$2，较 v1 的$15 降逾7倍（Exa 自述）",
+        "source_type": "产品方自述",
+        "source_url": "https://www.producthunt.com/products/exa-ai"
+      },
+      {
+        "label": "发布热度",
+        "value": "2026-11-07 Product Hunt 上线，第三方榜单显示当日 #2 Day Rank",
+        "source_type": "媒体/榜单",
+        "source_url": "https://www.producthunt.com/products/exa-ai"
+      }
+    ],
+    "why_it_works": "Agent 最烦轮询噪音；把「有没有新东西」下沉到搜索层并降价一个数量级，让长期监视从烧钱变成默认可开。",
+    "takeaway": "基建产品的胜负看回调精度与留存监视数：降价容易，持续低噪音才是护城河。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": [
+      "Exa",
+      "Agent基建",
+      "监测",
+      "Product Hunt",
+      "Search API"
+    ],
+    "website": "https://exa.ai/",
+    "sources": [
+      "https://www.producthunt.com/products/exa-ai",
+      "https://www.hunted.space/product/exa-ai",
+      "https://upvote0.com/daily/2026-11-07"
+    ],
+    "uncertain_points": "「全部相关、明显更安静」来自 Exa 自测；客户侧误报率与付费监视规模未披露。"
+  },
+  {
+    "id": "amrax-metaroom-mid-seven-figure-spatial-ai",
+    "date_collected": "2026-11-08",
+    "status": "new",
+    "type": "both",
+    "name": "Amrax",
+    "one_liner": "奥地利空间智能公司完成中七位数欧元融资，手机扫房生成参数化3D/平面图的 Metaroom 已用于175+国，并拓展厨卫电气 OEM",
+    "category": "设计创意",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "Metaroom 用 iPhone/iPad Pro LiDAR+视觉+自研模型把房间扫成可导出40+格式的参数化模型，卖给工匠/建筑师/设施管理；同时为厨卫电气等工业客户做 OEM 嵌入式量房",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "中七位数欧元轮（约€100万–€999万，精确金额未披露）；aws Gründungsfonds 与 SymbiaVC 联合领投，ArborEleven 与天使跟投",
+        "source_type": "官方新闻稿",
+        "source_url": "https://amrax.ai/wp-content/uploads/2026/11/Pressrelease_Amrax_aws_GRF_SymbiaVC_Final_EN_2026-11-03.pdf"
+      },
+      {
+        "label": "覆盖与交付",
+        "value": "官方称 Metaroom 用户覆盖逾175国；2026年6月推出整楼 Enterprise Building Capture，并在德国约6万㎡运营中医院用 iPhone Pro 完成数字化试点",
+        "source_type": "官方新闻稿",
+        "source_url": "https://amrax.ai/wp-content/uploads/2026/11/Pressrelease_Amrax_aws_GRF_SymbiaVC_Final_EN_2026-11-03.pdf"
+      }
+    ],
+    "why_it_works": "空间数字化若只能出点云很难进施工软件；直接吐参数化构件并对接 Autodesk/Nemetschek/Siemens，才能吃到工匠与 OEM 的重复采购。",
+    "takeaway": "欧洲垂直空间 AI 样本：融资金额留在区间、但场景与医院试点具体；下一看 OEM 具名客户何时官宣。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": [
+      "空间智能",
+      "3D扫描",
+      "建筑AI",
+      "OEM",
+      "奥地利"
+    ],
+    "website": "https://www.amrax.ai/",
+    "sources": [
+      "https://amrax.ai/wp-content/uploads/2026/11/Pressrelease_Amrax_aws_GRF_SymbiaVC_Final_EN_2026-11-03.pdf",
+      "https://brutkasten.com/artikel/amrax-salzburger-ki-unternehmen-schliesst-siebenstellige-finanzierungsrunde-ab",
+      "https://www.gruendungsfonds.at/en/news-en/detail/news-amrax-metaroom-en"
+    ],
+    "uncertain_points": "精确融资金额未披露；175国为覆盖口径非付费客户数；医院试点为案例展示，规模化收入未公布。"
+  },
+  {
+    "id": "meta-muse-realtime-avatar-voice-rollout",
+    "date_collected": "2026-11-08",
+    "status": "new",
+    "type": "innovative",
+    "name": "Meta Muse Realtime Avatar",
+    "one_liner": "Meta 在 Muse 应用推送实时语音与表情 Avatar：同一语音流驱动口型/表情/手势，PH 材料称约870ms 起答，先从美国移动/Web/Mac 开量",
+    "category": "游戏娱乐",
+    "region": "海外",
+    "team_type": "大公司",
+    "business_model": "消费级个人 AI 伴侣 Muse 的交互升级：语音通话 + 可选全屏 Avatar；后续还将延伸到 AI 眼镜与 Muse Charm；作为 Meta 超级应用生态的粘性层",
+    "metrics": [
+      {
+        "label": "发布",
+        "value": "2026-11-05/06 官方博客宣布 Muse 应用上线语音与表情 Avatar；美国先行，覆盖移动、Web 与 Mac",
+        "source_type": "官方博客",
+        "source_url": "https://about.fb.com/news/2026/11/introducing-muse-ai-voice-expressive-avatars/"
+      },
+      {
+        "label": "体验指标",
+        "value": "Product Hunt/第三方评测材料称回复约870ms 起答；内部真人通话测试中相对 Runway Characters/HeyGen LiveAvatar 偏好约78%/88%（非官方博客数字，需谨慎）",
+        "source_type": "媒体估算",
+        "source_url": "https://www.producthunt.com/p/meta-ai"
+      }
+    ],
+    "why_it_works": "个人 Agent 要「随身」，语音比键盘更自然；Avatar 用同一语音表征驱动全身反应，减少「会说话的PPT脸」违和感。",
+    "takeaway": "大厂交互创新不等于独立商业化：盯美国留存与眼镜端落地，以及 870ms/偏好率是否有官方复核。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": [
+      "Meta",
+      "Muse",
+      "实时Avatar",
+      "语音Agent",
+      "消费AI"
+    ],
+    "website": "https://about.fb.com/news/2026/11/introducing-muse-ai-voice-expressive-avatars/",
+    "sources": [
+      "https://about.fb.com/news/2026/11/introducing-muse-ai-voice-expressive-avatars/",
+      "https://www.producthunt.com/p/meta-ai",
+      "https://hunted.space/product/meta-ai"
+    ],
+    "uncertain_points": "870ms 与 A/B 偏好率主要来自 PH/评测转述，官方博客未给出同等数字；变现路径（订阅/广告/硬件）未在本轮说明中展开。"
+  },
+  {
+    "id": "deal-pilot-ph-ai-sdr-jp-us-sea",
+    "date_collected": "2026-11-08",
+    "status": "new",
+    "type": "both",
+    "name": "Deal Pilot",
+    "one_liner": "面向日本/美国/东南亚的 AI SDR 在 Product Hunt 上线，自称 644 封 A/B 冷邮件回复率约6.0%，支持英日中个性化跟进至约见",
+    "category": "客服销售",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "按国家与职位找决策人、生成多语言冷邮件并自动跟进直至约会；卖跨境销售自动化给开拓海外市场的团队",
+    "metrics": [
+      {
+        "label": "效果自述",
+        "value": "644 封 A/B 测试冷邮件回复率约6.0%（Product Hunt 产品描述/创始人自述）",
+        "source_type": "创始人自述",
+        "source_url": "https://www.producthunt.com/products/deal-pilot/reviews"
+      },
+      {
+        "label": "发布",
+        "value": "2026-11-07 Product Hunt 上线，定位日本、美国与东南亚会议预约",
+        "source_type": "产品榜单",
+        "source_url": "https://upvote0.com/daily/2026-11-07"
+      }
+    ],
+    "why_it_works": "跨境销售最贵的是本地化触达与跟进；把日英中写邮与决策人校验捆成 SDR，切的是「出海却雇不起当地销售」的缺口。",
+    "takeaway": "6% 回复率看起来亮眼，但样本与行业基准未独立审计——收录为创新型销售 Agent，商业化仍待订阅/客户证言。",
+    "innovation_score": 3,
+    "business_score": 2,
+    "tags": [
+      "AI SDR",
+      "Product Hunt",
+      "跨境销售",
+      "冷邮件",
+      "日本"
+    ],
+    "website": "https://www.producthunt.com/products/deal-pilot",
+    "sources": [
+      "https://upvote0.com/daily/2026-11-07",
+      "https://www.producthunt.com/products/deal-pilot/reviews",
+      "https://www.hunted.space/dashboard/deal-pilot"
+    ],
+    "uncertain_points": "6.0%/644 封为产品页自述，缺独立复核与付费客户数；官网独立域名在公开材料中不清晰。"
+  },
+  {
+    "id": "lucid-computing-13m-seed-verifiable-ai-infra",
+    "date_collected": "2026-11-08",
+    "status": "new",
+    "type": "innovative",
+    "name": "Lucid Computing",
+    "one_liner": "可验证 AI 基础设施公司完成约$1300万种子轮：用硬件安全、密码学证明与网络测量核验工作负载位置、配置与模型身份",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "面向 AI 实验室、评测机构、政府与受监管企业，提供可独立验证「模型跑在哪、配置是否被篡改、部署是否等于评测版」的基础设施；现阶段含工程服务与 NeoCloud 算力",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "约$1300万种子轮；投资者包括 Juniper Ventures、Lionheart Ventures、SAIF、Halcyon Futures 等；法股 ACHETER-LOUER.FR 通过子公司认购约$25万",
+        "source_type": "官方/监管披露",
+        "source_url": "https://www.actusnews.com/en/download/acheter-louer/2026/11/04/101257-alalo-en_press_release_lucid_computing_04-11-2026.pdf"
+      },
+      {
+        "label": "进展",
+        "value": "披露称已打下验证平台基础并拿下首批商业合同；团队约15人；资金主要用于工程、交付与商业化，不含此前规划的大规模 GPU 采购",
+        "source_type": "官方/监管披露",
+        "source_url": "https://www.actusnews.com/en/download/acheter-louer/2026/11/04/101257-alalo-en_press_release_lucid_computing_04-11-2026.pdf"
+      }
+    ],
+    "why_it_works": "主权 AI 与安全评测都要求「可证明」而不只是「供应商说了算」；把位置与模型身份做成可核验证据，卡住合规采购清单。",
+    "takeaway": "信任基建尚早：首批合同金额未披露，需看与实验室/数据中心的可重复产品化，而非一次性工程单。",
+    "innovation_score": 5,
+    "business_score": 2,
+    "tags": [
+      "可验证计算",
+      "AI安全",
+      "主权AI",
+      "种子轮",
+      "基础设施"
+    ],
+    "website": "https://lucidcomputing.ai/",
+    "sources": [
+      "https://www.actusnews.com/en/download/acheter-louer/2026/11/04/101257-alalo-en_press_release_lucid_computing_04-11-2026.pdf",
+      "https://lucidcomputing.ai/",
+      "https://dealroom.co/news/169774-lucid-computing-raises-13m-seed-for-verifiable-ai-infrastructure/"
+    ],
+    "uncertain_points": "完整投资人份额与投后估值未公开；「首批商业合同」金额与客户未具名；$13M 为「大约」口径。"
+  }
+]
