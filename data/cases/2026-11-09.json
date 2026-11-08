@@ -1,0 +1,314 @@
+[
+  {
+    "id": "boat-dev-1m-arr-agent-sandbox",
+    "date_collected": "2026-11-09",
+    "status": "new",
+    "type": "profitable",
+    "name": "boat.dev",
+    "one_liner": "YC F26 的 Agent 云沙箱公司 boat.dev 创始人自述 22 个月、6 次转向后达到约$102万 ARR，订阅只是总收入的一部分",
+    "category": "编程开发",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "向开发者与 Agent 出租持久 Ubuntu 虚拟机：SSH/Docker、60fps 虚拟桌面、快照级 fork、按秒计费；7 天试用后月费起$20（约等于 555 小时 4 vCPU/8GB），超额走预付钱包；机房在德国、芬兰、法国",
+    "metrics": [
+      {
+        "label": "ARR",
+        "value": "创始人 Anicet Nougaret 2026-11-07 在 X 宣布刚到$1M ARR，配图仪表盘约为$1.02M；并称总收入 run rate「远高于」订阅 ARR，因超额算力另计",
+        "source_type": "创始人自述",
+        "source_url": "https://x.com/AniC_dev/status/2119088191495938521"
+      },
+      {
+        "label": "增长路径",
+        "value": "创始人拆解：0→$10k 用了16个月、5次转向；$10k→$100k 用4个月、1次转向；$100k→$200k 用1个月；$200k→$1M 用1个月；自称这段时间无付费广告、活动或销售团队",
+        "source_type": "创始人自述",
+        "source_url": "https://x.com/AniC_dev/status/2119088191495938521"
+      },
+      {
+        "label": "社区热度",
+        "value": "该条原帖截至采集时约1821赞、约29.9万次展示、322条回复；公司账号同步发「boat just reached 1M ARR」",
+        "source_type": "原始帖公开指标",
+        "source_url": "https://x.com/boatdotdev/status/2119088523701809566"
+      }
+    ],
+    "why_it_works": "先卖上层产品、后发现真正赚钱的是底下那层便宜、可并行的 Agent 云电脑——把「别人跑 Agent 就要开机」做成按秒计费的铲子生意，比再做一个编码助手更抗模型更替。",
+    "takeaway": "典型 picks-and-shovels：盈利信号清楚但是创始人自述。下一看超额用量能否持续、以及与 Daytona/E2B/Modal/Vercel Sandbox 的价格战会不会吞掉毛利。",
+    "innovation_score": 3,
+    "business_score": 5,
+    "tags": [
+      "Agent沙箱",
+      "ARR",
+      "YC",
+      "开发者基础设施",
+      "按秒计费"
+    ],
+    "website": "https://boat.dev/",
+    "sources": [
+      "https://x.com/AniC_dev/status/2119088191495938521",
+      "https://x.com/boatdotdev/status/2119088523701809566",
+      "https://theaireceipts.com/blog/how-much-does-boat-dev-make/",
+      "https://boat.dev/"
+    ],
+    "uncertain_points": "ARR 为创始人晒图自述，未经验证支付数据；总收入 run rate 与「每天新增$4万–$5万 ARR」亦为本人说法，未给绝对值；付费用户数本次未同步披露。"
+  },
+  {
+    "id": "nomac-cloud-mac-for-agents",
+    "date_collected": "2026-11-09",
+    "status": "new",
+    "type": "innovative",
+    "name": "NoMac",
+    "one_liner": "按分钟计费的 Agent 专用云 Mac：约一分钟就绪，预装 Xcode 27 与 iOS 模拟器，Agent 可自行构建、测试并提交 TestFlight/App Store",
+    "category": "编程开发",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "给 Claude Code/Codex/Cursor 等 Agent 出租 Apple silicon 上的短时 macOS 会话，经 MCP/CLI/API/SSH 控制；预付点数、$0.90/小时、按分钟出账、无订阅，企业可谈包量",
+    "metrics": [
+      {
+        "label": "定价",
+        "value": "官方标价$0.90/小时、按分钟计费，5分钟构建约7.5美分；点数$10起且不过期，首次购买提供7天退款",
+        "source_type": "官方网站",
+        "source_url": "https://nomac.app/"
+      },
+      {
+        "label": "发布热度",
+        "value": "2026-11-08 Product Hunt 上线，当日榜约第5、评分约111、17条评论",
+        "source_type": "媒体/榜单",
+        "source_url": "https://www.producthunt.com/products/nomac"
+      }
+    ],
+    "why_it_works": "Windows/Linux 上的编码 Agent 最卡的是「没法碰 Xcode」；把一台有管理员权限、无弹窗打断的真 Mac 按分钟租给 Agent，比买一台闲置 Mac mini 更贴合偶发的 iOS 构建。",
+    "takeaway": "形态清楚，和物理设备出租（如 Glasshand）以及通用云桌面不同；下一步看并发稳定性、苹果开发者账号合规，以及有没有公开用量或收入。",
+    "innovation_score": 4,
+    "business_score": 2,
+    "tags": [
+      "云Mac",
+      "iOS开发",
+      "Agent基建",
+      "Product Hunt",
+      "按量计费"
+    ],
+    "website": "https://nomac.app/",
+    "sources": [
+      "https://nomac.app/",
+      "https://nomac.app/docs/pricing",
+      "https://www.producthunt.com/products/nomac"
+    ],
+    "uncertain_points": "团队规模、付费用户与收入未披露；「约一分钟就绪」「Apple M6/M5 Pro」为产品方自述；Agent 全权管理员权限带来的安全边界需用户自行评估。"
+  },
+  {
+    "id": "sagecraft-levanto-ph-decision-harness",
+    "date_collected": "2026-11-09",
+    "status": "new",
+    "type": "innovative",
+    "name": "SageCraft（Levanto Labs）",
+    "one_liner": "Levanto 开源 SageCraft 套件，让自家决策模型 Sage 靠截图与按键玩《魔兽世界》升到5级；同期 Sage2 提供对话抽取与流式决策 API",
+    "category": "编程开发",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "用可回放的开源 harness 展示 Sage 决策模型，再把同一套「提问→带置信度的结构化选择」卖成 API（Sage2 抽取/流式决策）；harness 免费，Sage 调用计入 Levanto 套餐",
+    "metrics": [
+      {
+        "label": "演示记录",
+        "value": "官方称 32 场、4,573 次游戏决策、128+ 击杀、有效游玩约5小时29分，Sage 调用成本约$3.32（约合每次击杀2.6美分）；最后一场无人插手从4级打到5级",
+        "source_type": "官方网站",
+        "source_url": "https://levanto.ai/sagecraft"
+      },
+      {
+        "label": "发布热度",
+        "value": "2026-11-08 以 SageCraft 登陆 Product Hunt，当日榜约第1、评分约159",
+        "source_type": "媒体/榜单",
+        "source_url": "https://www.producthunt.com/products/sagecraft"
+      }
+    ],
+    "why_it_works": "游戏只是压力测试：截图进、按键出，每次决策可回放、可检查，等于给「Agent 下一步做什么」做了一套带置信度的运行时砖块，比再演示一遍聊天框更直观。",
+    "takeaway": "演示完整且可审计，但商业化仍看 Sage2 能否进入真实对话/工作流；PH 页面把 Sage2 文案和 WoW 演示叠在一起，阅读时要分开。",
+    "innovation_score": 4,
+    "business_score": 2,
+    "tags": [
+      "决策模型",
+      "开源Harness",
+      "Product Hunt",
+      "Agent",
+      "Levanto"
+    ],
+    "website": "https://levanto.ai/sagecraft",
+    "sources": [
+      "https://levanto.ai/sagecraft",
+      "https://levanto.ai/blog/introducing-sage2",
+      "https://www.producthunt.com/products/sagecraft"
+    ],
+    "uncertain_points": "PH 条目标题/猎人介绍偏 Sage2 API，产品页主体是 SageCraft 游戏演示，两者不要混成一次新品发布；实时游玩可能违反游戏条款；JevBench 93.9% 等模型分数为官方自述；付费客户与收入未披露。"
+  },
+  {
+    "id": "axl-gtm-copilot-mcp",
+    "date_collected": "2026-11-09",
+    "status": "new",
+    "type": "both",
+    "name": "AXL",
+    "one_liner": "把落地页、CRM、邮件、网络研讨会、课程和 AI 外呼收进同一套客户档案，并通过 MCP 向 ChatGPT/Claude/Cursor 开放 1,200+ 销售动作",
+    "category": "客服销售",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "面向课程/教练与 AI 产品创始人的一体化获客成交平台：页面、线索、直播、课、支付与跟进共享历史；自带线索评分，并允许外部 Agent 经 MCP 在账号权限内执行销售动作",
+    "metrics": [
+      {
+        "label": "产品能力",
+        "value": "联合创始人在 PH 称 MCP 以元工具暴露 1,200+ 操作且不必一次载入全部 schema；网络研讨会可承载最多约10万观众，3,000人规模延迟自称低于1秒；模型号称用 AXL 用户的100万笔成交训练、以300+信号评分",
+        "source_type": "产品方自述",
+        "source_url": "https://www.producthunt.com/products/axl-2"
+      },
+      {
+        "label": "客户与发布",
+        "value": "创始人点名 Ridley Academy（自称全球最大钢琴学校）从 WebinarJam 迁到 AXL，后又把网页、邮件、CRM、电话与跟进一并迁入；2026-11-08 PH 当日约第2、评分约155、21条评论",
+        "source_type": "产品方自述",
+        "source_url": "https://www.producthunt.com/products/axl-2"
+      }
+    ],
+    "why_it_works": "Agent 做销售最怕工具碎片化；把线索历史和动作收进同一权限边界，MCP 才不是「再接一套 zap」，而是真能替创始人跟进。",
+    "takeaway": "有具名客户和清晰 MCP 设计，但「100万笔成交」和直播指标都是公司自述；要核对迁移案例是否可公开验证，以及免费额度之外的付费转化。",
+    "innovation_score": 3,
+    "business_score": 3,
+    "tags": [
+      "MCP",
+      "GTM",
+      "销售Agent",
+      "Product Hunt",
+      "在线教育"
+    ],
+    "website": "https://axl.tech/",
+    "sources": [
+      "https://www.producthunt.com/products/axl-2",
+      "https://axl.tech/",
+      "https://docs.axl.tech/mcp"
+    ],
+    "uncertain_points": "100万笔成交、300+信号、10万观众与亚秒级延迟均为产品方说法，未见独立审计；Ridley Academy 为创始人在评论中点名，未附客户确认稿；收入与付费席位数未公布。"
+  },
+  {
+    "id": "agent-clan-gesture-coding-agents",
+    "date_collected": "2026-11-09",
+    "status": "new",
+    "type": "innovative",
+    "name": "Agent Clan",
+    "one_liner": "把本地 Claude Code/Codex 显示成桌面上的 3D 小队：握拳唤出、捏取点选、语音下达，许可请求用手势左拒右准",
+    "category": "编程开发",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "桌面端多 Agent 交互层，使用用户自己的 Claude Code/Codex 账号；免费档 1 个项目最多 2 个 Agent，Pro 一次性购买（页面标价$19、现价$14）解锁无限项目/Agent 与可让 Agent 改界面的 Mods",
+    "metrics": [
+      {
+        "label": "定价",
+        "value": "官方：Free 限 1 项目/最多 2 个 Agent；Pro 一次性$14（原价$19），最多 3 台电脑；模型用量由 Claude/Codex 原厂另计",
+        "source_type": "官方网站",
+        "source_url": "https://agentclan.app"
+      },
+      {
+        "label": "发布热度",
+        "value": "2026-11-08 Product Hunt 上线，当日榜约第10、评分约85、7条评论",
+        "source_type": "媒体/榜单",
+        "source_url": "https://www.producthunt.com/products/agent-clan"
+      }
+    ],
+    "why_it_works": "并行 Agent 一多，键盘切换会把人变成调度员；把手势、语音和「小人头状态圈」做成跨应用的权限开关，是在抢交互层而不是再做一个编码模型。",
+    "takeaway": "形态新鲜，商业上是低价买断；要观察手势识别是否真能日常使用，以及 MCP 对接外部助手何时上线。",
+    "innovation_score": 4,
+    "business_score": 2,
+    "tags": [
+      "手势交互",
+      "编码Agent",
+      "桌面应用",
+      "Product Hunt",
+      "多Agent"
+    ],
+    "website": "https://agentclan.app",
+    "sources": [
+      "https://agentclan.app",
+      "https://www.producthunt.com/products/agent-clan"
+    ],
+    "uncertain_points": "销量与活跃用户未披露；手势/语音「本地运行」为产品方说明；与 ChatGPT Dots 等常驻助手的 MCP 对接尚在规划中。"
+  },
+  {
+    "id": "docsalot-docs-for-humans-and-agents",
+    "date_collected": "2026-11-09",
+    "status": "new",
+    "type": "innovative",
+    "name": "DocsAlot",
+    "one_liner": "面向小团队的文档平台：同一套帮助中心/开发者文档同时输出 llms.txt、skill.md 和托管 MCP，让人和 Agent 读到同一份权威说明",
+    "category": "生产力办公",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "托管文档站点 + AI 可读分发（llms.txt/skill.md/MCP）+ 可选代为迁移；公开标价 Startup $39/月、Team $99/月，企业定制",
+    "metrics": [
+      {
+        "label": "定价",
+        "value": "官网定价快照（页面注明截至 2026-07-04）：Startup $39/月、Team $99/月，企业需联系",
+        "source_type": "官方网站",
+        "source_url": "https://docsalot.dev/"
+      },
+      {
+        "label": "发布热度",
+        "value": "2026-11-08 Product Hunt 上线（DocsAlot for customer support），当日榜约第7、评分约96、14条评论",
+        "source_type": "媒体/榜单",
+        "source_url": "https://www.producthunt.com/products/docsalot-2"
+      }
+    ],
+    "why_it_works": "Agent 胡答往往是因为文档散落在 Notion/README/工单里；把「给人看的站点」和「给模型看的 MCP/llms.txt」收成同一份源，比再包一层聊天机器人更治本。",
+    "takeaway": "问题定义清楚，定价公开，但缺少客户数与留存；适合当作「文档即 Agent 接口」的早期样本，而不是已经验证的生意。",
+    "innovation_score": 3,
+    "business_score": 2,
+    "tags": [
+      "文档",
+      "MCP",
+      "llms.txt",
+      "Product Hunt",
+      "客户支持"
+    ],
+    "website": "https://docsalot.dev/",
+    "sources": [
+      "https://docsalot.dev/",
+      "https://www.producthunt.com/products/docsalot-2"
+    ],
+    "uncertain_points": "定价快照标注日期为 2026-07-04，是否仍为现价以官网为准；付费客户、迁移案例与收入未披露。"
+  },
+  {
+    "id": "outages-live-agent-status-feed",
+    "date_collected": "2026-11-09",
+    "status": "new",
+    "type": "innovative",
+    "name": "outages.live",
+    "one_liner": "Polylane 做的免费供应商故障聚合：把云、AI、支付等官方状态页收成一个订阅源，并经 MCP 让编码 Agent 先查事故再改你的代码",
+    "category": "编程开发",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "免费状态页聚合，无需登录或 API key，提供网页、RSS/Atom/JSON Feed、Slack 与 MCP；作为 Polylane（自动排查并提交修复 PR 的 Agent 产品）的配套侧项目",
+    "metrics": [
+      {
+        "label": "产品形态",
+        "value": "官方与 PH 说明：汇总云/AI/支付/开发者工具的官方状态页，数分钟刷新；MCP 可接到 Claude Code、Codex、Cursor、OpenCode 或 Copilot",
+        "source_type": "产品方自述",
+        "source_url": "https://www.producthunt.com/products/polylane"
+      },
+      {
+        "label": "发布热度",
+        "value": "2026-11-08 作为 Polylane 第7次 PH 发布上线，当日榜约第8、评分约95、7条评论",
+        "source_type": "媒体/榜单",
+        "source_url": "https://www.producthunt.com/leaderboard/daily/2026/11/8"
+      }
+    ],
+    "why_it_works": "Agent 一遇到 Stripe/OpenAI 抖动就容易误判成你的代码有 bug；先给它看官方状态，是成本极低、却能少一次错误大改的保险丝。",
+    "takeaway": "有用的小工具，不是独立商业化事件；官方状态页本身常滞后，覆盖了哪些厂商、是否只镜像官方文案，要以站点实时列表为准。",
+    "innovation_score": 3,
+    "business_score": 1,
+    "tags": [
+      "MCP",
+      "状态页",
+      "Agent工具",
+      "Product Hunt",
+      "SRE"
+    ],
+    "website": "https://outages.live",
+    "sources": [
+      "https://www.producthunt.com/products/polylane",
+      "https://www.producthunt.com/leaderboard/daily/2026/11/8"
+    ],
+    "uncertain_points": "免费产品，无收入数据；刷新频率、厂商覆盖与是否只转发官方状态均为产品方描述；与付费产品 Polylane 的转化关系未说明。"
+  }
+]
