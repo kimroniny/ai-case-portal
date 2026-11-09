@@ -1,0 +1,433 @@
+[
+  {
+    "id": "nominal-240m-series-c-3b-hardware-intelligence",
+    "date_collected": "2026-11-10",
+    "status": "new",
+    "type": "profitable",
+    "name": "Nominal",
+    "one_liner": "硬件工程智能平台 Nominal 完成$2.4亿 Series C、估值$30亿：把测试数据、工程上下文与 AI Agent 接到飞机/核电/工厂等物理系统上",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "向航空航天、国防、机器人、能源与先进制造团队销售 Hardware Intelligence Platform（连接控制、数据基础设施、Intelligence Layer、工程应用）；支持云/本地/气隙/边缘；开发者经 SQL/API/MCP 自建工作流；含首个 Agent「Nominal Analyst」",
+    "metrics": [
+      {
+        "label": "融资与估值",
+        "value": "官方与 GlobeNewswire：2026-11-09 宣布$240M Series C，估值$3B；Lightspeed 领投、Insight Partners 联合领投；跟投含 Lux、Sequoia、General Catalyst、Founders Fund、Salesforce Ventures、Lockheed Martin Ventures 等",
+        "source_type": "官方公布",
+        "source_url": "https://nominal.io/blog/series-c"
+      },
+      {
+        "label": "客户规模",
+        "value": "官方新闻稿称服务逾80家商业与政府组织，含七大防务承包商中的五家；Anduril 侧逾300名工程师使用；另披露空军$71.2M STRATFI 合同（10月）",
+        "source_type": "官方公布",
+        "source_url": "https://www.globenewswire.com/news-release/2026/11/09/3398456/0/en/nominal-raises-240m-at-a-3b-valuation-to-build-the-intelligence-platform-for-hardware-engineering.html"
+      },
+      {
+        "label": "媒体交叉验证",
+        "value": "TechCrunch 同日报道：四岁奥斯汀公司、此前3月$155M Series B 扩展估值$1B，本轮估值约3倍",
+        "source_type": "媒体报道",
+        "source_url": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/"
+      }
+    ],
+    "why_it_works": "通用大模型碰不上「物理说了算」的工程证据链；Nominal 先把仪器、配置、测试与决策上下文接到同一平台，再让 Agent 在可追溯证据上做分析——卖的是硬件团队每天都要用的底座，而不是又一个聊天框。",
+    "takeaway": "Physical AI 的铲子生意：客户与合同信号硬。下一看 ARR/续约是否披露，以及收购 Fid Labs、Pull Systems 后 Agent 与汽车场景能否吃进毛利。",
+    "innovation_score": 4,
+    "business_score": 5,
+    "tags": ["硬件工程", "国防", "Series C", "Agent", "测试数据", "Physical AI"],
+    "website": "https://nominal.io/",
+    "sources": [
+      "https://nominal.io/blog/series-c",
+      "https://www.globenewswire.com/news-release/2026/11/09/3398456/0/en/nominal-raises-240m-at-a-3b-valuation-to-build-the-intelligence-platform-for-hardware-engineering.html",
+      "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/"
+    ],
+    "uncertain_points": "公开材料强调客户数与个案效率（如 Anduril/HII/Hermeus），未同步披露 ARR、增速或利润；STRATFI 需外部匹配资金，实际到账节奏未详。"
+  },
+  {
+    "id": "unix-ai-youliqi-500m-cny-pre-a-embodied",
+    "date_collected": "2026-11-10",
+    "status": "new",
+    "type": "both",
+    "name": "优理奇机器人（UniX AI）",
+    "one_liner": "具身智能公司优理奇完成5亿元 Pre-A：自称稳定月出货超百台，酒店/安保/零售已有批量订单，绿地等产业方入股共建场景",
+    "category": "硬件与端侧",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "全栈自研本体+算法（UniFlex/UniTouch/UniCortex 等）向物业安保、酒店、商超零售等场景销售机器人与解决方案；与产业投资人联合部署运营",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "投资界 2026-11-09：完成5亿元 Pre-A；老股东谢诺投资、涌铧投资追加；新进绿地集团、柯力传感、华工创投、新景富盈、红鸟启航基金、玉林产投等",
+        "source_type": "媒体报道",
+        "source_url": "https://news.pedaily.cn/202611/571541.shtml"
+      },
+      {
+        "label": "交付与订单",
+        "value": "投资界转述公司：自2025年底起稳定单月交付超百台、峰值超300台/月；多家标杆客户百台以上订单；酒店入驻希尔顿/全季/如家等；京东七鲜咖啡场景称零失误完成2156杯并创吉尼斯纪录（公司口径）",
+        "source_type": "媒体转述/公司口径",
+        "source_url": "https://news.pedaily.cn/202611/571541.shtml"
+      }
+    ],
+    "why_it_works": "融资新闻里少见地同时给「钱」和「月出货」——把演示变成可复制交付，再让下游客户变成股东一起扛运维，比单卖几台样机更接近规模化。",
+    "takeaway": "中国具身智能里偏「干活」叙事的一条。毛利率与回款为公司自述，需跟进是否有第三方审计或招投标公开数据。",
+    "innovation_score": 3,
+    "business_score": 4,
+    "tags": ["具身智能", "人形机器人", "Pre-A", "物业酒店", "规模交付"],
+    "website": "",
+    "sources": [
+      "https://news.pedaily.cn/202611/571541.shtml",
+      "https://www.36kr.com/newsflashes/4062115262419844",
+      "https://www.stdaily.com/web/gdxw/2026-11/09/content_610888.html"
+    ],
+    "uncertain_points": "出货量、回款与毛利率、吉尼斯纪录均为媒体转述公司说法，未见独立审计；官网 URL 本次未稳定抓到；「5亿元」是否含老股转让未说明。"
+  },
+  {
+    "id": "coframe-35m-living-internet-series-a",
+    "date_collected": "2026-11-10",
+    "status": "new",
+    "type": "both",
+    "name": "Coframe",
+    "one_liner": "「会自己改」的网站/广告优化平台 Coframe 累计融资$3500万（含$2500万 A 轮）：自称已为客户带来逾$3亿增量收入",
+    "category": "营销内容",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "接入企业网站与广告投放，用自研用户行为 Transformer + 策略/设计/工程/QA/数据 Agent 持续生成、测试、上线变体；按效果/订阅服务品牌方；并布局面向 AI Agent 流量的落地页优化",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "PR Newswire 2026-11-09：累计$35M，其中$25M Series A 由 Khosla Ventures 与 Hanabi Capital 联合领投；OpenAI、Anthropic、Google DeepMind 高管参与",
+        "source_type": "官方公布",
+        "source_url": "https://www.prnewswire.com/news-releases/coframe-raises-35-million-to-build-the-living-internet-302933460.html"
+      },
+      {
+        "label": "客户效果（公司口径）",
+        "value": "官方称已为客户创造逾$300M 增量收入；个案转化提升：Dropbox 158%、Replit 410%、Cash App 60%；平均转化提升超20%；实验胜率约39%",
+        "source_type": "官方公布",
+        "source_url": "https://www.prnewswire.com/news-releases/coframe-raises-35-million-to-build-the-living-internet-302933460.html"
+      }
+    ],
+    "why_it_works": "把 A/B 测试从「排期做几周」变成 Agent 每分钟出变体，并把增量收入写进融资稿——增长团队愿意为可归因的转化买单。",
+    "takeaway": "营销侧「活的互联网」叙事完整，但$3亿增量与个案 uplift 皆为公司自述，需警惕选择偏差。",
+    "innovation_score": 4,
+    "business_score": 4,
+    "tags": ["转化优化", "Agent", "Series A", "Khosla", "增长营销"],
+    "website": "https://coframe.com/",
+    "sources": [
+      "https://www.prnewswire.com/news-releases/coframe-raises-35-million-to-build-the-living-internet-302933460.html",
+      "https://www.businessinsider.com/khosla-doubles-down-on-coframe-to-build-a-living-internet-2026-11"
+    ],
+    "uncertain_points": "增量收入与转化提升百分比为公司宣传口径，未附审计或客户联署；OpenAI/Anthropic/DeepMind 为「高管个人参投」还是机构未在稿中写清。"
+  },
+  {
+    "id": "mavria-130m-1b-modular-ai-data-centers",
+    "date_collected": "2026-11-10",
+    "status": "new",
+    "type": "profitable",
+    "name": "Mavria",
+    "one_liner": "前美国能源部团队创办 Mavria：工厂预制 5MW AI 数据中心模块 Terrain，累计融资$1.3亿、最新估值$10亿并正式亮相",
+    "category": "硬件与端侧",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "向前沿实验室、云厂商与数据中心开发商销售工厂预制、卡车可运的一体化算力模块（配电、液冷、控制、机柜），以可重复制造替代现场定制建设",
+    "metrics": [
+      {
+        "label": "融资与估值",
+        "value": "官网 2026-11-09：累计$130M（pre-seed+seed）；最新一轮估值$1B，由 Paradigm 领投，AMP PBC、Liquid 2、Critical Frontier、Dream Ventures 参与",
+        "source_type": "官方公布",
+        "source_url": "https://mavria.com/introducing"
+      },
+      {
+        "label": "产品状态",
+        "value": "官方称首款 Terrain 01 已在休斯顿投产；媒体称单模块约5MW，测试目标约2027初、量产扩线约2027中（WSJ/DCD 转述）",
+        "source_type": "官方公布/媒体",
+        "source_url": "https://www.datacenterdynamics.com/en/news/former-us-doe-staffers-launch-modular-data-center-firm-mavria/"
+      }
+    ],
+    "why_it_works": "AI 卡在电力与施工工期；把机房当成「工厂出货的产品」而不是工地项目，直接打在供给瓶颈上。",
+    "takeaway": "估值在未披露客户前已到独角兽——下一关键是首台交付地点与具名客户，否则易成纯基建叙事。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": ["数据中心", "模块化", "AI基础设施", "Paradigm", "独角兽"],
+    "website": "https://mavria.com/",
+    "sources": [
+      "https://mavria.com/introducing",
+      "https://www.datacenterdynamics.com/en/news/former-us-doe-staffers-launch-modular-data-center-firm-mavria/",
+      "https://www.kirkland.com/news/press-release/2026/11/kirkland-advises-mavria-on-fundraising"
+    ],
+    "uncertain_points": "未公布客户名单、产能、定价与交付 SLA；测试/量产时间表来自媒体转述；累计$130M 与单轮金额拆分各报道略有出入（有称最新一轮约$100M）。"
+  },
+  {
+    "id": "blackletter-6m-seed-fixed-fee-ai-law-firm",
+    "date_collected": "2026-11-10",
+    "status": "new",
+    "type": "both",
+    "name": "Blackletter",
+    "one_liner": "前 Cohere 产品工程背景创办的 AI 原生律所 Blackletter 获$600万种子轮：固定费用 + 自研 BlackletterOS，自称已服务75+客户",
+    "category": "法律金融",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "以固定费用向初创与成长型企业提供公司/商事/融资/并购/雇佣等法律服务；律师在自研法律操作系统 BlackletterOS 上工作，AI 做多步事项编排与客户上下文沉淀，律师对结果负责",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "Business Wire 2026-11-09：$6M seed，Lerer Hippeau 领投；Seven Stars、Maple VC、Garage Capital、Ripple Ventures 及 Cohere 创始人等跟投",
+        "source_type": "官方公布",
+        "source_url": "https://www.businesswire.com/news/home/20261109986651/en/Blackletter-Raises-%246-Million-Seed-Round-Led-by-Lerer-Hippeau-to-Radically-Redesign-the-Law-Firm-Around-ClientsNot-Billable-Hours"
+      },
+      {
+        "label": "客户与效率（公司口径）",
+        "value": "官方称2026年6月出隐身后已有75+客户（含 Ada、Twelve Labs 等）；内部对标称事项完成时间不到传统律所一半",
+        "source_type": "官方公布",
+        "source_url": "https://www.businesswire.com/news/home/20261109986651/en/Blackletter-Raises-%246-Million-Seed-Round-Led-by-Lerer-Hippeau-to-Radically-Redesign-the-Law-Firm-Around-ClientsNot-Billable-Hours"
+      }
+    ],
+    "why_it_works": "不卖法律插件给大所，而是自己开成「结果计价」的律所——软件毛利留在所内，客户买的是办完的事而不是小时。",
+    "takeaway": "AI 法律里偏「新模式律所」而非纯 SaaS。律师人数仍少（媒体称约7人），规模化与执业责任边界是下一考题。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": ["法律科技", "固定费用", "Agent", "种子轮", "Cohere校友"],
+    "website": "https://blackletterfirm.com/",
+    "sources": [
+      "https://www.businesswire.com/news/home/20261109986651/en/Blackletter-Raises-%246-Million-Seed-Round-Led-by-Lerer-Hippeau-to-Radically-Redesign-the-Law-Firm-Around-ClientsNot-Billable-Hours",
+      "https://www.businessinsider.com/startup-law-firm-blackletter-raises-6-million-from-lerer-hippeau-2026-11",
+      "https://www.artificiallawyer.com/2026/11/09/blackletter-bags-6m-for-transactional-new-mod/"
+    ],
+    "uncertain_points": "效率对标为公司内部 benchmarking；Business Insider 未确认交割日；加拿大执业主体与美国业务边界在公开稿中未完全展开。"
+  },
+  {
+    "id": "geniosai-19-1m-traceable-finance-intelligence",
+    "date_collected": "2026-11-10",
+    "status": "new",
+    "type": "profitable",
+    "name": "geniosAI",
+    "one_liner": "可追溯金融智能平台 geniosAI 出隐身并获$1910万（种子+A）：FactSet 战略领投 A 轮，Zoom 与 General Catalyst 参与",
+    "category": "法律金融",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "向银行、投研与 CFO 办公室销售带金融本体、Agent 与可追溯编排的分析平台；与 FactSet 数据、Zoom 会议场景整合，使假设/方法/审核决策沉淀在机构内复用",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "Business Wire 2026-11-09：合计$19.1M seed+Series A；Series A 由 FactSet 领投；Zoom、General Catalyst 参与",
+        "source_type": "官方公布",
+        "source_url": "https://www.businesswire.com/news/home/20261109329159/en/geniosAI-Emerges-From-Stealth-With-%2419.1M-In-Funding-To-Give-Financial-Institutions-Analysis-They-Can-Trace-Defend-and-Build-On"
+      },
+      {
+        "label": "客户信号",
+        "value": "官方称已在领先 Fortune 500 全球银行与科技公司的财务/投研团队用于财报准备等场景（未列具名客户与收入）",
+        "source_type": "官方公布",
+        "source_url": "https://www.businesswire.com/news/home/20261109329159/en/geniosAI-Emerges-From-Stealth-With-%2419.1M-In-Funding-To-Give-Financial-Institutions-Analysis-They-Can-Trace-Defend-and-Build-On"
+      }
+    ],
+    "why_it_works": "金融要的不是更快幻觉，而是「每个数字能回溯」；拉上 FactSet 做数据与 Zoom 做决策现场，机构壁垒比单卖聊天助手更深。",
+    "takeaway": "合规叙事清晰，但缺 ARR/席位数；战略投资人是否带来渠道闭环要看落地案例。",
+    "innovation_score": 3,
+    "business_score": 3,
+    "tags": ["金融AI", "可追溯", "FactSet", "CFO", "投研"],
+    "website": "https://geniosai.co/",
+    "sources": [
+      "https://www.businesswire.com/news/home/20261109329159/en/geniosAI-Emerges-From-Stealth-With-%2419.1M-In-Funding-To-Give-Financial-Institutions-Analysis-They-Can-Trace-Defend-and-Build-On"
+    ],
+    "uncertain_points": "仅一家一手通稿为完整独立来源；Fortune 500 使用为概括表述，无公开客户名单或收入数字；种子与 A 轮各自金额未拆分。"
+  },
+  {
+    "id": "kexing-coscene-nearly-100m-cny-robot-deploy-data",
+    "date_collected": "2026-11-10",
+    "status": "new",
+    "type": "profitable",
+    "name": "刻行时空（coScene）",
+    "one_liner": "机器人「部署态」数据公司刻行时空完成近亿元新融资：自称已有上亿元真机数据订单，并做数据资产确权与合规交付",
+    "category": "硬件与端侧",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "在预部署现场为物理 AI/机器人公司生产多样性真机数据与评测环境，提供高精度姿态追踪与多维标注，并出售可确权、合规交付的数据资产",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "投资界 2026-11-09：近亿元融资；咏归基金领投，天机 TIANJI、常州智融等跟投",
+        "source_type": "媒体报道",
+        "source_url": "https://finance.sina.com.cn/jjxw/2026-11-09/doc-iniycmtw2905838.shtml"
+      },
+      {
+        "label": "商业信号（公司口径）",
+        "value": "投资界转述：自称首家同时实现上亿元真机数据订单、数据资产确权与合规交付的物理 AI 数据科学公司；覆盖超200场景、600种任务的预部署现场",
+        "source_type": "媒体转述/公司口径",
+        "source_url": "https://finance.sina.com.cn/jjxw/2026-11-09/doc-iniycmtw2905838.shtml"
+      }
+    ],
+    "why_it_works": "具身智能缺的不是又一段演示视频，而是可训练、可确权的部署态数据；把预部署现场做成强化环境再卖数据，卡在「卖铲」位。",
+    "takeaway": "与已收录的简智机器人等同赛道分流：刻行强调部署态与确权。订单「上亿元」需独立合同或审计佐证。",
+    "innovation_score": 3,
+    "business_score": 3,
+    "tags": ["机器人数据", "具身智能", "数据确权", "Pre-A", "卖铲人"],
+    "website": "",
+    "sources": [
+      "https://finance.sina.com.cn/jjxw/2026-11-09/doc-iniycmtw2905838.shtml",
+      "https://xiuxiu.huxiu.com/hxgpt_agent/fin_daily/2026-11-09.html"
+    ],
+    "uncertain_points": "「上亿元订单」与「首家」表述均为报道转述；轮次名称与官网未在稿中清晰给出；与虎嗅日报中「云刻行 coScene」是否完全同一主体，按报道合并收录但存疑。"
+  },
+  {
+    "id": "skyfall-steve-001-autonomous-ai-ceo",
+    "date_collected": "2026-11-10",
+    "status": "new",
+    "type": "innovative",
+    "name": "Skyfall AI · Steve",
+    "one_liner": "前 Maluuba 团队推出「AI CEO」Steve-001：收购三家小型数字生意并用 Agent 网络经营，一家社媒 API 工具 MRR 自述从约$3649 增至$8307",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "收购小型 B2B SaaS/电商资产，由 Steve（世界模型仿真 + 专科 Agent + 策略引擎）自主运营；人类定方向并审批高影响决策；另推最高$200万的 Steve Startups 收购计划；计划公开匿名仪表盘",
+    "metrics": [
+      {
+        "label": "经营结果（公司向媒体披露）",
+        "value": "The Next Web 独家 2026-11-09：社媒 API 工具自7月接管后月收入$3649→$8307（约+127.7%）；Shopify 推荐应用约$8634→$8379（约-3%，称「稳住」）；第三家过新无有效数字",
+        "source_type": "媒体报道/公司披露",
+        "source_url": "https://thenextweb.com/news/skyfall-ai-steve-001-autonomous-business"
+      },
+      {
+        "label": "产品发布",
+        "value": "同日发布 Steve-001 与公开跟踪计划；X 话题摘要亦覆盖「最多再投$200万收购五家」叙事",
+        "source_type": "媒体报道",
+        "source_url": "https://skyfall.ai/steve"
+      }
+    ],
+    "why_it_works": "不演示「Agent 写代码」，而是直接买下真生意看账本——把自治经营从实验室搬到可取消订阅的真实客户上。",
+    "takeaway": "形态极新，但样本仅三家小生意、数字由公司提供；监管与自修改代码风险已在稿中被点名，属观察向创新案。",
+    "innovation_score": 5,
+    "business_score": 2,
+    "tags": ["自主Agent", "AI CEO", "收购运营", "世界模型", "创新实验"],
+    "website": "https://skyfall.ai/steve",
+    "sources": [
+      "https://thenextweb.com/news/skyfall-ai-steve-001-autonomous-business",
+      "https://skyfall.ai/steve",
+      "https://x.com/i/trending/2119844239635017873"
+    ],
+    "uncertain_points": "MRR 变化为公司向 TNW 提前披露，非第三方审计；员工遣散与收购对价未完全公开；「世界首个 AI CEO」为营销表述。"
+  },
+  {
+    "id": "dageno-ai-2-0-ph-geo-visibility",
+    "date_collected": "2026-11-10",
+    "status": "new",
+    "type": "innovative",
+    "name": "Dageno AI 2.0",
+    "one_liner": "GEO/AEO 平台 Dageno 2.0 在 Product Hunt 热登：追踪品牌在各大 LLM 回答里的可见度，并用 Agent 推动内容与信源改造",
+    "category": "营销内容",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "向品牌与机构销售 AI 可见度监测与 Agent 执行（站点/流量/提示词/社交/提及信号），免费试用后转化付费订阅",
+    "metrics": [
+      {
+        "label": "Product Hunt 热度",
+        "value": "2026-11-09 日榜前列（hunted.space/榜单约 278–279 分、约48–49 评论），定位「看清 AI 为何推荐竞品」",
+        "source_type": "媒体/榜单",
+        "source_url": "https://www.producthunt.com/products/agent-powered-geo-by-dageno"
+      }
+    ],
+    "why_it_works": "搜索从蓝链变成模型口述推荐，品牌需要新的「排名」仪表盘；谁能证明改了什么提示词/信源就能挤进答案，谁就收得到营销预算。",
+    "takeaway": "创新在场景（GEO），盈利信号本次几乎只有 PH 热度与试用转化叙事，收入未披露。",
+    "innovation_score": 3,
+    "business_score": 2,
+    "tags": ["GEO", "AEO", "Product Hunt", "品牌可见度", "营销Agent"],
+    "website": "https://dageno.ai/",
+    "sources": [
+      "https://www.producthunt.com/products/agent-powered-geo-by-dageno",
+      "https://www.producthunt.com/leaderboard/daily/2026/11/9",
+      "https://www.dageno.ai/changelogs/dageno-2-market-intelligence"
+    ],
+    "uncertain_points": "PH 分数为采集窗口快照会变动；付费转化与覆盖的 LLM 列表以官网为准，本次未核独立收入。"
+  },
+  {
+    "id": "arcjet-ai-security-models-ph-coding-agents",
+    "date_collected": "2026-11-10",
+    "status": "new",
+    "type": "innovative",
+    "name": "Arcjet AI security models",
+    "one_liner": "运行时安全平台 Arcjet 推出面向编码 Agent 的定制安全模型族：提示注入检测、工具调用授权、敏感数据脱敏与机器人防护",
+    "category": "编程开发",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "以 SDK/运行时组件嵌入应用，在动作发生前做安全判定；面向开发者与 Agent 应用按用量或套餐收费（具体价目以官网为准）",
+    "metrics": [
+      {
+        "label": "Product Hunt 热度",
+        "value": "2026-11-09 日榜约第4，约196分、34条评论",
+        "source_type": "媒体/榜单",
+        "source_url": "https://www.producthunt.com/products/arcjet"
+      }
+    ],
+    "why_it_works": "Agent 一接工具就有注入与越权；把安全做成「写进代码路径的模型族」，比事后审计更贴开发者工作流。",
+    "takeaway": "形态清楚，本次缺融资/收入交叉验证，作创新观察收录。",
+    "innovation_score": 3,
+    "business_score": 2,
+    "tags": ["Agent安全", "提示注入", "Product Hunt", "开发者工具"],
+    "website": "https://arcjet.com/",
+    "sources": [
+      "https://www.producthunt.com/products/arcjet",
+      "https://www.producthunt.com/leaderboard/daily/2026/11/9"
+    ],
+    "uncertain_points": "「定制训练安全模型」的评测数据与客户采用规模未在 PH 页充分展开；商业套餐细节需再核官网。"
+  },
+  {
+    "id": "protomap-ph-agent-dependency-map",
+    "date_collected": "2026-11-10",
+    "status": "new",
+    "type": "innovative",
+    "name": "ProtoMap",
+    "one_liner": "HoundDog 推出 ProtoMap：为 gRPC/Protobuf 系统构建确定性依赖图，经 Web/MCP 供编码 Agent 查询，减少重复烧 token",
+    "category": "编程开发",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "面向工程与治理团队的依赖/隐私数据地图产品（与 HoundDog 隐私代码扫描同生态）；企业订阅，Agent 经 MCP 查询变更影响",
+    "metrics": [
+      {
+        "label": "Product Hunt 热度",
+        "value": "2026-11-09 日榜约第5，约149–151赞、17评论；页面称某企业团队变更规划时间与 token 消耗降约8×（客户个案）",
+        "source_type": "媒体/榜单",
+        "source_url": "https://www.producthunt.com/products/hounddog-ai-static-code-scanner-2"
+      }
+    ],
+    "why_it_works": "Agent 最贵的是在巨型单体里反复考古依赖；给一张 commit 级更新的确定性地图，比让模型每次全文检索更省钱。",
+    "takeaway": "典型 Agent 配套铲子；8× 为个案宣传。与隐私扫描产品线关系需分清售卖单元。",
+    "innovation_score": 3,
+    "business_score": 2,
+    "tags": ["MCP", "依赖分析", "Protobuf", "Product Hunt", "编码Agent"],
+    "website": "https://hounddog.ai/privacy-code-scanning/",
+    "sources": [
+      "https://www.producthunt.com/products/hounddog-ai-static-code-scanner-2",
+      "https://hunted.space/dashboard/hounddog-ai-static-code-scanner-2"
+    ],
+    "uncertain_points": "PH 产品页与 HoundDog 隐私扫描品牌交织，ProtoMap 独立定价与是否单独 SKU 未完全厘清；8× 为单一企业个案。"
+  },
+  {
+    "id": "product-hunt-mcp-assistant-launch",
+    "date_collected": "2026-11-10",
+    "status": "new",
+    "type": "innovative",
+    "name": "Product Hunt MCP",
+    "one_liner": "Product Hunt 官方推出 MCP：把社区产品发现能力接到用户自己的 AI 助手里，日榜登顶",
+    "category": "生产力办公",
+    "region": "海外",
+    "team_type": "大公司",
+    "business_model": "以 MCP 服务器形式向助手/Agent 开放 Product Hunt 产品与社区数据（具体配额与商业条款以官方为准），强化平台在 Agent 分发层的入口",
+    "metrics": [
+      {
+        "label": "Product Hunt 热度",
+        "value": "2026-11-09 日榜第1左右，约280分、26评论",
+        "source_type": "媒体/榜单",
+        "source_url": "https://www.producthunt.com/leaderboard/daily/2026/11/9"
+      }
+    ],
+    "why_it_works": "当用户开始用自己的助手逛产品，平台若不提供机器可读入口就会被绕开；官方 MCP 是守住分发权的一步。",
+    "takeaway": "创新在「平台自接 Agent」；非独立创业盈利案，作形态观察。",
+    "innovation_score": 3,
+    "business_score": 2,
+    "tags": ["MCP", "Product Hunt", "平台战略", "Agent分发"],
+    "website": "https://producthunt.com/",
+    "sources": [
+      "https://www.producthunt.com/leaderboard/daily/2026/11/9",
+      "https://www.producthunt.com/products/producthunt"
+    ],
+    "uncertain_points": "商业化路径（是否对 API/MCP 调用收费）未在公开榜单页说明；「大公司」按成熟平台归类，团队类型略宽。"
+  }
+]
