@@ -1,0 +1,470 @@
+[
+  {
+    "id": "anthropic-ipo-price-range-81b-run-rate",
+    "date_collected": "2026-11-11",
+    "status": "new",
+    "type": "profitable",
+    "name": "Anthropic",
+    "one_liner": "Anthropic 正式启动拟议 IPO 路演：定价区间 $70–$78，拟登陆纳斯达克代码 ANT；媒体据更新后的招股文件测算上限充分稀释估值约 $1.404 万亿，并称截至 10 月底年化收入 run-rate 达 $810 亿",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "大公司",
+    "business_model": "以 Claude 等大模型与企业/开发者 API、订阅产品向全球客户收费；本次拟发行 Class A 普通股并申请在纳斯达克上市，同时向芯片与云厂商定向出售无投票权 Class N 股票",
+    "metrics": [
+      {
+        "label": "发行规模与定价",
+        "value": "官方 2026-11-10 宣布启动路演：拟发行 8.25 亿股 Class A（其中公司发行约 8.0135 亿股、老股约 2364.9 万股），定价区间 $70.00–$78.00；另授予承销商 30 天内最多加购 1.2375 亿股的选择权；申请代码 ANT",
+        "source_type": "官方公布",
+        "source_url": "https://www.anthropic.com/news/roadshow-launch"
+      },
+      {
+        "label": "估值与募资测算",
+        "value": "TechCrunch 据更新后的招股文件：公开发行预计筹资约 $577.5 亿–$643.5 亿；若按定价上限、充分稀释口径测算公司估值约 $1.404 万亿；另向 AMD、Broadcom、Google、Micron、Microsoft、Nvidia、TSMC 定向出售 $260 亿无投票权 Class N（其中 Google 与 Nvidia 各 $100 亿）；含选择权行使后净募集约 $846 亿–$937 亿",
+        "source_type": "媒体报道",
+        "source_url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/"
+      },
+      {
+        "label": "收入与亏损（招股文件，经媒体转述）",
+        "value": "TechCrunch 称文件披露：截至 2026 年 10 月底年化收入 run-rate 达 $810 亿（较 9 月底约增 $100 亿）；三季度收入 $170 亿，前九个月收入 $332 亿、净亏损 $1040 亿；现金及短期投资近 $1320 亿；算力与基础设施承诺达 $9009 亿。CNBC 报道定价区间与拟上市时间约 11 月 19 日前后",
+        "source_type": "媒体报道",
+        "source_url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html"
+      }
+    ],
+    "why_it_works": "把模型能力做成可规模收费的 API 与企业产品后，上市文件把收入速度摊在阳光下：run-rate 已到千亿美元量级，同时用芯片与云厂商的锚定认购把资本开支和生态绑在一起。对观察站而言，这是窗口内最硬的可验证商业信号，而不是又一次模型发布。",
+    "takeaway": "应用层公司都在这家的 API 账单上跑；下一看 11 月中下旬能否按区间定价成交，以及巨额算力承诺如何转化成可持续毛利。",
+    "innovation_score": 4,
+    "business_score": 5,
+    "tags": ["IPO", "大模型", "Claude", "招股", "企业API", "纳斯达克"],
+    "website": "https://www.anthropic.com/",
+    "sources": [
+      "https://www.anthropic.com/news/roadshow-launch",
+      "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+      "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html"
+    ],
+    "uncertain_points": "官方路演稿只确认股数、定价区间与代码，估值 $1.404 万亿、收入/亏损/算力承诺与 $260 亿定向出售均为媒体对招股文件的转述与测算，登记声明尚未生效；实际发行价、稀释后股本与上市日（媒体称约 11/19）均未落定；Class F 与长期受益信托安排意味着 A 类投资者表决权有限。"
+  },
+  {
+    "id": "daylight-80m-series-b-40x-revenue-mdr",
+    "date_collected": "2026-11-11",
+    "status": "new",
+    "type": "profitable",
+    "name": "Daylight",
+    "one_liner": "以色列安全公司 Daylight 宣布 $8000 万 Series B（高盛 Alternatives 领投），累计融资 $1.2 亿；官方称过去一年收入增长逾 40 倍，用 AI Agent 叠加安全工程师做检测、调查与响应",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "以 Aura 平台向企业提供全托管、共同管理或前驻工程师三种安全运营服务：AI Agent 处理日常检测与响应，安全工程师负责需要判断的决策；并覆盖提示注入、风险 MCP 等 AI 原生威胁",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "官方 2026-11-10：$80M Series B，由 Growth Equity at Goldman Sachs Alternatives 领投，新投资人 Okta Ventures，以及 Bain Capital、Craft Ventures、Vintage Partners、Maple Capital 跟投；累计融资 $120M",
+        "source_type": "官方公布",
+        "source_url": "https://daylight.ai/blog/as-ai-threats-surge-daylight-raises-80m-led-by-goldman-sachs-alternatives"
+      },
+      {
+        "label": "收入与客户",
+        "value": "官方称过去一年收入增长逾 40 倍，客户包括 Lovable、LastPass、Rogo、dLocal、Miro 及财富 500 强企业。Ctech 同日采访 CEO：预计到 2027 年底收入达数千万美元量级；估值公司未披露，该媒体估算约 $4 亿",
+        "source_type": "官方公布",
+        "source_url": "https://daylight.ai/blog/as-ai-threats-surge-daylight-raises-80m-led-by-goldman-sachs-alternatives"
+      },
+      {
+        "label": "媒体交叉验证",
+        "value": "Ctech、Globes 等 11 月 10 日报道同一轮次与投资人名单，并转述其威胁响应较传统托管安全快最多约 10 倍的官方说法",
+        "source_type": "媒体报道",
+        "source_url": "https://www.calcalistech.com/ctechnews/article/x8vrvo7dt"
+      }
+    ],
+    "why_it_works": "企业既缺安全人手，又不信任纯自动工具的误报。Daylight 把 Agent 做成日常运营劳动力，把稀缺工程师留在判断和治理上，再用全托管到前驻的弹性交付去匹配不同客户的控制欲，所以能同时卖给传统 500 强和 AI 原生公司。",
+    "takeaway": "窗口内除 Anthropic 外最完整的应用层盈利信号：金额、增速自述和具名客户都在。下一看绝对值 ARR 何时披露，以及 40 倍增速能否在更大基数上延续。",
+    "innovation_score": 4,
+    "business_score": 5,
+    "tags": ["网络安全", "Series B", "Agent", "MDR", "高盛"],
+    "website": "https://daylight.ai/",
+    "sources": [
+      "https://daylight.ai/blog/as-ai-threats-surge-daylight-raises-80m-led-by-goldman-sachs-alternatives",
+      "https://www.calcalistech.com/ctechnews/article/x8vrvo7dt",
+      "https://en.globes.co.il/en/article-israeli-cybersecurity-co-daylight-raises-80m-1001562755"
+    ],
+    "uncertain_points": "40 倍收入增长与「最多快 10 倍」均为公司自述，未公布 ARR 绝对值；Ctech 所报约 $4 亿估值为媒体估算，非官方披露；「2027 年底数千万美元收入」是对 CEO 采访的预期而非已实现。"
+  },
+  {
+    "id": "bay-50m-stealth-agent-action-security",
+    "date_collected": "2026-11-11",
+    "status": "new",
+    "type": "both",
+    "name": "Bay",
+    "one_liner": "特拉维夫 AI Agent 安全公司 Bay 出隐形并公布累计 $5000 万融资（含 Battery 领投的 $3700 万 A 轮）：在动作执行前本地裁决放行、拦截或转人工",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "向企业出售跨终端、云工作负载与 SaaS 的 Agent 安全平台：发现组织内的 Agent/MCP，按会话上下文在毫秒级本地决定每个拟执行动作是否放行、拦截或提交人工审批",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "2026-11-10 出隐形：累计 $50M，其中 $37M Series A 由 Battery Ventures 领投，Micron Ventures、微软 M12、Wiz CEO Assaf Rappaport 参与；此前未披露的 $13M 种子轮由 YL Ventures 与 Striker Venture Partners 领投。TNW 称其先向 Axios Pro 披露",
+        "source_type": "媒体报道",
+        "source_url": "https://thenextweb.com/news/bay-50m-ai-agent-security-stealth-battery-ventures"
+      },
+      {
+        "label": "客户",
+        "value": "TNW 与 SiliconANGLE 转述官方：已有数十家企业客户，具名包括 Micron、Peloton、ClickUp、Wix；官方称财富 100 强客户借助平台将自主 Agent 使用量提升至三倍，TNW 写明未获独立验证",
+        "source_type": "媒体报道",
+        "source_url": "https://siliconangle.com/2026/11/10/ai-security-startup-bay-launches-with-50m-to-vet-agent-actions-before-they-run/"
+      }
+    ],
+    "why_it_works": "Agent 出问题常常不是被攻破，而是用合法权限办成了危险的事。Bay 不在外围写死规则，而是在动作提交的那一毫秒按整段会话做放行/拦截/上报，并宣称五分钟内部署、无需常驻内核代理，这更像安全团队能真正铺开的控制面。",
+    "takeaway": "Agent 运行时安全已经拥挤（Zenity、Straiker 等近半年密集融资）。Bay 的差异是「动作级本地裁决」；下一看财富 100 强三倍使用量能否拿出可审计口径，以及 Micron 既是客户又是投资人带来的样本偏差。",
+    "innovation_score": 4,
+    "business_score": 4,
+    "tags": ["Agent安全", "出隐形", "Series A", "MCP", "以色列"],
+    "website": "https://www.bay.io/",
+    "sources": [
+      "https://www.businesswire.com/news/home/20261110782760/en/Bay-Emerges-From-Stealth-With-%2450M-After-Fortune-100-Companies-Used-Its-Platform-to-Triple-Autonomous-AI-Agent-Use",
+      "https://thenextweb.com/news/bay-50m-ai-agent-security-stealth-battery-ventures",
+      "https://siliconangle.com/2026/11/10/ai-security-startup-bay-launches-with-50m-to-vet-agent-actions-before-they-run/"
+    ],
+    "uncertain_points": "未能在本轮直接打开 BusinessWire 全文，融资结构以 TNW/SiliconANGLE 对官方声明的转述为准；「财富 100 强将自主 Agent 使用量提升三倍」公司未点名、TNW 明确未验证；Micron 同时是客户与投资人。"
+  },
+  {
+    "id": "graphon-labs-35m-series-a-agent-memory",
+    "date_collected": "2026-11-11",
+    "status": "new",
+    "type": "both",
+    "name": "Graphon Labs",
+    "one_liner": "旧金山 Graphon Labs 宣布 $3500 万 Series A（RRE 领投），累计约 $4330 万，做面向 Agent 的持久图记忆，而不是把上下文撕成 RAG 碎片",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "提供 Graphon Enterprise（托管/VPC/本地）、开发者平台，以及手机、电脑、相机与可穿戴上的端侧记忆；按企业部署与开发者使用收费，官方称将先深耕企业再拓展消费设备",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "TNW 2026-11-10 18:01 GMT 报道（称 Business Insider 先发，公司于周二宣布）：$35M Series A 由 RRE Ventures 领投，HP、Energy Impact Partners、Hitachi Ventures、Gaia VC 参与；累计融资 $43.3M；距 5 月 $8.3M 种子轮出隐形不足六个月。约 20 人团队",
+        "source_type": "媒体报道",
+        "source_url": "https://thenextweb.com/news/graphon-labs-35m-series-a-ai-agent-memory"
+      },
+      {
+        "label": "客户与基准（公司自述）",
+        "value": "公司称旧金山 49 人队、Hitachi、HP 等使用其软件；TNW 同时写明 49 人队技术负责人表示仍在探索赞助等场景，Hitachi Rail 称评估「显示出潜力」。公司称 LoCoMo 得分 93.9%、较整段塞进模型少用 58% token；ATM-Bench 81.7%，较公开榜次名高 5 个百分点",
+        "source_type": "媒体报道",
+        "source_url": "https://thenextweb.com/news/graphon-labs-35m-series-a-ai-agent-memory"
+      }
+    ],
+    "why_it_works": "Agent 会做事，但记不住关系、来源和变化时间。Graphon 用大图加 graphon 压缩来检索，而不是把文档撕成互不相干的片段，这直接打在企业「记忆层」的痛点上；HP 等既是场景也是投资人，有助于打开第一批部署。",
+    "takeaway": "叙事完整，但具名「客户」里至少两家仍是探索/评估口吻。下一看企业合同是否从 PoC 变成续费，以及端侧记忆何时真正出货。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": ["Agent记忆", "Series A", "图谱", "企业知识", "端侧"],
+    "website": "https://graphon.ai/",
+    "sources": [
+      "https://thenextweb.com/news/graphon-labs-35m-series-a-ai-agent-memory",
+      "https://www.businesswire.com/news/home/20261110959095/en/Graphon-Labs-Raises-%2435M-Series-A-to-Accelerate-AGI-with-Persistent-Intelligence"
+    ],
+    "uncertain_points": "Business Insider 原文与 BusinessWire 全文本轮未完整打开，细节以 TNW 转述为准；49 人队与 Hitachi Rail 的公开措辞偏评估而非规模化上线；基准分为公司自述，未看到第三方复现；未披露 ARR。"
+  },
+  {
+    "id": "sumary-25m-seed-ai-accounting-os",
+    "date_collected": "2026-11-11",
+    "status": "new",
+    "type": "profitable",
+    "name": "Sumary",
+    "one_liner": "哥本哈根 AI 会计操作系统 Sumary 宣布 $2500 万种子轮（Singular 领投），自称欧洲会计软件最大种子轮，客户包括 Deloitte、Grant Thornton、Baker Tilly",
+    "category": "法律金融",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "向会计师事务所销售 AI 操作系统：在客户既有账套上自动准备月结、增值税申报与年结，会计师审核签字；并支持对损益/资产负债/现金流追问到交易级证据",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "官方 2026-11-10：$25M 种子轮由 Singular 领投，老股东 byFounders、Partech、Tenity 追加；公司称这是欧洲会计软件最大种子轮。TNW 称距 2025 年 11 月 byFounders 领投的 $4.2M 预种子不足一年",
+        "source_type": "官方公布",
+        "source_url": "https://sumary.com/news/seed-round"
+      },
+      {
+        "label": "客户与效率（公司自述）",
+        "value": "官方点名 Deloitte、Grant Thornton、Baker Tilly，并称已服务北欧与英国事务所、下一步是荷比卢。官方称使用 Sumary 的事务所可节省逾 50% 原准备时间；TNW 转述更细口径：使用满三个月后月结耗时少 50%、增值税申报少 75%，且已覆盖北欧 20 家最大事务所中的大多数",
+        "source_type": "官方公布",
+        "source_url": "https://sumary.com/news/seed-round"
+      },
+      {
+        "label": "媒体交叉验证",
+        "value": "TNW、Tech.eu、Sifted 同日报道轮次、投资人与大所客户名单",
+        "source_type": "媒体报道",
+        "source_url": "https://thenextweb.com/news/sumary-25m-seed-ai-accounting"
+      }
+    ],
+    "why_it_works": "会计所不是缺聊天机器人，而是缺人做准备活。Sumary 把月结和申报做成可审核的工作流，让大所在现有账本上签字，而不是替换总账系统，所以能先打进 Deloitte 这一级客户。",
+    "takeaway": "欧洲会计 AI 里少见的「大所具名 + 大额种子」。下一看英国与荷比卢签约是否复制北欧，以及 50%/75% 省时口径有无第三方审计。",
+    "innovation_score": 3,
+    "business_score": 4,
+    "tags": ["会计", "种子轮", "欧洲", "事务所", "工作流"],
+    "website": "https://sumary.com/",
+    "sources": [
+      "https://sumary.com/news/seed-round",
+      "https://thenextweb.com/news/sumary-25m-seed-ai-accounting",
+      "https://tech.eu/2026/11/10/sumary-secures-25m-to-expand-its-accounting-software-across-europe/"
+    ],
+    "uncertain_points": "「欧洲会计软件最大种子轮」为公司自称；效率数据与「北欧 20 大所大多数」为公司/媒体转述，未见到独立审计；英国大所客户未具名；未披露 ARR。"
+  },
+  {
+    "id": "puppygraph-10m-series-a-7x-arr",
+    "date_collected": "2026-11-11",
+    "status": "new",
+    "type": "both",
+    "name": "PuppyGraph",
+    "one_liner": "图查询引擎 PuppyGraph 宣布 $1000 万 Series A，并随 1.0 正式版称年经常性收入过去一年增长 7 倍，让 Agent 直接把数仓当一张图来查，而不先搬进专用图数据库",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "向企业出售零拷贝图查询引擎（对接 Snowflake、Databricks 等），并提供 MCP 与内置 Agent，使调查型问题可以沿已批准的本体遍历；另有可免费 Docker 试用的开发者版本",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "官方 2026-11-10：$10M Series A 由 Particle Future 领投，defy.vc 参与，累计融资 $15M；defy.vc 曾在 2024 年 11 月领投 $5M 种子轮",
+        "source_type": "官方公布",
+        "source_url": "https://www.puppygraph.com/blog/series-a"
+      },
+      {
+        "label": "收入与客户（公司自述）",
+        "value": "官方称 ARR 过去一年增长 7 倍（未披露绝对值），并称 Agent 已可在 3000 张企业表上作为一张图查询、支持亚秒级图查询。具名客户包括 AMD、Palo Alto Networks、Datadog、Netskope、Coinbase、Trend Micro、Baker Hughes、Sola Security 等",
+        "source_type": "官方公布",
+        "source_url": "https://www.puppygraph.com/blog/series-a"
+      },
+      {
+        "label": "媒体交叉验证",
+        "value": "SiliconANGLE 同日报道同一轮次、7 倍 ARR 与 Coinbase 等客户引言",
+        "source_type": "媒体报道",
+        "source_url": "https://siliconangle.com/2026/11/10/puppygraph-raises-10m-to-let-ai-agents-query-enterprise-data-as-a-graph/"
+      }
+    ],
+    "why_it_works": "Agent 一出试点就死在「表太多、关系不准、上下文塞不下」。PuppyGraph 不搬数，只在现有湖仓上加一层可校验的本体和快的多跳查询，错关系直接打回给 Agent 改，这比再上一套图数据库更对得上企业的落地阻力。",
+    "takeaway": "有 7 倍 ARR 和一串一线客户，是当天质量很高的数据基础设施案例。缺的是收入绝对值和付费深度，下一看 AMD 等从 IT 场景扩到更多部门是否变成大单。",
+    "innovation_score": 4,
+    "business_score": 4,
+    "tags": ["图数据库", "Series A", "Agent", "MCP", "湖仓"],
+    "website": "https://www.puppygraph.com/",
+    "sources": [
+      "https://www.puppygraph.com/blog/series-a",
+      "https://siliconangle.com/2026/11/10/puppygraph-raises-10m-to-let-ai-agents-query-enterprise-data-as-a-graph/"
+    ],
+    "uncertain_points": "7 倍为相对增速，未披露 ARR 美元数；3000 表、亚秒级查询为公司自述，视工作负载而定；客户名单未区分付费规模与使用深度。"
+  },
+  {
+    "id": "ancep-8-5m-insurance-broker-agents",
+    "date_collected": "2026-11-11",
+    "status": "new",
+    "type": "profitable",
+    "name": "Ancep",
+    "one_liner": "伦敦 Ancep 宣布 $850 万融资（Creandum 领投），为商业保险经纪人做 Agent：把过去因佣金太薄而拒掉或积压的小单重新做成收入",
+    "category": "法律金融",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "Agent 在经纪人已有的保单系统、电子交易门户和 CRM 里读取投保材料、准备文件并向保险人询价；按所创造的增量价值抽成，而非先卖一套长周期软件许可；最终由持牌经纪人审核并出单",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "官方 2026-11-10：$8.5M，Creandum 领投，Kleiner Perkins、Vicus Ventures 参与；天使包括 Aon 前 CFO、Marsh 前主席、Palantir 前保险负责人，以及来自 OpenAI、Anthropic、Google DeepMind 的从业者",
+        "source_type": "官方公布",
+        "source_url": "https://ancep.com/blog/raise"
+      },
+      {
+        "label": "客户与效果（公司自述）",
+        "value": "官方称已在美、英、欧上线，客户包括奥地利大型信用保险经纪 A.C.I.C. Financial Advisory、英国前十大经纪之一，以及美国顶级经纪的特种业务线；称「某客户事业部 COO」反馈上线六周内收入增加 10%。公司估算经纪人看到的风险里最高约 30% 因规模过小被放弃，其中约一半本可盈利",
+        "source_type": "官方公布",
+        "source_url": "https://ancep.com/blog/raise"
+      },
+      {
+        "label": "媒体交叉验证",
+        "value": "TNW、Tech.eu 同日报道同一轮次与「把被拒小单变成收入」的定位",
+        "source_type": "媒体报道",
+        "source_url": "https://thenextweb.com/news/ancep-8-5m-ai-agents-insurance-brokers"
+      }
+    ],
+    "why_it_works": "经纪人软件卖了十年，采购周期动辄两年，因为「省时间」打动不了顶级经纪。Ancep 改卖净增收入，并钻进已有系统里几天内部署、按效果收费，这更像能在保守行业里先活下来的切口。",
+    "takeaway": "商业模式与一个具名客户引言都清楚。10% 收入提升来自未具名事业部 COO，英国与美国客户也未点名，规模仍待观察。",
+    "innovation_score": 3,
+    "business_score": 4,
+    "tags": ["保险", "经纪人", "Agent", "效果收费", "伦敦"],
+    "website": "https://ancep.com/",
+    "sources": [
+      "https://ancep.com/blog/raise",
+      "https://thenextweb.com/news/ancep-8-5m-ai-agents-insurance-brokers",
+      "https://tech.eu/2026/11/10/creandum-leads-85m-funding-for-ancep-to-turn-overlooked-insurance-risks-into-revenue/"
+    ],
+    "uncertain_points": "「六周收入 +10%」为公司转述某事业部 COO，未给绝对值；英、美客户未具名；30%/一半可盈利是公司估算；未披露 ARR 或成交经纪家数。"
+  },
+  {
+    "id": "xfunc-fanhanshu-near-100m-cny-angel-ai-eda",
+    "date_collected": "2026-11-11",
+    "status": "new",
+    "type": "both",
+    "name": "泛函数（xfunc）",
+    "one_liner": "上海 AI 原生芯片设计公司泛函数完成近亿元天使轮（上海未来产业基金领投）；媒体称其平台已协助客户完成商业化流片，设计周期可缩短至传统模式三分之一以内",
+    "category": "硬件与端侧",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "以 CaaS 提供从自然语言需求到 RTL、验证、物理版图与 GDS 的 AI 原生芯片设计平台，面向个人/初创的云端加 MPW 拼版，以及企业私有化部署与协同",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "36氪 2026-11-10 11:53：近日完成近亿元天使轮，上海未来产业基金领投，上海信投、上海科创集团、富海重产基金、徐汇资本、宽桥恒松、无限基金联合投资；用于垂类模型训练、工具链迭代、团队扩充与客户联合交付。稿件称 2026 年 3 月成立以来已完成多轮融资",
+        "source_type": "媒体报道",
+        "source_url": "https://www.36kr.com/newsflashes/4063391777739654"
+      },
+      {
+        "label": "产品进展（媒体转述公开资料）",
+        "value": "智通财经/同花顺 11 月 10 日：公司称已协助客户完成商业化流片，设计周期可缩短至传统模式三分之一以内；成立约 7 个月已完成四轮融资。官网展示自然语言到 GDS 的全流程与 MLCAD 2026 竞赛冠军等宣传",
+        "source_type": "媒体报道",
+        "source_url": "https://news.10jqka.com.cn/20261110/c681664323.shtml"
+      }
+    ],
+    "why_it_works": "国产高端 EDA 与芯片人才都贵，把「用自然语言把设计意图跑完全流程」做成可协同的云服务，对中小团队和想缩短流片周期的企业都有切口；先拿下真实流片再讲平台，比纯概念演示更接近应用。",
+    "takeaway": "当天少见的中国侧合格案例。金额是「近亿元」、成立不久已多轮，需把本轮与累计区分开；流片与周期缩短均为公司/媒体转述，未见客户具名。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": ["EDA", "芯片设计", "天使轮", "CaaS", "上海"],
+    "website": "https://www.funcai.com.cn/",
+    "sources": [
+      "https://www.36kr.com/newsflashes/4063391777739654",
+      "https://news.10jqka.com.cn/20261110/c681664323.shtml",
+      "https://www.funcai.com.cn/"
+    ],
+    "uncertain_points": "融资额为「近亿元」非精确数字，且「近日完成」未给关闭日；多轮/四轮融资的累计金额未披露；商业化流片与周期缩短为公司自述，未见具名客户或独立验证；官网效率数字（如 10x、验证加快 80%）属营销口径。"
+  },
+  {
+    "id": "alsona-ph-buying-signal-sales-agents",
+    "date_collected": "2026-11-11",
+    "status": "new",
+    "type": "innovative",
+    "name": "Alsona",
+    "one_liner": "Product Hunt 11 月 10 日日榜第 1：Alsona 追踪 32 项以上购买信号，用 Agent 把「现在就在买」的 B2B 线索做成个性化外联并预约电话",
+    "category": "客服销售",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "按月订阅销售意向与外联 Agent（产品页称有免费选项）；PH 评论区团队说明：非按线索计费，月费 $99 含最多 500 条高意向线索，$149 含最多 2500 条；支持审核后发送、MCP/API、HubSpot 与 Salesforce",
+    "metrics": [
+      {
+        "label": "社区热度",
+        "value": "Product Hunt 2026-11-10 日榜第 1，页面显示约 309 票、约 62 条评论（榜单数字随时间略有变动）",
+        "source_type": "社区数据",
+        "source_url": "https://www.producthunt.com/products/alsona"
+      },
+      {
+        "label": "定价（团队在 PH 自述）",
+        "value": "团队在评论中称月费 $99（最多 500 条高意向线索）或 $149（最多 2500 条），并提供 MCP、REST API、Zapier 与 HubSpot/Salesforce 同步",
+        "source_type": "创始人自述",
+        "source_url": "https://www.producthunt.com/products/alsona"
+      }
+    ],
+    "why_it_works": "冷启动外联的浪费来自「时机不对」。Alsona 先用可追溯到招聘、广告、帖子等来源的信号打分，再让 Agent 在窗口内写信或预约，并把发送权留给人工审核，降低了销售团队最担心的乱发风险。",
+    "takeaway": "形态清楚、有公开标价，但还没有可验证的客户数或收入。适合作为销售 Agent 的产品实验观察，不宜当成已经跑通的盈利案例。",
+    "innovation_score": 3,
+    "business_score": 2,
+    "tags": ["Product Hunt", "销售", "意向信号", "Agent", "MCP"],
+    "website": "https://alsona.com/",
+    "sources": [
+      "https://www.producthunt.com/products/alsona",
+      "https://www.producthunt.com/leaderboard/daily/2026/11/10"
+    ],
+    "uncertain_points": "未披露付费用户或收入；「32+ 信号」与预约效果为产品自述；PH 票数会变动。"
+  },
+  {
+    "id": "maxma-ph-paid-ads-ai-teammate",
+    "date_collected": "2026-11-11",
+    "status": "new",
+    "type": "innovative",
+    "name": "Maxma",
+    "one_liner": "Product Hunt 11 月 10 日日榜第 2：Maxma 做 24/7 付费广告 AI 同事，覆盖投放、创意、落地页与跨渠道优化，默认改动需人工批准",
+    "category": "营销内容",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "向品牌、电商与代运营团队出售付费广告自动化平台：连接 Google/Meta/TikTok/LinkedIn/ChatGPT Ads 等 10 余个渠道及 Shopify 等栈，在 Slack 里提出方案，批准后执行",
+    "metrics": [
+      {
+        "label": "社区热度",
+        "value": "Product Hunt 2026-11-10 日榜第 2，页面约 246 票、约 30 条评论",
+        "source_type": "社区数据",
+        "source_url": "https://www.producthunt.com/leaderboard/daily/2026/11/10"
+      }
+    ],
+    "why_it_works": "中小团队缺的不是再一个出图工具，而是能把分析、创意、投放和追踪连成班次的同事。Maxma 把「默认不改账户、只提交审批」做成产品原则，并强调增量效果而非平台归因，这更接近营销负责人敢交给 Agent 的工作方式。",
+    "takeaway": "产品故事完整，官网举的增长数字标明是示意。尚未看到公开 ARR 或客户数，先记为高热度形态创新。",
+    "innovation_score": 3,
+    "business_score": 2,
+    "tags": ["Product Hunt", "广告", "营销自动化", "Shopify", "Agent"],
+    "website": "https://maxma.ai/",
+    "sources": [
+      "https://www.producthunt.com/leaderboard/daily/2026/11/10",
+      "https://maxma.ai/"
+    ],
+    "uncertain_points": "未披露付费客户或收入；官网演示中的投放效果为示意；「Product of the Day」等第三方转述未作为依据。"
+  },
+  {
+    "id": "latch-ai-ph-accountant-sidekick",
+    "date_collected": "2026-11-11",
+    "status": "new",
+    "type": "innovative",
+    "name": "Latch.ai",
+    "one_liner": "Product Hunt 11 月 10 日日榜第 3：Latch 让会计师对着屏幕「做一遍并讲出来」，系统把它变成可审核的 sidekick，在现有财务工具里重复执行关账工作",
+    "category": "法律金融",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "面向会计师的桌面自动化：录屏+口述教会侧助手，在 QuickBooks、Xero、NetSuite、Excel 等现有工具中执行对账、收单、关账等流程，例外停下来问人，并留下逐步日志",
+    "metrics": [
+      {
+        "label": "社区热度",
+        "value": "Product Hunt 2026-11-10 日榜第 3，页面约 184 票、约 33 条评论",
+        "source_type": "社区数据",
+        "source_url": "https://www.producthunt.com/leaderboard/daily/2026/11/10"
+      },
+      {
+        "label": "效率示例（公司官网自述）",
+        "value": "官网称其内部 controller 的一项 Xero 工作流表面是清单上的一行，实际超过 200 次点击；在同样工具里交给 Latch 后「每月节省数十小时」——这是自家流程案例，不是客户统计",
+        "source_type": "官方公布",
+        "source_url": "https://latch.ai/"
+      }
+    ],
+    "why_it_works": "会计自动化通常卡在「SOP 写不全」。Latch 不让用户写提示词，而是把真正的点击、例外和命名规则录下来做成可回放的流程，并把判断权留在会计师手里，这更像这个职业能接受的 Agent 形态。",
+    "takeaway": "和当天 Sumary 形成对照：一个打进大所工作流，一个从「教会你的流程」切入。Latch 目前主要是产品形态与社区热度，盈利信号仍薄。",
+    "innovation_score": 4,
+    "business_score": 2,
+    "tags": ["Product Hunt", "会计", "流程自动化", "关账", "RPA"],
+    "website": "https://latch.ai/",
+    "sources": [
+      "https://www.producthunt.com/leaderboard/daily/2026/11/10",
+      "https://latch.ai/"
+    ],
+    "uncertain_points": "未披露付费会计师事务所数量或收入；「200 次点击、每月数十小时」为官网对内部流程的自述。"
+  },
+  {
+    "id": "seldon-wren-ph-behavioral-qa-agents",
+    "date_collected": "2026-11-11",
+    "status": "new",
+    "type": "innovative",
+    "name": "Seldon（Wren）",
+    "one_liner": "Product Hunt 11 月 10 日日榜第 6：Seldon 的 Wren 用行为模型驱动 QA Agent，按真实用户会走的路径找「你不知道该写的测试」，并给出回放与复现步骤",
+    "category": "编程开发",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "向产品与工程团队提供行为级 QA Agent：用自然语言描述「应该能用」，Agent 尝试结账中途改地址、重试失败支付等路径；发现问题时提供录像与复现步骤。PH 称前 10 次运行免费",
+    "metrics": [
+      {
+        "label": "社区热度",
+        "value": "Product Hunt 2026-11-10 日榜第 6，页面约 156 票、约 31 条评论",
+        "source_type": "社区数据",
+        "source_url": "https://www.producthunt.com/products/seldon"
+      }
+    ],
+    "why_it_works": "传统测试写的是快乐路径，线上事故往往出在半途折返和异常恢复。Wren 用「真实用户行为模型」而不是随机乱点，并强制附上回放，让团队先判断这是真 bug 还是没人会走的歪路。",
+    "takeaway": "形态有新意，仍处设计伙伴与开放试用阶段。注意不要与老牌 MLOps 公司 Seldon 混淆；本条指 PH 上这款行为 QA 产品。",
+    "innovation_score": 4,
+    "business_score": 2,
+    "tags": ["Product Hunt", "QA", "测试", "Agent", "行为模型"],
+    "website": "https://seldon.com/",
+    "sources": [
+      "https://www.producthunt.com/products/seldon",
+      "https://www.producthunt.com/leaderboard/daily/2026/11/10"
+    ],
+    "uncertain_points": "未披露付费客户或收入；「设计伙伴称有点像 must」为团队在 PH 上的回忆；官网域名与老牌 Seldon 平台可能产生混淆，产品边界需持续核对；原生 App 支持在评论中尚被追问，当时未看到明确答复。"
+  }
+]
