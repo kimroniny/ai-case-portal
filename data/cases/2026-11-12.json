@@ -1,0 +1,421 @@
+[
+  {
+    "id": "rox-100m-series-b-1-3b-revenue-agents",
+    "date_collected": "2026-11-12",
+    "status": "new",
+    "type": "profitable",
+    "name": "Rox",
+    "one_liner": "旧金山 AI 销售公司 Rox 宣布 $1 亿 Series B、估值 $13 亿；官方称上市首年 ARR 增长逾 10 倍、企业客户净收入留存超 700%，用收入 Agent 在客户现有系统里做线索、成交与扩销",
+    "category": "客服销售",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "面向 Global 2000 的收入 Agent：在客户自有数据仓库与现有系统中自动做管道生成、线索合格、会议预约、交易管理和账户扩销；向大型企业销售，服务医疗科技、工业、能源、金融与科技等行业",
+    "metrics": [
+      {
+        "label": "融资与估值",
+        "value": "官方 2026-11-11 08:00 ET：$100M Series B，估值 $1.3B；由 General Catalyst 与 March Capital 联合领投，老股东 Sequoia Capital、Factory 加投，新股东包括 Databricks Ventures 与 Prosperity7 Ventures；此前 2024 年 11 月已公布 $50M 种子与 A 轮",
+        "source_type": "官方公布",
+        "source_url": "https://www.prnewswire.com/news-releases/rox-raises-100-million-series-b-at-1-3-billion-valuation-to-grow-revenue-for-the-global-2000--302936434.html"
+      },
+      {
+        "label": "收入与留存（公司自述）",
+        "value": "官方称进入市场首年 ARR 增长逾 10 倍；企业客户净收入留存超 700%；部分客户在 90 天内看到约 25 倍投资回报。举例包括：一家全球 IT 服务公司八周内产出 $3.3 亿合格管道；一家全球医疗科技公司五个月内已促成 $2400 万收入",
+        "source_type": "官方公布",
+        "source_url": "https://www.prnewswire.com/news-releases/rox-raises-100-million-series-b-at-1-3-billion-valuation-to-grow-revenue-for-the-global-2000--302936434.html"
+      },
+      {
+        "label": "媒体交叉验证与具名客户",
+        "value": "Reuters 11/11 报道同一轮次、估值与投资人名单，并转述官网客户包括 Puma、Groq、Ramp（见 TradingView 对 Reuters 电稿的转载）。Fortune 独家先行报道同一交易，并列出 Ramp、New Relic、Trafigura、MongoDB、Groq、America's Auto Auction 等早期客户；官方稿另有 GitLab、Puma Energy 客户引言",
+        "source_type": "媒体报道",
+        "source_url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46S0ZJ:0-automation-startup-rox-raises-100-million-at-1-3-billion-valuation/"
+      }
+    ],
+    "why_it_works": "大企业销售最贵的是时间和漏掉的机会，而不是再多一个录入型 CRM。Rox 把 Agent 做进客户自己的数据和系统里，用可验证的管道与成交数字去说服董事会换工具，所以能同时讲清 10 倍 ARR、超高留存和行业客户案例。",
+    "takeaway": "窗口内应用层信号最完整的一条：金额、估值、增速和客户案例都在官方稿里。下一看绝对值 ARR 何时披露，以及匿名案例中的管道数字能否转化成可复核的经常性收入。",
+    "innovation_score": 4,
+    "business_score": 5,
+    "tags": [
+      "融资",
+      "Series B",
+      "销售Agent",
+      "企业软件",
+      "ARR"
+    ],
+    "website": "https://www.rox.com/",
+    "sources": [
+      "https://www.prnewswire.com/news-releases/rox-raises-100-million-series-b-at-1-3-billion-valuation-to-grow-revenue-for-the-global-2000--302936434.html",
+      "https://fortune.com/2026/11/11/rox-series-b-100-million-funding-take-on-salesforce/",
+      "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46S0ZJ:0-automation-startup-rox-raises-100-million-at-1-3-billion-valuation/"
+    ],
+    "uncertain_points": "官方未披露 ARR 绝对值，10 倍增速、700% 净收入留存和约 25 倍 ROI 均为公司自述；大量管道与成交案例未具名，难以独立复核；Reuters 原稿在部分地区需订阅，此处用 TradingView 转载页交叉验证；投资人名单以官方 PR 为准（Fortune 另提到 GV 继续参与）。"
+  },
+  {
+    "id": "fractile-720m-series-c-ai-inference-chips",
+    "date_collected": "2026-11-12",
+    "status": "new",
+    "type": "profitable",
+    "name": "Fractile",
+    "one_liner": "英国 AI 推理芯片公司 Fractile 获英国主权 AI 基金与英国商业银行参与的新一轮融资；官方称轮次超过 5 亿英镑、估值超过 50 亿英镑，媒体报道为 $7.2 亿 C 轮、估值约 $70 亿，首批芯片计划明年交付",
+    "category": "硬件与端侧",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "自研把 DRAM 叠在芯片上的 AI 推理芯片，并配套机器学习编译器，试图在长上下文与 Agent 负载上同时提高显存带宽与容量，降低推理成本；产品仍在研发，官方称将用于更快、更节能、更便宜地运行大模型",
+    "metrics": [
+      {
+        "label": "官方轮次与估值",
+        "value": "英国政府 2026-11-11：Sovereign AI Venture Fund 与英国商业银行（British Business Bank）参与一轮超过 £5 亿的融资，官方称此轮估值超过 £50 亿；同时点名 CapitalG、Lightspeed、Redpoint 等投资方",
+        "source_type": "官方公布",
+        "source_url": "https://www.gov.uk/government/news/sovereign-ai-and-british-business-bank-invest-in-british-firm-developing-the-next-generation-of-ai-hardware"
+      },
+      {
+        "label": "媒体报道的美元口径与领投方",
+        "value": "TechCrunch 11/11 称该轮为 $720M Series C，由 Thrive Capital、Founders Fund、Lightspeed Venture Partners 与 Redpoint 领投；并称英国政府口径“超过 £50 亿”估值很可能对应 FT 与 Reuters 消息源报道的约 $70 亿",
+        "source_type": "媒体报道",
+        "source_url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/"
+      },
+      {
+        "label": "产品进度",
+        "value": "TechCrunch 转述 CEO Walter Goodwin 的 LinkedIn：新资金将支持明年交付首批芯片与系统；公司在芯片之外还做机器学习编译器。官方未披露收入或客户规模",
+        "source_type": "媒体报道",
+        "source_url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/"
+      }
+    ],
+    "why_it_works": "推理变得更长、更贵之后，投资人愿意为“把内存直接叠到芯片上”这种尚未量产的架构付高估值，尤其再叠上英国主权资金。这是资本对下一代推理成本的押注，而不是已经规模出货的应用公司。",
+    "takeaway": "窗口内金额最大的新融资，但产品要到明年才交付。官方只给英镑区间，美元 $7.2 亿 / $70 亿来自媒体；下一看流片与首批系统能否按期落地。",
+    "innovation_score": 4,
+    "business_score": 4,
+    "tags": [
+      "融资",
+      "Series C",
+      "AI芯片",
+      "推理",
+      "英国"
+    ],
+    "website": "https://fractile.com/",
+    "sources": [
+      "https://www.gov.uk/government/news/sovereign-ai-and-british-business-bank-invest-in-british-firm-developing-the-next-generation-of-ai-hardware",
+      "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/"
+    ],
+    "uncertain_points": "英国政府只公布“超过 £5 亿 / 估值超过 £50 亿”，未给出精确美元金额；$720M 与约 $70 亿估值为媒体报道（TechCrunch 援引 FT 与 Reuters 消息源）；官方与媒体列出的领投/参投名单不完全一致；公司尚无公开收入，首批芯片要到明年。"
+  },
+  {
+    "id": "torus-500m-foundry-modular-ai-inference",
+    "date_collected": "2026-11-12",
+    "status": "new",
+    "type": "profitable",
+    "name": "Torus",
+    "one_liner": "盐湖城基础设施公司 Torus 官方宣布推出模块化推理基础设施 Foundry，并获得由 Magnetar 领投的 $5 亿增长融资；称已有数千块 GPU 部署，计划 2027 年底超过 4.7 万块",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "把电源、储能、冷却、网络和算力做成可预制的 1–20 兆瓦 Foundry 单元，安装在已有并网点的工商业场地，12–16 周从签约到上线；提供不带 GPU 的供电外壳、交钥匙裸金属，以及面向企业的单租户推理容量，并配套运维",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "官方 2026-11-11：$500M 增长资本，由 Magnetar 领投，ICONIQ、Origin Ventures、Ridgeline Partners、Trinity Capital 参投；资金用于扩建盐湖城 GigaOne 工厂以及 Reserve/Foundry 在美国的部署",
+        "source_type": "官方公布",
+        "source_url": "https://www.torus.co/news/torus-launches-modular-ai-infrastructure-foundry"
+      },
+      {
+        "label": "部署与客户（公司自述）",
+        "value": "官方称 Foundry 已与首批客户 Hydra Host 及另一家 AI 云厂商合作，目前已部署数千块 GPU，计划到 2027 年底在 Foundry 单元中部署超过 47,000 块 GPU；GigaOne 2026 年约每 21 天开一条产线，Foundry 产线规划 IT 负载 500MW、远期 1GW",
+        "source_type": "官方公布",
+        "source_url": "https://www.torus.co/news/torus-launches-modular-ai-infrastructure-foundry"
+      },
+      {
+        "label": "媒体交叉验证",
+        "value": "Bloomberg（经 Bloomberg Law / Investing.com 转述）11/11 报道同一笔 $500M 融资及模块化 AI 数据中心产品；BusinessWire 同步发布官方新闻稿",
+        "source_type": "媒体报道",
+        "source_url": "https://www.investing.com/news/stock-market-news/torus-raises-500-million-for-ai-data-center-product--bloomberg-93CH-5019068"
+      }
+    ],
+    "why_it_works": "推理要持续在线、还想靠近用电侧，传统超大规模园区往往卡在并网年限。Torus 把预制机柜送到已有变压器余量的场地，卖的是“几周内上电”而不是再建一座电厂。",
+    "takeaway": "金额硬、有首批具名客户和规划产能，但是 GPU 部署量与 2027 年 4.7 万块目标均为公司自述，收入未披露。下一看实际并网站点能否按 12–16 周交付。",
+    "innovation_score": 4,
+    "business_score": 4,
+    "tags": [
+      "融资",
+      "增长轮",
+      "AI基础设施",
+      "推理算力",
+      "模块化数据中心"
+    ],
+    "website": "https://www.torus.co/",
+    "sources": [
+      "https://www.torus.co/news/torus-launches-modular-ai-infrastructure-foundry",
+      "https://www.businesswire.com/news/home/20261111907147/en/Torus-Launches-Modular-AI-Infrastructure-Foundry-to-Meet-Surging-AI-Inference-Demand-and-Secures-%24500M-in-Funding",
+      "https://www.investing.com/news/stock-market-news/torus-raises-500-million-for-ai-data-center-product--bloomberg-93CH-5019068"
+    ],
+    "uncertain_points": "官方未披露估值、收入或本轮精确轮次名称（媒体有称 Series C）；已部署 GPU 数量只说“数千”，2027 年 47,000 块为规划；除 Hydra Host 外另一家云客户未具名；Bloomberg 原文可能需订阅，此处依据公开转述交叉验证。"
+  },
+  {
+    "id": "edelbyte-70m-stealth-ai-agent-data-platform",
+    "date_collected": "2026-11-12",
+    "status": "new",
+    "type": "profitable",
+    "name": "Edelbyte",
+    "one_liner": "由微软数据基础设施老兵创办的 Edelbyte 结束隐身：官方宣布种子轮与 A 轮合计 $7000 万（Sequoia 与 Quiet Capital 领投），已为财富 500 强客户运行 PB 级部署，定位面向 AI 查询的统一搜索与分析平台",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "提供可部署在公有云、主权云、自托管或本地的统一搜索与分析平台，把分析、文本、向量/空间与 AI Agent 查询放在同一套引擎上，按用量向企业收费，对标 Snowflake、Databricks、ClickHouse 等",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "官方 Access Newswire 2026-11-11：结束隐身并公布种子轮与 Series A 合计 $70M，由 Sequoia 与 Quiet Capital 领投，Greenoaks、Swish Ventures 等参投。Ctech 同日报道拆分为 Sequoia 领投的 $25M 种子轮，以及 Quiet Capital 领投的 $45M A 轮，并称估值 $5 亿",
+        "source_type": "官方公布",
+        "source_url": "https://www.accessnewswire.com/newsroom/en/computers-technology-and-internet/sequoia-backs-microsoft-veterans-edelbyte-with-70m-to-challenge-d-1249493"
+      },
+      {
+        "label": "客户与部署（公司自述）",
+        "value": "官方称已有领先的财富 500 强客户、并运行 PB 级部署；客户从旧系统迁移后出现平台成本下降，部分场景称同一预算下查询量可达约 10 倍。Ctech 称公司约 40 人、在特拉维夫与旧金山办公，客户覆盖信息安全、汽车制造与金融服务",
+        "source_type": "官方公布",
+        "source_url": "https://www.accessnewswire.com/newsroom/en/computers-technology-and-internet/sequoia-backs-microsoft-veterans-edelbyte-with-70m-to-challenge-d-1249493"
+      },
+      {
+        "label": "媒体交叉验证",
+        "value": "以色列科技媒体 Ctech 11/11 16:00 报道同一融资结构与 $5 亿估值，并补充投资方还包括 QP Ventures、Startpoint Capital、Cerca Partners 等",
+        "source_type": "媒体报道",
+        "source_url": "https://www.calcalistech.com/ctechnews/article/rk9dvkfrmx"
+      }
+    ],
+    "why_it_works": "Agent 会向公司数据提出远超人类仪表盘的临时查询，旧仓往往要预建索引或把历史数据归档。Edelbyte 用微软 Kusto 班底做一套可随问随查的引擎，把成本与部署位置当成卖点。",
+    "takeaway": "有官方融资和媒体拆分轮次，也有 PB 级与财富 500 强的自述，但估值 $5 亿来自 Ctech 而非官方稿，客户名单与收入仍未公开。",
+    "innovation_score": 4,
+    "business_score": 4,
+    "tags": [
+      "融资",
+      "数据基础设施",
+      "AI Agent",
+      "搜索分析",
+      "以色列"
+    ],
+    "website": "https://edelbyte.io/",
+    "sources": [
+      "https://www.accessnewswire.com/newsroom/en/computers-technology-and-internet/sequoia-backs-microsoft-veterans-edelbyte-with-70m-to-challenge-d-1249493",
+      "https://www.calcalistech.com/ctechnews/article/rk9dvkfrmx"
+    ],
+    "uncertain_points": "估值 $5 亿为 Ctech 报道，官方通稿未写估值；财富 500 强客户未具名，10 倍查询量为公司自述；定价与收入未披露。"
+  },
+  {
+    "id": "plurai-13m-seed-agent-simulation",
+    "date_collected": "2026-11-12",
+    "status": "new",
+    "type": "both",
+    "name": "Plurai",
+    "one_liner": "以色列团队 Plurai 宣布 $1300 万种子轮（Team8 领投）并开放 Agent 仿真平台：先为客户系统做数字孪生、用对抗仿真找故障，再据此后训练小模型；官方称设计伙伴失败率降 82%、运行成本降 97%",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "把客户的知识库、工具和策略做成 Agent 数字孪生，在沙盒里跑海量真实与对抗用户以发现失败，再生成修复并后训练任务级小模型，用于生产推理与持续评测；已对开发者开放含免费档，并对接 Claude Code、Codex、GitHub Copilot 与 Salesforce Agentforce 等",
+    "metrics": [
+      {
+        "label": "融资与上线",
+        "value": "官方 PR Newswire 2026-11-11 09:00 ET：$13M 种子轮，Team8 领投，U&I、Velocity、Mercer 以及 CyberArk 创始人 Udi Mokady 等 20 余位天使参投；同步宣布平台向所有开发者开放。TechCrunch 同日报道同一轮次",
+        "source_type": "官方公布",
+        "source_url": "https://www.prnewswire.com/news-releases/plurai-raises-13m-to-build-the-simulation-infrastructure-for-trustworthy-self-improving-ai-agents-302936422.html"
+      },
+      {
+        "label": "效果与验证（公司自述）",
+        "value": "官方称设计伙伴的 Agent 开发周期从数月缩到数小时，到达真实用户的失败减少 82%，可靠运行成本降低 97%；与 NVIDIA、Nebius 为一家全球企业客户做的后训练模型，自称准确率优于 OpenAI 与 Anthropic 的前沿模型，成本分别低约 40 倍和 44 倍。已服务 AI 原生产业与受监管行业，含财富 500 强和大型金融机构（未具名）",
+        "source_type": "官方公布",
+        "source_url": "https://www.prnewswire.com/news-releases/plurai-raises-13m-to-build-the-simulation-infrastructure-for-trustworthy-self-improving-ai-agents-302936422.html"
+      }
+    ],
+    "why_it_works": "Agent 演示好做、上线难：企业内部评测过不了真实用户的长尾。联合创始人来自 Nexar/Waymo 一侧的自动驾驶仿真，把“先在数字孪生里把失败跑完，再训练更小更便宜的模型”搬到软件 Agent 上。",
+    "takeaway": "产品形态有新意，也有官方融资和设计伙伴指标；但 82%、97%、44 倍成本都是公司自述，客户未具名，独立评测仍缺。",
+    "innovation_score": 5,
+    "business_score": 3,
+    "tags": [
+      "融资",
+      "种子轮",
+      "Agent仿真",
+      "小模型后训练",
+      "企业Agent"
+    ],
+    "website": "https://www.plurai.ai/",
+    "sources": [
+      "https://www.prnewswire.com/news-releases/plurai-raises-13m-to-build-the-simulation-infrastructure-for-trustworthy-self-improving-ai-agents-302936422.html",
+      "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/"
+    ],
+    "uncertain_points": "失败率、成本下降和“优于前沿模型”的对比均来自公司及与 NVIDIA/Nebius 的联合工作，评测集与客户身份未公开；收入与付费客户数未披露。"
+  },
+  {
+    "id": "helix-6-2m-preseed-ondevice-voice-verification",
+    "date_collected": "2026-11-12",
+    "status": "new",
+    "type": "both",
+    "name": "Helix",
+    "one_liner": "Helix 宣布 $620 万 pre-seed（Chicago Ventures 领投）并上线端侧语音人机核验：四秒内用语音判断是否真人并做年龄估计，数据不离开手机；Siri 联合创始人 Dag Kittlaus 担任顾问，早期合作伙伴包括 Zeel",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "通过 SDK 或一行接入，向票务、约会、游戏、博彩和金融等平台提供机器人拦截、生物识别多因素认证和年龄保证；模型在设备端运行，官方称不在服务器存储生物特征或 PII",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "官方 PR Newswire 2026-11-11 11:43 ET：$6.2M 融资，由 Chicago Ventures 领投，BAM Ventures、Aglaé Ventures、Corazon Capital、Tusk Ventures、Yonder Ventures、Rule30、Press On Ventures、Brown Angel Group 参投。TechCrunch 称本轮为 $6.2M，并确认 Siri 联合创始人 Dag Kittlaus 将担任顾问",
+        "source_type": "官方公布",
+        "source_url": "https://www.prnewswire.com/news-releases/helix-secures-6-2-million-in-pre-seed-capital-and-launches-voice-based-human-verification-for-the-ai-era-302936742.html"
+      },
+      {
+        "label": "产品与早期伙伴",
+        "value": "官方称用不足四秒的语音挑战完成核验与年龄预测，并列举 ISO/IEC 27566-1:2025、ACCS 与 IEEE 在线年龄核验认证。早期处于 beta，伙伴包括上门健康平台 Zeel；Zeel CEO 表示正在评估该技术。CEO 亦对 TechCrunch 承认尚不能可靠识别通话中的 AI Agent，也不能可靠测谎",
+        "source_type": "官方公布",
+        "source_url": "https://www.prnewswire.com/news-releases/helix-secures-6-2-million-in-pre-seed-capital-and-launches-voice-based-human-verification-for-the-ai-era-302936742.html"
+      }
+    ],
+    "why_it_works": "平台既要挡住机器人和未成年人，又不想再收集驾照和人脸视频。Helix 把验证收成一段短语音、并放在端侧，抓的是监管倒逼下的隐私折中。",
+    "takeaway": "形态清楚，也有认证和具名试点，但仍是 pref-seed、客户在评估阶段；创始人自己划清了测谎和实时检测 AI 来电的能力边界。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": [
+      "融资",
+      "语音核验",
+      "端侧AI",
+      "年龄验证",
+      "反机器人"
+    ],
+    "website": "https://helix.id/",
+    "sources": [
+      "https://www.prnewswire.com/news-releases/helix-secures-6-2-million-in-pre-seed-capital-and-launches-voice-based-human-verification-for-the-ai-era-302936742.html",
+      "https://techcrunch.com/2026/11/11/siri-co-founder-backs-helix-for-its-voice-id-tech/"
+    ],
+    "uncertain_points": "官方稿称“融资 $6.2M”，TechCrunch 未明确写轮次名称，部分转述称为 pre-seed；Zeel 是 beta/评估中的伙伴而非已规模化付费证据；实时通话中识别 AI Agent 的能力官方也承认尚不可靠；收入未披露。"
+  },
+  {
+    "id": "odessia-acquired-by-openai-ai-travel-agent",
+    "date_collected": "2026-11-12",
+    "status": "new",
+    "type": "profitable",
+    "name": "Odessia（被 OpenAI 收购）",
+    "one_liner": "Sonder 创始人 Francis Davidson 宣布其 AI 旅行 Agent 公司 Odessia 已被 OpenAI 收购，本人将加入 OpenAI 做旅行方向；创始人自述过去一个夏天有数万早期用户、规划了年化约 $6000 万的旅行，产品现已关闭，交易金额未披露",
+    "category": "其他",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "以 AI Agent 为用户规划并预订旅行；上线约五个月后随本次交易关停面向用户的产品，团队与创始人并入 OpenAI。此前完成由 Sequoia 领投的约 $600 万 pre-seed",
+    "metrics": [
+      {
+        "label": "收购与人员",
+        "value": "创始人 Francis Davidson 于 2026-11-10 在 LinkedIn 宣布 Odessia 被 OpenAI 收购，并将加入该公司负责旅行方向的工作。TechCrunch 11/10 13:08 PT 报道同一消息，并引述 OpenAI 发言人确认欢迎其加入；金额与对价结构未披露，报道认为更接近 acqui-hire",
+        "source_type": "创始人自述",
+        "source_url": "https://www.linkedin.com/pulse/openai-acquires-odessia-francis-davidson-yolcc"
+      },
+      {
+        "label": "使用规模（创始人自述）",
+        "value": "Davidson 称公司成立不到一年，过去一个夏天有数万早期用户通过 Odessia 规划了年化逾 $60M 的旅行。TechCrunch 称其约五个月前上线、已帮助早期用户规划价值数百万美元的旅行，并确认面向用户的工具已经关停；此前 Sequoia 领投 $6M pre-seed",
+        "source_type": "创始人自述",
+        "source_url": "https://www.linkedin.com/pulse/openai-acquires-odessia-francis-davidson-yolcc"
+      },
+      {
+        "label": "媒体交叉验证",
+        "value": "TechCrunch 向 OpenAI 求证后确认雇人，但对方未公布新的旅行产品计划；OpenAI 发言人只称旅行是 ChatGPT 用户的高频需求之一",
+        "source_type": "媒体报道",
+        "source_url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/"
+      }
+    ],
+    "why_it_works": "旅行本来就是个人助手里最常见的复杂任务之一。OpenAI 已有 Booking.com、Expedia、KAYAK 等合作，再把一个已经跑过预订闭环的创始团队收进来，补的是执行而不是又一个聊天演示。",
+    "takeaway": "窗口内唯一敲定的大厂收购，但金额未披露、产品已关，更像人才与经验并购。$6000 万年化是“规划的旅行金额”而非公司收入。",
+    "innovation_score": 3,
+    "business_score": 4,
+    "tags": [
+      "收购",
+      "OpenAI",
+      "旅行Agent",
+      "Acqui-hire"
+    ],
+    "website": "https://odessia.com/",
+    "sources": [
+      "https://www.linkedin.com/pulse/openai-acquires-odessia-francis-davidson-yolcc",
+      "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/"
+    ],
+    "uncertain_points": "交易金额、是资产收购还是主要雇人，官方均未披露；创始人所称年化 $60M 是规划的旅行金额（GMV 口径），不是 Odessia 收入；产品已关闭，OpenAI 尚未公布后续旅行产品形态。"
+  },
+  {
+    "id": "xixuan-chuangzhi-500m-cny-angel-embodied-chip",
+    "date_collected": "2026-11-12",
+    "status": "new",
+    "type": "profitable",
+    "name": "曦选创智",
+    "one_liner": "沐曦股份与优必选合资的具身智能芯片公司曦选创智，被 21 世纪经济报道独家披露近期完成 5 亿元人民币天使轮，由纪源资本、经纬创投联合领投，对标英伟达 Thor 做机器人端侧计算平台",
+    "category": "硬件与端侧",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "由国产 GPU 公司沐曦与人形机器人公司优必选共同发起，按国产 GPGPU 路线研发“大小脑一体”SoC 与计算模组，并配套软件工具链，面向机器人整机与模型厂商提供端侧算力，目标对标 NVIDIA Thor",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "21 世纪经济报道 2026-11-11 独家获悉：曦选创智科技（无锡）有限公司近期完成 5 亿元人民币天使轮，由纪源资本、经纬创投联合领投。资金将用于核心芯片与计算平台研发、软件工具链、团队扩充，以及与机器人厂商和行业客户联合验证、推进量产交付",
+        "source_type": "媒体报道",
+        "source_url": "https://field.10jqka.com.cn/20261111/c681723537.shtml"
+      },
+      {
+        "label": "交叉报道与公司背景",
+        "value": "上海证券报·中国证券网 11/11 21:54、IT之家 11/11 21:46 跟进同一轮次。公司 2026 年 5 月成立，注册无锡，在上海、深圳、北京布局研发",
+        "source_type": "媒体报道",
+        "source_url": "https://www.cnstock.com/commonDetail/827402"
+      }
+    ],
+    "why_it_works": "人形机器人要规模化，端侧算力不能长期只绑在进口平台上。把做 GPU 的沐曦和做出货机器人的优必选放进同一家合资公司，是用场景牵引芯片，而不是先做一颗通用芯片再找客户。",
+    "takeaway": "窗口内唯一合格的中国新案例，金额清楚、投资人具名，但消息源写的是“近期完成”，官方稿与量产进度仍未见到。",
+    "innovation_score": 3,
+    "business_score": 4,
+    "tags": [
+      "融资",
+      "天使轮",
+      "具身智能",
+      "端侧芯片",
+      "机器人"
+    ],
+    "website": "https://www.metax-tech.com/",
+    "sources": [
+      "https://field.10jqka.com.cn/20261111/c681723537.shtml",
+      "https://www.cnstock.com/commonDetail/827402",
+      "https://www.ithome.com/1/025/807.htm"
+    ],
+    "uncertain_points": "首发是 21 世纪经济报道的“独家获悉/近期完成”，不是公司官方新闻稿，交割精确日期未公布；尚未看到公开官网，网站字段暂用股东沐曦股份官网；芯片仍在研发与联合验证阶段，尚无公开收入或量产交付证明。"
+  },
+  {
+    "id": "higgsfield-1b-arr-series-b-extension",
+    "date_collected": "2026-11-12",
+    "status": "update",
+    "type": "profitable",
+    "name": "Higgsfield",
+    "one_liner": "Higgsfield CEO Alex Mashrabov 于 11 月 11 日发帖称：公司在 10 月年化收入 run-rate 达到 $13.5 亿（9 月刚过 $10 亿），并称未来三个月有望达到 $20 亿，自居独立私营 AI 原生公司收入第三、仅次于 Anthropic 与 OpenAI",
+    "category": "设计创意",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "面向品牌、代理商、工作室和专业创作者的 AI 图像/视频创作订阅加按量计费平台；企业客户用其把单一活动概念扩成多市场广告变体",
+    "metrics": [
+      {
+        "label": "最新年化 run-rate（创始人自述）",
+        "value": "CEO Alex Mashrabov 2026-11-11 01:07 UTC 发帖：10 月年化 run-rate 达到 $1.35B，称“跨过 $1B 之后还在加速”，并表示未来 3 个月有望达到 $2B；同时自称按年化收入计是第三大独立私营 AI 原生公司，仅次于 Anthropic 与 OpenAI",
+        "source_type": "创始人自述",
+        "source_url": "https://x.com/alexmashrabov/status/2120322553600430213"
+      },
+      {
+        "label": "口径说明",
+        "value": "多家转述称该 run-rate 按“最近四周收入 × 13”计算，反映当前节奏而非已实现的年度收入，亦未经独立审计。观察站 2026-10-24 已收录其约 $10 亿 run-rate 及 B 轮续期融资",
+        "source_type": "媒体报道",
+        "source_url": "https://dealroom.co/news/x-2120322553600430213-higgsfield-says-its-run-rate-hit-1-35b-in-october-about-350m-added-in-a/"
+      }
+    ],
+    "why_it_works": "AI 视频如果真能从演示变成可订阅的生产工具，创作者和广告团队会把量堆上去。CEO 用短周期年化把一个月的加速讲成 $13.5 亿，市场就会重新给“视频是不是只是玩具”定价——但也正因为是短周期年化，数字本身更易波动。",
+    "takeaway": "相对 10 月 24 日那条 $10 亿自述，这是窗口内可见的重大进展，但仍是未经审计的创始人口径。下一看 $20 亿目标会不会再以同样算法被重复提出，以及是否出现可交叉验证的财务披露。",
+    "innovation_score": 4,
+    "business_score": 5,
+    "tags": [
+      "AI视频",
+      "年化run rate",
+      "创始人自述",
+      "更新",
+      "生成式媒体"
+    ],
+    "website": "https://higgsfield.ai",
+    "sources": [
+      "https://x.com/alexmashrabov/status/2120322553600430213",
+      "https://dealroom.co/news/x-2120322553600430213-higgsfield-says-its-run-rate-hit-1-35b-in-october-about-350m-added-in-a/"
+    ],
+    "uncertain_points": "数字完全来自创始人帖文，未被审计或由公司正式财报确认；run-rate 若按近四周×13，对季节性或一次性收入会放大；“独立私营 AI 原生公司第三”是公司自我排序；观察站此前已提示市场对其订阅与支付问题有过质疑，此次更新未消除这些疑点。"
+  }
+]
