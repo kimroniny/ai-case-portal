@@ -1,0 +1,584 @@
+[
+  {
+    "id": "uforce-700m-series-a-6b-autonomous-defence",
+    "date_collected": "2026-11-13",
+    "status": "new",
+    "type": "profitable",
+    "name": "UFORCE",
+    "one_liner": "乌克兰创立、伦敦总部的防务科技公司 UFORCE 宣布 $7 亿 A 轮、估值 $60 亿，由 Valor Equity 与英国国家财富基金联合领投；CEO 对 CNBC 称过去一年订单额已较“数亿美元”基数翻倍以上，产品覆盖海陆空无人平台及 AI 指挥控制软件",
+    "category": "硬件与端侧",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "研制并规模化生产 MAGURA 无人艇、NEMESIS 打击无人机、LIUT 地面机器人和 PREDATOR 反无人机炮塔，同时提供编排这些平台的 AI 软件与指挥控制层；面向乌克兰前线和美欧亚太等盟友，在靠近战区的地点组织分布式制造，按防务采购合同交付",
+    "metrics": [
+      {
+        "label": "融资与估值",
+        "value": "官方 2026-11-12：$700M Series A，估值 $6B；由 Valor Equity Partners 与英国国家财富基金（NWF）联合领投，美国-乌克兰重建投资基金（URIF）参投，另有 Menlo Ventures、Xantium、Hiro Capital 以及老股东 Shield Capital、Ballistic Ventures、Lakestar、Squadra 等。NWF 同日称其出资 £1.13 亿（约 $1.5 亿），是该基金迄今最大的防务投资",
+        "source_type": "官方公布",
+        "source_url": "https://www.uforce.com/news/uforce-raises-700m-at-6-billion-valuation-from-leading-tech-and-sovereign-wealth-funds-to-scale-combat-proven-defence-systems-for-ukraine-and-allied-nations"
+      },
+      {
+        "label": "订单与部署（创始人/官方自述）",
+        "value": "CEO Oleg Rogynskyy 对 CNBC 称公司订单额过去一年翻倍以上，基数为数亿美元，但拒绝给出更精确数字。官方称 NEMESIS 无人机已完成逾 30 万次战斗飞行、被 100 多个部队采用；MAGURA 无人艇参与击沉十余艘俄方军舰，并可在海上作为移动基地发射 NEMESIS。今年 3 月公司曾以约 $10 亿估值融资 $5000 万",
+        "source_type": "创始人自述",
+        "source_url": "https://www.cnbc.com/2026/11/12/uforce-defense-tech-drones-warfare-ukraine.html"
+      },
+      {
+        "label": "媒体交叉验证",
+        "value": "CNBC 11/12 04:05 ET 报道同一轮次与估值，并转述 bookings 口径；英国国家财富基金官方新闻稿确认参与本轮及 £1.13 亿出资计划",
+        "source_type": "媒体报道",
+        "source_url": "https://www.nationalwealthfund.org.uk/news-and-publications/news/national-wealth-fund-backs-uforce-to-strengthen-uk-defence-capability/"
+      }
+    ],
+    "why_it_works": "战场把便宜、可快速迭代的无人系统跑成了刚需。UFORCE 不是只卖一款无人机，而是把已经打过仗的海陆空平台和指挥软件一起规模化，再让主权基金和盟国把产线铺到前线附近，所以能同时讲出订单翻倍、战斗飞行次数和一轮 $7 亿支票。",
+    "takeaway": "窗口内金额最大、也有订单口径的新融资。下一看“数亿美元基数再翻倍”何时变成可复核的合同或收入，以及海外产线能否按承诺铺开。",
+    "innovation_score": 4,
+    "business_score": 5,
+    "tags": [
+      "融资",
+      "Series A",
+      "防务AI",
+      "无人系统",
+      "订单"
+    ],
+    "website": "https://www.uforce.com/",
+    "sources": [
+      "https://www.uforce.com/news/uforce-raises-700m-at-6-billion-valuation-from-leading-tech-and-sovereign-wealth-funds-to-scale-combat-proven-defence-systems-for-ukraine-and-allied-nations",
+      "https://www.cnbc.com/2026/11/12/uforce-defense-tech-drones-warfare-ukraine.html",
+      "https://www.nationalwealthfund.org.uk/news-and-publications/news/national-wealth-fund-backs-uforce-to-strengthen-uk-defence-capability/"
+    ],
+    "uncertain_points": "订单“数亿美元基数、一年翻倍以上”仅为 CEO 对 CNBC 的口头表述，精确 bookings/收入未披露；击沉军舰、30 万次战斗飞行等战果来自公司官方稿，难以独立复核；本轮虽称 Series A，但此前已有约 $10 亿估值的融资，轮次命名与常见用法不完全对应。"
+  },
+  {
+    "id": "agile-robots-500m-series-f-8-5b-physical-ai",
+    "date_collected": "2026-11-13",
+    "status": "new",
+    "type": "profitable",
+    "name": "Agile Robots",
+    "one_liner": "慕尼黑 Physical AI 公司 Agile Robots 官方宣布 $5 亿 F 轮、估值 $85 亿，由软银领投，NVIDIA、日立与 T.Capital 参投；称全球已部署逾 2 万套工业机器人方案，累计融资约 $20 亿",
+    "category": "硬件与端侧",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "向汽车、消费电子、医疗和服务业客户交付人形与移动机器人、机械臂和灵巧手，以及驱动它们的软件与 AI 模型，帮助工厂和仓库自动化原先依赖人工灵巧与判断的工序；在德国等地自建产能，并通过收购 Franka Robotics、Krause Automation 等子公司覆盖研发平台与工业部署",
+    "metrics": [
+      {
+        "label": "融资与估值",
+        "value": "官方新闻稿署“Munich, November 12, 2026”：$500M Series F，估值 $8.5B，由 SoftBank Group 领投，NVIDIA、Hitachi Group（日立及 Hitachi Ventures）、T.Capital 等参投；称累计获投资本达 $20 亿",
+        "source_type": "官方公布",
+        "source_url": "https://www.agile-robots.com/en/news/detail/physical-ai-leader-agile-robots-raises-500-million-series-f-funding/"
+      },
+      {
+        "label": "部署与产能（公司自述）",
+        "value": "官方称已为汽车、消费电子、物流等行业客户部署逾 20,000 套工业机器人方案；研发人员逾 2000、专利逾 650 项，员工逾 3500 人。2026 年初在慕尼黑附近 Fürstenfeldbruck 开设新工厂，规划年产能最高 1 万台腿式与轮式人形机器人",
+        "source_type": "官方公布",
+        "source_url": "https://www.agile-robots.com/en/news/detail/physical-ai-leader-agile-robots-raises-500-million-series-f-funding/"
+      },
+      {
+        "label": "媒体交叉验证",
+        "value": "SiliconANGLE、CNA 等 11/12 报道同一轮次、估值与投资人；Handelsblatt 11/12 07:00 亦报道 $500M / $8.5B。The Next Web 另转述公司预计 2026 年产出约 2000 台、2027 年或再翻倍或三倍，以及 CEO 对《纽约时报》称融资后更有条件考虑未来 IPO",
+        "source_type": "媒体报道",
+        "source_url": "https://siliconangle.com/2026/11/12/agile-robots-raises-500m-funding-led-by-softbank-at-8-5b-valuation/"
+      }
+    ],
+    "why_it_works": "工业客户要的不是展厅里的人形机器人，而是已经能上线的手臂、移动底盘和产线集成。Agile Robots 先把 2 万套工业方案铺出去，再把 Physical AI 产品和新工厂叠上去，又拉来软银与英伟达，讲的是规模化交付而不是实验室演示。",
+    "takeaway": "窗口内估值最高的新融资，部署量和规划产能都写进了官方稿。但收入与 2026 年实际产量未在官方稿披露，官网页眉日期与正文“11 月 12 日”也不完全一致。",
+    "innovation_score": 4,
+    "business_score": 5,
+    "tags": [
+      "融资",
+      "Series F",
+      "Physical AI",
+      "工业机器人",
+      "人形机器人"
+    ],
+    "website": "https://www.agile-robots.com/en/",
+    "sources": [
+      "https://www.agile-robots.com/en/news/detail/physical-ai-leader-agile-robots-raises-500-million-series-f-funding/",
+      "https://siliconangle.com/2026/11/12/agile-robots-raises-500m-funding-led-by-softbank-at-8-5b-valuation/",
+      "https://www.channelnewsasia.com/business/softbank-nvidia-back-germanys-agile-robots-85-billion-valuation-6545666"
+    ],
+    "uncertain_points": "官方未披露收入、利润或本轮投前/投后的其他财务口径；官网文章页眉写着 10.11.2026，正文和多家媒体则写 11 月 12 日（周四）宣布，精确发布时间以媒体与正文为准；“2 万套方案”是累计部署口径，不等于当年出货或人形机器人保有量；年产 1 万台是工厂规划产能，The Next Web 转述的 2026 年约 2000 台并非官方稿原文。"
+  },
+  {
+    "id": "langchain-300m-3b-agent-platform",
+    "date_collected": "2026-11-13",
+    "status": "new",
+    "type": "profitable",
+    "name": "LangChain",
+    "one_liner": "《华尔街日报》11 月 12 日报道，帮助大企业构建和部署自有 AI Agent 的 LangChain 完成由 Alphabet 旗下 CapitalG 领投的 $3 亿融资，估值 $30 亿，较 2025 年的 $12.5 亿上涨；公司官方博客尚未见到同期通稿",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "提供开源 Agent 开发框架，并向企业出售用于构建、监控、评测和部署自有 AI Agent 的平台；主要面向希望把 Agent 做进内部工作流、又不想完全绑在单一模型厂商上的大型公司",
+    "metrics": [
+      {
+        "label": "融资与估值（媒体报道）",
+        "value": "Wall Street Journal（Belle Lin）报道、Reuters 11/12 转述：LangChain 完成 $300M 融资，由 Alphabet 的 CapitalG 领投，估值 $3B，高于 2025 年的 $1.25B。Techmeme 同日将此条列为头条之一。截至本次收集，公司官网博客最新公开融资稿仍是 2025 年 10 月的 $1.25 亿一轮",
+        "source_type": "媒体报道",
+        "source_url": "https://www.techmeme.com/261112/p35"
+      },
+      {
+        "label": "交叉转述",
+        "value": "TradingView 刊登的 Reuters 电稿标题与 WSJ 口径一致：$300M、估值 $3B。本轮新的收入或 ARR 数字未在已核对的公开转述中出现，不宜沿用 2025 年中披露的旧 ARR",
+        "source_type": "媒体报道",
+        "source_url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N46T10M:0-ai-startup-langchain-raises-300-million-at-a-3-billion-valuation-wsj/"
+      }
+    ],
+    "why_it_works": "企业把 Agent 从演示推进到生产后，最缺的是能跨模型做编排、评测和管控的一层。LangChain 已经是开发者默认工具之一，CapitalG 用更高估值加注，看的是这层控制面能不能变成大公司采购项。",
+    "takeaway": "窗口内应用层估值最高的新报道之一，但目前只有媒体转述、未见官方新闻稿，也没有同步给出新的收入数字。下一看公司是否正式确认轮次细节。",
+    "innovation_score": 4,
+    "business_score": 4,
+    "tags": [
+      "融资",
+      "Agent平台",
+      "企业软件",
+      "CapitalG",
+      "媒体报道"
+    ],
+    "website": "https://www.langchain.com/",
+    "sources": [
+      "https://www.techmeme.com/261112/p35",
+      "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N46T10M:0-ai-startup-langchain-raises-300-million-at-a-3-billion-valuation-wsj/"
+    ],
+    "uncertain_points": "本轮信息目前来自 WSJ 报道及 Reuters/Techmeme 转述，公司官方博客尚未见到同期宣布，投资人完整名单、是否命名轮次、资金用途均未在已核对的公开摘要中写明；新的 ARR 或客户规模未披露，不能把 2025 年的旧收入数字当成当前口径。"
+  },
+  {
+    "id": "mount-thor-45m-apple-silicon-agent-cloud",
+    "date_collected": "2026-11-13",
+    "status": "new",
+    "type": "both",
+    "name": "Mount Thor",
+    "one_liner": "湾区创业公司 Mount Thor 宣布种子轮与 A 轮合计 $4500 万，在数据中心规模上出租 Apple 芯片与 macOS，供 AI Agent 做计算机使用训练、沙盒执行和开源模型推理；A 轮由 CRV 与 Conviction 领投",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "把搭载 Apple 芯片的 Mac 做成可弹性租用的计算实例：客户可按 24 小时计费租用裸金属或隔离的 macOS 虚拟机，用于强化学习环境、Agent 沙盒、同一 Apple ID 下的跨设备长任务，以及苹果软件的构建测试；也可把自有 Mac 放到其机房，由客户自己用 MDM 管理、由其运营设施。新资金还用于在 M 系列大内存机器上做开源模型推理",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "BusinessWire 稿号显示 2026-11-12，9to5Mac 11/12 06:00 PT 报道：种子轮与 Series A 合计 $45M。Series A 由 CRV 与 Conviction 联合领投，种子轮由 Chad Byers 与 Offline Ventures 联合领投；CSC Leasing、Enea Capital、Long Journey Ventures、Upper90 以及来自 OpenAI、Meta、Cognition、Together AI、Vercel 的天使参投，另有用于购置硬件的非稀释性融资",
+        "source_type": "官方公布",
+        "source_url": "https://www.businesswire.com/news/home/20261112125652/en/Mount-Thor-Raises-%2445-Million-to-Build-Cloud-Infrastructure-for-Agentic-AI-on-Apple-Hardware"
+      },
+      {
+        "label": "产品进度（公司自述）",
+        "value": "9to5Mac 转述：公司今年成立，不到六个月部署了第一座数据中心；团队成员来自 Cerebras、CoreWeave、Fluidstack、Nebius、OpenAI 与 xAI。官方未在已核对报道中披露收入或客户名单",
+        "source_type": "媒体报道",
+        "source_url": "https://9to5mac.com/2026/11/12/mount-thor-raises-45-million-to-build-mac-data-centers-for-ai-agents/"
+      }
+    ],
+    "why_it_works": "Agent 要真正“会用电脑”，很多工作仍然只能在 macOS 上发生；需求开始按 Agent 数量而不是开发者人数放大。Mount Thor 把这件事做成数据中心租赁，和已有的 AWS Mac / MacStadium 开发者云区分开，赌的是 Agent 会成为新的苹果平台用户。",
+    "takeaway": "形态清楚，也有官方轮次和一线背景团队，但成立未满一年、收入与客户尚未公开。需与观察站 11 月 9 日收录的 NoMac（面向 Agent 的云端 Mac）区分，二者是不同公司。",
+    "innovation_score": 5,
+    "business_score": 3,
+    "tags": [
+      "融资",
+      "Apple芯片",
+      "Agent基础设施",
+      "macOS云",
+      "推理"
+    ],
+    "website": "https://www.mountthor.com/",
+    "sources": [
+      "https://www.businesswire.com/news/home/20261112125652/en/Mount-Thor-Raises-%2445-Million-to-Build-Cloud-Infrastructure-for-Agentic-AI-on-Apple-Hardware",
+      "https://9to5mac.com/2026/11/12/mount-thor-raises-45-million-to-build-mac-data-centers-for-ai-agents/"
+    ],
+    "uncertain_points": "官方未披露估值、收入或具名客户；第一座数据中心的规模与实际租用率未见独立验证；与 AWS Mac、MacStadium 以及观察站已收录的 NoMac 如何差异化，目前主要是公司自己的定位陈述。"
+  },
+  {
+    "id": "se3-30m-series-a-spatial-intelligence",
+    "date_collected": "2026-11-13",
+    "status": "new",
+    "type": "both",
+    "name": "SE3",
+    "one_liner": "慕尼黑空间智能公司 SE3 宣布 $3000 万 A 轮（Accel 领投），把多机传感器融合成共享三维战场图，可在卫星导航失效的环境中运行；投资方称已交付数千套系统，并与乌克兰、德国联邦国防军及亨索尔特等合作",
+    "category": "硬件与端侧",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "向防务客户出售平台无关的边缘软件：接入不同厂商的无人机与地面无人系统，把视频和传感器融成统一三维态势，使一名操作员可用语音指挥多台设备；先做欧洲防务，再探索民用机器人。与整机厂商合作而非替代它们",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "官方/投资方 2026-11-12：$30M Series A，由 Accel 领投，Keen Venture Partners 参投，老股东 Lakestar、Seedcamp 继续支持。Fortune 独家稿 11/12 03:00 ET 报道同一轮次，并称距离公司以 €550 万种子轮结束隐身不到五个月",
+        "source_type": "官方公布",
+        "source_url": "https://www.accel.com/news/our-investment-in-se3-spatial-intelligence-for-autonomous-systems"
+      },
+      {
+        "label": "部署与客户（投资方/媒体转述）",
+        "value": "Keen 新闻稿称过去两年已交付数千套系统，部署在乌克兰，并与乌克兰、德国联邦国防军、主承包商及自主软件公司合作。Accel 点名正在执行与乌克兰、德国联邦国防军的多份合同，AI 合作方包括 HENSOLDT、Auterion 与 ERC System。Fortune 称公司计划把员工从约 40 人扩到约 120 人，并在伦敦、柏林、北欧波罗的海和波兰设点；未来 12 个月收入仍以防务为主",
+        "source_type": "媒体报道",
+        "source_url": "https://fortune.com/2026/11/12/exclusive-se3-a-munich-startup-building-spatial-intelligence-for-military-drones-gets-30-million-in-series-a-funding/"
+      }
+    ],
+    "why_it_works": "无人系统“能看”不等于“知道自己在哪”。SE3 把多机传感器做成一张可在电子战和卫星失效下使用的三维小地图，又选择做可挂到别人硬件上的软件层，所以能较快进入乌克兰和德国的现有装备体系。",
+    "takeaway": "有 Accel 领投、具名防务伙伴和“数千套交付”的自述，产品形态清楚。但合同金额与收入未披露，部署数字来自投资方稿件。",
+    "innovation_score": 5,
+    "business_score": 4,
+    "tags": [
+      "融资",
+      "Series A",
+      "空间智能",
+      "防务AI",
+      "边缘软件"
+    ],
+    "website": "https://www.se3.ai/",
+    "sources": [
+      "https://www.accel.com/news/our-investment-in-se3-spatial-intelligence-for-autonomous-systems",
+      "https://www.einpresswire.com/article/956090369/se3-raises-30m-series-a-led-by-accel-with-keen-venture-partners-to-bring-spatial-intelligence-to-autonomous-systems",
+      "https://fortune.com/2026/11/12/exclusive-se3-a-munich-startup-building-spatial-intelligence-for-military-drones-gets-30-million-in-series-a-funding/"
+    ],
+    "uncertain_points": "“数千套系统”和具体合同金额未见独立验证；Accel 与 Keen 稿中的客户名单属于投资方披露，官方公司新闻稿细节以投资方渠道为主；收入未公开。"
+  },
+  {
+    "id": "kindo-30m-800pct-revenue-agent-control",
+    "date_collected": "2026-11-13",
+    "status": "new",
+    "type": "profitable",
+    "name": "Kindo",
+    "one_liner": "企业 AI Agent 管控平台 Kindo 宣布再融资 $3000 万（Crosspoint 与 Forgepoint 联合领投），累计融资 $5760 万；官方称 2026 年收入同比增长约 800%，并把平台定位成企业的 AI 运营中心",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "为企业的 IT、安全、财务与合规团队提供可发现影子 Agent、统一观察权限与成本、并在出事时接管的控制面；可用网关审计 Agent 对数据、工具和模型的调用，也可把关键 Agent 放进自有 harness 运行。支持本地、客户云、Kindo 云和隔离网部署，按企业订阅或平台使用收费",
+    "metrics": [
+      {
+        "label": "融资与收入增速（公司自述）",
+        "value": "官方 2026-11-12：$30M 融资由 Crosspoint Capital 与 Forgepoint Capital 联合领投，累计融资 $57.6M；称 2026 年收入同比增长约 800%。TFX Capital、CircleRock Capital 以及老股东 Drive Capital、Riot Ventures、RRE、Eniac 等参投。官方未命名本轮轮次，也未给收入绝对值",
+        "source_type": "官方公布",
+        "source_url": "https://www.kindo.ai/resources/press-kindo-raises-57-million-ai-agent-management"
+      },
+      {
+        "label": "客户案例（公司转述）",
+        "value": "官方称已在金融、专业服务、医疗和航空运输的大中型企业生产环境运行。全球航空飞行数据提供商 Aireon 的 CISO 在 2026 年 5 月表示，用 Kindo 做威胁狩猎和一、二线 SOC 工作，帮助公司更快运转并每年节省逾 $200 万",
+        "source_type": "官方公布",
+        "source_url": "https://www.kindo.ai/resources/press-kindo-raises-57-million-ai-agent-management"
+      }
+    ],
+    "why_it_works": "Agent 一多，安全和财务最先踩刹车的不是“会不会做”，而是看不见权限和账单。Kindo 把发现、管控和降本放在同一层，又用一个具名客户的年度节省数字当证明，所以能在没有给出绝对 ARR 的情况下讲出 800% 增速。",
+    "takeaway": "有官方融资和同比增速，也有一个具名客户的节省口径；但收入绝对值、付费客户数仍未披露，800% 是公司自述。",
+    "innovation_score": 4,
+    "business_score": 4,
+    "tags": [
+      "融资",
+      "Agent管控",
+      "企业安全",
+      "AI成本",
+      "收入增长"
+    ],
+    "website": "https://www.kindo.ai/",
+    "sources": [
+      "https://www.kindo.ai/resources/press-kindo-raises-57-million-ai-agent-management",
+      "https://techfundingnews.com/kindo-raises-30m-after-800-revenue-growth-can-one-control-center-tame-enterprise-ai-agents/"
+    ],
+    "uncertain_points": "约 800% 的收入同比增长和 $57.6M 累计融资均为公司自述，绝对值 ARR 未披露；Aireon 每年节省逾 $200 万是 2026 年 5 月客户表态，由公司新闻稿转述；本轮未公布估值和正式轮次名称。"
+  },
+  {
+    "id": "hatz-ai-24m-series-a-msp-ai-os",
+    "date_collected": "2026-11-13",
+    "status": "new",
+    "type": "profitable",
+    "name": "Hatz AI",
+    "one_liner": "面向中小企业的 AI 操作系统 Hatz AI 宣布 $2400 万 A 轮（Nadia Partners 领投），只通过托管服务商（MSP）交付；官方称活跃 MSP 伙伴一年增至三倍，收入增速更快，并已发出逾 1.5 万份 AI 构建者认证",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "不做直销，只把多租户治理、支出追踪、模型自动路由和可定制 Agent 工作流交给 MSP，由对方用自己的品牌向中小企业出售 AI 即服务；覆盖内部工单、运营自动化、营销、销售线索和簿记等常见流程",
+    "metrics": [
+      {
+        "label": "融资与网络规模",
+        "value": "官方 PR Newswire 2026-11-12 08:00 ET：$24M Series A，由 Nadia Partners（合伙人、前 Blackstone CTO Josh Schertzer 主导）领投，Vestigo Ventures 与 The Private Shares Fund 参投。官方称伙伴网络已覆盖美国全部 50 个州、加拿大 9 个省和另外 9 个国家的数千家 MSP，并累计发出逾 15,000 份 AI 构建者认证",
+        "source_type": "官方公布",
+        "source_url": "https://www.prnewswire.com/news-releases/hatz-ai-raises-24m-series-a-to-solidify-position-as-the-ai-platform-for-managed-service-providers-and-small-and-medium-sized-businesses-302936133.html"
+      },
+      {
+        "label": "增长（公司自述）",
+        "value": "官方称过去一年活跃 MSP 伙伴数量增至三倍，收入增速更快；团队从 14 人扩到近 60 人，并在纽约 Flatiron 扩建前方部署工程与研究团队。未披露收入绝对值",
+        "source_type": "官方公布",
+        "source_url": "https://www.prnewswire.com/news-releases/hatz-ai-raises-24m-series-a-to-solidify-position-as-the-ai-platform-for-managed-service-providers-and-small-and-medium-sized-businesses-302936133.html"
+      },
+      {
+        "label": "媒体交叉验证",
+        "value": "SiliconANGLE 11/12 报道同一轮次、投资人、伙伴网络和认证数字，并引述 CEO 对渠道策略的说明",
+        "source_type": "媒体报道",
+        "source_url": "https://siliconangle.com/2026/11/12/hatz-ai-raises-24m-to-help-small-businesses-go-ai-native-through-their-msps/"
+      }
+    ],
+    "why_it_works": "中小企业买得起工具，却养不起集成和安全团队；它们本来就把 IT 交给 MSP。Hatz 不跟终端客户抢，而是把治理和 Agent 包装成渠道产品，用已经存在的信任关系铺开。",
+    "takeaway": "渠道策略清楚，也有官方融资和同比增速，但“数千家 MSP”和收入增速都没有绝对值，认证数量也不等于付费席位。",
+    "innovation_score": 3,
+    "business_score": 4,
+    "tags": [
+      "融资",
+      "Series A",
+      "MSP",
+      "中小企业",
+      "AI操作系统"
+    ],
+    "website": "https://hatz.ai/",
+    "sources": [
+      "https://www.prnewswire.com/news-releases/hatz-ai-raises-24m-series-a-to-solidify-position-as-the-ai-platform-for-managed-service-providers-and-small-and-medium-sized-businesses-302936133.html",
+      "https://siliconangle.com/2026/11/12/hatz-ai-raises-24m-to-help-small-businesses-go-ai-native-through-their-msps/"
+    ],
+    "uncertain_points": "收入绝对值和单家 MSP 的付费规模未披露；“数千家 MSP”“覆盖百万级中小企业”是公司对网络覆盖的表述，不等于已全部开通付费；15,000 份认证是培训口径，不能直接当成付费用户。"
+  },
+  {
+    "id": "nebuly-21m-series-a-ai-roi-measurement",
+    "date_collected": "2026-11-13",
+    "status": "new",
+    "type": "both",
+    "name": "Nebuly",
+    "one_liner": "都灵与纽约的 Nebuly 宣布 $2100 万 A 轮（Planven 领投），为企业测量 AI Agent 到底值多少钱；官方称已拿下多家六位数合同，客户包括 Oura、Iveco Group、Fastweb+Vodafone、CNH 与 Zeiss",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "连接企业已在使用的自建工具以及基于 Claude、ChatGPT、Copilot 的助手，分析 Agent 实际完成了什么，把员工侧节省的工时、新增任务能力和客户侧影响的收入放进同一张视图；模型可在客户私有云或本地运行，向大型企业销售订阅",
+    "metrics": [
+      {
+        "label": "融资与客户",
+        "value": "官方博客署期 2026-11-12：$21M Series A，由 Planven 领投，Exor Ventures、Tenacity Capital、TGVG Capital 以及 Fastweb+Vodafone（经 Founders Factory）参投，CDP Venture Capital 亦通过其人工智能基金和数字化转型基金参与。官方称商业增长强劲，已与电信、汽车、工业制造、奢侈品、医疗和技术领域的世界级企业签订多份六位数合同，具名客户包括 Oura、Iveco Group、Fastweb+Vodafone、CNH 和 Zeiss",
+        "source_type": "官方公布",
+        "source_url": "https://www.nebuly.com/blog/nebuly-raises-21m-series-a"
+      },
+      {
+        "label": "媒体交叉验证",
+        "value": "Tech.eu 与 SiliconANGLE 11/12 报道同一轮次和投资人名单",
+        "source_type": "媒体报道",
+        "source_url": "https://tech.eu/2026/11/12/nebuly-raises-21m-series-a-to-turn-ai-investments-into-measurable-results/"
+      }
+    ],
+    "why_it_works": "董事会开始问的不再是“我们上了几个 Agent”，而是“这些东西到底值不值得继续加预算”。Nebuly 不做又一个助手，而是做跨厂商的独立度量层，并把假设摊开给财务看，踩在企业从试点转向规模化的焦虑上。",
+    "takeaway": "有官方融资、具名客户和“多份六位数合同”的自述，产品问题清楚。但合同总金额和 ARR 仍未公开，ROI 数字本身也依赖可调整的假设。",
+    "innovation_score": 4,
+    "business_score": 4,
+    "tags": [
+      "融资",
+      "Series A",
+      "AI度量",
+      "企业Agent",
+      "ROI"
+    ],
+    "website": "https://www.nebuly.com/",
+    "sources": [
+      "https://www.nebuly.com/blog/nebuly-raises-21m-series-a",
+      "https://tech.eu/2026/11/12/nebuly-raises-21m-series-a-to-turn-ai-investments-into-measurable-results/"
+    ],
+    "uncertain_points": "“多份六位数合同”未给出合同总数或 ARR；具名客户是使用或合作关系，合作深度与续费情况未披露；平台给出的工时节省和收入影响依赖可调整假设，不宜当成已审计财务结果。"
+  },
+  {
+    "id": "tristar-ai-12-4m-series-a-factory-inspection",
+    "date_collected": "2026-11-13",
+    "status": "new",
+    "type": "profitable",
+    "name": "Tristar AI",
+    "one_liner": "剑桥工厂视觉公司 Tristar AI 宣布 $1240 万 A 轮（Isogon Ventures 领投），为产线做实时缺陷检测；官方点名 Amcor、Consolidated Industries、Klöckner Pentaplast 与杜邦等客户，称已覆盖北美和欧洲 500 多条产线",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "在客户现有相机、PLC、传感器、MES 和 ERP 上叠加 AI 视觉质检，实时发现缺陷并给操作工和厂级管理者看趋势与回报，按产线或工厂部署向制造商收费；服务汽车、塑料薄膜、注塑和包装等行业",
+    "metrics": [
+      {
+        "label": "融资与客户",
+        "value": "官方 PR Newswire 2026-11-12 10:00 ET：$12.4M Series A，由 Isogon Ventures 领投，Blackhorn、Ford Street、ISAI Cap Venture（含 Capgemini 的 VC 基金）、Las Olas、NextView、Seraph、SNR、TenOneTen 等参投。官方点名客户包括 Amcor、Consolidated Industries、Klöckner Pentaplast 和 DuPont，并称客户覆盖丰田、本田、奔驰最大供应商以及占塑料薄膜市场一半以上的制造商",
+        "source_type": "官方公布",
+        "source_url": "https://www.prnewswire.com/news-releases/tristar-ai-raises-12-4m-series-a-to-give-manufacturers-a-quality-inspector-that-never-blinks-302937353.html"
+      },
+      {
+        "label": "部署与效果（公司自述）",
+        "value": "官方称系统已在北美和欧洲 500 多条产线上运行，检查“价值数千亿美元”的日常消费品；现场部署报告缺陷检出准确率 95–99%，平台通常约四个月回本；并称过去一年扩张超过四倍。Axios Pro 11/12 先行报道本轮，CEO 称大约 2028 年起计划再融约 $5000 万",
+        "source_type": "官方公布",
+        "source_url": "https://www.prnewswire.com/news-releases/tristar-ai-raises-12-4m-series-a-to-give-manufacturers-a-quality-inspector-that-never-blinks-302937353.html"
+      }
+    ],
+    "why_it_works": "质检的损失发生在缺陷漏过之后，而且老式规则视觉很难跟着换型和产线波动走。Tristar 不拆原有产线设备，直接把自适应模型接进去，用回本周期和具名制造商来证明它能从一条线扩到整厂。",
+    "takeaway": "客户和产线数字写得很具体，是窗口内落地感较强的工业质检案例。但准确率、回本周期和“扩张四倍”都是公司自述，收入绝对值未披露。",
+    "innovation_score": 3,
+    "business_score": 4,
+    "tags": [
+      "融资",
+      "Series A",
+      "工业质检",
+      "计算机视觉",
+      "制造业"
+    ],
+    "website": "https://www.tristar.ai/",
+    "sources": [
+      "https://www.prnewswire.com/news-releases/tristar-ai-raises-12-4m-series-a-to-give-manufacturers-a-quality-inspector-that-never-blinks-302937353.html",
+      "https://www.axios.com/pro/all-deals/2026/11/12/tristar-ai-computer-vision-manufacturing-karani"
+    ],
+    "uncertain_points": "95–99% 检出率、约四个月回本和“过去一年扩张超过四倍”均为公司自述，未说明四倍指收入、产线还是客户数；“检查价值数千亿美元的产品”是被检货物口径，不是公司收入；Axios Pro 部分内容需订阅，此处仅用其公开摘要交叉验证轮次。"
+  },
+  {
+    "id": "fushi-tech-400m-cny-c4-spad-spatial-chip",
+    "date_collected": "2026-11-13",
+    "status": "new",
+    "type": "profitable",
+    "name": "阜时科技",
+    "one_liner": "投资界 11 月 12 日消息，激光雷达与空间感知芯片公司阜时科技近日完成超 4 亿元人民币 C4 轮交割，投资方包括信通电子、精测电子等；公司称全固态 SPAD 激光雷达芯片已在主流车企前装量产，累计出货突破百万颗",
+    "category": "硬件与端侧",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "自研面阵 SPAD 激光雷达接收芯片及全固态光扫描方案，向智能汽车、具身智能和工业视觉客户提供空间感知核心器件；并布局单芯片 RGBD，计划让每个像素同时输出彩色与深度，目标 2027 年推进产业化",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "投资界 2026-11-12 10:52：阜时科技近日正式完成超 4 亿元人民币 C4 轮融资交割，投资方包括信通电子（001388.SZ）、精测电子（300567.SZ）、华睿投资、汇宁投资、兴银资产、青稞资本及中欧新能源汽车基金等，未设单一领投。同花顺转述大河财立方 11/12 14:13 跟进同一轮次",
+        "source_type": "媒体报道",
+        "source_url": "https://news.pedaily.cn/202611/571736.shtml"
+      },
+      {
+        "label": "量产进度（报道转述公司口径）",
+        "value": "投资界称其全固态激光雷达 SPAD 芯片已实现主流车企车规级前装量产，累计出货突破百万颗；RGBD 一体芯片仍在布局，计划 2027 年推进产业化",
+        "source_type": "媒体报道",
+        "source_url": "https://news.pedaily.cn/202611/571736.shtml"
+      }
+    ],
+    "why_it_works": "物理 AI 先要稳定得到三维空间。阜时已经把车规 SPAD 芯片做出百万级出货，再用同一套光电底子去做 RGBD 单芯片，讲的是已量产的感知器件，而不是从零开始的实验室芯片。",
+    "takeaway": "窗口内中国侧金额最具体的芯片案例，也有上市公司产业资本进场。但首发表述是“近日完成交割”，精确交割日和收入仍未见到官方新闻稿。",
+    "innovation_score": 4,
+    "business_score": 4,
+    "tags": [
+      "融资",
+      "C轮",
+      "SPAD芯片",
+      "激光雷达",
+      "空间感知"
+    ],
+    "website": "https://www.fortsense.com/",
+    "sources": [
+      "https://news.pedaily.cn/202611/571736.shtml",
+      "https://stock.10jqka.com.cn/20261112/c681745971.shtml"
+    ],
+    "uncertain_points": "报道写的是“近日正式完成交割”，不是标注到日的公司官方通稿，精确交割日期未公布；超 4 亿元为区间表述；百万颗出货和“主流车企”未给出客户名单；收入与本轮估值未披露。"
+  },
+  {
+    "id": "weite-robotics-hundreds-millions-cny-series-a-visuotactile",
+    "date_collected": "2026-11-13",
+    "status": "new",
+    "type": "both",
+    "name": "纬钛机器人（ViTai）",
+    "one_liner": "源自 MIT CSAIL 的视触觉公司纬钛机器人宣布完成数亿元人民币 A 轮，由中车资本、永鑫方舟联合领投；报道称其方案已用于小米手机产线精密装配，并覆盖全球约 90% 灵巧手厂商",
+    "category": "硬件与端侧",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "销售视触觉传感器、带感知的执行器以及采集“手感”数据的设备，覆盖从标准夹爪到灵巧手指尖，面向 3C、汽车零部件、家电、新能源和食品等产线，以及灵巧手整机厂商；同时发布跨本体视触觉数据集，试图把硬件标准与训练数据一起做成基础设施",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "投资界 2026-11-12 11:15：纬钛机器人宣布完成 A 轮，由中车资本、永鑫方舟联合领投，鲁信创投、木棉花基金、银杏谷资本、华仓资本等跟投。此前天使轮由小米战投领投，天使+轮由祥峰投资领投，Pre-A 由红鸟启航基金领投。金额为“数亿元”，未公布精确数字和估值",
+        "source_type": "媒体报道",
+        "source_url": "https://news.pedaily.cn/202611/571744.shtml"
+      },
+      {
+        "label": "交付与客户（报道转述）",
+        "value": "投资界称其视触觉传感器已用于小米手机产线的高精度零部件装配；灵巧手方案已覆盖全球约 90% 灵巧手厂商，出货量自称全球第一，国内客户包括强脑科技、灵心巧手，并有北美和欧洲头部客户。另称与国地中心联合推出的“白虎-VTouch”数据集下载量已突破 100 万次。新浪财经 11/12 转载同一宣布",
+        "source_type": "媒体报道",
+        "source_url": "https://finance.sina.com.cn/jjxw/2026-11-12/doc-iniymwrk8595669.shtml"
+      }
+    ],
+    "why_it_works": "机器人“看得准”往往还是抓不稳。纬钛把视触觉做成可上车规环境的标准件，先进入手机产线和灵巧手供应链，再把接触数据回收成训练资产，走的是出货和复购，而不是只讲实验室手感。",
+    "takeaway": "有产业资本领投和具名产线案例，是窗口内中国侧商业化叙事较完整的一条。但融资金额是“数亿元”，90% 覆盖率和全球出货第一均为报道转述的公司口径。",
+    "innovation_score": 4,
+    "business_score": 4,
+    "tags": [
+      "融资",
+      "A轮",
+      "视触觉",
+      "具身智能",
+      "工业机器人"
+    ],
+    "website": "https://vit.ai/",
+    "sources": [
+      "https://news.pedaily.cn/202611/571744.shtml",
+      "https://finance.sina.com.cn/jjxw/2026-11-12/doc-iniymwrk8595669.shtml",
+      "https://www.36kr.com/newsflashes/4066120395756673"
+    ],
+    "uncertain_points": "A 轮精确金额和估值未公布，仅称“数亿元”；“覆盖全球 90% 灵巧手厂商、出货量全球第一”以及数据集 100 万次下载来自报道转述，统计口径未见独立验证；小米产线是应用案例，合作规模与是否独家未说明。"
+  },
+  {
+    "id": "tongxin-intelligent-hundreds-millions-cny-agi-chip",
+    "date_collected": "2026-11-13",
+    "status": "new",
+    "type": "profitable",
+    "name": "通芯智能",
+    "one_liner": "由朱松纯发起、海光四代架构负责人王海洋任 CEO 的通芯智能，于 11 月 12 日被多家媒体报道完成数亿元人民币种子轮及天使轮，研发“原生 AGI 架构”芯片；界面新闻称首款产品计划 12 月初做 FPGA 原型验证",
+    "category": "硬件与端侧",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "不做 GPU 改良路线，而按认知/能力/价值（CUV）架构设计芯片，规划以不同配置覆盖云端大模型、世界模型和具身智能端侧推理；资金主要用于流片前的核心架构设计。商业化仍在意向合作阶段，拟面向智能体、智算中心 Token 工厂和机器人端侧",
+    "metrics": [
+      {
+        "label": "融资",
+        "value": "每日经济新闻 2026-11-12 13:49：通芯智能当日宣布完成数亿元种子轮及天使轮，投资方包括清华校友种子基金、北京通用人工智能研究院、松霖科技等。投资界同日补充还有平治信息、暗物智能、豫资涨泉等。公司 2026 年 4 月成立，主体为通芯人工智能科技（北京）有限公司",
+        "source_type": "媒体报道",
+        "source_url": "https://www.nbd.com.cn/articles/2026-11-12/4645827.html"
+      },
+      {
+        "label": "产品进度",
+        "value": "投资界转述：第一代芯片定位高性价比推理，端侧对标英伟达 Thor、云端对标 B300，但尚在流片前设计阶段。界面新闻 11/12 称首款产品计划于今年 12 月初开展 FPGA 原型验证。团队自称已与整机厂和地方智算中心等达成初步规模合作意向，尚未见到量产或收入披露",
+        "source_type": "媒体报道",
+        "source_url": "https://m.jiemian.com/article/15324995.html"
+      }
+    ],
+    "why_it_works": "投资人买的是一条与 GPU 不同的架构故事，再加上能把龙芯、海光芯片做向量产的班子。它现在还没有芯片，讲的是流片前的设计权和将来在机器人和 Token 工厂里把推理做便宜。",
+    "takeaway": "窗口内重要的中国芯片新团队融资，发起人和工程班子都很清楚，但金额是“数亿元”，产品还没流片，对标 Thor/B300 只是规划。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": [
+      "融资",
+      "种子轮",
+      "AGI芯片",
+      "具身智能",
+      "推理芯片"
+    ],
+    "website": "",
+    "sources": [
+      "https://www.nbd.com.cn/articles/2026-11-12/4645827.html",
+      "https://news.pedaily.cn/202611/571748.shtml",
+      "https://m.jiemian.com/article/15324995.html"
+    ],
+    "uncertain_points": "融资金额只披露为“数亿元”，未拆分种子轮与天使轮各自额度，也未见估值；尚未检索到公司独立官网；芯片仍在流片前，12 月 FPGA 验证为界面新闻转述的计划；“初步规模合作意向”不等于订单；对标 Thor/B300 是公司规划口径。"
+  },
+  {
+    "id": "ibm-acquires-authmind-agent-identity-security",
+    "date_collected": "2026-11-13",
+    "status": "new",
+    "type": "profitable",
+    "name": "AuthMind（被 IBM 收购）",
+    "one_liner": "IBM 于 11 月 12 日宣布收购身份可观测公司 AuthMind，将其并入 HashiCorp Vault，为 AI Agent 补上“凭证发出之后实际怎么被使用”的运行时可见性；交易金额未披露",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "AuthMind 通过身份活动图观察人类、机器和 Agent 身份如何认证、取用秘密并在系统间使用，用于发现影子 Agent、过度权限和异常行为；并入 IBM 后，将与 Vault 的短时凭证和身份控制一起，覆盖注册、授权、审计和撤销的 Agent 生命周期。IBM Ventures 曾在 2023 年参与其种子轮",
+    "metrics": [
+      {
+        "label": "收购",
+        "value": "IBM 安全产品副总裁 Suja Viswesan 2026-11-12 官方博客：IBM 已收购 AuthMind，以扩展 HashiCorp Vault 对 Agent 生命周期的保护，使其不仅覆盖凭证发放，也覆盖凭证在应用、工具和数据中的使用。金额与对价结构未披露",
+        "source_type": "官方公布",
+        "source_url": "https://newsroom.ibm.com/blog-ibm-advances-agent-identity-security-with-new-vault-capabilities"
+      },
+      {
+        "label": "被收购方确认",
+        "value": "AuthMind 创始人 Shlomi Yanai 同日发文确认加入 IBM，并感谢 Ballistic Ventures、Cheyenne Ventures、IBM Ventures 等既有投资人。Seeking Alpha 等市场稿同步报道交易，同样未给出金额",
+        "source_type": "官方公布",
+        "source_url": "https://www.authmind.com/blogs/authmind-joins-ibm-to-build-the-future-of-agentic-ai-identity-security"
+      }
+    ],
+    "why_it_works": "Agent 一旦拿到合法凭证，传统 IAM 往往就停在“已授权”。把运行时的身份可观测装进 Vault，IBM 是在补企业最担心的那一段：授权之后它到底做了什么，能不能及时收回。",
+    "takeaway": "窗口内敲定的大厂收购，官方双方都已确认，但没有对价，更像能力并购而不是可定价的退出案例。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": [
+      "收购",
+      "IBM",
+      "Agent安全",
+      "身份可观测",
+      "HashiCorp Vault"
+    ],
+    "website": "https://www.authmind.com/",
+    "sources": [
+      "https://newsroom.ibm.com/blog-ibm-advances-agent-identity-security-with-new-vault-capabilities",
+      "https://www.authmind.com/blogs/authmind-joins-ibm-to-build-the-future-of-agentic-ai-identity-security"
+    ],
+    "uncertain_points": "交易金额、是资产收购还是股权收购均未披露；AuthMind 的收入、客户规模未在公告中给出；整合进 Vault 的产品时间表尚未公布。"
+  }
+]
