@@ -1,0 +1,417 @@
+[
+  {
+    "id": "retell-ai-100m-run-rate-voice-agents",
+    "date_collected": "2026-11-14",
+    "status": "new",
+    "type": "profitable",
+    "name": "Retell AI",
+    "one_liner": "语音客服 Agent 平台 Retell 官方宣布年化 run rate 达到 $1 亿，累计只融资 $460 万；称不到三年里服务 4000 多家客户、每月处理逾 1 亿通电话",
+    "category": "客服销售",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "向联系中心和企业提供可自助搭建、测试与运维的语音 AI Agent 平台，按通话用量计费、不设最低消费；对大型客户派出一线部署工程师帮助上线，并训练客户内部团队自行迭代；同时通过认证合作伙伴转售。产品覆盖来电应答、质检与外呼等场景，面向汽车经销、医疗、保险、金融服务等行业",
+    "metrics": [
+      {
+        "label": "年化 run rate 与融资（官方公布）",
+        "value": "官方博客署期 2026-11-12：年化 run rate 达到 $1 亿，累计只融资 $460 万；称在不到三年内达到该里程碑，现有 4000 多家客户，平台每月处理逾 1 亿通电话",
+        "source_type": "官方公布",
+        "source_url": "https://www.retellai.com/blog/retell-100m-revenue-run-rate"
+      },
+      {
+        "label": "客户用例（官方公布）",
+        "value": "官方称 Asbury Automotive Group 由自有开发团队管理其 157 家经销商的服务来电 Agent，过去一年处理逾 310 万分钟客户来电；副总裁 Charlie Agrinsoni 表示平台让团队可自行改 Agent",
+        "source_type": "官方公布",
+        "source_url": "https://www.retellai.com/blog/retell-100m-revenue-run-rate"
+      },
+      {
+        "label": "增长与盈利口径（媒体转述公司/Forbes）",
+        "value": "Business of GTM 11/12 报道称，该 run rate 由 17 个月前的 $1000 万增至 $1 亿；公司称自 2025 年起盈利、员工不足 80 人，种子轮由 Alt Capital 领投且至今仅此一轮。报道并转述企业收入在 2026 年增长 9 倍，月通话量从 2026 年初约 3000 万增至 9 月逾 1 亿。独立研究机构 Sacra 曾在 2026 年 4 月估算其年化收入约 $6000 万。该数字是按用量年化，并非签约 ARR",
+        "source_type": "媒体报道",
+        "source_url": "https://businessofgtm.com/articles/retell-voice-ai-100m-run-rate"
+      }
+    ],
+    "why_it_works": "电话仍是医疗、保险和汽车服务里最难自动化的渠道，半秒延迟就会掉通话。Retell 把编排、测试和改 Agent 做成客户自己能上手的产品，而不是靠大团队驻场把每个项目做完，所以能用一轮种子轮把自助和企业交付一起做起来，用量也就容易滚成 run rate。",
+    "takeaway": "窗口内商业信号最硬的一条：少融资、已给出客户和通话量，再对照 run rate。下一看 $1 亿是按用量年化还是更接近可复核的经常性收入，以及企业交付是否仍离不开驻场工程师。",
+    "innovation_score": 4,
+    "business_score": 5,
+    "tags": [
+      "语音AI",
+      "客服Agent",
+      "run rate",
+      "资本效率",
+      "盈利"
+    ],
+    "website": "https://www.retellai.com/",
+    "sources": [
+      "https://www.retellai.com/blog/retell-100m-revenue-run-rate",
+      "https://businessofgtm.com/articles/retell-voice-ai-100m-run-rate"
+    ],
+    "uncertain_points": "官方博客给出 $1 亿年化 run rate，但未说明是按当月用量简单年化还是更接近签约 ARR；盈利、员工不足 80 人、17 个月 10 倍增长和企业收入 9 倍等口径来自媒体转述公司或 Forbes，官方博客正文未直接写出。BusinessWire 通稿页此次抓取失败，未能用第一手通稿交叉核对全部客户案例数字。"
+  },
+  {
+    "id": "mirendil-1b-series-a-agent-ai-research",
+    "date_collected": "2026-11-14",
+    "status": "new",
+    "type": "both",
+    "name": "Mirendil",
+    "one_liner": "前 Anthropic 研究者创立的 AI 实验室 Mirendil 官方于 11 月 12 日 9:00 PT 宣布 $10 亿 A 轮，由 Kleiner Perkins 与 Clearlake Capital 领投；未披露估值，技术结果目前均为公司自测",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "打造让科学家和工程师以更小团队做前沿 AI 研发的工具与模型：Lor 平台（私人测试）调度大量 Agent 连续多日写代码和跑实验；并培训自有模型（如 Mirendil-Base、长上下文的 Fern）。本轮用于扩大这一Agent 驱动的研发方式，面向科研与工程用户",
+    "metrics": [
+      {
+        "label": "融资（官方公布）",
+        "value": "官方新闻稿署“November 12, 2026, 9:00 am PT”（约北京时间 11 月 13 日 01:00，落在昨日窗口内，昨日日报未收入，今日补录）：$1B Series A，由 Kleiner Perkins 与 Clearlake Capital 领投，Battery Ventures、Doerr Capital、Gil & Co、Google、M13、Pear VC、S32 等新老股东参投。估值未披露。此前 6 月有 $2 亿种子轮",
+        "source_type": "官方公布",
+        "source_url": "https://mirendil.com/news/series-a/"
+      },
+      {
+        "label": "技术结果（公司自述）",
+        "value": "官方称一名研究者在 Agent 协助下，用不到 $1000 万算力、3.5 个月从零预训练出编码模型 Mirendil-Base，再后训练为可持有最多 1000 万 token 上下文的 Fern；并称预训练实验中逾 99% 代码由 Agent 编写。Lor 现处于私人测试。上述结果未经第三方公开评测",
+        "source_type": "官方公布",
+        "source_url": "https://mirendil.com/news/series-a/"
+      },
+      {
+        "label": "媒体交叉验证",
+        "value": "WSJ（Sarah Klearman）报道同一轮次与领投方；TechTimes 11/13 确认金额与投资人，并强调官方未给估值，训练成本与榜单表现均属公司自测，不能当作已验证能力",
+        "source_type": "媒体报道",
+        "source_url": "https://www.techtimes.com/articles/330614/20261113/ai-lab-mirendil-raises-1b-series-release-names-no-valuation-cites-only-company-tests.htm"
+      }
+    ],
+    "why_it_works": "资本市场愿意给“用 Agent 把实验室规模变小”开出超大额支票，是因为前沿研发的人力和算力都贵。Mirendil 讲的是一个人加 Agent 就能预训练模型，故事足够大；但能被独立核对的，目前主要是融资金额本身。",
+    "takeaway": "本窗口补录的金额最大一轮。支票已落地，估值和收入都还没给出。下一看 Lor 何时对外部付费开放，以及那些公司自测结果能否被第三方复核。",
+    "innovation_score": 4,
+    "business_score": 4,
+    "tags": [
+      "融资",
+      "Series A",
+      "AI实验室",
+      "Agent研发",
+      "补录"
+    ],
+    "website": "https://mirendil.com/",
+    "sources": [
+      "https://mirendil.com/news/series-a/",
+      "https://www.techtimes.com/articles/330614/20261113/ai-lab-mirendil-raises-1b-series-release-names-no-valuation-cites-only-company-tests.htm",
+      "https://www.techmeme.com/261112/p74"
+    ],
+    "uncertain_points": "官方发布时间是 11 月 12 日 9:00 PT，严格落在昨日 24 小时窗口内，因昨日日报未收录而于今日补录。估值未披露，此前关于 $50 亿估值的传闻不能当作本轮条款。预训练成本、99% Agent 写代码、上下文长度和模型排名都是公司自述，缺乏独立评测；也尚未公布收入或付费客户。"
+  },
+  {
+    "id": "q-ctrl-290m-series-c-quantum-ai-unicorn",
+    "date_collected": "2026-11-14",
+    "status": "new",
+    "type": "profitable",
+    "name": "Q-CTRL",
+    "one_liner": "悉尼量子基础设施软件公司 Q-CTRL 官方宣布 $2.9 亿 C 轮，由 Salesforce Ventures 领投，估值超过 $10 亿；称其 AI 控制软件已用于量子计算和量子导航，并在商业飞机与自主平台部署",
+    "category": "硬件与端侧",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "出售硬件无关的 AI 量子基础设施软件，使量子计算机更稳定可用，并把抗干扰量子传感器做成可在 GPS 失效时工作的导航系统 Ironstone Opal；客户与合作方涵盖数据中心量子计算、商用航空和自主载具，在悉尼、洛杉矶、旧金山、亨茨维尔、柏林和牛津等地运营",
+    "metrics": [
+      {
+        "label": "融资与估值（官方公布）",
+        "value": "官方博客署期 2026-11-12：US$290M（约 A$4.15 亿）Series C，由 Salesforce Ventures 领投，Bullhound Capital 与 Affinity Partners 重要参与；新投资人包括 AMD Ventures、EDGE Group、MPower Partners、澳大利亚国家重建基金公司（NRFC）、SPARX Asset Management 等，老股东 DCVC、In-Q-Tel、Lockheed Martin Ventures、Square Peg 等跟投。官方称本轮超额认购并两度扩额，公司成为量子领域新独角兽。Forbes Australia 称公司拒绝给出精确估值，只确认超过 US$10 亿",
+        "source_type": "官方公布",
+        "source_url": "https://q-ctrl.com/blog/q-ctrl-secures-us-290-million-series-c-funding-led-by-salesforce-ventures-to-accelerate-the-convergence-of-quantum-and-ai"
+      },
+      {
+        "label": "产品与部署（公司自述）",
+        "value": "官方称旗舰产品 Ironstone Opal 是不可干扰、不可欺骗、难以探测的量子导航系统，软件加固使其野外性能比最佳替代方案高 100 倍，并正在与 Airbus 的商用飞机、Lockheed Martin 的自主平台以及无人机组部署。另称其材料模拟可在 IBM Quantum 平台上直接调用，并称该导航系统已获得飞行安全相关鉴定",
+        "source_type": "官方公布",
+        "source_url": "https://q-ctrl.com/blog/q-ctrl-secures-us-290-million-series-c-funding-led-by-salesforce-ventures-to-accelerate-the-convergence-of-quantum-and-ai"
+      },
+      {
+        "label": "收入口径（投资人表述 / 媒体）",
+        "value": "董事、Bullhound Capital 创始合伙人 Per Roman 称 Q-CTRL 是“少数拥有真实客户和真实收入的量子公司”，但未给出收入数字。Axios、SiliconANGLE、AFR 与 Forbes Australia 于 11/12–11/13 报道同一轮次和“估值超过 $10 亿”口径",
+        "source_type": "媒体报道",
+        "source_url": "https://www.forbes.com.au/covers/entrepreneurs/australian-quantum-start-up-q-ctrl-hits-unicorn-status/"
+      }
+    ],
+    "why_it_works": "量子行业缺的不是再造一台机器，而是让机器在机房和飞机上真正可用。Q-CTRL 把 AI 控制软件同时卖到量子计算和抗干扰导航，又拉来 Salesforce、洛克希德和空客这类能带来场景的股东，所以能在还没有公开收入数字时先拿到独角兽估值。",
+    "takeaway": "量子软件里金额最大的一轮之一，且有具名部署方向。下一看“真实收入”何时变成可复核数字，以及航空导航是试验还是已规模化交付。",
+    "innovation_score": 4,
+    "business_score": 4,
+    "tags": [
+      "融资",
+      "Series C",
+      "量子AI",
+      "导航",
+      "独角兽"
+    ],
+    "website": "https://q-ctrl.com/",
+    "sources": [
+      "https://q-ctrl.com/blog/q-ctrl-secures-us-290-million-series-c-funding-led-by-salesforce-ventures-to-accelerate-the-convergence-of-quantum-and-ai",
+      "https://www.forbes.com.au/covers/entrepreneurs/australian-quantum-start-up-q-ctrl-hits-unicorn-status/",
+      "https://siliconangle.com/2026/11/12/quantum-sensor-and-software-maker-q-ctrl-raises-290m-in-funding/"
+    ],
+    "uncertain_points": "官方稿署期 11 月 12 日，精确钟点未核对到，可能落在昨日窗口边缘，今日作为未入库大额案例补录。估值只确认超过 $10 亿，精确数字未公布；“真实收入”、野外性能 100 倍、飞行安全鉴定和具体装机数量均来自公司或投资人表述，缺少独立的收入或合同披露。"
+  },
+  {
+    "id": "zeromatter-160m-1-1b-stealth-physical-ai-sim",
+    "date_collected": "2026-11-14",
+    "status": "new",
+    "type": "both",
+    "name": "Zeromatter",
+    "one_liner": "前特斯拉 Autopilot 仿真负责人创立的 Zeromatter 于 11 月 12 日走出隐身，官方称已融资 $1.6 亿、估值 $11 亿，为自动驾驶、无人机、航空器和机器人提供自研物理仿真平台",
+    "category": "硬件与端侧",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "向自动驾驶、航空航天、无人机、eVTOL 和机器人客户出售高保真、可重复的物理仿真平台，用于设计、训练、测试和验证自主系统；自研渲染与物理引擎，并提供面向 Agent 的 MCP、CLI 与 Web 工具。设计合作伙伴已覆盖多个垂直领域，定价与国际供应尚未公布",
+    "metrics": [
+      {
+        "label": "融资与估值（官方公布）",
+        "value": "官方博客署期 Nov 12, 2026：团队从 13 人增至逾 130 人，累计融资 $1.60 亿，估值 $11 亿。融资路径为 2023 年 4 月种子轮（Two Sigma Ventures/Deviation、HNVR、Catapult 等，天使包括 Vercel 的 Guillermo Rauch）、2024 年 4 月 Bedrock Capital 领投 A 轮、2025 年 3 月 Spark Capital 预提 B 轮（Generation Investment Management 等参投）",
+        "source_type": "官方公布",
+        "source_url": "https://zeromatter.com/blog/coming-out-of-stealth"
+      },
+      {
+        "label": "产品与客户（公司自述）",
+        "value": "官方称已在自动驾驶、航空航天、无人机和 eVTOL 等方向建立设计合作伙伴，平台包含自研传感器仿真、机器人操作物理引擎、城市级环境生成和多 Agent 协同仿真，并强调结果可重复，以区别于生成式世界模型。未披露收入、付费客户数或定价",
+        "source_type": "官方公布",
+        "source_url": "https://zeromatter.com/blog/coming-out-of-stealth"
+      },
+      {
+        "label": "媒体交叉验证",
+        "value": "Nvdium 11/13 报道同一融资与估值，并提醒 PitchBook 一类数据库仍可能显示旧的 $4500 万/$2.5 亿口径，应以公司此次披露为准；同时称发布影片上线后短期内获得较高播放，但该传播数据为媒体观察，非官方财务指标",
+        "source_type": "媒体报道",
+        "source_url": "https://nvdium.com/en/articles/493308721"
+      }
+    ],
+    "why_it_works": "物理 AI 想规模化，先要在虚拟世界里把危险和长尾场景跑够。Zeromatter 把特斯拉仿真班底做成跨行业的确定性仿真，又提前把 Agent 当成用户，所以能在隐身四年后直接以独角兽估值亮相。",
+    "takeaway": "仿真基础设施的大额“出柜”。下一看设计合作伙伴何时变成可引用的付费合同，以及定价能否讲清楚。",
+    "innovation_score": 4,
+    "business_score": 4,
+    "tags": [
+      "融资",
+      "隐身出柜",
+      "物理AI",
+      "仿真",
+      "独角兽"
+    ],
+    "website": "https://zeromatter.com/",
+    "sources": [
+      "https://zeromatter.com/blog/coming-out-of-stealth",
+      "https://nvdium.com/en/articles/493308721"
+    ],
+    "uncertain_points": "官方署期 11 月 12 日，精确发布时间未核到，今日作为未入库案例补录。$1.6 亿/$11 亿为公司自述累计结果，并非单轮新融资公告；收入、付费客户和定价未披露。旧融资数据库数字与此次披露不一致，需以公司官方为准。"
+  },
+  {
+    "id": "luminal-25m-series-a-inference-compiler",
+    "date_collected": "2026-11-14",
+    "status": "new",
+    "type": "both",
+    "name": "Luminal",
+    "one_liner": "YC 出身的推理编译与推理云公司 Luminal 获得 Standard Capital 领投的 $2500 万 A 轮；媒体转述公司称公开云上线约四个月后每月处理约 90 万亿 token",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "出售搜索式机器学习编译器，以及跑在该编译器上的推理云：既可托管推理，也可把软件授权到客户自有集群，目标是让同一模型在 GPU 和专用芯片（包括 Amazon Trainium 等）上自动找到更快的执行方式，降低对单一芯片生态的依赖",
+    "metrics": [
+      {
+        "label": "融资（领投方 / 媒体交叉）",
+        "value": "领投方 Standard Capital 官方 changelog 署期 2026-11-12：由其领投 $2500 万 Series A。Tech Funding News 同日报道，种子轮投资人 Y Combinator、Felicis、SagaVC、Liquid 全部加注；加上 2025 年 11 月 $530 万种子轮，累计约 $3030 万。估值未披露",
+        "source_type": "官方公布",
+        "source_url": "https://www.standardcap.com/changelog/post/luminal-series-a-led-by-standard-capital"
+      },
+      {
+        "label": "用量（媒体转述公司自述）",
+        "value": "Tech Funding News 称，公司表示自种子轮后推出公开云以来，约四个月内每月处理约 90 万亿 token，并将相当一部分负载承诺到 Amazon Trainium。领投方稿件本身未重复该用量数字",
+        "source_type": "媒体报道",
+        "source_url": "https://techfundingnews.com/luminal-25m-series-a-ai-inference-compiler-cloud/"
+      }
+    ],
+    "why_it_works": "推理成本正在变成 AI 应用的利润表。Luminal 不赌再造一块芯片，而是用搜索编译把已买的加速器用满，并顺带提供托管云，所以既能讲软件授权，也能讲实际 token 用量。",
+    "takeaway": "中等额但方向清楚的基础设施轮。下一看 90 万亿 token/月能否被官方稿确认，以及非英伟达芯片上的生产稳定性。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": [
+      "融资",
+      "Series A",
+      "推理云",
+      "编译器",
+      "Token用量"
+    ],
+    "website": "https://www.luminal.com/",
+    "sources": [
+      "https://www.standardcap.com/changelog/post/luminal-series-a-led-by-standard-capital",
+      "https://techfundingnews.com/luminal-25m-series-a-ai-inference-compiler-cloud/",
+      "https://www.ycombinator.com/companies/luminal"
+    ],
+    "uncertain_points": "公司官方博客未见同步稿，金额以领投方披露为准。SiliconANGLE 标题曾写作 $2300 万，与 Standard Capital / TFN 的 $2500 万不一致，以领投方 $2500 万为准。90 万亿 token/月仅为媒体转述的公司自述，缺乏官方原文和客户名单；估值未披露。公告署期 11 月 12 日，今日补录。"
+  },
+  {
+    "id": "agentcard-8m-seed-agent-payments",
+    "date_collected": "2026-11-14",
+    "status": "new",
+    "type": "both",
+    "name": "Agentcard",
+    "one_liner": "Agent 支付基础设施 Agentcard 官方宣布获得 Peak XV、Fin Capital 与 Y Combinator 等参与的 $800 万种子轮，让 Agent 使用用户自己的卡完成网购，卡号不对 Agent 可见",
+    "category": "电商零售",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "向正在做购物或代下单 Agent 的公司提供支付基础设施：Vault 保存用户卡并安全代扣，Issuing 为 Agent 签发一次性或多用途卡，Voice（早鸟）让用户用语音批准，opencommerce 则提供覆盖 5000 多家网店的搜索、下单与物流查询工具。用户用 passkey、Face ID、语音或自动批准来授权每一笔消费",
+    "metrics": [
+      {
+        "label": "融资（官方公布）",
+        "value": "官方博客署期 2026-11-12：$800 万种子轮，投资方为 Peak XV、Fin Capital 和 Y Combinator；另有 Paul Graham、Adam D’Angelo、Shopify CEO Tobi Lütke、Vercel CEO Guillermo Rauch、WorkOS CEO Michael Grinich、HubSpot CTO Dharmesh Shah、Rappi CEO Simón Borrero、Increase 创始人 Darragh Buckley 等天使。未披露估值或收入",
+        "source_type": "官方公布",
+        "source_url": "https://agentcard.com/blog/agentcard-raises-8m"
+      },
+      {
+        "label": "产品范围（官方公布）",
+        "value": "官方称 opencommerce 可在 5000 多家网店搜索、下单并跟踪订单；Voice 批准功能仍为 early access。未披露交易笔数、GMV 或付费客户数",
+        "source_type": "官方公布",
+        "source_url": "https://agentcard.com/blog/agentcard-raises-8m"
+      }
+    ],
+    "why_it_works": "Agent 要真正替人办事，最后一公里往往是付款。Agentcard 不让模型看见完整卡号，又把批准做成生物识别或语音，等于把现有卡网络接到 Agent 工作流里，而不是再造一套钱包。",
+    "takeaway": "形态清楚的 Agent 支付基建，投资人阵容强于已披露的交易数据。下一看何时给出 GMV 或生产环境交易量。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": [
+      "融资",
+      "种子轮",
+      "Agent支付",
+      "电商",
+      "YC"
+    ],
+    "website": "https://agentcard.com/",
+    "sources": [
+      "https://agentcard.com/blog/agentcard-raises-8m",
+      "https://fintech.global/2026/11/13/agentcard-secures-8m-to-let-ai-agents-shop-online/"
+    ],
+    "uncertain_points": "官方署期 11 月 12 日，今日补录。部分媒体提到 Robinhood 等投资人，官方博客列出的机构投资人是 Peak XV、Fin Capital 和 YC，以官方为准。尚无公开的交易量、GMV 或收入。"
+  },
+  {
+    "id": "qingtianzu-hundreds-millions-cny-strategic-robot-productivity",
+    "date_collected": "2026-11-14",
+    "status": "new",
+    "type": "profitable",
+    "name": "擎天租",
+    "one_liner": "投资界 11 月 13 日首发：机器人租赁平台擎天租宣布完成数亿元战略融资交割，和达投资、芒果系厚为资本、中联即送参与，并称商业模式从租设备转向按 Worken 计量的机器人生产力服务",
+    "category": "硬件与端侧",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "由智元机器人和飞阔科技于 2025 年 12 月联合发起，原先做机器人租赁，现升级为机器人生产力服务：接入近 20 家本体品牌，在全国运营中心组织集群调度、任务交付和持续运维，并用自有计量框架 Worken 按有效产出结算，覆盖商演、文旅、科技馆及物流末端等场景",
+    "metrics": [
+      {
+        "label": "融资（媒体首发 / 公司宣布）",
+        "value": "投资界 2026-11-13 11:05 首发，文中写明“今日（11月13日）擎天租宣布完成数亿元战略融资交割”，投资方为和达投资、芒果产业投资方（厚为资本）、中联即送。报道称这是其今年内披露的第 7 轮融资，精确金额和估值未公布",
+        "source_type": "媒体报道",
+        "source_url": "https://news.pedaily.cn/202611/571802.shtml"
+      },
+      {
+        "label": "运营网络（媒体转述公司自述）",
+        "value": "投资界称其已接入高擎、影智 XBOT、首形、优世界、众擎等近 20 家本体品牌，并有 20 家全国运营中心投入运营，覆盖北京、上海、广州、深圳、杭州等城市，首阶段还将完成 54 个城市服务节点布局。新浪财经等 11/13 转载同一交割消息",
+        "source_type": "媒体报道",
+        "source_url": "https://finance.sina.com.cn/jjxw/2026-11-13/doc-iniyqnef3685586.shtml"
+      }
+    ],
+    "why_it_works": "具身智能卖本体容易，把机器在现场持续干活并结算更难。擎天租不造机器人，而是把多品牌设备、本地运营和按任务计量绑在一起，所以能反复融到产业资本，也更接近客户真正要买的“完成工作”。",
+    "takeaway": "窗口内中国侧最完整的商业化故事之一，但“数亿元”仍然模糊。下一看 Worken 能否变成可复核的经常性结算收入，而不是新一轮租赁故事。",
+    "innovation_score": 3,
+    "business_score": 4,
+    "tags": [
+      "融资",
+      "战略轮",
+      "机器人租赁",
+      "RaaS",
+      "具身智能"
+    ],
+    "website": "https://www.botshare.com/",
+    "sources": [
+      "https://news.pedaily.cn/202611/571802.shtml",
+      "https://finance.sina.com.cn/jjxw/2026-11-13/doc-iniyqnef3685586.shtml"
+    ],
+    "uncertain_points": "融资金额只写“数亿元”，估值未披露；20 家运营中心、近 20 家本体品牌等运营数据来自媒体转述公司口径，缺少独立的收入、租出量和利用率数字。部分评述将其称为独角兽，未见公司给出对应估值，不以独角兽认定。"
+  },
+  {
+    "id": "qingkui-100m-cny-series-a-self-driving-lab",
+    "date_collected": "2026-11-14",
+    "status": "new",
+    "type": "both",
+    "name": "青葵智造",
+    "one_liner": "36氪 11 月 13 日首发：AI4S 公司青葵智造完成亿元 A 轮，创东方、飞荣达股份与金辉大数据参与；已与中科院上海有机所、勃林格殷格翰、恒瑞医药、国轩高科等合作，并开始探索实验即服务",
+    "category": "企业服务",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "面向生物医药、化工、先进材料和新能源，提供“AI 设计—自动化执行—多模态数据回流—模型迭代”的干湿实验闭环：底层 NexoLab 模块化实验硬件、中层 AI-LabOS 调度、顶层 MoleMind 科学模型。商业模式以智能实验设备交付为主，并建设自持云实验室，对外提供实验即服务",
+    "metrics": [
+      {
+        "label": "融资（媒体首发）",
+        "value": "36氪硬氪 2026-11-13 10:04 首发：亿元 A 轮，由创东方投资、飞荣达股份及金辉大数据共同参与，资金用于核心技术、行业拓展和云实验室。投资界同日 10:20 亦报道同一轮次与投资人。精确估值未披露",
+        "source_type": "媒体报道",
+        "source_url": "https://www.36kr.com/p/4067548192576389"
+      },
+      {
+        "label": "客户与进展（创始人/公司向媒体表述）",
+        "value": "36氪与投资界列出的合作方包括中科院上海有机所、勃林格殷格翰、法国阿科玛、恒瑞医药、国轩高科等。创始人陈南江对 36氪称底层实验环节已高度模块化，客户复购率表现良好；公司今年下半年建成首个自持全自动 AI 化学机器人实验室，并开始对外提供实验即服务，已在新加坡和韩国设办公室。效率“提升数十倍”为公司对比人工实验的自述",
+        "source_type": "创始人自述",
+        "source_url": "https://news.pedaily.cn/202611/571796.shtml"
+      }
+    ],
+    "why_it_works": "科学大模型缺的是带失败样本的真实实验数据。青葵把硬件、调度和模型做成闭环，先靠卖标准化实验设备接近药企和材料客户，再用自持实验室把数据和服务做成第二曲线，所以产业资本愿意跟进来。",
+    "takeaway": "中国 AI4S 里少有同时给出具名客户和融资的一条。下一看复购和实验即服务能否变成可核对的收入，而不是只停留在“效率提升数十倍”的定性描述。",
+    "innovation_score": 4,
+    "business_score": 4,
+    "tags": [
+      "融资",
+      "A轮",
+      "AI4S",
+      "自动化实验室",
+      "实验即服务"
+    ],
+    "website": "https://www.quiktech.cn/",
+    "sources": [
+      "https://www.36kr.com/p/4067548192576389",
+      "https://news.pedaily.cn/202611/571796.shtml"
+    ],
+    "uncertain_points": "36氪正文写“近日宣布”，但与投资界均在 11 月 13 日作为当天新闻发布，按窗口内新披露处理。融资金额为“亿元”而非更精确数字，估值未公布；复购率、效率提升倍数和云实验室业务规模均无量化披露。"
+  },
+  {
+    "id": "lingrui-zhixin-hundreds-millions-cny-pre-a-plus-riscv-agent-cpu",
+    "date_collected": "2026-11-14",
+    "status": "new",
+    "type": "profitable",
+    "name": "灵睿智芯",
+    "one_liner": "新京报等 11 月 13 日报道：上海灵睿智芯完成数亿元 Pre-A+ 轮，美团战投领投，京东关联基金、商汤国香、上汽尚颀等产业资本跟投，累计融资接近 10 亿元，用于智能体 CPU 研发与流片",
+    "category": "硬件与端侧",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "全栈自研高端 RISC-V CPU 内核、智能体 CPU 及领域增强处理器，面向智能体负载做动态同时多线程和企业级 RAS；以服务器级内核 P100 为底座，与系统厂商合作推进芯片产品化，目标成为国产智能体算力的控制层底座",
+    "metrics": [
+      {
+        "label": "融资（公司稿 / 媒体）",
+        "value": "新京报贝壳财经 2026-11-13 12:14 报道，据灵睿智芯公众号，公司近日宣布完成数亿元 Pre-A+ 轮，由美团战投领投，京东关联基金、干杯基金、力合算芯基金（东方算芯 CVC）、钧犀资本、商汤国香资本、尚颀资本（上汽 CVC）、深信服旗下琥珀资本等及老股东跟投。报道称成立于 2025 年初的该公司累计融资已接近 10 亿元。界面新闻、新华网上海频道同日转发",
+        "source_type": "媒体报道",
+        "source_url": "https://www.bjnews.com.cn/detail/1794542696129357.html"
+      },
+      {
+        "label": "产品进度（公司自述）",
+        "value": "公司稿称服务器级智能体 CPU 内核 P100 具备动态 SMT4（单核最多 4 线程并可在 SMT1–SMT4 间切换）、超 20 级乱序流水线和 8 译码 10 发射架构；基于 P100 的智能体 CPU 仍在研发，并与国内头部系统厂商达成合作意向。本轮资金将用于内核与芯片迭代、流片验证",
+        "source_type": "官方公布",
+        "source_url": "http://sh.news.cn/20261113/8ea8a0ccea8f41819338aab110fec3eb/c.html"
+      }
+    ],
+    "why_it_works": "智能体把 CPU 重新变成瓶颈：要同时处理工具调用、等待和多任务，而不是只堆 GPU。灵睿用 RISC-V 做“智能体原生”内核，并拉来美团、京东、商汤、上汽等可能给场景的股东，所以能在流片完成前先融到接近 10 亿。",
+    "takeaway": "中国侧金额较大的芯片轮，但产品仍在研发与流片，商业化还是意向。下一看 P100 何时变成可出货芯片，以及合作意向能否变成料号和订单。",
+    "innovation_score": 3,
+    "business_score": 3,
+    "tags": [
+      "融资",
+      "Pre-A+",
+      "RISC-V",
+      "智能体芯片",
+      "产业资本"
+    ],
+    "website": "https://www.riscv-computing.com/",
+    "sources": [
+      "https://www.bjnews.com.cn/detail/1794542696129357.html",
+      "http://sh.news.cn/20261113/8ea8a0ccea8f41819338aab110fec3eb/c.html",
+      "https://finance.eastmoney.com/a/202611133930385275.html"
+    ],
+    "uncertain_points": "公司稿与多数媒体均写“近日宣布”，精确公告时刻只能确认在 11 月 13 日被国内媒体集中披露。金额为“数亿元”、累计“接近十亿元”，均无更精确数字；P100 相关性能为公司自述，芯片仍在研发和流片，系统厂商合作尚为止于“意向”，未见量产出货或收入披露。2026 年 7 月已有 Pre-A 数亿元报道，本轮是追加的 Pre-A+，两轮金额如何加总会带来“接近十亿”口径，细节未拆开。"
+  }
+]
