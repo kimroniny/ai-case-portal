@@ -1,0 +1,151 @@
+[
+  {
+    "id": "openai-chatgpt-wallet-agentic-payments",
+    "date_collected": "2026-11-15",
+    "status": "new",
+    "type": "innovative",
+    "name": "ChatGPT Wallet",
+    "one_liner": "OpenAI 于 11 月 13 日 10:00 ET 推出 ChatGPT Wallet：与美运、Mastercard、Visa 合作，让 dots Agent 在用户逐笔生物识别授权后，用支付代币代为下单，且不向商家或 Agent 提供真实卡号",
+    "category": "电商零售",
+    "region": "海外",
+    "team_type": "大公司",
+    "business_model": "在 ChatGPT 的 dots 个人 Agent 里提供代付能力：用户一次性绑定卡片，每次购买先核对商品、总价和所用卡，再用 Face ID 或指纹等安全校验授权；支付网络随后签发仅用于该笔交易的支付代币（含卡号、安全码和有效期），扣款记在用户所选卡片上，但真实卡信息不与商家或 Agent 共享。初期向美国 18 岁及以上、持有合格美国发卡的 ChatGPT Pro 订阅用户开放。官方同时发布面向商家的 Commerce Partner Playbook，指导认领店铺、开放产品信息、放行经 Web Bot Auth 签名的 Agent 请求，并与现有风控和支付服务商对接。官方称用户仍保留卡片原有积分奖励和合格争议保护，商家继续掌握定价、履约和客服关系",
+    "metrics": [
+      {
+        "label": "产品上线与合作（官方公布）",
+        "value": "官方博客署期 2026-11-13：推出 ChatGPT Wallet，称是首个让 Agent 付款却拿不到用户真实卡信息、且每笔都要安全校验的钱包；与 American Express、Mastercard、Visa 合作建设。初期通过 dots 向美国 ChatGPT Pro 订阅用户开放。官方称每周有 12 亿人使用 ChatGPT，其中许多人已在用它做商品研究和比价",
+        "source_type": "官方公布",
+        "source_url": "https://openai.com/index/introducing-chatgpt-wallet"
+      },
+      {
+        "label": "上线范围与商业安排（媒体报道）",
+        "value": "CNBC 11/13 10:00 ET 首发（约北京时间 11 月 13 日 23:00，落在昨日窗口边缘，昨日未收入，今日补录）：初期仅限美国 18 岁以上 Pro 用户；公司支付与变现产品负责人 Chaya Nayak 接受采访。报道称公司表示起步阶段不对交易抽成，希望先和商家、卡组织把基础打好；并转述截至三季度末 ChatGPT 有逾 12 亿周活、近 1 亿付费用户。美运全球创新负责人 Luke Gebb 称这是该公司首个 American Express Agentic Commerce Experiences 集成",
+        "source_type": "媒体报道",
+        "source_url": "https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html"
+      },
+      {
+        "label": "商家适配与限制（官方公布 / 媒体补充）",
+        "value": "官方称 Agent 电商仍处早期，部分网站可能无意中拦截 Wallet 或其他 Agent 支付，因而同步发布商家指南，并称正与 Forter、Riskified、Sardine、Signifyd 等反欺诈公司以及 Adyen、Checkout.com、Stripe 等支付服务商合作识别合法 Agent 交易。CNBC 补充：联合航空本周表示将阻止 Agent 访问其系统订票，亚马逊则阻止 Agent 在其平台下单",
+        "source_type": "官方公布",
+        "source_url": "https://openai.com/index/introducing-chatgpt-wallet"
+      }
+    ],
+    "why_it_works": "很多人已经在用聊天机器人做比价和决策，缺的是把“选好了”变成“付得出去”，同时还要过银行和卡组织那套信任门槛。Wallet 没有另起一套支付轨道，而是把逐笔生物识别授权和网络侧的支付代币接进现有收单，既让 Agent 能代劳，又不把真实卡号交给模型。先只开放给美国 Pro 用户，也是在商家风控还没准备好时控制爆炸半径。",
+    "takeaway": "这是窗口内产品形态最硬的一条：个人 Agent 第一次由模型实验室、卡组织和银行一起接进现有支付网络。下一看它何时开始对交易抽成、能覆盖多少未被拦截的商家，以及联合航空、亚马逊这类拒绝 Agent 下单的做法会不会成为主流。",
+    "innovation_score": 5,
+    "business_score": 4,
+    "tags": [
+      "Agent支付",
+      "Agent电商",
+      "ChatGPT",
+      "dots",
+      "卡组织"
+    ],
+    "website": "https://openai.com/index/introducing-chatgpt-wallet",
+    "sources": [
+      "https://openai.com/index/introducing-chatgpt-wallet",
+      "https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html"
+    ],
+    "uncertain_points": "起步阶段“不对交易抽成”来自 CNBC 转述公司，官方博客未逐字写出。近 1 亿付费用户是 CNBC 援引截至 2026 年三季度末的口径。实际成交笔数、客单价和被商家风控拒绝的比例均未披露。联合航空与亚马逊拦截 Agent 的做法来自 CNBC，不是 OpenAI 官方列举的完整限制清单。"
+  },
+  {
+    "id": "cubic-aisle-acquired-by-cohere-secure-coding-cyber",
+    "date_collected": "2026-11-15",
+    "status": "new",
+    "type": "profitable",
+    "name": "cubic、AISLE（被 Cohere 收购）",
+    "one_liner": "Cohere 于 11 月 13 日官方宣布收购伦敦 AI 代码审查公司 cubic，并完成对捷克自主漏洞挖掘公司 AISLE 的交割，两者构成其今年第四笔战略并购；对价未披露",
+    "category": "编程开发",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "Cohere 把两家安全向的应用层公司收进其主权 AI 平台：cubic 做企业级 AI 代码审查、漏洞发现与自动修复，面向可本地或气隙部署的环境，产品在交割后继续运营并由原团队维护；AISLE 做自主漏洞发现与修复，并入后改组为 Cohere Cyber，面向企业、政府和关键基础设施。cubic 创始人 Paul Sanglé-Ferrière 将带队搭建安全编码业务线；AISLE 联合创始人 Ondrej Vlcek 出任 Cohere Cyber 高级副总裁，Jaya Baloo 出任 Cohere 首席信息安全官，Stanislav Fort 出任 AI 安全副总裁。公司计划长期加码布拉格，将其作为全球 AI 网络安全中心",
+    "metrics": [
+      {
+        "label": "并购（官方公布）",
+        "value": "Cohere 官方博客署期 2026-11-13：宣布完成对 AISLE 的收购，并欢迎 cubic 团队加入；称加上此前的 Aleph Alpha 与 Reliant AI，这是今年完成的第四笔战略并购。对价与估值均未披露。cubic 创始人 Paul Sanglé-Ferrière 于 15:46 UTC（约北京时间 11 月 13 日 23:46，落在昨日窗口边缘，昨日未收入，今日补录）发帖确认被收购，并称产品将继续运行、全程支持，客户包括 n8n、Granola、Resend",
+        "source_type": "官方公布",
+        "source_url": "https://cohere.com/blog/cohere-expands-its-sovereign-ai-platform-with-aisle-and-cubic"
+      },
+      {
+        "label": "AISLE 能力与交割（官方公布）",
+        "value": "AISLE 官方称过去 14 个月发现逾 650 个 CVE；并入后以 Cohere Cyber 对外服务。其博客署期 2026-11-10，写“收购已于今早正式交割”。周五的 Cohere 博文是合并官宣，因此本条增量主要是 cubic，以及 Cohere 对 AISLE 交割的正式确认",
+        "source_type": "官方公布",
+        "source_url": "https://aisle.com/blog/goodbye-aisle-hello-cohere-cyber"
+      },
+      {
+        "label": "团队与规模（媒体报道）",
+        "value": "加拿大媒体 BetaKit 11/13 报道并邮件向 Cohere 发言人确认：正在把 cubic 的技术集成进平台，全体员工加入以建立安全编码业务线。报道称 AISLE 规模大于 cubic，约 50 人团队并入 Cohere 逾 800 人的员工队伍，布拉格办公室将成为其全球 AI 网络安全中心。意向上收购 AISLE 的消息上月已公布；cubic 则是此次首度公开。对价未披露",
+        "source_type": "媒体报道",
+        "source_url": "https://betakit.com/cohere-buys-ai-code-review-startup-cubic-as-acquisition-spree-continues/"
+      }
+    ],
+    "why_it_works": "通用模型越来越便宜，企业真正卡住的是“代码能不能审、漏洞能不能先于攻击者被挖出来”，而且还得能在私有云和气隙环境里跑。Cohere 不靠再发一个聊天模型，而是把已有客户的代码审查和自主挖漏洞能力买进来，补的是信任层和垂直交付，不是参数量。",
+    "takeaway": "这是一条可核对的并购信号，但支票金额是空白。值得看的是 cubic 能否在大厂里保持独立产品节奏，以及 AISLE 的 650 个 CVE 有多少能转化成可售的安全产品，而不是只变成实验室能力。",
+    "innovation_score": 3,
+    "business_score": 4,
+    "tags": [
+      "收购",
+      "代码审查",
+      "网络安全",
+      "主权AI",
+      "Cohere"
+    ],
+    "website": "https://cohere.com/blog/cohere-expands-its-sovereign-ai-platform-with-aisle-and-cubic",
+    "sources": [
+      "https://cohere.com/blog/cohere-expands-its-sovereign-ai-platform-with-aisle-and-cubic",
+      "https://www.cubic.dev/blog/cubic-joins-cohere",
+      "https://betakit.com/cohere-buys-ai-code-review-startup-cubic-as-acquisition-spree-continues/",
+      "https://aisle.com/blog/goodbye-aisle-hello-cohere-cyber"
+    ],
+    "uncertain_points": "两笔交易对价、cubic 的收入和客户数均未披露。AISLE 自家博客署期 11 月 10 日即称交割完成，与 Cohere 11 月 13 日的合并官宣存在时间差，11 月 13 日的增量主要是 cubic。BetaKit 称 Cohere 员工逾 800 人、AISLE 约 50 人，AISLE 博文则写加入一支逾 1000 人的团队，口径不完全一致。意向上收购 AISLE 上月已宣布，不能当作全新交易。"
+  },
+  {
+    "id": "sierra-poppy-1-0-shopify-muse-personal-agents",
+    "date_collected": "2026-11-15",
+    "status": "new",
+    "type": "innovative",
+    "name": "Sierra Poppy 1.0",
+    "one_liner": "Sierra 于 11 月 13 日发布个人 Agent 协议 Poppy 1.0：Shopify 已为全部商家自动开启，Meta Muse 访问网站时会优先查找该协议；设计伙伴增至 100 多家，Mercury、土耳其航空等已上线真实流程",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "Poppy（Personal Agent Protocol）是一套让个人 Agent 与企业业务 Agent、网站和 API 交互的开放协议：用 OAuth 做授权，用户决定 Agent 能访问什么；购物等行业能力以扩展形式叠加，其中商业扩展由 Shopify 共同撰写，并与 Shopify 已默认支持的 Universal Commerce Protocol（UCP）分工——Poppy 负责 Agent 亮明身份和权限，UCP 负责商品发现、加购和结账。Shopify 为每家店铺自动发布 /.well-known 下的 Poppy 文件，商家无需额外开发。Sierra 同时提供实施工具包和校验器，供其他公司自行接入",
+    "metrics": [
+      {
+        "label": "协议与覆盖（官方公布）",
+        "value": "Sierra 联合创始人 Bret Taylor、Clay Bavor 署名博客署期 2026-11-13：Poppy 1.0 发布；Shopify 已为平台上所有商家启用；Meta 的 Muse 对每个访问的网站会先查找 Poppy。又有 60 家公司加入设计伙伴，总数超过 100 家，名单包括 Affirm、Delta Air Lines、Intuit、Salesforce（含 Fin、Commerce Cloud 与 Agentforce）、Turkish Airlines、Wayfair、Zoom 等。协议初稿于约一个月前与 Meta、Genesys、Instinct、NiCE、Rocket、Shopify、Stripe、Walmart 等一起公布",
+        "source_type": "官方公布",
+        "source_url": "https://sierra.ai/blog/releasing-poppy"
+      },
+      {
+        "label": "已上线场景（官方公布）",
+        "value": "官方称多家设计伙伴已上线：Mercury 允许个人 Agent 查询余额、整理收支并在账户审批策略下发起付款或转账；Synchrony 在探索把融资和奖励嵌入 Agent 购物，其商家网络超过 50 万个地点；土耳其航空已支持查询票价、航班动态和经停，Miles&Smiles 会员可让 Agent 寻找商务舱升舱并在用户批准后支付",
+        "source_type": "官方公布",
+        "source_url": "https://sierra.ai/blog/releasing-poppy"
+      },
+      {
+        "label": "媒体交叉验证",
+        "value": "The Next Web 署期 2026-11-13 18:37 GMT（约北京时间 11 月 14 日 02:37，落在昨日窗口边缘，昨日未收入，今日补录）确认 Shopify 全量开启、Muse 优先查找 Poppy、设计伙伴超过 100 家，以及 Mercury 与土耳其航空的上线例子。报道并提醒：规范虽称 1.0，仍被标为 draft，允许可能破坏现有接入的变更；Muse“逾 1000 万人已设置”是媒体沿用的既有用户口径，不是本次新披露的 Poppy 用量",
+        "source_type": "媒体报道",
+        "source_url": "https://thenextweb.com/news/sierra-poppy-1-0-shopify-meta-muse-personal-agents"
+      }
+    ],
+    "why_it_works": "个人 Agent 要替人办事，先得让对方的网站认出它是谁、允许它做什么，否则不是被防火墙挡住，就是权限开得过大。Poppy 把这层身份和授权做成可渐进接入的协议，又借 Shopify 默认开启和 Muse 优先探测，一下子给了商家一个不用自己开发的起点。它没有取代购物协议，而是把“进门”和“下单”分开，所以存量的 UCP 结账还能继续用。",
+    "takeaway": "这是一条协议层的产品形态突破，覆盖面看起来很大，但还没有公开的交易量或付费数据。下一看 1.0 会不会很快改到不兼容，以及亚马逊等另起炉灶的 Agent 会不会让商家必须支持多套标准。",
+    "innovation_score": 5,
+    "business_score": 3,
+    "tags": [
+      "个人Agent",
+      "协议标准",
+      "Shopify",
+      "Muse",
+      "Agent电商"
+    ],
+    "website": "https://sierra.ai/blog/releasing-poppy",
+    "sources": [
+      "https://sierra.ai/blog/releasing-poppy",
+      "https://thenextweb.com/news/sierra-poppy-1-0-shopify-meta-muse-personal-agents"
+    ],
+    "uncertain_points": "The Next Web 正文一度写“周四宣布”，但其自身署期与 Sierra 官方博客均为 11 月 13 日（周五）。TNW 指出规范虽称 1.0 仍标为 draft，可能出现破坏性变更。本次没有披露经 Poppy 完成的交易笔数、GMV 或 Sierra 由此产生的收入。Muse 用户规模来自媒体既有报道，不能当作 Poppy 1.0 的新成果。"
+  }
+]
