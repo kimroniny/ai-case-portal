@@ -1,0 +1,566 @@
+[
+  {
+    "id": "corma-125m-series-a-1b-cyber-defense",
+    "date_collected": "2026-11-17",
+    "status": "new",
+    "type": "profitable",
+    "name": "Corma",
+    "one_liner": "官方 11 月 16 日宣布：防御网络安全公司 Corma 完成由 NEA 领投的 1.25 亿美元 A 轮、估值 10 亿美元，距 8 月带着 6000 万美元种子轮出隐身仅约三个月，累计融资 1.85 亿美元",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "自研面向防御网络安全的基础模型，并以 Corma Workforce 的形式把 Agent 接到客户现有安全工具上，自主完成从研判到处置的安全工作；服务对象自称包括医疗、金融、能源与关键基础设施、零售和电信等大型企业，目前仍有客户在排队等待算力扩容",
+    "metrics": [
+      {
+        "label": "融资与估值（官方公布）",
+        "value": "公司 2026-11-16 博客宣布完成 1.25 亿美元 A 轮，估值 10 亿美元，由 NEA 领投，Sequoia Capital、Khosla Ventures 和 Coatue 继续参与；加上约三个月前出隐身时的 6000 万美元种子轮，累计融资 1.85 亿美元。The Next Web 称华尔街日报当天亦报道本轮，由 Angus Loten 执笔",
+        "source_type": "官方公布",
+        "source_url": "https://www.corma.ai/blog/three-months-in"
+      },
+      {
+        "label": "需求与产能（官方 / 创始人向媒体表述）",
+        "value": "官方称出隐身后“来自全球最大机构的需求压倒性”，扩容算力是主要瓶颈，仍有客户在等待名单上。The Next Web 转述公司称，已将服务器容量扩大 24 倍，以应对财富 100、财富 500 和财富全球 500 强的需求。Calcalist 报道客户分布在医疗、金融、能源与关键基础设施、零售和电信；CEO Alon Pluda 对该刊称收入增长很快，但未给出具体收入数字，并称团队约 25 人",
+        "source_type": "官方公布",
+        "source_url": "https://thenextweb.com/news/corma-series-a-125m-1bn-valuation-nea"
+      }
+    ],
+    "why_it_works": "进攻侧的编码模型越来越会找漏洞，防御侧却还在靠人翻日志。Corma 把卖点收成一套只做防御的基础模型和可接入现有安全栈的 Agent 团队，又赶上 10 月一波被它称为 Black October 的漏洞与泄密，大型机构愿意先排队、先付钱扩容。三个月从出隐身走到十亿美元估值，靠的是这个时间差，而不是已经公开的收入报表。",
+    "takeaway": "这是窗口内金额和估值最大的一条新案，但客户名单、合同和收入都还没公开。下一看算力排队会不会变成可核对的付费席位，以及官网自建的 DefenseBench 能不能被独立复现。",
+    "innovation_score": 4,
+    "business_score": 4,
+    "tags": [
+      "融资",
+      "独角兽",
+      "网络安全",
+      "防御Agent",
+      "基础模型"
+    ],
+    "website": "https://www.corma.ai/",
+    "sources": [
+      "https://www.corma.ai/blog/three-months-in",
+      "https://www.businesswire.com/news/home/20261116743982/en/Corma-Raises-%24125M-Series-A-at-%241B-Valuation-to-Scale-Its-Frontier-Foundation-Model-for-Cyber-Defense-as-Fortune-500-Adoption-of-Its-Models-Surges",
+      "https://thenextweb.com/news/corma-series-a-125m-1bn-valuation-nea"
+    ],
+    "uncertain_points": "估值 10 亿美元为公司官方公布，未见独立财务审计。客户均为匿名的“财富 500 / 全球 500 强”，没有具名合同或席位数；收入被创始人称为增长很快，但未披露 ARR 或金额。服务器容量扩大 24 倍、官网 DefenseBench 对比图，以及创始人对 Calcalist 所称 Agent“全程自主、无需人工介入”，目前都只见于公司或转述，缺乏独立验证。团队约 25 人来自 Calcalist，并非官方博客原文。"
+  },
+  {
+    "id": "noeri-110m-self-improving-enterprise-ai",
+    "date_collected": "2026-11-17",
+    "status": "new",
+    "type": "innovative",
+    "name": "Noeri",
+    "one_liner": "斯坦福教授 Yejin Choi 与 Carlos Guestrin 创办的 Noeri 11 月 16 日宣布获得 1.10 亿美元融资，由 Menlo Ventures 领投，Nvidia、Cisco、Snowflake 等战略投资，产品让企业在自有数据和工作流上持续改进 AI，并保留对工作流与模型的所有权",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "面向企业和科学发现提供可自改进的 AI 系统：软件学习客户自己的数据与工作流，然后提议修改指令、工具、各步骤所用模型，必要时也改模型本身；每项改动附带说明，并由人像代码评审一样批准。系统可搭配闭源和开权模型，公司称客户保留由此产生的工作流和模型所有权（仍须遵守第三方模型许可）",
+    "metrics": [
+      {
+        "label": "融资（官方公布）",
+        "value": "BusinessWire 与公司同期宣布获得 1.10 亿美元融资，由 Menlo Ventures 领投，Madrona Venture Group、Kindred Ventures、Wing Venture Capital 和 NEA 参与，战略投资方包括 Cisco Investments、NVIDIA 和 Snowflake。估值未披露。GeekWire 称彭博同一天率先报道本轮",
+        "source_type": "官方公布",
+        "source_url": "https://www.businesswire.com/news/home/20261116056631/en/Noeri-Founded-by-Leading-Stanford-AI-Professors-Launches-with-%24110-Million-to-Empower-Companies-to-Build-and-Own-Their-AI"
+      },
+      {
+        "label": "团队与早期实验（媒体报道 / 创始人自述）",
+        "value": "两位联合创始人兼联席 CEO：Yejin Choi 为 2022 年麦克阿瑟奖得主，曾在华盛顿大学和艾伦人工智能研究所工作，后任 Nvidia 杰出科学家，2025 年初加入斯坦福，GeekWire 称其 2026 年 5 月创办 Noeri；Carlos Guestrin 是 XGBoost 共同作者，曾创办被苹果收购的 Turi，并执掌苹果机器学习组织，彭博称其现为斯坦福 AI 实验室主任。公司总部在 Palo Alto，并在苏黎世设办公室。Choi 对彭博称，想法部分来自帮助斯坦福微生物学与免疫学团队降低 OpenAI 模型使用成本：他们做的小模型学会调用更早的 OpenAI 模型，并在该团队的研究任务上表现超过 GPT-5。公司称已在与包括部分投资人在内的行业伙伴合作，但未公布付费客户或收入",
+        "source_type": "媒体报道",
+        "source_url": "https://www.geekwire.com/2026/former-uw-ai-researchers-yejin-choi-and-carlos-guestrin-raise-110m-for-ai-startup-noeri/"
+      }
+    ],
+    "why_it_works": "企业既不想把核心流程完全交给一家闭源大模型，也不甘心只用便宜但更弱的模型。Noeri 把改进对象从“再训一个通用模型”改成“针对具体任务改指令、工具和模型选择，并且每次改动都要人批”，同时把产出的工作流和模型所有权留给客户。这个定位解释了为何 Nvidia、Cisco 和 Snowflake 会作为战略方进来，但它目前讲的仍是方法，而不是规模化交付。",
+    "takeaway": "明星教授加 1.10 亿美元开局足够醒目，但估值、客户和收入都还是空白。下一看那套“小模型调度大模型并在专项任务上超过 GPT-5”的实验能否被独立复现，以及投资人之外有没有付费客户愿意把核心工作流交出去。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": [
+      "融资",
+      "企业AI",
+      "自改进系统",
+      "科学发现",
+      "开权模型"
+    ],
+    "website": "https://www.noeri.ai/",
+    "sources": [
+      "https://www.businesswire.com/news/home/20261116056631/en/Noeri-Founded-by-Leading-Stanford-AI-Professors-Launches-with-%24110-Million-to-Empower-Companies-to-Build-and-Own-Their-AI",
+      "https://www.geekwire.com/2026/former-uw-ai-researchers-yejin-choi-and-carlos-guestrin-raise-110m-for-ai-startup-noeri/",
+      "https://thenextweb.com/news/noeri-110m-stanford-yejin-choi-carlos-guestrin-menlo-nvidia"
+    ],
+    "uncertain_points": "估值未披露。付费客户、收入和部署规模均未公布，所谓“与包括投资人在内的伙伴合作”不能当作已验证的商业化。斯坦福团队小模型在特定研究任务上超过 GPT-5，是创始人对彭博的自述，任务范围、评测方法和可复现性未知。The Information 今年 7 月曾报道过其融资进展，本次是正式官宣，不代表 7 月以来的业务数据已被公开。"
+  },
+  {
+    "id": "numa-45m-series-c-dealership-ai-os",
+    "date_collected": "2026-11-17",
+    "status": "new",
+    "type": "both",
+    "name": "Numa",
+    "one_liner": "官方 11 月 16 日宣布：面向汽车经销商的 AI 操作系统 Numa 完成由 Blue Cloud Ventures 领投的 4500 万美元 C 轮，累计融资 9600 万美元；公司称过去一年 ARR 增至三倍，已有超过 1500 家美加经销商使用",
+    "category": "客服销售",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "把通话、短信、预约、销售线索、维修车间和客户满意度放进同一套经销商操作系统：Agent 先接听并分流来电，对照库存为买家匹配车辆，把合格线索连同完整对话写入经销商 CRM，并在对话进行中标记可能流失的客户。今年 8 月收购 SocketTime，把服务车间的执行环节并入同一系统；并与通用、FordDirect、Stellantis 等主机厂渠道合作向门店铺开",
+    "metrics": [
+      {
+        "label": "融资与规模（官方公布）",
+        "value": "Numa 于 2026-11-16 10:00 ET 通过 PR Newswire 宣布完成 4500 万美元 C 轮，由 Blue Cloud Ventures 领投，Threshold Ventures、Costanoa、Touring Capital、Gradient Ventures 和 Tokio Marine Future Fund 参与，累计融资 9600 万美元。官方称过去一年公司规模和年经常性收入均增至三倍，净收入留存上升，已有超过 1500 家美国和加拿大经销商使用其系统；并称已处理逾 10 亿通来电、短信和聊天，预约超过 400 万次。Fortune 采访确认融资与 1500 家门店规模，并点名 Longo Toyota、Norm Reeves Honda、Gold Coast Cadillac 等客户；另称据知情人士，本轮投后估值 5 亿美元，公司未官方确认该估值",
+        "source_type": "官方公布",
+        "source_url": "https://www.prnewswire.com/news-releases/numa-triples-arr-raises-45m-series-c-to-run-the-entire-dealership-302940271.html"
+      },
+      {
+        "label": "主机厂渠道与门店效果（官方公布）",
+        "value": "官方称通用汽车将 Numa 列为 iMR Approved Turnkey Vendor，已有超过 240 家通用经销商使用；在这些门店，回复时间从 23 小时降至 24 分钟，单店每月约节省 1.1 万美元，被标记为 heat case 的客户中 86% 会在六个月内回流做保养。FordDirect 将其选为战略 AI 供应商，面向 3000 多家福特和林肯经销商开放；Numa 也已进入 Stellantis MarketCenter，覆盖美国 2600 多家及加拿大 440 家经销商。上述效果数据均为公司在新闻稿中的口径，未见独立审计。官方还称 9 月上线的来电分流产品 Operator 把来电送到正确对象的比例持续高于 95%，LiveCSI 在 90 天内分析了 5000 万次互动",
+        "source_type": "官方公布",
+        "source_url": "https://www.prnewswire.com/news-releases/numa-triples-arr-raises-45m-series-c-to-run-the-entire-dealership-302940271.html"
+      }
+    ],
+    "why_it_works": "经销商不是缺又一个聊天机器人，而是电话、库存、车间和回访被拆在不同系统里，客户说完的话没人接着办。Numa 先把对话这一层做深，再买下车间执行、加上按库存匹配车辆，让同一套系统既接电话又办事。主机厂把其放进官方供应商目录，比单店地推更能铺开，也解释了 ARR 能在已有 1500 家门店的基础上再翻倍。",
+    "takeaway": "在今天几条大额融资里，Numa 是少数同时给出 ARR 增速、门店量和具名主机厂渠道的公司。但绝对 ARR 和 5 亿美元估值都还对不上公开账本，门店节省和回流率也来自公司新闻稿。下一看通用 240 家门店能否扩到福特、Stellantis 的目录规模，以及收购 SocketTime 后车间环节是否真的跑在同一系统里。",
+    "innovation_score": 3,
+    "business_score": 5,
+    "tags": [
+      "融资",
+      "ARR",
+      "汽车经销商",
+      "语音Agent",
+      "客户运营"
+    ],
+    "website": "https://numa.com/",
+    "sources": [
+      "https://www.prnewswire.com/news-releases/numa-triples-arr-raises-45m-series-c-to-run-the-entire-dealership-302940271.html",
+      "https://fortune.com/2026/11/16/ai-startup-numa-45-million-car-dealerships-paperwork/"
+    ],
+    "uncertain_points": "公司只说 ARR 增至三倍，未公布绝对金额或时段起点。Fortune 所称 5 亿美元投后估值来自“知情人士”，官方未确认。10 亿次对话、400 万次预约、通用门店每月节省 1.1 万美元、回复时长从 23 小时降至 24 分钟、heat case 六个月回流 86%、Operator 正确分流高于 95% 等，均出自公司新闻稿，未见第三方审计。FordDirect 与 Stellantis 的“开放/上架”不等于这些门店已全部付费使用。"
+  },
+  {
+    "id": "dreamteam-53m-ai-native-crm",
+    "date_collected": "2026-11-17",
+    "status": "new",
+    "type": "both",
+    "name": "Dreamteam",
+    "one_liner": "前 Freshworks 高管创办的 AI 原生 CRM Dreamteam 完成种子轮加 A 轮共 5300 万美元融资，Together Fund 与 Accel 分别领投两轮；创始人向 TechCrunch 称过去三个月已签约 100 多家客户、其中多数付费，并已在部分客户处替换 Salesforce 或 HubSpot",
+    "category": "客服销售",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "从零构建 AI 原生 CRM：Company Brain 自动从邮件、会议和其他客户互动中捕捉上下文，形成共享的客户记忆；四名内置 AI 同事分别负责前景研究、跟进与推进、管道风险提示，以及用自然语言配置 CRM 工作流，对外邮件需经人工批准。公司还提供 Magic Apps，让销售用自然语言生成自定义应用和看板，并计划从销售扩展到开通、客服和增购",
+    "metrics": [
+      {
+        "label": "融资（官方公布）",
+        "value": "公司博客与 TechCrunch 2026-11-16 4:30 AM PST 报道一致：Dreamteam 已完成种子轮和 A 轮共计 5300 万美元融资，分别由 Together Fund 与 Accel 领投，Premji Invest 参与。公司拒绝披露两轮各自金额和估值。联合创始人兼 CEO Anand Venkatraman 曾在 Salesforce 和 Freshworks 任职，另外两名联合创始人 Senthil Kanthaswamy、Ramesh Parthasarathy 亦来自 Freshworks",
+        "source_type": "官方公布",
+        "source_url": "https://www.dreamteam.ai/blog/introducing-dreamteam"
+      },
+      {
+        "label": "客户与收入目标（创始人向媒体表述 / 官方）",
+        "value": "官方博客称已有 100 多家公司、覆盖 13 个国家用 Dreamteam 跑销售。Venkatraman 对 TechCrunch 进一步表示，公司在积极销售约三个月后已签约超过 100 家客户，其中多数付费；并称已在部分企业替换现有 CRM，包括医疗公司 DMS Health 替换 Salesforce，以及流媒体公司 Plex 的广告销售团队在对比 HubSpot 和其他 AI 原生 CRM 后选择 Dreamteam。联合创始人 Kanthaswamy 称目标是在 2027 年底达到八位数年收入，但拒绝透露当前收入。公司现有 35 人以上，工程在金奈，市场在美国",
+        "source_type": "创始人自述",
+        "source_url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/"
+      }
+    ],
+    "why_it_works": "传统 CRM 要销售自己填记录，系统永远是过时的。Dreamteam 反过来让系统先听完整对话，再由四个分工明确的 AI 同事做研究、跟进和风险提示，人只在对外承诺时把关。这个“先换系统、而不是在 Salesforce 上再挂一层 Copilot”的赌注，已经在几十家付费客户和两三个具名替换案例里看到第一轮验证，但还远不到撼动现有系统的规模。",
+    "takeaway": "三个月签下 100 多家、且多数付费，对一家从零做 CRM 的公司已经算快。但当前收入保密，两轮金额和估值也未拆开。下一看这些客户是在做并行试点，还是真的把 Salesforce、HubSpot 卸掉，以及 2027 年八位数年收入目标有没有可公开的进度。",
+    "innovation_score": 3,
+    "business_score": 4,
+    "tags": [
+      "融资",
+      "CRM",
+      "销售Agent",
+      "Freshworks",
+      "付费客户"
+    ],
+    "website": "https://www.dreamteam.ai/",
+    "sources": [
+      "https://www.dreamteam.ai/blog/introducing-dreamteam",
+      "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/"
+    ],
+    "uncertain_points": "种子轮与 A 轮各自金额、估值均未披露。官方只写“100 多家公司在用”，“多数付费”来自 CEO 对 TechCrunch 的表述，付费比例、客单价和 ARR 未公开。DMS Health、Plex 等替换案例为创始人向媒体介绍，未见客户方独立书面确认。2027 年底八位数年收入只是目标。官方博客署期为 2026-11-17，TechCrunch 报道时间为 11 月 16 日 4:30 AM PST，两者均落入本窗口。"
+  },
+  {
+    "id": "knit-health-35m-series-a-med-beam",
+    "date_collected": "2026-11-17",
+    "status": "new",
+    "type": "innovative",
+    "name": "Knit Health",
+    "one_liner": "Knit Health 官方 11 月 16 日宣布完成由 NEA 领投的 3500 万美元 A 轮，累计融资 4660 万美元，并推出医疗世界模型 Med-BEAM，用于预测患者下一步需要什么护理、以及不同干预会如何改变路径",
+    "category": "医疗健康",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "把医疗保健当成需要预测和规划的“世界”，而不是用语言模型做问答或写病历：Med-BEAM 学习患者如何在真实系统中移动、病情如何演变、不同干预之后会发生什么，先用于患者导诊、专科分流、预约和医院运营，再把这层临床智能开放给医院、技术公司和医疗 Agent 调用",
+    "metrics": [
+      {
+        "label": "融资（官方公布）",
+        "value": "CEO Jonathan Kolstad 2026-11-16 在官网新闻室宣布完成 3500 万美元 A 轮，由 NEA 领投，Frist Cressey Ventures、Town Hall Ventures、SignalFire 参与，Uncork、Moxxie、the Aligned Fund 和 Coalition Operators 继续支持。配套 BusinessWire 称公司迄今累计融资 4660 万美元，并写明公司 2025 年由加州大学伯克利科学团队创办；资金将用于加快 Med-BEAM 在医疗系统中的商业部署。估值未披露",
+        "source_type": "官方公布",
+        "source_url": "https://www.knit.health/newsroom/building-a-world-model-for-healthcare"
+      },
+      {
+        "label": "模型能力宣称（官方公布）",
+        "value": "官方称 Med-BEAM 在预测真实临床事件和诊疗决策的基准（其所谓 clinical Turing test）上，表现约为领先语言模型的 4 倍，同时快约 100 倍、成本低约 250 倍；BusinessWire 称模型训练来自数亿份患者记录中的数十亿次医疗决策，并按医疗场景做了隐私与安全设计。公司称起步场景是患者导诊、专科分流、预约和医院运营，但本次未公布付费医院数量、部署位点或收入",
+        "source_type": "官方公布",
+        "source_url": "https://www.knit.health/newsroom/building-a-world-model-for-healthcare"
+      }
+    ],
+    "why_it_works": "医院并不缺指南和会写病历的模型，缺的是把“这个患者下一步该去哪、换一种处理会发生什么”算清楚。Knit 用世界模型去拟合真实就医路径和干预后果，先从分流和排程这种立刻能减少空转的环节切入，再把能力做成可被其他 Agent 调用的基础层。这在产品形态上说得通，但目前公布的仍是公司自己的基准和融资，而不是医院账单。",
+    "takeaway": "A 轮和“医疗世界模型”的提法都够清楚，可 4 倍、100 倍、250 倍全是官方口径，也没有具名的付费医院。下一看 Med-BEAM 是先在导诊和排程里跑出可核对的等候时间或转诊准确率，还是停在对标语言模型的自评基准上。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": [
+      "融资",
+      "医疗AI",
+      "世界模型",
+      "患者导诊",
+      "医院运营"
+    ],
+    "website": "https://www.knit.health/",
+    "sources": [
+      "https://www.knit.health/newsroom/building-a-world-model-for-healthcare",
+      "https://www.businesswire.com/news/home/20261116994393/en/Beyond-Large-Language-Models-Knit-Health-Unveils-Med-BEAM-a-World-Model-for-Healthcare-Backed-by-%2435M-from-NEA",
+      "https://thenextweb.com/news/knit-health-35m-series-a-nea-med-beam"
+    ],
+    "uncertain_points": "“约 4 倍于领先语言模型、快 100 倍、成本低 250 倍”及 clinical Turing test 均为公司自评，基准数据、对照模型和评测协议未公开，也未见同行评议。训练所用“数亿份患者记录、数十亿次决策”来自新闻稿，数据来源、授权和去标识方式未说明。商业部署的医院名单、付费情况和收入均未披露。估值未公布。"
+  },
+  {
+    "id": "infevo-over-100m-cny-pre-a-virtual-cell",
+    "date_collected": "2026-11-17",
+    "status": "new",
+    "type": "innovative",
+    "name": "无界进化（INFevo）",
+    "one_liner": "36氪 11 月 16 日 08:30 首发：晶泰科技孵化的虚拟细胞公司无界进化已完成超亿元 Pre-A 轮，星连资本、Prosperity7、华盖、华控、德同等联合投资，顺为、红杉中国和松禾追加；公司称这是中国虚拟细胞领域单笔融资金额新高",
+    "category": "医疗健康",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "做“模型预测 + 自动化湿实验”的干湿闭环：一端是覆盖细胞多组学的自研基础模型 OCOO，根据药物、基因扰动等输入预测细胞转录组变化；另一端是细胞培养、扰动和多组学检测的自动化实验体系，用实验结果回灌模型。同时推出假说挖掘引擎 The Popper Project 和已进入内测的 Karl Workbench 科研工作台，并参与北大医院牵头的肝胆胰肿瘤类器官实验室共建，把虚拟细胞接到患者来源样本上",
+    "metrics": [
+      {
+        "label": "融资（媒体首发 / 公司宣布）",
+        "value": "36氪 2026-11-16 08:30 首发：无界进化已完成超亿元 Pre-A 轮，由星连资本、Prosperity7 Ventures、华盖资本、华控基金及德同资本等联合投资，老股东顺为资本、红杉中国和松禾资本追加。这是公司继 2026 年 6 月数千万元天使轮后五个月内的第二轮融资。公司称本轮刷新中国虚拟细胞企业单笔融资金额纪录；资金将用于基础大模型研发、高通量自动化干湿闭环扩容和产业生态建设。精确金额和估值未披露",
+        "source_type": "媒体报道",
+        "source_url": "https://www.36kr.com/p/4071054629737606"
+      },
+      {
+        "label": "产品与评测（公司向媒体披露）",
+        "value": "公司已发布基于转录组的虚拟细胞基础模型 OCOO-T，并称在 Tahoe100M、Replogle、PBMC 三项单细胞扰动基准的同条件评测中取得领先。科学假说引擎 TPP 和 Karl Workbench 已推出，后者处于内测。公司提供的复测称，2026 年 10 月搭载 DeepSeek 基础模型的 Karl Workbench，在 SciAgentArena 的单细胞组学与空间组学场景综合得分位列第一。临床侧，公司称正参与北京大学第一医院牵头的“肝胆胰肿瘤类器官培养与智慧诊疗北京市重点实验室”共建。上述评测领先和实验室共建目前主要来自公司披露，未见独立审计或收入数据",
+        "source_type": "官方公布",
+        "source_url": "https://finance.sina.com.cn/roll/2026-11-16/doc-iniywwzi2550373.shtml"
+      }
+    ],
+    "why_it_works": "AI 制药在分子设计上已经比较拥挤，真正卡住的是分子进了细胞之后会怎样，以及这些预测能不能被实验证伪。无界进化不把虚拟细胞做成又一个刷榜模型，而是把假说、实验和数据回流写成一套可重复的流程，并借晶泰已有的分子与自动化实验能力，把闭环接到真实管线附近。超亿元的新资金买的是实验通量，而不只是模型参数。",
+    "takeaway": "这是今天中国侧最完整的一条 AI for Science 新案，但“超亿元”和“单笔纪录”都还不能精确核对，榜单第一也是公司提供的复测。下一看类器官合作会不会拿出可重复的预测—实验对照，以及平台是卖给药企使用，还是主要服务内部管线。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": [
+      "融资",
+      "AI4S",
+      "虚拟细胞",
+      "晶泰科技",
+      "干湿闭环"
+    ],
+    "website": "https://infevo.ai/",
+    "sources": [
+      "https://www.36kr.com/p/4071054629737606",
+      "https://finance.sina.com.cn/roll/2026-11-16/doc-iniywwzi2550373.shtml",
+      "https://infevo.ai/"
+    ],
+    "uncertain_points": "融资金额只写“超亿元”，估值未披露；“刷新中国虚拟细胞企业单笔纪录”为公司/报道口径，未见完整的可比交易清单。OCOO-T 和 Karl Workbench 的“第一”分别来自公司所述同条件评测和公司提供的 10 月复测，评测协议与是否经过基准官方确认不详。与北医实验室的共建仍属合作起步，不能等同于已验证的临床转化或收入。动脉智库所称全球虚拟细胞领域融资总额已破 30 亿美元，是行业统计，不是本公司业绩。"
+  },
+  {
+    "id": "wenzhun-stable-ai-hundreds-millions-cny-series-a-plus-ldm",
+    "date_collected": "2026-11-17",
+    "status": "new",
+    "type": "both",
+    "name": "稳准智能",
+    "one_liner": "投资界 11 月 16 日 11:26 首发：清华大学崔鹏团队创立的数据基模公司稳准智能连续完成数亿元 A 轮与 A+ 轮，A 轮由国科投资与和玉资本联合领投，A+ 轮有鼎晖、上海国投先导、徐汇科创投等参与；报道称已推进 150 多个工业与科研场景落地",
+    "category": "企业服务",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "做面向结构化工业和科研数据的通用数据大模型（LDM），而不是再做一个语言模型。2025 年 8 月开源“极数”LimiX，2026 年 9 月发布 LimiX-2，强调在不针对具体任务更新参数的情况下做分类、回归和预测；再把模型用于故障诊断、材料研发、设备维护、电力交易等，并与电网、石油、钢铁和云厂商做战略合作，同时承担国家新一代人工智能重大专项中的材料科学智能体课题",
+    "metrics": [
+      {
+        "label": "融资（媒体首发）",
+        "value": "投资界 2026-11-16 11:26 首发：稳准智能连续完成数亿元 A 轮与 A+ 轮。A 轮由国科投资与和玉资本联合领投，高鹄资本任独家融资顾问；A+ 轮投资方包括鼎晖投资、上海国投先导、徐汇科创投等。公司 2024 年 10 月在雄安注册，此前获雄安科创基金 2000 万元天使轮，以及东方富海等参与的过亿元 Pre-A 轮，报道称成立以来已连续完成四轮融资，估值在两年内“翻了几番”。两轮合计只写“数亿元”，各自金额和最新估值未披露",
+        "source_type": "媒体报道",
+        "source_url": "https://news.pedaily.cn/202611/571899.shtml"
+      },
+      {
+        "label": "落地与评测（媒体转述公司信息）",
+        "value": "投资界称公司已整体推进 150 多个场景落地，并与国网北京客服中心、中网联合、中石油（北京）数智研究院、钢研国际新材料创新中心、东方国信、大唐数科、柳州钢铁、腾讯云等达成战略合作；2026 年 8 月承担新一代人工智能国家科技重大专项“因果驱动的数据-知识双基座材料科学智能体”。报道还称 LimiX-2 在 TabArena、TALENT、BCCO 三项结构化数据基准的综合评测中均取得参评模型第一，且英伟达在官方技术文章中将 LimiX-2 纳入性能对比。收入和付费合同金额未披露",
+        "source_type": "媒体报道",
+        "source_url": "https://news.pedaily.cn/202611/571899.shtml"
+      }
+    ],
+    "why_it_works": "工厂和实验室里大量关键问题写在表格和实验记录里，语言模型并不擅长。稳准把十年因果稳定学习做成可开源、可跨场景复用的数据基模，先在基准上证明同一个模型能做分类和预测，再拿电网、石油和钢铁的合作把模型送进真实任务。投资人追的是这条与 LLM 并行的“第二基座”，而不是又一个行业问答机器人。",
+    "takeaway": "有具名产业合作和国家专项，比纯实验室模型更接近应用；但“数亿元”和“150 多个场景”都还对不上合同额或收入。下一看这些战略合作是付费交付还是联合课题，以及开源的 LimiX 会不会变成主要是研究影响力、商业化另走闭源路线。",
+    "innovation_score": 4,
+    "business_score": 4,
+    "tags": [
+      "融资",
+      "数据大模型",
+      "工业AI",
+      "开源",
+      "清华"
+    ],
+    "website": "https://stable-ai.cn/",
+    "sources": [
+      "https://news.pedaily.cn/202611/571899.shtml",
+      "https://stock.10jqka.com.cn/20261116/c681868443.shtml",
+      "https://stable-ai.cn/"
+    ],
+    "uncertain_points": "A 轮与 A+ 轮各自金额、投后估值均未披露，只知两轮合计“数亿元”，以及天使轮 2000 万元、Pre-A 为“过亿元”。“估值两年翻了几番”没有具体数字。150 多个场景和战略合作名单来自投资界转述，未见合同金额、是否付费、是否已上线生产。LimiX-2 三项榜单第一和“英伟达官方文章对标”需以原始评测和技术博客为准，本次未逐条打开复核。部分转载将 A+ 轮写成鼎晖等“联合领投”，与投资界原文“投资方包括”的表述不完全一致。"
+  },
+  {
+    "id": "bharat-semi-24m-seed-ai-image-sensors",
+    "date_collected": "2026-11-17",
+    "status": "new",
+    "type": "innovative",
+    "name": "Bharat Semi",
+    "one_liner": "TechCrunch 11 月 15 日 15:30 PST 报道：印度半导体公司 Bharat Semi 完成 2400 万美元全股权种子轮，由 Info Edge Group、South Park Commons 和 Indus Bridge Ventures 领投，用于开发把成像、处理和 AI 做在同一颗芯片上的可编程图像传感器，目标 2027 年进入商用生产",
+    "category": "硬件与端侧",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "做 fabless 的可编程智能图像传感器，把图像采集、信号处理和端侧 AI 放到同一颗芯片，减少把视觉数据外送到独立处理器的需求；联合创始人声称相较传统“传感器 + ISP + SoC”组合，系统成本有望降低至少 70%。应用方向包括智能家居、工业自动化、安防和航空航天，并称已获得美国 General Atomics 与印度 Kaynes Semicon 的设计导入。拟议中的印度晶圆厂项目与美国太空军有技术合作设想，但与本次传感器业务分开，本轮资金不用于建厂",
+    "metrics": [
+      {
+        "label": "融资（媒体首发 / 公司向媒体确认）",
+        "value": "TechCrunch 2026-11-15 3:30 PM PST（北京时间 11 月 16 日 07:30，落入本窗口）首发：Bharat Semi 完成 2400 万美元全股权种子轮，由 Info Edge Group、South Park Commons 和 Indus Bridge Ventures 领投，Valour Capital、Micromax、Gaingels 及个人投资者参与。资金用于扩充工程团队、完成产品开发并推向市场。估值未披露。公司 2021 年底成立，目前仍为预收入",
+        "source_type": "媒体报道",
+        "source_url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/"
+      },
+      {
+        "label": "产品进度与设计导入（创始人向媒体表述）",
+        "value": "联合创始人 Vrinda Kapoor 对 TechCrunch 称，第一代传感器已在原型阶段，集成更强 AI 能力的第二代预计 2027 年中进入原型，并计划同年年底交到客户手中；初始商业生产目标为 2027 年。公司称已获得 General Atomics 和 Kaynes Semicon 的 design wins，但未披露订单金额或量产时间表。公司约有 75 名员工，分布在印度和美国（圣克拉拉约 10 至 12 人），计划到 2027 年中把美国人员扩至约 20 人，并已开始在欧洲招人",
+        "source_type": "创始人自述",
+        "source_url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/"
+      }
+    ],
+    "why_it_works": "无人机、厂房和安防摄像头往往不是算力不够，而是每多一颗独立处理器，成本、功耗和带宽就上去一截。Bharat Semi 把“看见”和“理解”做到传感器里，用设计导入先锁住验证客户，再用种子轮把 2027 年的商用生产往前推。故事成立的前提是这些 design wins 最终能变成出货，而不是停留在送样。",
+    "takeaway": "2400 万美元对印度芯片种子轮已经不小，但公司仍是预收入，量产要到 2027 年。“系统成本降 70%”和两家设计导入都还不能在出货量上核对。下一看第一代原型会不会在明年之前变成可引用的客户测试结果。",
+    "innovation_score": 3,
+    "business_score": 3,
+    "tags": [
+      "融资",
+      "智能传感器",
+      "端侧AI",
+      "印度半导体",
+      "Physical AI"
+    ],
+    "website": "https://bharatsemi.ai/",
+    "sources": [
+      "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+      "https://economictimes.indiatimes.com/tech/startups/bharat-semi-raises-24-million-seed-round-to-build-ai-powered-smart-sensors/articleshow/135859852.cms",
+      "https://bharatsemi.ai/"
+    ],
+    "uncertain_points": "公司明确仍为预收入，商用生产目标在 2027 年。General Atomics 与 Kaynes Semicon 的 design wins 未披露规格、金额或是否为付费。系统成本降低至少 70% 是联合创始人比较传统分立方案后的估计，未见第三方测试。“与美国太空军合作的晶圆厂设想”仍在寻找国内建设和运营伙伴，本轮不覆盖该项目，不能当作已落地的制造能力。估值未披露。"
+  },
+  {
+    "id": "bedrock-energy-24m-ai-geothermal-drilling",
+    "date_collected": "2026-11-17",
+    "status": "new",
+    "type": "profitable",
+    "name": "Bedrock Energy",
+    "one_liner": "TechCrunch 11 月 16 日 5:00 AM PST 报道：Bedrock Energy 完成 2400 万美元新一轮融资，用于扩充其 AI 导向的浅层地热钻机，服务商业建筑和潜在的数据中心客户；公司称其方法最多可把钻井时间缩短 80%",
+    "category": "硬件与端侧",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "为商业建筑提供浅层地热热泵所需的钻孔服务：用油气行业的定向钻井，再叠加公司自有的地下模型来引导钻机，并靠孔内传感器持续修正模型，以便在占地有限的地块上打出更深、更准的孔。已在得州、犹他、科罗拉多、纽约和阿尔伯塔作业，新资金将用于增加钻机并进入新英格兰、新泽西、中西部北部和更多西部州；同时也在与数据中心开发商讨论，用地热平稳负荷为周边电网腾出容量",
+    "metrics": [
+      {
+        "label": "融资（公司向媒体确认）",
+        "value": "TechCrunch 2026-11-16 5:00 AM PST 报道，Bedrock Energy 向其确认完成 2400 万美元新一轮融资，由 Clean Energy Ventures 和 Clearvision Ventures 领投，GVP Climate、Susquehanna Sustainable Investments、Temasek Trust 旗下 Catalytic Capital for Climate and Health、MUUS、Great Wave Ventures、Autodesk Foundation、Titanium Ventures、Energy Impact Partners、Wireframe Ventures、Elemental Impact 和 SFV Capital 参与。此前公司在 2023 年完成 850 万美元种子轮，2025 年完成 1200 万美元 A 轮。本轮官方轮次名称和估值未披露",
+        "source_type": "媒体报道",
+        "source_url": "https://techcrunch.com/2026/11/16/bedrock-energy-raises-24m-to-build-more-ai-enabled-geothermal-drill-rigs-for-enterprise-buildings/"
+      },
+      {
+        "label": "作业规模（创始人向媒体表述）",
+        "value": "联合创始人兼 CEO Joselyn Lai 对 TechCrunch 称，公司已在 9 个场地完成钻孔，并已从新客户处获得款项，以备未来一到两年内开钻。公司宣称 AI 导向钻机最多可把钻井时间缩短 80%。作业区域包括犹他、科罗拉多、纽约、阿尔伯塔和总部所在的得州。收入规模和单场合同额未披露",
+        "source_type": "创始人自述",
+        "source_url": "https://techcrunch.com/2026/11/16/bedrock-energy-raises-24m-to-build-more-ai-enabled-geothermal-drill-rigs-for-enterprise-buildings/"
+      }
+    ],
+    "why_it_works": "地热热泵并不新，贵在钻孔。Bedrock 把定向钻井和地下模型用到 1000 英尺量级的浅层孔上，让商业楼在有限占地里把孔打准，从而把工期和成本压下来。它已经不只是实验室里的算法，而是带着钻机在五个州和阿尔伯塔接活，并且开始向数据中心讲电网容量的故事。",
+    "takeaway": "这是一条“AI 在现场干活”的硬件案例，但核心效率宣称（钻井时间最多缩短 80%）还没有独立工时对照，也只有 9 个已钻场地。下一看预付款能否在一两年内变成更多完工项目，以及数据中心讨论是意向还是签约。",
+    "innovation_score": 3,
+    "business_score": 3,
+    "tags": [
+      "融资",
+      "地热",
+      "AI钻井",
+      "气候科技",
+      "数据中心"
+    ],
+    "website": "https://bedrockenergy.com/",
+    "sources": [
+      "https://techcrunch.com/2026/11/16/bedrock-energy-raises-24m-to-build-more-ai-enabled-geothermal-drill-rigs-for-enterprise-buildings/",
+      "https://heatmap.news/climate-tech/bedrock-energy-24-million",
+      "https://bedrockenergy.com/"
+    ],
+    "uncertain_points": "本轮轮次名称和估值未披露。“钻井时间最多缩短 80%”为公司口径，对照基线、场地条件和统计样本未公开。已完成钻孔的 9 个场地和新客户预付款，都未公布合同额或客户名称。与数据中心开发商的接触目前只是讨论，不是已公布的订单。"
+  },
+  {
+    "id": "mosaico-7-5m-eur-seed-robotics-data",
+    "date_collected": "2026-11-17",
+    "status": "new",
+    "type": "innovative",
+    "name": "Mosaico",
+    "one_liner": "Sifted 11 月 16 日独家：意大利机器人数据公司 Mosaico 完成 750 万欧元种子轮，由 United Ventures 领投，OpenOcean 和老股东 Connect Ventures 参与，累计融资 850 万欧元，用于把海量传感器数据整理成可训练物理 AI 的资产",
+    "category": "硬件与端侧",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "提供面向机器人和物理 AI 的开源、默认可本地部署的数据编排层：把原始多模态时序传感器数据整理、存储并编成可查询的训练资产，开发者用自然语言语义检索或类 SQL 查询，而不必在文件夹里手工翻数据。目标客户包括机器人、物联网、智慧城市和农业科技团队；本轮资金将用于产品开发、扩大开源分发，以及在欧盟和美国推进商业化",
+    "metrics": [
+      {
+        "label": "融资（媒体报道）",
+        "value": "Sifted 2026-11-16 独家报道，Mosaico 完成 750 万欧元种子轮，由 United Ventures 领投，OpenOcean 与老股东 Connect Ventures 参与。FinSMEs 同日称加上此前融资后累计 850 万欧元。公司 2023 年成立于意大利雷焦艾米利亚，CEO 为 Gabriele Lini。估值未披露",
+        "source_type": "媒体报道",
+        "source_url": "https://sifted.eu/articles/robotics-software-ai-funding-round-mosaico"
+      },
+      {
+        "label": "社区与部署（媒体转述）",
+        "value": "FinSMEs 称其开源社区已有超过 1200 名工程师和研究人员，并已在领先工业企业中有活跃的企业部署。具名客户、合同金额和收入未披露",
+        "source_type": "媒体报道",
+        "source_url": "https://www.finsmes.com/2026/11/mosaico-raises-e7-5m-in-seed-funding.html"
+      }
+    ],
+    "why_it_works": "机器人公司现在最缺的往往不是又一个模型，而是把车载和产线传感器里堆积如山的原始数据，变成能反复训练、能被查询的资产。Mosaico 选择先做开源、默认定制在客户现场的数据层，降低工业客户把数据送上云的阻力，再用社区扩充分发。商业化能不能跟上开源下载量，是下一道题。",
+    "takeaway": "750 万欧元种子轮和 1200 人的开源社区说明方向有人认，但“领先工业企业的活跃部署”还没有名字。下一看这些部署是付费合同还是试验接入，以及美国市场能不能在本轮资金周期内打开。",
+    "innovation_score": 3,
+    "business_score": 3,
+    "tags": [
+      "融资",
+      "机器人",
+      "物理AI",
+      "开源",
+      "传感器数据"
+    ],
+    "website": "https://mosaico.dev/",
+    "sources": [
+      "https://sifted.eu/articles/robotics-software-ai-funding-round-mosaico",
+      "https://www.finsmes.com/2026/11/mosaico-raises-e7-5m-in-seed-funding.html",
+      "https://mosaico.dev/"
+    ],
+    "uncertain_points": "Sifted 正文对非订阅用户不完整，投资方和累计融资等细节主要转引 FinSMEs 等二手报道，需以公司或领投方后续公告为准。1200 名开源社区成员和“领先工业企业的活跃部署”均未给出名单、是否付费或合同规模。估值未披露。"
+  },
+  {
+    "id": "daisytuner-6m-eur-seed-inference-compiler",
+    "date_collected": "2026-11-17",
+    "status": "new",
+    "type": "innovative",
+    "name": "Daisytuner",
+    "one_liner": "德国推理编译公司 Daisytuner 11 月 16 日宣布完成 600 万欧元种子轮，由 Elaia 与 LEA Ventures 共同领投，并同期把推理引擎 Daisyflow 带进生产环境；公司称在 AMD Instinct 上运行 Qwen 2.5 可比 vLLM 最多快 18%",
+    "category": "编程开发",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "用自学习编译器和优化平台，自动把模型调到不同芯片上运行，而不是靠人工做性能工程。开源编译器把 PyTorch 等框架中的代码编译到 Nvidia、AMD 及其他新架构；AI Agent 在真实硬件上昼夜试优化，编译器校验正确后再写入性能库复用。Daisyflow 作为生产推理引擎部署在客户自己的基础设施里，提供语言、视觉、语音和推荐模型服务及团队已在使用的 API，目标客户包括芯片厂商、欧洲云厂商和企业",
+    "metrics": [
+      {
+        "label": "融资与产品上线（官方 / 投资人公布）",
+        "value": "投资方 Amadeus Capital 2026-11-16 宣布：总部位于达姆施塔特的 Daisytuner 完成 600 万欧元种子轮，由 Elaia 与 LEA Ventures 共同领投，Amadeus APEX Technology Fund 和 Seedcamp 参与。资金用于把 Daisyflow 推向更多企业、扩充团队并扩展编译技术。同期宣布 Daisyflow 已在生产环境上线。公司 2024 年由 Lukas Trümper 与 Adrian Schmitz 创办。估值和累计融资未在该公告中完整给出",
+        "source_type": "官方公布",
+        "source_url": "https://www.amadeuscapital.com/daisytuner-raises-e6m-in-seed-funding-to-boost-ai-efficiency-across-every-chip/"
+      },
+      {
+        "label": "性能宣称（公司公布）",
+        "value": "投资人公告称首批结果为：在 AMD Instinct GPU 上运行 Qwen 2.5，可比行业常用的 vLLM 最多快 18%。这是公司对特定模型和芯片的测试口径，不是对所有工作负载的普遍结论。Tech.eu 称资金也将用于扩大企业客户基数，但未公布客户名单或收入",
+        "source_type": "官方公布",
+        "source_url": "https://www.amadeuscapital.com/daisytuner-raises-e6m-in-seed-funding-to-boost-ai-efficiency-across-every-chip/"
+      }
+    ],
+    "why_it_works": "模型已经可以在多种芯片上跑，但把它跑快仍然靠少数实验室的人工调优，新芯片因此很难进生产。Daisytuner 把这层性能工程自动化，并先在客户自己的机房里提供推理引擎，契合欧洲企业对数据不出域和降低对单一 GPU 软件栈依赖的需求。18% 的单项对比还不足以证明平台已通用，但说明它已经离开纯研究原型。",
+    "takeaway": "这是一条清楚的推理基础设施案例，可企业客户和收入仍未公开，关键指标也只是单一模型、单一芯片上的公司测试。下一看 Daisyflow 会不会出现可引用的生产案例，以及在 Nvidia 栈上是否同样有稳定收益。",
+    "innovation_score": 3,
+    "business_score": 3,
+    "tags": [
+      "融资",
+      "推理引擎",
+      "编译器",
+      "AMD",
+      "欧洲"
+    ],
+    "website": "https://daisytuner.com/",
+    "sources": [
+      "https://www.amadeuscapital.com/daisytuner-raises-e6m-in-seed-funding-to-boost-ai-efficiency-across-every-chip/",
+      "https://tech.eu/2026/11/16/ai-inference-startup-daisyturner-raises-eur6m-seed/",
+      "https://daisytuner.com/"
+    ],
+    "uncertain_points": "“Qwen 2.5 在 AMD Instinct 上比 vLLM 最多快 18%”是公司对特定比较的测试，硬件型号、精度、批量和是否包含全部优化开关未在公告中详列。企业客户名单、付费情况和收入未披露。估值以及本轮之外是否还有前序融资，投资人稿件未完整说明。"
+  },
+  {
+    "id": "catax-ai-40m-cny-seed-clinical-agents",
+    "date_collected": "2026-11-17",
+    "status": "new",
+    "type": "innovative",
+    "name": "CataX AI",
+    "one_liner": "启明创投 11 月 16 日宣布：其孵化的 Agent 原生临床开发公司 CataX AI 完成 4000 万元人民币种子轮，由启明独家投资；公司不做靶点发现，而是用 Clinical-of-One 模式推动早期管线完成概念验证",
+    "category": "医疗健康",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "聚焦临床开发而非分子发现：计划通过许可引进或共同开发，承接临床前及早期临床资产，推进到人体概念验证后再对外授权。组织上试验“Clinical-of-One”——一名临床负责人统筹项目，资料研究、文件起草和数据处理交给专业 Agent，关键决策由人把关，并把经验沉淀到后续项目。2026 年 7 月在上海成立，法定主体为上海凯思达生物医药科技有限公司",
+    "metrics": [
+      {
+        "label": "融资（官方 / 投资人公布）",
+        "value": "启明创投 2026-11-16 公告：CataX AI 完成 4000 万元人民币种子轮，由启明创投孵化并独家投资。投资界同日 10:41 首发，称公司成立仅约 4 个月，创始人兼 CEO 王子龙有临床医学背景并曾在微软亚洲研究院做 AI 研究，联合创始人兼 CDO 蒋哲敏有超过 15 年临床开发经验，曾任职泰格医药、百济神州等。估值未披露，亦未公布已引进的管线数量或收入",
+        "source_type": "官方公布",
+        "source_url": "https://www.qimingvc.com/cn/news/%E5%90%AF%E6%98%8E%E6%98%9F-catax-ai%E7%A7%8D%E5%AD%90%E8%BD%AE%E8%9E%8D%E8%B5%844000%E4%B8%87%E5%85%83%EF%BC%8C%E7%94%B1%E5%90%AF%E6%98%8E%E5%88%9B%E6%8A%95%E5%AD%B5%E5%8C%96%E5%B9%B6%E7%8B%AC%E5%AE%B6%E6%8A%95%E8%B5%84"
+      }
+    ],
+    "why_it_works": "AI 制药的注意力长期停在找靶点和做分子，而时间和金钱消耗最大的往往是临床开发。CataX 直接把 Agent 做成临床团队的基础设施，用一个人加一组专业 Agent 去推进早期试验，再用引进或共开发管线来验证这套组织能不能把概念验证做完。故事的完整性取决于它会不会真的拿到管线，而不只是提出一种新的分工方式。",
+    "takeaway": "4000 万元和独家机构背书把一家四个多月的新公司送进了观察名单，但目前没有公开的在研资产、试验进度或收入。下一看首个许可引进或共开发项目何时披露，以及 Clinical-of-One 是否只是内部口号。",
+    "innovation_score": 4,
+    "business_score": 2,
+    "tags": [
+      "融资",
+      "AI制药",
+      "临床开发",
+      "Agent组织",
+      "启明创投"
+    ],
+    "website": "https://www.catax.bio/",
+    "sources": [
+      "https://www.qimingvc.com/cn/news/%E5%90%AF%E6%98%8E%E6%98%9F-catax-ai%E7%A7%8D%E5%AD%90%E8%BD%AE%E8%9E%8D%E8%B5%844000%E4%B8%87%E5%85%83%EF%BC%8C%E7%94%B1%E5%90%AF%E6%98%8E%E5%88%9B%E6%8A%95%E5%AD%B5%E5%8C%96%E5%B9%B6%E7%8B%AC%E5%AE%B6%E6%8A%95%E8%B5%84",
+      "https://news.pedaily.cn/202611/571895.shtml",
+      "https://technode.com/2026/11/16/catax-ai-raises-rmb-40-million-to-bring-ai-agents-into-clinical-drug-development/"
+    ],
+    "uncertain_points": "估值未披露。公司成立约 4 个月，尚未公布任何具体引进管线、试验分期或收入。Clinical-of-One 目前是组织设想，没有可核对的项目周期或人力对照数据。启明既是孵化方又是独家投资人，公告与投资界报道同源色彩较强，但仍有投资人正式稿和独立科技媒体转述可交叉。"
+  },
+  {
+    "id": "yuanniu-metaneuron-tens-of-millions-cny-series-a-sleep-bci",
+    "date_collected": "2026-11-17",
+    "status": "new",
+    "type": "both",
+    "name": "元纽科技",
+    "one_liner": "动脉网 11 月 16 日 08:00 首发：北京睡眠脑机接口公司元纽科技完成数千万元 A 轮，投资方为泰益投资；公司称其全导联干电极 PSG 已获医疗器械注册证和生产许可证，并已开始入院销售",
+    "category": "医疗健康",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "先卖能在临床标准下做诊断的硬件，再用设备回收的睡眠数据训练诊断和后续神经调控。核心产品是可居家佩戴的全导联干电极多导睡眠监测（PSG）：对标院内金标准设备，但无需导电膏，经短训后护士或患者约 10 分钟即可佩戴，数据上传后由上级医生远程阅片。路径是“用设备收入养数据和算法”，而不是先烧钱做消费级头环或睡眠大模型",
+    "metrics": [
+      {
+        "label": "融资（媒体首发）",
+        "value": "动脉网 2026-11-16 08:00 首发：北京元纽科技有限公司近日完成数千万元 A 轮，投资方为泰益投资。此前已获得零以创投、谊安医疗注资。资金将用于全导联干电极 PSG 的院内准入与院外推广、睡眠与疾病关联诊断模型开发，以及神经调控产品研发。精确金额和估值未披露",
+        "source_type": "媒体报道",
+        "source_url": "https://www.vbdata.cn/1519104613"
+      },
+      {
+        "label": "注册与入院销售（媒体转述公司及投资人）",
+        "value": "动脉网称，该全导联干电极 PSG 已获得医疗器械注册证及生产许可证，报道写其是“全球首个实现干电极全导联 PSG 并取得医疗器械注册证的产品方案”；并称已完成实质性入院销售，信号质量经过三甲医院同夜头对头科研临床验证，干湿电极原始信号高度一致。天使轮投资方零以创投在稿中表示，团队已从技术验证走到产品注册和入院销售。入院家数、销量和收入未披露",
+        "source_type": "媒体报道",
+        "source_url": "https://www.vbdata.cn/1519104613"
+      }
+    ],
+    "why_it_works": "消费级睡眠头环很难进入诊断和支付，传统 PSG 又出不了睡眠监测室。元纽卡在中间：先把金标准全导联做成可带回家、可远程阅片的医疗器械，用注册证和入院销售证明有人买单，再谈睡眠疾病模型和神经调控。对脑机接口赛道来说，这比先讲模型更接近能落地的生意。",
+    "takeaway": "“已入院销售”和医疗器械注册证，是这条案例比同日许多种子轮更扎实的地方。但融资金额只写数千万元，销量和收入都还是空白，“全球首个”也需要注册信息核对。下一看院内准入能铺到多少家医院，以及诊断模型是否已进入实际阅片流程，而不是只存在于研发计划里。",
+    "innovation_score": 3,
+    "business_score": 3,
+    "tags": [
+      "融资",
+      "脑机接口",
+      "睡眠监测",
+      "医疗器械",
+      "入院销售"
+    ],
+    "website": "https://www.meta-neurons.com/",
+    "sources": [
+      "https://www.vbdata.cn/1519104613",
+      "https://news.pedaily.cn/202611/571910.shtml",
+      "https://www.meta-neurons.com/"
+    ],
+    "uncertain_points": "A 轮金额只写“数千万元”，估值未披露。“全球首个干电极全导联 PSG 医疗器械注册证”为报道口径，未见对应注册证编号或主管部门公示链接，需以官方注册信息为准。入院销售已发生，但医院名单、台数和收入未公开。同夜头对头验证的医院名称、样本量和公开论文情况未在报道中完整给出。诊断模型与神经调控产品仍在研发投入阶段，不是本轮已验证的收入来源。"
+  }
+]
