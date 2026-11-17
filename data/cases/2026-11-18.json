@@ -1,0 +1,462 @@
+[
+  {
+    "id": "isomorphic-labs-5b-series-c-ai-drug-design",
+    "date_collected": "2026-11-18",
+    "status": "new",
+    "type": "both",
+    "name": "Isomorphic Labs",
+    "one_liner": "官方 11 月 17 日宣布：从 Google DeepMind 分拆出的 AI 药物设计公司 Isomorphic Labs 完成由 Greenoaks 与 Sequoia Capital 联合领投的 50 亿美元 C 轮，资金用于把候选药物推向临床试验",
+    "category": "医疗健康",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "自研药物设计引擎 IsoDDE，用一批模拟化学与生物的 AI 模型设计候选药物，再把自有管线往临床试验推进；同时与礼来、诺华、强生等药企签订合作。公司 2021 年从 DeepMind 分拆，工作建立在 AlphaFold 蛋白质结构预测之上，本轮是创始人兼 CEO Demis Hassabis 卸任 DeepMind CEO、改任董事长并专注药物发现之后的首轮融资",
+    "metrics": [
+      {
+        "label": "融资（官方公布）",
+        "value": "Isomorphic Labs 于 2026-11-17 宣布完成 50 亿美元 C 轮，由 Greenoaks 与 Sequoia Capital 联合领投，Andreessen Horowitz（a16z）及其他新投资人参与，Alphabet 继续大额跟投；全部既有投资人 Thrive Capital、MGX、GV、CapitalG、Temasek 和英国 Sovereign AI Fund 亦参与。官方称资金将用于加速科学突破与自有 AI 进展，并把首批治疗项目推向临床试验。公司未公布本轮估值。TechCrunch 与 CNBC 均确认上述融资事实；CNBC 并称上轮是今年 5 月的 21 亿美元 B 轮，本轮距离 Hassabis 卸任 DeepMind CEO 约三个半月",
+        "source_type": "官方公布",
+        "source_url": "https://www.isomorphiclabs.com/articles/isomorphic-labs-announces-series-c-investment-round"
+      },
+      {
+        "label": "管线与合作（媒体转述公司）",
+        "value": "TechCrunch 称，公司表示其项目已在肿瘤与免疫领域得到“阳性临床前结果”，并已与礼来、诺华、强生等制药巨头达成合作。合作对价、管线阶段、适应症细节和进入临床的时间表均未披露",
+        "source_type": "媒体报道",
+        "source_url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/"
+      }
+    ],
+    "why_it_works": "药物发现最贵的不是再训练一个蛋白质模型，而是把候选分子推进人体试验。Isomorphic 把 AlphaFold 那一套结构能力收进自有设计引擎，又拉上礼来、诺华、强生，等于同时卖技术、卖管线。Hassabis 辞去 DeepMind 日常职务后首轮就融到 50 亿美元，说明投资人愿意为“从预测结构走到进临床”付这个价，而不是再给一个更大规模的基础模型。",
+    "takeaway": "这是窗口内金额最高的一条新案，也是少数把 AI 药物从论文和临床前数据推进到“要进临床”的公司。但估值没有公布，阳性结果和药企合作都还停留在公司口径，管线进度对不上公开试验登记。下一看首个项目何时正式进入临床，以及Bloomberg 此前传闻的 500 亿美元估值会不会被任何官方数字替代。",
+    "innovation_score": 5,
+    "business_score": 4,
+    "tags": [
+      "融资",
+      "AI制药",
+      "临床试验",
+      "DeepMind分拆",
+      "Alphabet"
+    ],
+    "website": "https://www.isomorphiclabs.com/",
+    "sources": [
+      "https://www.isomorphiclabs.com/articles/isomorphic-labs-announces-series-c-investment-round",
+      "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
+      "https://www.cnbc.com/2026/11/17/isomorphic-labs-series-c-ai-drug-discovery-.html"
+    ],
+    "uncertain_points": "本轮估值未披露。TechCrunch 称 Bloomberg 本月早些时候报道该公司寻求按 500 亿美元估值融资，这只是此前的融资意向报道，不是本轮已确认的官方估值。肿瘤与免疫的“阳性临床前结果”，以及与礼来、诺华、强生的合作，目前只见于媒体转述公司的说法，未见试验登记、合作对价或公开管线进度。公司收入与授权分成未披露。"
+  },
+  {
+    "id": "genesis-ai-500m-series-a-3-5b-dexterous-robots",
+    "date_collected": "2026-11-18",
+    "status": "new",
+    "type": "both",
+    "name": "Genesis AI",
+    "one_liner": "官方 11 月 17 日宣布：通用机器人公司 Genesis AI 完成由 Premji Invest、Khosla Ventures 与 Eclipse 联合领投的 5 亿美元 A 轮，投后估值 35 亿美元，用于把旗舰机器人 Eno 规模化部署",
+    "category": "硬件与端侧",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "全栈自研：用带力觉传感器的手套和头显，向全球 100 多名一线工人采集力与视觉数据，训练自有基础模型 GENE，再在 Genesis World 仿真里试技能，最后装到自研通用机器人 Eno 上。手的尺寸按人手比例设计，以便把手套数据一对一映射到机器人。公司总部在巴黎，并在伦敦和加州圣卡洛斯设有办公室；计划先做制造、物流和实验室，再进入酒店、医疗和消费场景",
+    "metrics": [
+      {
+        "label": "融资与估值（官方公布）",
+        "value": "Genesis AI 于 2026-11-17 09:00 ET 通过 PR Newswire 宣布完成 5 亿美元 A 轮，投后估值 35 亿美元，由 Premji Invest、Khosla Ventures 与 Eclipse 联合领投；参与方包括 Durable Capital Partners、T. Rowe Price Associates 顾问账户、Bpifrance、HSG、NVIDIA、AMD Ventures、Zoom、Samsung Next、Ericsson，以及前谷歌 CEO 埃里克·施密特、Zoom CEO 袁征、杨致远、格扎维埃·尼尔、前特斯拉 CFO Zach Kirkhorn 等个人投资者。官方称资金将用于扩大数据采集与大规模训练、攻关人类水平的物理操控，并把 Eno 规模化交给客户。TechCrunch 称公司 2025 年 7 月宣布过 1.05 亿美元种子轮",
+        "source_type": "官方公布",
+        "source_url": "https://www.prnewswire.com/news-releases/genesis-ai-raises-500m-series-a-at-3-5b-valuation-to-master-human-level-dexterity-in-general-purpose-robots-and-deploy-at-scale-302941249.html"
+      },
+      {
+        "label": "样机与客户（媒体采访）",
+        "value": "TechCrunch 在硅谷场地观看机械臂完成装箱、封箱、贴标演示：第一遍顺利，第二遍出现箱子失手、标签难揭下的情况。公司称已制造 30 至 40 台 Eno，已选定美国量产代工厂、计划明年开工，并正在与少数未具名客户做试点；CEO 还对记者表示，灵巧手在常规工作下只能坚持数周就需要更换。Eno 本体当天未做演示",
+        "source_type": "媒体报道",
+        "source_url": "https://techcrunch.com/2026/11/17/genesis-ai-raises-500-million-to-deploy-electric-glove-wearing-robots/"
+      }
+    ],
+    "why_it_works": "许多人形机器人公司把“看起来像人”和通用模型放在前面，Genesis 先卡在灵巧操作的数据上：让工人戴同一副力觉手套干活，再把这套力与动作一对一搬到机器人手上。全栈自研让它能把硬件寿命、仿真和模型放在同一个迭代环里，这也是 5 亿美元 A 轮能按 35 亿美元估值卖掉的理由。不过实验室演示和“可全天工作的量产机”之间，还隔着手会坏、客户没具名这一层。",
+    "takeaway": "窗口内金额和估值仅次于 Isomorphic 的一条新案，卖点是灵巧操作和全栈闭环，而不是又一个会走路的人形。但公开可见的仍是场地演示和数十台样机，灵巧手寿命只有数周，客户也未具名。下一看美国代工厂明年能否真正开工，以及试点会不会变成可核对的付费部署。",
+    "innovation_score": 4,
+    "business_score": 4,
+    "tags": [
+      "融资",
+      "独角兽",
+      "具身智能",
+      "灵巧操作",
+      "通用机器人"
+    ],
+    "website": "https://genesis.ai/",
+    "sources": [
+      "https://www.prnewswire.com/news-releases/genesis-ai-raises-500m-series-a-at-3-5b-valuation-to-master-human-level-dexterity-in-general-purpose-robots-and-deploy-at-scale-302941249.html",
+      "https://techcrunch.com/2026/11/17/genesis-ai-raises-500-million-to-deploy-electric-glove-wearing-robots/"
+    ],
+    "uncertain_points": "35 亿美元为官方公布的投后估值，未见独立财务审计。已造 30–40 台 Eno、少数未具名试点客户、灵巧手仅能工作数周、明年美国代工开工等，均来自公司对 TechCrunch 的口述或演示现场，部署数量、合同和收入未披露。官方新闻稿称 GENE 是“业内最先进的机器人大脑”、已实现“人类水平的物理操控”，这是公司自评，记者在第二遍演示中看到了失手。公司官网域名以新闻稿为准。"
+  },
+  {
+    "id": "model-ml-250m-series-b-1-5b-banking-agents",
+    "date_collected": "2026-11-18",
+    "status": "new",
+    "type": "both",
+    "name": "Model ML",
+    "one_liner": "官方 11 月 17 日宣布：伦敦金融 AI 公司 Model ML 完成由 General Atlantic 与 QED Investors 联合领投的 2.5 亿美元 B 轮，估值 15 亿美元，累计融资 3.5 亿美元；公司称 2026 年三季度 ARR 同比增至 12 倍、日活用户增至 26 倍",
+    "category": "法律金融",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "给投行、咨询和资管人员配备接入公司内部系统与数据的个人 AI Agent，在 Excel、PowerPoint 和现有工作流里自动更新模型、撰写尽调材料和路演材料。公司强调可部署在客户自己的基础设施内，客户数据不用于训练模型；并自称不绑单一模型供应商，会按质量、速度和成本把任务路由到最合适的模型，越来越多工作跑在自研微调的开源模型上。总部位于伦敦，今年已在巴黎、马德里、东京、新加坡和迪拜开设办公室",
+    "metrics": [
+      {
+        "label": "融资与增长（官方公布）",
+        "value": "Model ML 于 2026-11-17 宣布完成 2.5 亿美元 B 轮，估值 15 亿美元，由 General Atlantic 与 QED Investors 联合领投，Evolution Equity Partners、Airtree、Forestay Capital、Y Combinator、FT Partners、Latitude、Inception Fund 和 13Books Capital 参与，累计融资 3.5 亿美元。官方称 2026 年三季度年经常性收入同比增至 12 倍，日活用户增至 26 倍；并称已通过 ISO/IEC 27001:2022 认证和 SOC 2 Type II 审计。上轮是 2025 年 11 月由 FT Partners 领投的 7500 万美元 A 轮。绝对 ARR、客户名单和付费座位数未披露",
+        "source_type": "官方公布",
+        "source_url": "https://modelml.com/articles/model-ml-raises-250-million-at-1.5-billion-valuation-18-months-after-launching-from-stealth"
+      },
+      {
+        "label": "模型成本与产品定位（官方公布，TechCrunch 转述）",
+        "value": "官方称，在其自研微调开源模型所处理的工作负载上，运行成本约为前沿模型的 2%，多数情况下速度快五倍，准确率可达到或超过前沿模型。TechCrunch 确认本轮估值与联合领投方，并称公司 Agents 可在消息影响分析时自动更新财务模型和演示文稿。具名银行或咨询客户仍未公布",
+        "source_type": "官方公布",
+        "source_url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/"
+      }
+    ],
+    "why_it_works": "投行和咨询最耗时间的不是再写一段分析，而是把模型和幻灯片一直对齐到最新消息。Model ML 把 Agent 嵌进客户已经在用的 Excel 和内部系统，又用开源微调模型把推理成本压下来，让“每个银行家配一个私人助手”在费用上说得通。三季度 ARR 同比 12 倍、日活 26 倍，说明它已经不只是试点工具；但绝对收入和客户名单仍藏着，15 亿美元估值还需要对上更硬的数字。",
+    "takeaway": "在今天几条大额融资里，Model ML 是少数同时给出估值、累计融资和 ARR 增速的公司，场景也足够具体。但 12 倍是相对增速，不是绝对 ARR，客户全是“全球大型机构”这种匿名口径，2% 成本和五倍速度也只针对自有开源模型覆盖的那部分任务。下一看能否公布具名银行客户，以及绝对 ARR 能不能支撑 15 亿美元估值。",
+    "innovation_score": 3,
+    "business_score": 4,
+    "tags": [
+      "融资",
+      "估值",
+      "ARR",
+      "投行",
+      "金融Agent"
+    ],
+    "website": "https://www.modelml.com/",
+    "sources": [
+      "https://modelml.com/articles/model-ml-raises-250-million-at-1.5-billion-valuation-18-months-after-launching-from-stealth",
+      "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
+      "https://www.generalatlantic.com/media-article/model-ml-raises-250-million-at-1-5-billion-valuation-18-months-after-launching-from-stealth/"
+    ],
+    "uncertain_points": "15 亿美元估值为公司官方公布，未见独立审计。官方只给出 2026 年三季度 ARR 同比增至 12 倍、日活增至 26 倍，未披露绝对 ARR、起始基数、客户名单和付费座位数。开源微调模型“成本约为前沿模型的 2%、多数情况快五倍、准确率可达到或超过前沿模型”仅适用于其所处理的工作负载，是公司自评，未见独立评测。QED 管理合伙人所谓“已深度嵌入一些全球最大机构”，同样没有具名客户。"
+  },
+  {
+    "id": "remanence-30m-seed-owned-agent-models",
+    "date_collected": "2026-11-18",
+    "status": "new",
+    "type": "innovative",
+    "name": "Remanence",
+    "one_liner": "投资方 11 月 17 日宣布：把企业 Agent 执行轨迹做成自有模型的 Remanence 完成由 FirstMark 与 EQT Ventures 联合领投的 3000 万美元种子轮，服务法律、客服和企业软件客户",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "接到企业现有 AI 模型上，把工具调用、失败和人工纠正等执行轨迹做成训练环境，再用强化学习对开源权重做后训练，让客户得到可不断改进、且权重归自己所有的专用模型。平台覆盖轨迹分析、环境合成、长程强化学习和推理，可托管也可跑在客户云内。创始团队来自法国计算机使用模型实验室 H Company，曾参与开源 Holo 模型的后训练",
+    "metrics": [
+      {
+        "label": "融资（投资方公布）",
+        "value": "FirstMark 于 2026-11-17 发文称，联合 EQT Ventures 领投 Remanence 的 3000 万美元种子轮，参与方包括 Zero Prime、Emblem、Drysdale、Global Founders Capital 和 Yellow；个人投资人包括 Datadog 联合创始人兼 CEO Olivier Pomel、Mirakl 联合创始人兼 CEO Philippe Corrot、Pigment 联合创始人 Romain Niccoli、Synthesia 联合创始人 Victor Riparbelli 与 Steffen Tjerrild，以及 AI71 的 Mehdi Ghissassi。资金将用于研究和计算基础设施（含专用 GPU 集群），并继续建设强化学习环境、评测和后训练。估值未披露。Axios、Sifted 与 EQT 官方故事均确认本轮",
+        "source_type": "投资方公布",
+        "source_url": "https://firstmark.com/story/intelligence-that-compounds-why-we-co-led-remanences-30m-seed/"
+      },
+      {
+        "label": "客户方向（投资方转述）",
+        "value": "FirstMark 称，团队已在欧洲和美国与法律、客户支持和软件企业的客户合作。客户名单、付费情况和效果数据均未披露。公司官网为 remanencelabs.ai",
+        "source_type": "投资方公布",
+        "source_url": "https://firstmark.com/story/intelligence-that-compounds-why-we-co-led-remanences-30m-seed/"
+      }
+    ],
+    "why_it_works": "企业现在为每次 Agent 调用付的是通用模型的租金，而真正有价值的是这些调用留下的对错记录。Remanence 把这笔通常被丢掉的执行数据收成后训练环境，让客户最后拥有自己的模型权重，而不是下个季度再去买更贵的通用智能。创始团队在 H Company 做过计算机使用模型的后训练，这让“把实验室里的长程 RL 卖给企业”至少听起来不像从零讲故事。",
+    "takeaway": "这是窗口里最把“别只租模型、要把轨迹变成自有智能”说清楚的一条种子轮。但客户仍匿名，也还没有公开的准确率、成本和时延对比。下一看法律和客服场景会不会出现可核对的付费案例，以及专用 GPU 集群建成后，后训练是不是真能在客户自己的云里闭环。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": [
+      "融资",
+      "种子轮",
+      "强化学习",
+      "企业模型",
+      "Agent轨迹"
+    ],
+    "website": "https://www.remanencelabs.ai/",
+    "sources": [
+      "https://firstmark.com/story/intelligence-that-compounds-why-we-co-led-remanences-30m-seed/",
+      "https://stories.eqtventures.com/articles/own-don%E2%80%99t-rent-ai-why-we-co-led-remanence%E2%80%99s-30m-seed-round",
+      "https://www.axios.com/pro/all-deals/2026/11/17/remanence-30m-ai-model-training"
+    ],
+    "uncertain_points": "未见公司自己的新闻稿，本轮细节以 FirstMark、EQT 等投资方文章及 Axios、Sifted 报道为准。估值、收入和合同未披露。所谓已在欧美好法律、客服和企业软件客户合作，没有具名客户或效果数据。团队在 H Company“刷新计算机使用基准”的表述来自投资方文章，需以当时公开基准为准。"
+  },
+  {
+    "id": "voyage-labs-12m-seed-atlas-travel-agent",
+    "date_collected": "2026-11-18",
+    "status": "new",
+    "type": "innovative",
+    "name": "Voyage Labs",
+    "one_liner": "官方 11 月 17 日宣布：由前 Google Maps 产品负责人和前 Uber CPO 创立的 Voyage Labs 完成由 Kleiner Perkins 领投的 1200 万美元种子轮，垂直旅行 Agent Atlas 已进入私人测试并开始代订行程",
+    "category": "其他",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "做垂直旅行与本地出行的个人 Agent Atlas：在 iMessage 和网页里对话规划，通过供应商合作直接预订机票、酒店和体验，而不是只回链接；下线后由 NightWatch 继续盯价格、空房和航班变动。官方称产品背后有三个 Agent：与用户对话的 Live Agent、主动盯变化的 Proactive Agent，以及在没有 API 的网站上操作、生成抵达指南和行程的 Computer Agent。目前以私人测试和等候名单开放",
+    "metrics": [
+      {
+        "label": "融资与使用（官方公布）",
+        "value": "Voyage Labs 于 2026-11-17 11:00 ET 通过 PR Newswire 宣布完成 1200 万美元种子轮，由 Kleiner Perkins 领投，SignalFire、SV Angel 以及 Google Earth 联合创造者 Brian McClendon、Lenny Rachitsky、Notion 联合创始人 Akshay Kothari、Skyflow 联合创始人 Anshu Sharma 等天使参与。资金用于扩展机票、住宿、餐饮和体验的供应商合作，并扩充工程团队。官方称自 alpha 开放以来，Atlas 已有数千名用户在规划和预订真实行程，使用量按月复利增长。付费模式和收入未披露。TechCrunch 确认本轮并称 Atlas 仍为私人测试",
+        "source_type": "官方公布",
+        "source_url": "https://www.prnewswire.com/news-releases/voyage-labs-raises-12m-to-build-atlas-a-personal-ai-agent-that-helps-people-experience-more-of-the-world-302941872.html"
+      }
+    ],
+    "why_it_works": "通用助手把旅行当成演示，真正难的是跨过“灵感”去改签、盯价和落订。Voyage 选了足够垂直的场景，又由做过 Google Maps 和 Uber 的人来拼供应商和信任链路，让 Agent 活在 iMessage 里，而不是再做一个旅游搜索框。数千名 alpha 用户已经在真实预订，说明它至少走出了演示；但和 Muse、Gemini 抢同一个入口，还要看供应商深度能不能变成差异。",
+    "takeaway": "这是一条产品形态清楚、创始人履历也匹配的旅行 Agent 种子轮，但“数千用户”和“使用量按月复利”都还是公司口径，没有公开转化率或收入。下一看私人测试转公测后，预订是走深合作还是仍大量靠网页操作，以及用户会不会在通用助手里直接把行程订掉。",
+    "innovation_score": 3,
+    "business_score": 3,
+    "tags": [
+      "融资",
+      "种子轮",
+      "旅行Agent",
+      "个人助手",
+      "私人测试"
+    ],
+    "website": "https://atlas.voyagelabs.ai/",
+    "sources": [
+      "https://www.prnewswire.com/news-releases/voyage-labs-raises-12m-to-build-atlas-a-personal-ai-agent-that-helps-people-experience-more-of-the-world-302941872.html",
+      "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/"
+    ],
+    "uncertain_points": "“数千名用户规划并预订真实行程”“使用量按月复利增长”均为公司新闻稿口径，未披露准确用户数、预订量和收入。新闻稿称“71% 的美国旅行者已用 AI 寻找行程灵感”，未在稿中注明调研来源。Atlas 仍为私人测试和等候名单，商业模式（订阅、佣金或兼有）尚未公开说明。"
+  },
+  {
+    "id": "pedestal-ai-4-7m-seed-supply-chain-agents",
+    "date_collected": "2026-11-18",
+    "status": "new",
+    "type": "both",
+    "name": "Pedestal AI",
+    "one_liner": "官方 11 月 17 日出隐身：供应链 Agent 公司 Pedestal AI 完成由 Eclipse 领投的 470 万美元种子轮；公司称已为财富 500 电商客户每日拨打数千通电话，漏件率下降 20%",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "在供应链和物流的遗留系统之上部署 Agent，把分散、经常变动的数据与一线人员的操作知识合在一起，处理配送协调、订单写入 ERP、海关与运单咨询等具体事务。联合创始人兼 CEO Raj Aggarwal 曾任 AWS 生成式 AI 总经理，并与联合创始人一起创办过 Localytics。总部位于波士顿",
+    "metrics": [
+      {
+        "label": "融资与部署效果（官方公布）",
+        "value": "Pedestal AI 于 2026-11-17 11:00 ET 通过 PR Newswire 宣布出隐身并完成 470 万美元种子轮，由 Eclipse 领投，RRE、Converge VC、Timescale VC 和 VitalStage Ventures 参与。官方称，一家财富 500 电商客户用其 Agent 每天拨打数千通协调配送的电话，漏件率下降 20%；包括“北美最大图书印刷商”在内的制造客户用其把订单写入 ERP，处理时间减少 90%；一家全球航运公司则用它在网站上直接回答客户的海关和运输问题。客户法定名称、合同和收入未披露。TechCrunch 确认本轮，并把漏件率下降 20% 的案例写作“一家大型家具公司”",
+        "source_type": "官方公布",
+        "source_url": "https://www.prnewswire.com/news-releases/pedestal-ai-emerges-from-stealth-to-bring-ai-agents-into-real-world-supply-chain-and-logistics-operations-302941966.html"
+      }
+    ],
+    "why_it_works": "供应链试点常卡在数据又散又脏、规则写在老员工脑子里。Pedestal 不先推客户换系统，而是让 Agent 直接在遗留数据上干活，并用漏件、订单处理时长这种财务部门听得懂的指标来证明费用。出隐身就带着财富 500 和航运、制造的部署故事，比一条纯技术种子轮更接近能卖的产品。",
+    "takeaway": "种子轮金额不大，但已经给出可核对方向的业务指标，这是今天较小轮次里比较扎实的一条。不过客户都未具名，20% 和 90% 也只出自公司新闻稿，TechCrunch 对同一案例的行业描述还和官方不完全一致。下一看这些试点会不会变成具名、可复核的长期合同。",
+    "innovation_score": 3,
+    "business_score": 3,
+    "tags": [
+      "融资",
+      "种子轮",
+      "出隐身",
+      "供应链",
+      "物流Agent"
+    ],
+    "website": "https://www.pedestal.ai/",
+    "sources": [
+      "https://www.prnewswire.com/news-releases/pedestal-ai-emerges-from-stealth-to-bring-ai-agents-into-real-world-supply-chain-and-logistics-operations-302941966.html",
+      "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/"
+    ],
+    "uncertain_points": "漏件率下降 20%、订单处理时间减少 90%、每日数千通电话等效果数据均为公司新闻稿口径，未见独立审计。财富 500 电商、北美最大图书印刷商、全球航运公司均未具名。TechCrunch 将漏件率案例写成“一家大型家具公司”，与官方“财富 500 电商”的表述不完全一致，无法从公开材料判断是否为同一家客户。"
+  },
+  {
+    "id": "pretxt-5m-seed-runtime-agent-supervision",
+    "date_collected": "2026-11-18",
+    "status": "new",
+    "type": "innovative",
+    "name": "Pretxt",
+    "one_liner": "11 月 17 日出隐身：运行时监督 AI Agent 的 Pretxt 完成由 Deciens Capital 领投的 500 万美元种子轮，产品已开放早期访问，并以非 LLM 评判的确定性引擎在动作发生时拦截违规",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "提供一层运行时“AI Supervision”：对照企业自己的政策和边界，在 Agent 执行过程中检查动作，发现偏离就当场纠正或暂停并升级给人工，而不是事后再告警，也不再用第二个大模型当法官。公司称该近确定性引擎可在毫秒级完成评估，速度最高约为 LLM-as-a-Judge 方案的 60 倍。联合创始人 Brian Soby 与 Aaron Costello 来自 SaaS 安全公司 AppOmni，目标客户是金融、保险、医疗和客服等高风险行业。产品目前为早期访问",
+    "metrics": [
+      {
+        "label": "融资与产品（媒体报道官方宣布）",
+        "value": "SiliconANGLE 于 2026-11-17 报道，Pretxt 当天出隐身并完成 500 万美元种子轮，由 Deciens Capital 领投，Howdy Partners、Service Provider Capital 和 NSV Wolf Capital 参与。官方新闻稿发布于 BusinessWire（20261117322271）。SecurityWeek 亦确认本轮与产品定位。估值、收入和付费客户未披露",
+        "source_type": "媒体报道",
+        "source_url": "https://siliconangle.com/2026/11/17/with-5m-in-funding-pretxt-launches-runtime-oversight-layer-to-supervise-ai-agents-in-real-time/"
+      },
+      {
+        "label": "基准测试（媒体转述公司）",
+        "value": "SiliconANGLE 转述，公司在 Zapier 的 AutomationBench 测试中称，可将 Agent 策略违规从约五分之一降至零，并称其引擎比基于 LLM 评判的安全工具最快约 60 倍。上述结果为公司自行测试，未见独立复现。产品现已提供早期访问",
+        "source_type": "媒体报道",
+        "source_url": "https://siliconangle.com/2026/11/17/with-5m-in-funding-pretxt-launches-runtime-oversight-layer-to-supervise-ai-agents-in-real-time/"
+      }
+    ],
+    "why_it_works": "企业把 Agent 从写邮件推进到退款、改库存之后，最怕的不是模型不够聪明，而是它在运行中悄悄绕开规则。Pretxt 不用第二个大模型去“评”，而是用更快的近确定性引擎在动作发生时拦截，既避开延迟和算力成本，也更适合金融、医疗这种不能事后补救的场景。创始人在 AppOmni 时期挖过 Salesforce 和 ServiceNow 的 Agent 漏洞，这让“运行时监督”不像凭空造一个品类名词。",
+    "takeaway": "Agent 安全正在从提示词和权限表，转向运行中能不能把违规动作拦住。Pretxt 的方向清楚，但目前只有公司自己的基准数字和早期访问，还没有具名客户。下一看 AutomationBench 上的“违规降到零”能否被独立复现，以及高风险行业会不会出现可核对的付费部署。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": [
+      "融资",
+      "种子轮",
+      "出隐身",
+      "Agent安全",
+      "运行时监督"
+    ],
+    "website": "https://pretxt.ai/",
+    "sources": [
+      "https://www.businesswire.com/news/home/20261117322271/en/Pretxt-Emerges-from-Stealth-to-Pioneer-AI-Supervision-a-New-Category-for-Enterprise-AI",
+      "https://siliconangle.com/2026/11/17/with-5m-in-funding-pretxt-launches-runtime-oversight-layer-to-supervise-ai-agents-in-real-time/",
+      "https://www.securityweek.com/pretxt-emerges-stealth-with-5m-seed-and-an-ai-supervision-tool/"
+    ],
+    "uncertain_points": "本轮细节目前主要转引自 SiliconANGLE 与 SecurityWeek 对官方宣布的报道；BusinessWire 原文链接已确认，但抓取时遇到访问限制，部分措辞以媒体转述为准。估值、收入和客户名单未披露。AutomationBench 上将策略违规从约五分之一降至零、以及比 LLM 评判最快约 60 倍，均为公司自行测试，未见独立复现。产品仍为早期访问。"
+  },
+  {
+    "id": "neuxmind-stardust-hundreds-of-millions-cny-series-b-agent-worker",
+    "date_collected": "2026-11-18",
+    "status": "new",
+    "type": "both",
+    "name": "星尘浩宇（NeuxMind.AI）",
+    "one_liner": "投中网 11 月 17 日独家、钛媒体同日称公司宣布：企业级 AI Worker 公司星尘浩宇完成由赛泽资本领投的数亿元人民币 B 轮；创始人自述去年营收在一亿元量级、今年已翻倍",
+    "category": "企业服务",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "把 Agent Worker 当成可派遣的“AI 员工”按结果收费（RaaS）：用企业自有数据做后训练，在自研“神兽 Agent OS”上构建场景模型，再进入金融审核、政务和出海企业的获客与投放等岗位。国内更偏向与生态伙伴合作做基础能力，海外则直接做本地化交付；并计划并购一家机器人公司作为物理 AI 班底，做端侧大脑而非本体。创始人张磊为四度创业，公司成立于 2021 年",
+    "metrics": [
+      {
+        "label": "融资（媒体报道）",
+        "value": "投中网 2026-11-17 14:14 以“独家获悉”报道，星尘浩宇（NeuxMind.AI）已完成数亿元人民币 B 轮，赛泽资本领投，美元及人民币股东跟投。钛媒体 17:04 快讯称公司宣布完成本轮，资金将投入企业级 AI 大脑、物理智能与全球服务体系。精确金额和估值未披露。截至收录时，公司官网新闻中心尚未挂出本轮稿件",
+        "source_type": "媒体报道",
+        "source_url": "https://www.chinaventure.com.cn/news/80-20261117-394085.html"
+      },
+      {
+        "label": "收入与部署（创始人自述 / 媒体转述公司）",
+        "value": "投中网引述创始人张磊：去年营收还在一亿元量级，今年已经翻了一倍，并预计未来几年每年翻番；海外一家银行曾让 200 多名信贷和信用卡审核员与 AI 一起上岗，最后只留下约 20 人，该行约有两万多名员工，管理层目标是到 2030 年把人数压到 5000 人。钛媒体转述公司披露：金融审核智能体已在“某主要市场最大零售银行”连续运行 300 余天，累计节省数百万美元运营成本；海外业务带动国产 AI 算力服务器出海，形成超亿元海外收入。银行名称、合同和经审计财报均未公开",
+        "source_type": "创始人自述",
+        "source_url": "https://www.tmtpost.com/nictation/8208427.html"
+      }
+    ],
+    "why_it_works": "很多 Agent 平台只能讲“提效”，讲不清楚这笔费用怎么进客户的账。星尘浩宇把产品改叫 AI 员工，并按省下的成本或带来的增量收入收费，还把审核这种结果可对账的岗位作为第一战场。海外银行连续跑过 300 天、创始人又给出营收翻倍的说法，让这条 B 轮不只是故事；但客户匿名、官网未发稿，数字仍然只能算公司自己报的账。",
+    "takeaway": "这是今天中国侧同时有融资和营收口径的一条，场景也落在可衡量的审核岗位上。但融资金额只写数亿元，营收、节省成本和人员替代故事都来自创始人或公司转述，官网新闻中心还没有对应稿件。下一看官方是否补发公告，以及那家匿名银行会不会被具名、营收能否被更硬的披露验证。",
+    "innovation_score": 3,
+    "business_score": 4,
+    "tags": [
+      "融资",
+      "企业Agent",
+      "按效付费",
+      "金融审核",
+      "全球化"
+    ],
+    "website": "https://neuxmind.com/zh-CN",
+    "sources": [
+      "https://www.chinaventure.com.cn/news/80-20261117-394085.html",
+      "https://www.tmtpost.com/nictation/8208427.html"
+    ],
+    "uncertain_points": "B 轮金额仅写“数亿元”，估值和完整投资人名单未披露。公司官网新闻中心截至收录时未见本轮公告，目前以投中网“独家获悉”和钛媒体转述“公司宣布”为准。去年营收一亿元量级、今年翻倍、超亿元海外收入、审核岗从 200 多人减到约 20 人、累计节省数百万美元等，均为创始人自述或公司披露，未见经审计财报或具名客户。物理 AI 并购仍是计划，产品预计明年上半年推出，不是本轮已完成的交易。"
+  },
+  {
+    "id": "autolife-robotics-100m-cny-pre-a-plus-embodied-world-model",
+    "date_collected": "2026-11-18",
+    "status": "new",
+    "type": "innovative",
+    "name": "智动未来（AutoLife Robotics）",
+    "one_liner": "投资界 11 月 17 日报道：服务机器人公司智动未来宣布完成由中美绿色基金领投的亿元级 Pre-A+ 轮交割，广州新产线同步投产；界面新闻写公司于 11 月 16 日宣布交割",
+    "category": "硬件与端侧",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "做具身世界模型驱动的服务机器人，把产品、场景方案、现场部署和长期服务连在一起，先从展会、酒店、文旅、零售等可复用的任务切入。主力交付机型为小智 S3。公司 2023 年底在新加坡创立，现已将总部迁回广州海珠。创始人陈思为博士长期研究具身智能与可变形物体操作，曾参与构建 DaXBench 等仿真评测基准",
+    "metrics": [
+      {
+        "label": "融资与产线（媒体报道公司宣布）",
+        "value": "投资界 2026-11-17 09:58 报道，智动未来（AutoLife Robotics）正式宣布完成 Pre-A+ 轮亿元级融资交割，由中美绿色基金领投，南曦创投联合领投，老股东海珠城发继续加码。这是公司第四轮融资，此前已完成奇绩创坛种子轮、供应链股东领投的天使轮，以及海珠城发领投并超募的 Pre-A 轮，累计股权融资达数亿元。精确本轮金额和估值未披露。资金用于提升广州新产线产能、推进四类场景规模化部署，并继续研发粒子化可微分世界模型。界面新闻快讯写公司于 11 月 16 日宣布完成交割，故本条含 16 日宣布、17 日集中报道的信息",
+        "source_type": "媒体报道",
+        "source_url": "https://news.pedaily.cn/202611/571955.shtml"
+      },
+      {
+        "label": "产能与订单（媒体转述公司）",
+        "value": "投资界称，公司约有 6000 平方米生产基地在建，工程师与博士超过 130 人，在手订单充沛；新产线投产后将以小智 S3 为主要交付机型，把已跑通的服务流程在更多客户现场复用。订单金额、客户名单和交付台数未披露",
+        "source_type": "媒体报道",
+        "source_url": "https://news.pedaily.cn/202611/571955.shtml"
+      }
+    ],
+    "why_it_works": "服务机器人难的不是再做一个会迎宾的外壳，而是现场能不能复用已经跑通的流程，并把世界模型做成可部署的生产能力。智动未来把本轮和广州新产线绑在一起，场景也收在展会、酒店、文旅、零售这几类相对标准的任务上，比空讲“具身世界模型”更接近能出货的生意。",
+    "takeaway": "这是今天中国具身侧少有的、带着新产线投产一起宣布的融资。但“亿元级”“累计数亿元”和“在手订单充沛”都还是模糊口径，客户和台数都没公开。界面新闻与投资界对宣布日期（16 日或 17 日）也不完全一致。下一看小智 S3 在新产线上的实际交付，以及世界模型是否已经进入现场控制，而不只写在研发计划里。",
+    "innovation_score": 3,
+    "business_score": 3,
+    "tags": [
+      "融资",
+      "具身智能",
+      "服务机器人",
+      "世界模型",
+      "产线投产"
+    ],
+    "website": "https://www.autolife.ai/",
+    "sources": [
+      "https://news.pedaily.cn/202611/571955.shtml",
+      "https://www.jiemian.com/article/15339996.html"
+    ],
+    "uncertain_points": "本轮只写“亿元级”，累计股权融资只写“数亿元”，估值未披露。投资界写 11 月 17 日正式宣布完成交割，界面新闻写 11 月 16 日宣布完成交割，公开报道对首次宣布日期不完全一致。“在手订单充沛”没有金额、客户和台数。粒子化可微分世界模型仍是持续研发方向，是否已在交付机型中实际使用，报道未说明。未见公司官网对应新闻稿。"
+  },
+  {
+    "id": "alecto-20m-seed-8m-arr-ai-conveyancing-law-firm",
+    "date_collected": "2026-11-18",
+    "status": "new",
+    "type": "both",
+    "name": "Alecto",
+    "one_liner": "补录 11 月 16 日官方宣布：英国 AI 原生消费律所 Alecto 完成由 Insight Partners 领投的 2000 万美元种子轮；公司称开业八个月内年化收入达 800 万美元，经办房产交易超过 13 亿美元",
+    "category": "法律金融",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "先做英国房产过户（conveyancing）这一项高频消费法律服务：用 AI 加持牌律师，按结果推进案件、用白话解释法律问题，而不是按律师工时计费，目标是把溢价服务卖到更接近大众的价格。创始人 Will Rice 此前创办过抵押贷款金融科技 Gen H。总部在伦敦 Shoreditch，计划 2027 年开启首个海外市场，并扩展到其他消费法律领域",
+    "metrics": [
+      {
+        "label": "融资与收入（官方公布）",
+        "value": "Alecto 于 2026-11-16 宣布完成 2000 万美元种子轮，由 Insight Partners 领投，Firstminute Capital、Blue Lion Global、Andrena Ventures、FJ Labs、Antiportfolio Ventures、Rigby Group、Mishcon de Reya LLP，以及 Octopus Group 创始人 Simon Rogerson、SwiftKey 创始人 John Reynolds 等参与。官方称公司 2025 年 9 月由 Will Rice 创立，开业八个月内年化收入达到 800 万美元，经办房产交易超过 13 亿美元；团队从 2026 年 1 月的 3 人增至目前 85 人。估值未披露。Axios 于 11 月 16 日亦报道本轮。该宣布落在昨日窗口，本次补录",
+        "source_type": "官方公布",
+        "source_url": "https://alectolegal.com/press/alecto-raises-20m-seed-round"
+      }
+    ],
+    "why_it_works": "消费法律长期按律师的时间收费，客户买的却是过户办成这件事。Alecto 只先做英国房产过户，把流程做成可规模化的服务，再用 AI 推动进度和解释条款，让持牌律师去处理真正需要判断的部分。八个月做到 800 万美元年化收入、经办交易超过 13 亿美元，说明这个切口已经有人付钱，而不是先讲“AI 律师”再找场景。",
+    "takeaway": "补录进来，是因为这是窗口前后少见的、种子轮就同时给出年化收入和交易规模的 AI 法律服务公司。但“年化收入”不等于经审计的经常性收入，13 亿美元是经办交易额不是公司收入，付费结构和利润也未披露。下一看它能否在英国过户市场拿到可核对的份额，以及 2027 年出海时这套模式能不能复制。",
+    "innovation_score": 3,
+    "business_score": 5,
+    "tags": [
+      "融资",
+      "种子轮",
+      "法律科技",
+      "年化收入",
+      "房产过户"
+    ],
+    "website": "https://alectolegal.com/",
+    "sources": [
+      "https://alectolegal.com/press/alecto-raises-20m-seed-round",
+      "https://www.axios.com/pro/all-deals/2026/11/16/ai-native-law-firm-alecto-20m"
+    ],
+    "uncertain_points": "官方写的是开业八个月内年化收入 800 万美元（annualised revenue），并未说明这是经常性订阅收入、按案件收费的年化推算，还是经审计数字；也未披露利润和平均客单价。经办房产交易超过 13 亿美元是交易标的规模，不是 Alecto 的收入。估值未披露。团队“合计超过 500 年法律经验”为公司口径。"
+  },
+  {
+    "id": "kotoba-acquired-by-elevenlabs-japanese-voice-ai",
+    "date_collected": "2026-11-18",
+    "status": "new",
+    "type": "profitable",
+    "name": "Kotoba（被 ElevenLabs 收购）",
+    "one_liner": "补录 11 月 16 日官方宣布：语音 AI 公司 ElevenLabs 收购日本语音实验室 Kotoba，交易预计 2026 年四季度晚些时候完成；日经亚洲称作价超过 1 亿美元，官方未公布对价",
+    "category": "客服销售",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "Kotoba 由研究者 Kojima Noriyuki（Nori）与 Kasai Jungo 于 2023 年在日本创办，语音模型 Koto 覆盖日语语音合成、识别和同声传译，已被包括 Salesforce 在内的企业用于 Agentforce Voice 的日语对话。ElevenLabs 希望借此把语音交互做进日本市场，并计划在当地扩充销售和基础设施。这是 ElevenLabs 在日本的首笔收购，仍须完成监管批准与交割条件",
+    "metrics": [
+      {
+        "label": "收购（官方公布）",
+        "value": "ElevenLabs 于 2026-11-16 在官方博客宣布收购 Kotoba，稿件最后更新于 11 月 17 日。官方称交易预计于 2026 年四季度晚些时候完成，尚须获得惯常的监管批准并满足交割条件。官方未披露对价、付款方式和估值。Kotoba 官方新闻页亦确认加入 ElevenLabs。该宣布落在昨日窗口，本次补录",
+        "source_type": "官方公布",
+        "source_url": "https://elevenlabs.io/blog/kotoba"
+      },
+      {
+        "label": "对价（媒体估算）",
+        "value": "日经亚洲报道称，这笔交易作价超过 1 亿美元。Music Business Worldwide 等后续报道沿用这一媒体估算。ElevenLabs 与 Kotoba 的官方稿件均未确认该数字",
+        "source_type": "媒体估算",
+        "source_url": "https://asia.nikkei.com/business/business-deals/us-voice-ai-developer-elevenlabs-to-buy-japanese-focused-peer-kotoba"
+      }
+    ],
+    "why_it_works": "日语的敬语、省略和“读空气”让通用语音模型很难直接用在客服和坐席里。Kotoba 先把日语语音做深，并已经进到 Salesforce 的 Agentforce Voice，ElevenLabs 要进日本市场，买的是现成的模型和本地团队，而不是再从零训练一套口音。对观察站来说，这是一条已经有企业采用、又以收购完成商业化的语音案例；只是对价还只能引用媒体估算。",
+    "takeaway": "补录这条，是因为官方收购已经宣布，而且有具名企业客户。但交易尚未交割，对价只有日经的“超 1 亿美元”估算，官方始终没报数字。下一看四季度能否完成交割，以及 Koto 是并入 ElevenLabs 产品栈，还是继续以独立品牌服务日本客户。",
+    "innovation_score": 3,
+    "business_score": 4,
+    "tags": [
+      "收购",
+      "语音AI",
+      "日语",
+      "企业客服",
+      "ElevenLabs"
+    ],
+    "website": "https://site.kotoba.tech/news/kotoba-is-joining-elevenlabs",
+    "sources": [
+      "https://elevenlabs.io/blog/kotoba",
+      "https://site.kotoba.tech/news/kotoba-is-joining-elevenlabs",
+      "https://asia.nikkei.com/business/business-deals/us-voice-ai-developer-elevenlabs-to-buy-japanese-focused-peer-kotoba"
+    ],
+    "uncertain_points": "交易尚未交割，仍取决于监管批准和交割条件。官方未披露对价；“超过 1 亿美元”来自日经亚洲等媒体估算，不是公司确认的数字。除 Salesforce 外，其他“全球领先企业”客户未具名。Koto 在 Agentforce Voice 中的用量和收入贡献未披露。"
+  }
+]
