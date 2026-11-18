@@ -1,0 +1,472 @@
+[
+  {
+    "id": "doubao-work-8m-dau-20b-cny-arr",
+    "date_collected": "2026-11-19",
+    "status": "new",
+    "type": "both",
+    "name": "豆包工作",
+    "one_liner": "11 月 18 日晚间，多家财经媒体引述豆包官方宣布：8 月 25 日上线的办公智能体「豆包工作」日活突破 800 万，企业客户 ARR 突破 20 亿元人民币",
+    "category": "生产力办公",
+    "region": "中国",
+    "team_type": "大公司",
+    "business_model": "字节跳动旗下豆包面向生产力场景的 AI 办公产品及品牌，可围绕用户目标自主执行任务并交付工作成果。8 月 25 日正式发布，11 月 16 日上线「工作台」，首批覆盖金融、医疗、教育、创意设计等 21 个专业场景，并支持用户创建、保存和分享自定义工作台。近期接入 Kimi、GLM、DeepSeek 等第三方模型，并标注不同模型的额度消耗倍率。企业侧按席位与 AI 用量收费，具体价目以官网定价页为准",
+    "metrics": [
+      {
+        "label": "日活与企业 ARR（媒体转述官方公布）",
+        "value": "每日经济新闻 2026-11-18 20:47 以「官方披露」报道，第一财经 21:18、澎湃新闻 21:59 亦称「豆包官方宣布」：上线仅三个月的豆包工作，日活跃用户数（DAU）突破 800 万，企业客户年度经常性收入（ARR）突破 20 亿元。第一财经与澎湃均注明记者署名。截至收录时，未见豆包官网或字节跳动官方博客挂出对应原文，数字以上述媒体对官方宣布的转述为准",
+        "source_type": "媒体报道",
+        "source_url": "https://www.nbd.com.cn/articles/2026-11-18/4651908.html"
+      },
+      {
+        "label": "产品节点（媒体报道）",
+        "value": "每日经济新闻称豆包工作于 2026-08-25 正式发布；并称 11 月 12 日更新后，除豆包 2.1 Lite 和 Pro 外，新增接入 Kimi K3.1 Pro、GLM 5.3、DeepSeek V4.1 Flash 等多款第三方模型。澎湃新闻称 11 月 16 日上线「工作台」功能，首批覆盖 21 个专业场景",
+        "source_type": "媒体报道",
+        "source_url": "https://www.thepaper.cn/newsDetail_forward_34505167"
+      }
+    ],
+    "why_it_works": "办公智能体拼的不是再做一个对话框，而是有没有人愿意天天用、企业愿不愿意付钱。豆包工作把个人日活和企业 ARR 放在同一天公布，等于同时回答了这两个问题：三个月做到 800 万日活，说明它已经进入日常办公；20 亿元企业 ARR 则把「办公 Agent」从试用表推到了可核对的账单。接入多家第三方模型并标出消耗倍率，也降低了只绑自有模型的阻力。和同日腾讯 WorkBuddy 公布的更高日活相比，豆包这条更硬的是收入数字。",
+    "takeaway": "这是窗口内商业信号最完整的一条大公司产品进展：日活和企业 ARR 都被写成「官方宣布」。但它仍然缺少官方原文链接，20 亿元 ARR 的统计口径（席位、用量套餐、是否含渠道或内部结算）也未公开拆分。下一看官方是否补发原帖，以及这 20 亿元能否在后续财报或更完整的披露里被复核。",
+    "innovation_score": 3,
+    "business_score": 5,
+    "tags": [
+      "办公智能体",
+      "企业ARR",
+      "日活",
+      "字节跳动",
+      "多模型"
+    ],
+    "website": "https://www.doubao.com/work",
+    "sources": [
+      "https://www.nbd.com.cn/articles/2026-11-18/4651908.html",
+      "https://www.yicai.com/news/103445658.html",
+      "https://www.thepaper.cn/newsDetail_forward_34505167",
+      "https://www.caixin.com/2026-11-18/102506386.html"
+    ],
+    "uncertain_points": "DAU 800 万与企业客户 ARR 20 亿元目前只见于每日经济新闻、第一财经、澎湃新闻等对「豆包官方宣布」的转述，截至收录时未找到豆包官网或字节跳动官方博客的原始公告，因而无法核对原文措辞和统计时点。ARR 的计算口径（年化方式、是否只含企业订阅、是否包含用量套餐或渠道收入）未披露。财新同日报道腾讯与字节晚间先后披露用户数据，可见部分被付费墙截断，未能从该文独立核对企业 ARR。"
+  },
+  {
+    "id": "tencent-workbuddy-10m-dau-q3-2026",
+    "date_collected": "2026-11-19",
+    "status": "new",
+    "type": "both",
+    "name": "腾讯 WorkBuddy",
+    "one_liner": "腾讯 11 月 18 日公布 2026 年三季报：官方称按大语言模型 token 消耗量计，办公智能体 WorkBuddy 已成为中国使用量最高的 AI 产品，日活超 1000 万、每日合计消耗超 100 万亿 token",
+    "category": "生产力办公",
+    "region": "中国",
+    "team_type": "大公司",
+    "business_model": "腾讯面向日常办公的 AI 智能体，与混元模型家族协同设计，已接入 Hy4、Hy4 flash，并进入腾讯云 TokenHub、元宝、企业微信等产品体系。官方把其作为新 AI 产品之一（与混元、元宝、CodeBuddy、小微并列），并称云服务收入增长部分受 WorkBuddy 以及模型即服务、GPU 租赁需求驱动。面向个人与企业客户，企业版用于办公协同与行业部署",
+    "metrics": [
+      {
+        "label": "日活与用量（官方公布）",
+        "value": "腾讯于 2026-11-18 发布截至 9 月 30 日的 2026 年第三季度业绩。英文新闻稿写明：WorkBuddy became the most used AI product in China, measured by large language model token consumption, with over 10 million DAU collectively consuming over 100 trillion tokens per day, and rapidly increasing enterprise adoption。中文稿表述为：按大语言模型 token 消耗量计，WorkBuddy 已成为中国使用量最高的 AI 产品，每日超千万的用户合计消耗 100 万亿以上 token，企业客户亦快速增长。马化腾在稿中称，按用户每日大语言模型 token 消耗总量，相信 WorkBuddy 已发展成为国内规模最大的 AI 应用",
+        "source_type": "官方公布",
+        "source_url": "https://static.www.tencent.com/website-2026-upload/Tencent-Announces-2026-Third-Quarter-Results-1800-6d9a2a.pdf"
+      },
+      {
+        "label": "云收入贡献（官方公布）",
+        "value": "官方称金融科技及企业服务收入同比增长 9% 至 636.6 亿元，其中云服务收入同比增长 35%，主要反映 AI 相关服务需求上升及国际市场扩张；马化腾称云服务收入增速提升受 WorkBuddy 驱动，以及公司分配了更多算力用于模型即服务和 GPU 租赁。WorkBuddy 本身的收入、ARR 或付费席位数未在财报中单独披露",
+        "source_type": "官方公布",
+        "source_url": "https://www.tencent.com/wp-content/uploads/2026/11/%E8%85%BE%E8%AE%AF%E5%85%AC%E5%B8%83%E4%BA%8C%E9%9B%B6%E4%BA%8C%E5%85%AD%E5%B9%B4%E7%AC%AC%E4%B8%89%E5%AD%A3%E4%B8%9A%E7%BB%A9.pdf"
+      }
+    ],
+    "why_it_works": "腾讯没有把 WorkBuddy 写成又一个聊天入口，而是用 token 消耗和日活来证明它已经成为国内用量最大的办公智能体，并把它和云收入 35% 的增速写进同一份季报。模型与产品一起迭代（Hy4 在 WorkBuddy 上线后很快扩容），再向企业微信和腾讯云延伸，形成的是「自有模型 + 办公入口 + 云交付」的闭环。和豆包工作同日公布的 20 亿元 ARR 相比，WorkBuddy 更清楚的是规模，更含糊的是这门生意本身赚了多少钱。",
+    "takeaway": "这是窗口内少数能直接对上上市公司财报的大公司 AI 应用进展，日活和 token 用量都写进了官方业绩稿。但 WorkBuddy 没有单独的收入或 ARR，「中国使用量最高」的口径是 token 消耗而非用户数或收入，企业客户「快速增长」也没有具体数字。下一看它会不会在后续业绩中拆出收入，以及和豆包工作的办公入口之争会落在用量还是付费上。",
+    "innovation_score": 3,
+    "business_score": 4,
+    "tags": [
+      "办公智能体",
+      "财报",
+      "日活",
+      "Token用量",
+      "腾讯云"
+    ],
+    "website": "https://www.workbuddy.cn/",
+    "sources": [
+      "https://static.www.tencent.com/website-2026-upload/Tencent-Announces-2026-Third-Quarter-Results-1800-6d9a2a.pdf",
+      "https://www.tencent.com/wp-content/uploads/2026/11/%E8%85%BE%E8%AE%AF%E5%85%AC%E5%B8%83%E4%BA%8C%E9%9B%B6%E4%BA%8C%E5%85%AD%E5%B9%B4%E7%AC%AC%E4%B8%89%E5%AD%A3%E4%B8%9A%E7%BB%A9.pdf",
+      "https://www.caixin.com/2026-11-18/102506386.html"
+    ],
+    "uncertain_points": "「中国使用量最高 / 国内规模最大」的官方口径是用户每日大语言模型 token 消耗总量，不是日活或收入第一。WorkBuddy 本身的收入、ARR、付费率和企业客户数未在季报中单独披露；云服务收入同比增长 35% 由多项 AI 相关需求共同驱动，不能把该增速全部记在 WorkBuddy 名下。投资界等转述中还有累计 90 亿次任务请求、覆盖中国 500 强一半等补充数字，未见写入此次官方业绩新闻稿，本条不予采用。"
+  },
+  {
+    "id": "boltz-110m-series-a-biomolecular-design",
+    "date_collected": "2026-11-19",
+    "status": "new",
+    "type": "both",
+    "name": "Boltz",
+    "one_liner": "官方 11 月 18 日宣布：源自 MIT 的生物分子设计公司 Boltz 完成由 Bessemer Venture Partners 领投的 1.10 亿美元 A 轮，并称已与全球 20 家最大药企中的 6 家签约，付费客户分子 token 用量自 6 月来增长 50 倍",
+    "category": "医疗健康",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "伦敦公司，把蛋白质与小分子基础模型做成科学家和 AI Agent 可调用的设计平台 Boltz Lab：提供 API、托管推理、微调以及与 Claude Code、Codex、Gemini 等 Agent 的集成，而不是只把模型锁在自有管线里。2025 年由 MIT CSAIL / Jameel Clinic 开源模型的核心作者创立，2026 年 1 月上线平台，6 月发布自有模型 BoltzMol-1 与 BoltzProt-1。领投方 Bessemer 称开源模型已有超过 500 万次下载、被逾 10 万名科学家使用",
+    "metrics": [
+      {
+        "label": "融资与客户（官方公布）",
+        "value": "Boltz 于 2026-11-18 在官网宣布完成 1.10 亿美元 A 轮，由 Bessemer Venture Partners 领投，Andrew Hedin 与 Byron Deeter 加入董事会观察或投资协作。全部既有投资人跟投，包括 Andreessen Horowitz、Amplify Partners、Zetta Venture Partners 和 Obvious Ventures；新投资人包括 Greycroft、F-Prime Capital、Hummingbird 和 Benchling。官方称已与全球 20 家最大制药公司中的 6 家签约，其中点名辉瑞、GSK、Takeda 和 BMS；自 6 月以来，付费客户的分子 token 处理量增长 50 倍。团队约 40 人。本轮估值和以美元计的收入未披露",
+        "source_type": "官方公布",
+        "source_url": "https://boltz.com/series-a"
+      },
+      {
+        "label": "产品与采用（领投方确认）",
+        "value": "Bessemer 同期撰文确认领投本轮，并称 Boltz 开源模型对照 AlphaFold3 等闭源模型，已被超过 10 万名科学家、数千家生物技术和前 20 大药企使用，下载量超过 500 万次；还称 BoltzMol-1 可把经验证命中的时间从数月降到数周、成本从数十万美元降到低至 1 万美元，BoltzProt-1 命中率接近 BoltzGen 的三倍。上述效果与成本数字为投资人转述公司能力，未见独立临床试验或第三方审计。Endpoints News 亦报道了本轮",
+        "source_type": "官方公布",
+        "source_url": "https://www.bvp.com/news/boltz-building-towards-programmable-molecular-design"
+      }
+    ],
+    "why_it_works": "AI 制药常见的路径是自建管线、把模型藏起来；Boltz 反过来把设计工具卖给科学家和 Agent，用 token 用量当生意。六个前 20 大药企的签约和 50 倍用量增长，说明它至少已经从开源模型的学术声誉走进了付费工作流。MIT 开源时期积累的下载量和信任，降低了药企把计算化学交给外部平台的阻力。",
+    "takeaway": "这是窗口内海外侧同时有大额融资、具名药企客户和用量增速的一条，产品形态也比「再融一轮去做自有管线」更清楚。但估值和美元收入没有公布，50 倍是用量不是收入，命中率与成本下降仍是公司和投资人口径。下一看这些药企合作会不会变成可核对的经常性收入，以及后续模型能否把「电脑上设计」推进到进入临床的分子。",
+    "innovation_score": 5,
+    "business_score": 4,
+    "tags": [
+      "融资",
+      "A轮",
+      "AI制药",
+      "分子设计",
+      "药企合作"
+    ],
+    "website": "https://boltz.com/",
+    "sources": [
+      "https://boltz.com/series-a",
+      "https://www.bvp.com/news/boltz-building-towards-programmable-molecular-design",
+      "https://a16z.com/announcement/investing-in-boltz/"
+    ],
+    "uncertain_points": "本轮估值和以美元计的收入、ARR 未披露。「付费客户分子 token 用量自 6 月增长 50 倍」是官方口径，未给出绝对值。与「全球 20 家最大药企中的 6 家」的合作深度（试用、平台订阅还是联合研究）未说明。Bessemer 所写的命中时间、成本降至 1 万美元、BoltzProt-1 命中率接近三倍等，均为投资人转述，未见独立复现。Endpoints News 报道了本轮，但抓取时返回 403，细节以官网和 Bessemer 原文为准。"
+  },
+  {
+    "id": "brightai-97m-physical-infrastructure-observability",
+    "date_collected": "2026-11-19",
+    "status": "new",
+    "type": "both",
+    "name": "BrightAI",
+    "one_liner": "官方 11 月 18 日宣布：为水电油气等关键基础设施做物理 AI 观测的 BrightAI 完成由 Smith Point Capital 领投的 9700 万美元融资，累计融资 1.84 亿美元；Fortune 引述知情人士称本轮估值 7.50 亿美元",
+    "category": "硬件与端侧",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "用 Stateful 平台把边缘传感器、自主机器人和可穿戴现场副驾组成关键基础设施的观测与行动层，持续监测管道、电杆、压缩机和储罐等资产，发现异常后再调度机器人、无人机或指导现场维修。创始人 Alex Hawkinson 曾创办 SmartThings 并卖给三星。客户包括 GE Vernova、Reworld、Osmose Utilities Services、Azuria Water Solutions 和 Kodiak Gas Services；GE Vernova 已是客户并参与本轮",
+    "metrics": [
+      {
+        "label": "融资（官方公布）",
+        "value": "BrightAI 于 2026-11-18 通过 BusinessWire 宣布完成 9700 万美元融资，由 Smith Point Capital 领投，客户 GE Vernova 以及 Cobalt Capital、Marlinspike Partners、Zero Infinity Partners 参与，既有投资人 Khosla Ventures、Inspired Capital 和 Upfront Ventures 跟投。官方称累计融资达 1.84 亿美元。领投方 Smith Point 同日发文确认领投并复述 9700 万美元金额。官方新闻稿未公布估值",
+        "source_type": "官方公布",
+        "source_url": "https://www.businesswire.com/news/home/20261118838405/en/BrightAI-Announces-%2497-Million-Investment-to-Scale-Physical-AI-Across-the-Worlds-Essential-Services"
+      },
+      {
+        "label": "部署与估值（官方 / 媒体引述知情人士）",
+        "value": "领投方与 Fortune 均称 Stateful 已在超过 5 万个真实运营地点运行。Fortune 2026-11-18 8:00 ET 报道确认本轮事实、投资人名单和具名客户，并引述一名知情人士称本轮估值 7.50 亿美元；该估值不是公司官方数字。Fortune 还引述 Hawkinson：客户平均能在原本可能发生的灾难性故障前 51 天发现问题，新客户导入周期已从两到三年缩短到不到六个月。收入和利润未披露",
+        "source_type": "媒体报道",
+        "source_url": "https://fortune.com/2026/11/18/brightai-alex-hawkinson-physical-ai-unicorn-roman-infrastructure-inspections/"
+      }
+    ],
+    "why_it_works": "水电油气的巡检至今仍大量按日程派人，空跑多、真故障却常发生在两次巡检之间。BrightAI 把传感器和机器人留在现场持续看，再把故障前的时间窗口卖给运营商，场景比「通用人形机器人」更容易对账。GE Vernova 既是客户又进来当战略投资人，说明至少有一家电力装备巨头愿意把这套系统用到自己的业务里，而不只是写一封意向书。",
+    "takeaway": "这是窗口内金额仅次于补录项的一条海外新案，而且有具名客户和 5 万个部署点。但 7.50 亿美元估值只来自知情人士，收入没有公布，51 天预警和 7.5 万亿美元「可避免浪费」都是公司口径。下一看规模化部署能否转化成可披露的经常性收入，以及估值会不会被官方数字替掉。",
+    "innovation_score": 4,
+    "business_score": 4,
+    "tags": [
+      "融资",
+      "物理AI",
+      "基础设施",
+      "工业传感器",
+      "GE Vernova"
+    ],
+    "website": "https://www.bright.ai/",
+    "sources": [
+      "https://www.businesswire.com/news/home/20261118838405/en/BrightAI-Announces-%2497-Million-Investment-to-Scale-Physical-AI-Across-the-Worlds-Essential-Services",
+      "https://www.smithpointcapital.com/news/the-intelligence-layer-for-critical-infrastructure",
+      "https://fortune.com/2026/11/18/brightai-alex-hawkinson-physical-ai-unicorn-roman-infrastructure-inspections/"
+    ],
+    "uncertain_points": "7.50 亿美元估值仅见于 Fortune 引述的知情人士，官方新闻稿和领投方文章均未公布估值。收入、利润和客户合同额未披露。「超过 5 万个运营地点」、故障提前 51 天、导入周期缩短至不到六个月，以及公司估计每年超过 7.5 万亿美元的可避免浪费，均为公司或创始人口径。BusinessWire 原文在抓取时超时，融资金额与投资人名单已与领投方文章和 Fortune 交叉核对。"
+  },
+  {
+    "id": "humyn-labs-47m-series-a-physical-ai-data",
+    "date_collected": "2026-11-19",
+    "status": "new",
+    "type": "both",
+    "name": "Humyn Labs",
+    "one_liner": "官方 11 月 18 日宣布：印度物理 AI 数据公司 Humyn Labs 完成 Accel 领投的 4700 万美元 A 轮（股权 2600 万 + 债权 2100 万）；官网称六个月内年化收入已超 5000 万美元，与创始人对 TechCrunch 的口径并不相同",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "班加罗尔公司，用自研双相机等采集设备在工厂、仓库、农场和家庭记录真人如何完成工作，再把影像处理、标注成机器人与世界模型可训练的数据，卖给前沿 AI 实验室、机器人公司和世界模型开发者。采集网络覆盖拉美和亚洲 20 多个国家，巴西、印度、韩国为主要枢纽。2026 年 2 月由 Manish Agarwal 与 Ishank Gupta 创立",
+    "metrics": [
+      {
+        "label": "融资（官方公布）",
+        "value": "Humyn Labs 于 2026-11-18 在官网宣布完成 4700 万美元 A 轮：其中 2600 万美元股权由 Accel 领投，Prosus Ventures、BeeGlobal、Bajaj Finance 旗下 Finserv Intelligence、Bajaj Alts AI Opportunities Fund、Dallas Venture Capital、Lighthouse Canton、Jump Trading 以及天使投资人 Anita Pramoda 参与；2100 万美元风险投资债由 Lighthouse Canton 领投，Trifecta Capital 参与。TechCrunch 同日确认上述股权与债权结构",
+        "source_type": "官方公布",
+        "source_url": "https://humynlabs.ai/blog/humyn-labs-raises-usd-47m-in-series-a"
+      },
+      {
+        "label": "收入（官方公布 / 创始人采访，口径不一致）",
+        "value": "公司官网称，在运营六个月内年化收入已超过 5000 万美元（USD 50 million in annualised revenue），客户为前沿 AI 实验室、机器人公司和世界模型开发者。TechCrunch 采访中，联合创始人 Agarwal 称 4 月至 10 月已实现 1000 万美元收入，另有 2000 万美元已签署合同，还有 2000 万美元交易尚未敲定；Gupta 称约 90% 的收入来自美国，但拒绝点名客户，并称现有 12 家付费客户。两处口径不能直接相加或等同，详见存疑点",
+        "source_type": "创始人自述",
+        "source_url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/"
+      }
+    ],
+    "why_it_works": "机器人要在家里和工厂里干活，缺的不是又一段仿真视频，而是带标注、可追溯的真人作业数据。Humyn Labs 自己做采集硬件，再把新兴市场的劳动力网络接到美国实验室的订单上，所以能同时讲出付费客户和垫付资金的需求——这也解释了为什么 A 轮里有将近一半是债权。商业信号是清楚的，只是公司自己把收入数字讲成了两套账。",
+    "takeaway": "这是窗口内少数既有大额融资、又有创始人公开收入数字的数据公司，且 90% 收入来自美国、客户已在付费。但官网「六个月年化收入超 5000 万美元」与采访中「4 到 10 月收入 1000 万美元、另有已签和未敲定合同各 2000 万美元」对不上，客户全部匿名。下一看公司用哪一套数字作为对外口径，以及采集场景中的隐私与同意问题会不会成为规模化阻力。",
+    "innovation_score": 3,
+    "business_score": 4,
+    "tags": [
+      "融资",
+      "A轮",
+      "物理AI",
+      "训练数据",
+      "印度"
+    ],
+    "website": "https://humynlabs.ai/",
+    "sources": [
+      "https://humynlabs.ai/blog/humyn-labs-raises-usd-47m-in-series-a",
+      "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/"
+    ],
+    "uncertain_points": "收入口径存在明显不一致：官网写「运营六个月内年化收入超过 5000 万美元」；TechCrunch 采访则写 4 月至 10 月收入 1000 万美元、已签合同 2000 万美元、尚未敲定的交易再 2000 万美元。后三项相加等于 5000 万美元，但「尚未敲定」不能计入已实现或已签约收入，年化算法也未说明。12 家付费客户和约 90% 收入来自美国均为创始人在采访中的说法，客户名单未披露。在家庭等场景采集数据的隐私与同意问题，报道中已提出，但没有独立审计。"
+  },
+  {
+    "id": "unsiloed-ai-7-5m-seed-document-agents",
+    "date_collected": "2026-11-19",
+    "status": "new",
+    "type": "innovative",
+    "name": "Unsiloed AI",
+    "one_liner": "TechCrunch 11 月 18 日报道：把复杂企业文档解析成 Agent 可用结构化数据的 Unsiloed AI 完成由 Felicis 领投的 750 万美元种子轮，已有金融、法律和医疗客户，定价从每页 1 美分起",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "把含表格、图表和复杂版式的企业文档拆开，抽取为 Agent 可用的结构化数据，并回指原文位置以便核对。公司称采用「双流」视觉模型分别处理文本与图像，再用热力图分块把算力集中到数字和图表。联合创始人 Aman Mishra 与 Adnan Abbas 为印度理工学院卡拉格布尔校友，参加 Y Combinator 2025 年秋季批次。总部位于旧金山，团队 7 人。定价从每页 1 美分起",
+    "metrics": [
+      {
+        "label": "融资与客户（媒体报道官方宣布）",
+        "value": "TechCrunch 2026-11-18 4:00 AM PST 报道，Unsiloed AI 完成 750 万美元种子轮，Felicis 领投，Y Combinator、Orange Collective、Uncorrelated Ventures 以及天使投资人 Aarthi Ramamurthy、Beth Turner 参与。Mishra 接受采访称，公司已在金融、法律和医疗行业展业：一家银行用于处理文档，一家律所在自有服务器上处理合同和旧案卷，均未具名；具名客户为语音 AI 创业公司 Bolna AI，用于摄入知识库以构建语音 Agent。估值和收入未披露",
+        "source_type": "媒体报道",
+        "source_url": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/"
+      },
+      {
+        "label": "准确率与基准（媒体转述公司自行测试）",
+        "value": "TechCrunch 转述公司技术简报：在客户提供的 542 份金融文档、约 8.4 万个抽取数据点上，Unsiloed 准确率达 99.78%，并与主流大模型、Microsoft Azure Document Intelligence 及客户自研工具比较；该测试未经独立验证。公司还称在 Allen AI 的 olmOCR-Bench（1403 页 PDF）上自测得分 88.0，高于 Reducto 的 66.0 和 Unstructured 的 39.9。资金将用于招人、拓展销售和建设专有数据集",
+        "source_type": "媒体报道",
+        "source_url": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/"
+      }
+    ],
+    "why_it_works": "Agent 要进银行和律所，先得看懂表格和旧卷宗，还得指出每个数字是从哪一页来的。Unsiloed 把「可追溯的解析」而不是「再封装一个通用模型」当作产品，并给出每页 1 美分的价格，场景比空泛的企业知识库更具体。不过文档解析赛道已经有 Reducto、Unstructured 以及微软和亚马逊，这条种子轮证明的是方向有人买单，还不是它已经赢了。",
+    "takeaway": "这是一条产品形态清楚、已有行业客户和公开定价的种子轮，适合观察「文档解析如何成为 Agent 基础设施」。但除 Bolna AI 外客户匿名，99.78% 准确率和基准得分都是公司自测。下一看会不会出现可核对的付费规模，以及这些数字能否被独立复现。",
+    "innovation_score": 3,
+    "business_score": 3,
+    "tags": [
+      "融资",
+      "种子轮",
+      "文档解析",
+      "企业Agent",
+      "Y Combinator"
+    ],
+    "website": "https://www.unsiloed.ai/",
+    "sources": [
+      "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/"
+    ],
+    "uncertain_points": "本轮目前主要见于 TechCrunch 对创始人采访和官方宣布的报道，未见第二家主流媒体的独立核稿，也未找到公司新闻稿页面。估值和收入未披露。除 Bolna AI 外，银行与律所客户均未具名。99.78% 准确率和 olmOCR-Bench 得分均为公司自行测试，报道已注明未经独立验证。"
+  },
+  {
+    "id": "tesorai-5-3m-seed-life-science-knowledge-layer",
+    "date_collected": "2026-11-19",
+    "status": "new",
+    "type": "innovative",
+    "name": "Tesorai",
+    "one_liner": "官方 11 月 18 日宣布：由前 Google 与 Verily 团队创立的生命科学数据 AI 公司 Tesorai 完成 530 万美元种子轮，累计融资 800 万美元，并称已与生物制药和科研机构签约",
+    "category": "医疗健康",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "圣地亚哥公司，回头处理实验室新实验和公共库里已有的原始数据（尤其是蛋白质组/质谱），做成可搜索、可对比、可给生物学 AI 模型训练的知识层。产品包括处理原始质谱数据的 Tesorai Search、整理公共蛋白质组数据集的 Tesorai Trove，以及用对话或 LLM 连接器做分析的 Tesorai Chat。创始团队来自 Alphabet 旗下 Verily。平台可免费试用",
+    "metrics": [
+      {
+        "label": "融资与进展（官方公布）",
+        "value": "Tesorai 于 2026-11-18 通过 PR Newswire 宣布完成 530 万美元种子轮，累计融资达 800 万美元。投资人包括 Perplexity Fund、IQT、South Central Ventures、New Stack Ventures、NextGen Venture Partners、f7 Ventures、VitalStage Ventures 和 ZAKA。官方称自 pre-seed 以来已与生物制药和科研机构签约，并与 MD Anderson 癌症中心、纽约大学、Michael J. Fox Foundation 等合作，且已获得首项美国专利。合同金额、收入和估值未披露。资金将用于拓展生物制药与科研客户、加大生命科学工具行业合作，并把平台从蛋白质扩展到其他分子数据",
+        "source_type": "官方公布",
+        "source_url": "https://www.prnewswire.com/news-releases/tesorai-raises-5-3-million-to-put-vast-troves-of-untapped-research-data-to-work-302944021.html"
+      },
+      {
+        "label": "科研验证（官方公布）",
+        "value": "官方称，团队在 8 月从五项已发表脑研究的原始数据中重新提取出阿尔茨海默病关键标志物 p-tau217，而原研究均未报告该蛋白，并在约三周后以预印本发布；所对照的阿尔茨海默病面板于 8 月 10 日发表在 JAMA Neurology。另称 8 月一篇预印本显示，加入蛋白质数据后，较小的单细胞 AI 模型在多项基准上可达到或超过仅用 RNA、规模大 40 倍以上的模型。上述均为公司自己的研究披露，不是第三方审计的产品效果",
+        "source_type": "官方公布",
+        "source_url": "https://www.prnewswire.com/news-releases/tesorai-raises-5-3-million-to-put-vast-troves-of-untapped-research-data-to-work-302944021.html"
+      }
+    ],
+    "why_it_works": "生命科学并不缺实验，缺的是把已经做完、却从未被再看一眼的原始数据变成可搜索的证据。Tesorai 不从零生产新实验，而是回到质谱等原始文件里把漏掉的信号捞出来，既给科学家用，也给生物学模型当训练数据。前 Verily 团队和已签约客户让这条种子轮有底座，但商业规模还只停留在「已经签了合同」。",
+    "takeaway": "这是一条方向清楚、有官方新闻稿和科研案例的生命科学数据公司，适合观察「已有实验数据如何被 AI 重新利用」。但合同金额和收入未披露，阿尔茨海默病标志物和模型对比都是公司自己的预印本或内部分析。下一看这些合作会不会变成可核对的经常性收入，以及预印本结论会不会进入同行评审。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": [
+      "融资",
+      "种子轮",
+      "生命科学数据",
+      "蛋白质组",
+      "AI制药"
+    ],
+    "website": "https://www.tesorai.com/",
+    "sources": [
+      "https://www.prnewswire.com/news-releases/tesorai-raises-5-3-million-to-put-vast-troves-of-untapped-research-data-to-work-302944021.html"
+    ],
+    "uncertain_points": "本轮目前主要依据公司 PR Newswire 新闻稿，未见第二家主流媒体的独立核稿。合同金额、收入、客户数量和估值未披露。「已与生物制药和科研机构签约」未给出名单与对价。p-tau217 找回和单细胞模型对比均为公司披露的预印本或内部分析，不是已发表的第三方产品评测。"
+  },
+  {
+    "id": "onex-intelligence-hundreds-of-millions-cny-first-round",
+    "date_collected": "2026-11-19",
+    "status": "new",
+    "type": "innovative",
+    "name": "观壹智能（OneX Intelligence）",
+    "one_liner": "投中网 11 月 18 日首发：交大系生命智能公司观壹智能完成由 IDG 资本领投的首轮数亿元融资，资金用于基础模型、湿实验平台和产业合作验证",
+    "category": "医疗健康",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "做面向生命科学的基础模型，试图连接分子、细胞、组织和疾病表型，形成可推演生命过程的「生命智能」。计划自建湿实验平台，把模型假设和实验反馈闭成环，并与药企、科研机构就具体课题联合研发；商业上希望参与新靶点或候选方案的成果分配，而不是只按模型调用量收费。创始团队来自上海交大人工智能学院，王延峰教授发起，张娅、谢伟迪联合创始，谢伟迪任 CEO 兼首席科学家",
+    "metrics": [
+      {
+        "label": "融资（媒体报道）",
+        "value": "投中网 2026-11-18 10:26 以「首发」报道，近日获悉观壹智能（OneX Intelligence）宣布完成首轮数亿元融资，由 IDG 资本领投，创世伙伴创投（CCV）、沄柏资本、交大菡源资产、云启资本跟投，财务顾问为棕榈资本。资金将主要用于生命智能基础模型研发、湿实验平台建设和产业合作验证。精确金额和估值未披露。36氪同日转载/报道了本轮",
+        "source_type": "媒体报道",
+        "source_url": "https://www.chinaventure.com.cn/news/80-20261118-394089.html"
+      },
+      {
+        "label": "科研与落地（媒体转述公司）",
+        "value": "投中网称，谢伟迪与合作者的罕见病循证推理系统 DeepRare 已发表于《Nature》，细胞扰动预测模型 MAP 发表于《Nature Machine Intelligence》；团队称 OpenPheno 已获《Nature Chemical Biology》接收，KEEP 已发表于《Cancer Cell》。DeepRare 已在新华医院完成院内部署、正在推进内测，后续拟用于罕见病诊疗质控。药物研发方面，公司正在与药企及 CDMO 洽谈合作，尚未公布具名合同或收入",
+        "source_type": "媒体报道",
+        "source_url": "https://www.chinaventure.com.cn/news/80-20261118-394089.html"
+      }
+    ],
+    "why_it_works": "生命科学的痛点不是再发一篇细胞预测论文，而是模型和湿实验不在同一个闭环里。观壹智能把交大团队已有的罕见病推理和细胞扰动能力收进一家公司，并明确要自建实验平台、按新发现分成，而不是先做调用量生意。这让首轮数亿元更像在买「从论文到可验证发现」的时间，而不是买一个已经跑通的收费产品。",
+    "takeaway": "这是窗口内中国侧金额口径最高的新案之一，团队科研履历也很硬。但融资金额只写数亿元，DeepRare 仍在医院内测，药企合作还在洽谈，没有公开收入。下一看湿实验平台何时建成，以及联合研发会不会出现可具名的靶点或付费合同。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": [
+      "融资",
+      "生命智能",
+      "虚拟细胞",
+      "罕见病",
+      "交大系"
+    ],
+    "website": "https://onexai.com.cn/",
+    "sources": [
+      "https://www.chinaventure.com.cn/news/80-20261118-394089.html",
+      "https://www.36kr.com/p/4074635892872066"
+    ],
+    "uncertain_points": "首轮金额仅写「数亿元」，估值未披露。投中网正文以「近日，投中网获悉……宣布完成」表述，精确交割日不明。DeepRare 在新华医院为院内部署和内测，并非已规模化收费。与药企、CDMO 的合作仍为洽谈中。部分论文为创始人及合作者既有科研成果，不能直接等同于公司已产品化的收入能力。36氪报道与投中网首发高度同源，独立性有限。"
+  },
+  {
+    "id": "bytetree-baichuan-50m-cny-pre-a-physical-ai-data",
+    "date_collected": "2026-11-19",
+    "status": "new",
+    "type": "both",
+    "name": "柏川数据（ByteTree）",
+    "one_liner": "投资界、投中网 11 月 18 日报道：从智驾数据服务转向具身智能的柏川数据宣布完成 5000 万元 Pre-A 轮，投资方包括元禾厚望、毅峰资本和星海图等",
+    "category": "企业服务",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "苏州公司，2021 年起做自动驾驶数据服务，现提供面向具身智能的物理 AI 数据基座：真机遥操作和无本体采集、自研「山海」数据管理平台，以及真实场景验证后的高质量数据集。公司称已服务近百家车企与智驾厂商，并建有 2 座具身智能实训场、覆盖 300 余种工/商/农业工序。创始人、CEO 为马东升",
+    "metrics": [
+      {
+        "label": "融资（媒体报道官方宣布）",
+        "value": "投资界 2026-11-18 13:31、投中网 15:03 均称柏川数据（ByteTree）宣布完成 5000 万元人民币 Pre-A 轮，投资方包含元禾厚望、毅峰资本、星海图在内的具身智能产业方等机构。资金用于物理 AI 数据管线、具身智能算法、高质量数据集以及特殊场景机器人研发和应用。估值未披露",
+        "source_type": "媒体报道",
+        "source_url": "https://news.pedaily.cn/202611/572047.shtml"
+      },
+      {
+        "label": "产能与商业化（媒体转述公司 / 投资人）",
+        "value": "投资界转述公司：具身智能数据月产能超 5 万小时，具身智能数据集规模上万小时、覆盖 12 类真实场景；智驾业务已服务近百家车企与智驾厂商。毅峰资本科技投资负责人曾泉江被引述称，柏川数据的智驾业务已验证稳定的现金流能力，并在一年内完成具身数据业务的快速起量。上述产能、客户数和「稳定现金流」均无公开财务数字支撑",
+        "source_type": "媒体报道",
+        "source_url": "https://news.pedaily.cn/202611/572047.shtml"
+      }
+    ],
+    "why_it_works": "具身智能缺的往往不是又一个本体，而是真机场景里可复用的数据。柏川数据把已经跑过智驾数据周期的采集和质检能力迁到机器人工序上，又拉来星海图这类产业方，说明数据供给本身可以先形成生意。5000 万元对这一赛道不算大，真正值得看的是「智驾已有现金流、具身数据开始起量」这句话能不能被后续披露验证。",
+    "takeaway": "这是一条场景清楚、金额明确的物理 AI 数据融资，投中网与投资界均可交叉核对。但「近百家客户」「月产能超 5 万小时」和「稳定现金流」都还停留在公司或投资人口径，没有收入数字。下一看具身数据集是否进入可具名的模型或本体客户账单，而不仅是产能宣传。",
+    "innovation_score": 3,
+    "business_score": 3,
+    "tags": [
+      "融资",
+      "Pre-A",
+      "物理AI",
+      "具身智能",
+      "数据服务"
+    ],
+    "website": "https://www.bytetree-ai.com/",
+    "sources": [
+      "https://news.pedaily.cn/202611/572047.shtml",
+      "https://www.chinaventure.com.cn/news/110-20261118-394092.html"
+    ],
+    "uncertain_points": "估值未披露。近百家车企与智驾客户、具身数据月产能超 5 万小时、数据集上万小时等均为公司披露，未见独立统计。「智驾业务已验证稳定的现金流能力」「具身数据业务快速起量」是投资人评价，没有营收、利润或合同额。投资界正文出现「商柏川数据」疑似笔误，公司名称以柏川数据 / ByteTree 为准。"
+  },
+  {
+    "id": "xellar-yaosu-tens-of-millions-cny-strategic-organ-on-chip",
+    "date_collected": "2026-11-19",
+    "status": "new",
+    "type": "innovative",
+    "name": "耀速科技（Xellar）",
+    "one_liner": "36氪、投中网 11 月 18 日称公司近日宣布：AI+器官芯片公司耀速科技完成新一轮数千万元战略融资，上海国投先导、石药国方基金等参与，资金用于 3D 生物智能平台",
+    "category": "医疗健康",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "走「AI + 器官芯片」路线，以人源生物模型为基础，结合高内涵 3D 细胞成像、人工智能和高通量自动化实验，建设「3D Bio Intelligence」平台，形成「数据生成—机制解析—模型训练—实验验证」的干湿闭环，用于药物作用机制解析、药效和安全性评价，并探索虚拟细胞、虚拟器官和虚拟患者等方向",
+    "metrics": [
+      {
+        "label": "融资（媒体报道官方宣布）",
+        "value": "36氪 2026-11-18 10:50 快讯称「近日」耀速科技（Xellar）宣布完成新一轮数千万元战略融资，获得上海国投先导、石药国方基金等相关投资主体支持。投中网同日 15:00 报道内容一致，并补充了 3D 生物智能平台与干湿闭环的产品表述。精确金额、估值、本轮是否有领投方以及交割日期均未披露",
+        "source_type": "媒体报道",
+        "source_url": "https://www.36kr.com/newsflashes/4074671426442376"
+      }
+    ],
+    "why_it_works": "动物实验和二维细胞模型往往对不上人体反应，器官芯片若能稳定产出人源数据，再交给模型做机制解析，就有可能把「试药」从动物实验室往可计算的平台上搬。石药系基金和上海国资同时进来，说明产业资本至少认可这条技术路线值得加注。不过本轮只写数千万元、且是「新一轮」战略融资，还不能说明商业化已经跑通。",
+    "takeaway": "这是窗口内又一条把湿实验硬件和生物 AI 绑在一起的中国案例，投资人背景匹配。但金额含糊、宣布时间只写「近日」，也没有公开客户或收入。下一看 3D 生物智能平台是否出现可具名的药企项目，以及精确融资金额会不会补齐。",
+    "innovation_score": 4,
+    "business_score": 2,
+    "tags": [
+      "融资",
+      "战略融资",
+      "器官芯片",
+      "AI制药",
+      "干湿闭环"
+    ],
+    "website": "https://www.xellarbio.com/",
+    "sources": [
+      "https://www.36kr.com/newsflashes/4074671426442376",
+      "https://finance.sina.com.cn/tech/roll/2026-11-18/doc-inizcvuz1059571.shtml"
+    ],
+    "uncertain_points": "媒体均写「近日宣布」，精确交割日不明，只能确认 11 月 18 日为集中见报日。金额仅写「数千万元」，估值、完整投资人名单和是否有明确领投方未披露。这是「新一轮」战略融资，此前轮次与累计融资未在这两篇报道中写清。客户、收入和平台商业化进度未披露。"
+  },
+  {
+    "id": "science-corporation-400m-series-d-3-5b-prima-bci",
+    "date_collected": "2026-11-19",
+    "status": "new",
+    "type": "both",
+    "name": "Science Corporation",
+    "one_liner": "补录昨日窗口：官方 11 月 17 日宣布完成 4 亿美元 D 轮，累计融资超 9 亿美元，用于扩大已在欧洲上市的视觉恢复植入物 PRIMA，并推进生物混合神经接口；TechCrunch 引述知情人士称本轮估值 35 亿美元",
+    "category": "医疗健康",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "由前 Neuralink 总裁 Max Hodak 于 2021 年创立的医疗与神经接口公司。第一款产品 PRIMA 是可穿戴加植入的芯片系统，用于帮助部分晚期黄斑变性患者恢复可辨认字母和单词的形体视觉，已获欧洲 CE 标志并在德国等地提供；公司正通过 FDA 人道主义器械豁免路径准备进入美国，并开展 Stargardt 病等新适应症试验。更长期的方向是把培养神经元与硅基器件结合的生物混合脑机接口，目前在与耶鲁神经外科教授设计初期人体试验",
+    "metrics": [
+      {
+        "label": "融资（官方公布）",
+        "value": "Science Corporation 于 2026-11-17 在官网宣布完成 4 亿美元 D 轮，参与方包括 Khosla Ventures、Ackman Oxman Institute、Tenet Healthcare、885 Capital、Y Combinator 和 PLC Neurotech 等，官方称自 2021 年创立以来累计融资超过 9 亿美元。资金将用于加快 PRIMA 在欧洲的供应、准备美国上市，以及扩大生物混合神经接口项目的研发、制造和运营。官方未公布估值。TechCrunch 同日 6:26 AM PST（北京时间 11 月 17 日 22:26）报道了本轮，属昨日窗口内宣布、本次补录",
+        "source_type": "官方公布",
+        "source_url": "https://science.xyz/news/series-d/"
+      },
+      {
+        "label": "估值与产品进度（媒体引述知情人士 / 官方）",
+        "value": "TechCrunch 引述一名知情人士称，投资人在本轮给予公司 35 亿美元估值；该数字未出现在公司公告中。官方称 PRIMA 是首个获 CE 标志、可恢复形体视觉的脑机接口，已于几个月前在欧洲商业化推出。TechCrunch 称设备已在德国提供，Hodak 曾在 TechCrunch Disrupt 台上宣布开展 Stargardt 病试验，并称公司已说服 FDA，双眼晚期黄斑变性足够罕见，可以走人道主义器械豁免。收入和植入例数未披露",
+        "source_type": "媒体报道",
+        "source_url": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/"
+      }
+    ],
+    "why_it_works": "脑机接口常年停在演示，PRIMA 已经拿到欧洲 CE 标志并开始商业化供货，让这轮 4 亿美元有了比「下一代接口」更硬的落点：扩大已上市产品、同时准备进美国。医院集团 Tenet Healthcare 出现在投资人名单里，也说明买的不只是实验室故事。估值和植入规模仍然对不上官方数字，但这已经是少数把视觉恢复装置卖进市场的公司。",
+    "takeaway": "补录这条是因为金额和产品阶段都足够重要，却落在昨日窗口后段、未能及时入库。官方确认了 4 亿美元和累计超 9 亿美元，以及欧洲商业化；35 亿美元估值只来自知情人士，收入和治疗例数都未公布。下一看美国 HDE 路径的进展，以及欧洲上市后能否给出可核对的植入量和收入。",
+    "innovation_score": 5,
+    "business_score": 4,
+    "tags": [
+      "融资",
+      "D轮",
+      "脑机接口",
+      "视觉恢复",
+      "补录"
+    ],
+    "website": "https://science.xyz/",
+    "sources": [
+      "https://science.xyz/news/series-d/",
+      "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/"
+    ],
+    "uncertain_points": "35 亿美元估值仅见于 TechCrunch 引述的知情人士，公司公告未公布估值。收入、利润、PRIMA 植入例数和欧洲商业化销售规模未披露。生物混合接口的人体试验仍在设计阶段。本条为昨日窗口（11 月 17 日 22:26 北京时间见报）漏收后的补录，不是 11 月 18 日新宣布。"
+  }
+]
