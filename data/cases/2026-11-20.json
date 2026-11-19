@@ -1,0 +1,434 @@
+[
+  {
+    "id": "anthropic-ipo-price-range-81b-run-rate",
+    "date_collected": "2026-11-20",
+    "status": "update",
+    "type": "profitable",
+    "name": "Anthropic",
+    "one_liner": "Anthropic 于 11 月 18 日将 IPO 定价为每股 83.00 美元、发行 9.80 亿股 A 类普通股；股票 11 月 19 日以代码 ANT 在纳斯达克开盘，开盘价 111.50 美元，成为有记录以来规模最大的 IPO",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "大公司",
+    "business_model": "以 Claude 等大模型及企业/开发者 API、订阅产品向全球客户收费。本次 IPO 定价后，公司发行 956,351,354 股 A 类普通股、老股股东出售 23,648,646 股；另向云与芯片厂商定向配售 Class N。承销商获 30 天内加购最多 1.47 亿股的选择权，发行交割日预期为 11 月 20 日",
+    "metrics": [
+      {
+        "label": "发行定价与规模（官方公布）",
+        "value": "Anthropic 官方新闻稿日期为 2026-11-18：A 类普通股发行价 83.00 美元，发行总数 980,000,000 股，其中公司发行 956,351,354 股、售股股东出售 23,648,646 股，公司不获得老股出售所得。股票预期于 2026-11-19 在纳斯达克 Global Select Market 以代码 ANT 开始交易，发行预期于 2026-11-20 交割；另授予承销商 30 天内加购最多 147,000,000 股的选择权。SEC 定价补充文件（FWP）写明发行规模（不含选择权）为 81,340,000,000 美元，并同步以公开发行价定向配售 260 亿美元 Class N 普通股（313,253,007 股）",
+        "source_type": "官方公布",
+        "source_url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering"
+      },
+      {
+        "label": "上市首日开盘（媒体报道）",
+        "value": "CNBC 2026-11-19 直播稿写明 ANT 开盘价为 111.50 美元，较发行价上涨约 34%，并称按开盘价计市值接近 2.01 万亿美元；美联社同日报道称，按 83 美元发行价测算公司估值约 1.5 万亿美元，开盘后升至 2.01 万亿美元。The Verge 亦报道开盘价为 111.50 美元。截至本窗口截止（北京时间 11 月 20 日约 04:00，相当于美东 11 月 19 日 15:00），首个交易日尚未正式收盘，收盘价不以本条数字收录",
+        "source_type": "媒体报道",
+        "source_url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html"
+      },
+      {
+        "label": "收入与亏损（招股文件，经媒体转述）",
+        "value": "CNBC 引述招股说明书：截至 2026-09-30 的九个月收入约 332.4 亿美元，较上年同期增长约 1200%；同期净亏损 1040 亿美元，其中约 943 亿美元来自可转债、衍生负债和 SAFE 的公允价值变动。公司称截至 10 月底年化收入 run-rate 约 810 亿美元，较上月约增加 100 亿美元。上述收入与亏损口径与 11 月 11 日条目中媒体对招股文件的转述相一致，本次按定价后的报道再核一次",
+        "source_type": "媒体报道",
+        "source_url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html"
+      }
+    ],
+    "why_it_works": "把模型能力做成可规模收费的 API 与企业产品之后，Anthropic 用定价和开盘把这门生意的公开市场定价摊在了桌上：发行价已经高于路演区间，募资规模刷新 IPO 纪录，开盘后又给出一个可交易的价格。对观察站而言，这不再是区间和测算，而是已经成交的发行价，加上可核对的招股收入数字。",
+    "takeaway": "这是既有 Anthropic 路演条目的重大进展：发行价、股数和代码均已由官方落定，首日开盘价也有多家主流媒体交叉报道。下一看 11 月 20 日发行能否如期交割，以及首个完整交易日的官方收盘价和充分稀释市值口径如何被交易所与文件固定下来。",
+    "innovation_score": 4,
+    "business_score": 5,
+    "tags": [
+      "IPO",
+      "大模型",
+      "Claude",
+      "纳斯达克",
+      "企业API",
+      "公开市场"
+    ],
+    "website": "https://www.anthropic.com/",
+    "sources": [
+      "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+      "https://www.sec.gov/Archives/edgar/data/2130357/000162828026074937/anthropicpbc-fwppricing.htm",
+      "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html",
+      "https://apnews.com/article/anthropic-ipo-nasdaq-ai-b6a74b8949021207dc162fcc876c4649",
+      "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq"
+    ],
+    "uncertain_points": "官方新闻稿只确认发行价、股数、代码、预计交易日与交割日，并未公布市值；1.5 万亿美元（按发行价）和约 2.01 万亿美元（按开盘价）均为美联社、CNBC 等的测算，充分稀释股本口径未在官方短稿中写明。首个交易日官方收盘价在本窗口截止时尚未产生（美东 11 月 19 日 16:00 收盘对应北京时间 11 月 20 日 05:00）。发行交割仍取决于 11 月 20 日的惯例交割条件，承销商加购选择权是否行使也不确定。收入、亏损与 run-rate 仍为媒体对招股文件的转述。"
+  },
+  {
+    "id": "alibaba-ai-cloud-qwenwork-17918m-q2-fy2027",
+    "date_collected": "2026-11-20",
+    "status": "new",
+    "type": "both",
+    "name": "阿里巴巴（AI 云与千问办公）",
+    "one_liner": "阿里巴巴 11 月 19 日公布截至 9 月 30 日的季度业绩：官方称 AI 云与算力服务收入 609.73 亿元、同比增长 53%，其中 AI 相关产品收入 179.18 亿元，连续第 13 个季度同比三位数增长；企业智能体平台千问办公被写入同一份业绩说明",
+    "category": "企业服务",
+    "region": "中国",
+    "team_type": "大公司",
+    "business_model": "阿里巴巴将 AI+云作为集团战略主轴，收入来自云与算力服务、模型与 AI 产品，以及面向企业和消费者的智能体应用。官方把千问办公（QwenWork）写成一站式企业智能体平台，可基于公司文档、会议记录和内部沟通执行业务任务；10 月上线面向商家的千问办公电商版，用于店铺运营和客服自动化。消费侧千问 App 覆盖购物、出行等 20 多个服务类目，并在 10 月于应用内加入可跨平台执行多步任务的个人智能体 Qwen Go!",
+    "metrics": [
+      {
+        "label": "AI 云与 AI 相关产品收入（官方公布）",
+        "value": "阿里巴巴 2026-11-19 发布截至 2026-09-30 的季度及中期业绩。官方英文业绩稿写明：AI Cloud and Compute Services 当季收入人民币 609.73 亿元（90.94 亿美元），同比增长 53%；来自外部客户的收入同比增长 64%，外部客户经常性收入（不含算力设备解决方案）同比增长 67%。其中 AI-related product revenue 为人民币 179.18 亿元（26.73 亿美元），并实现连续第 13 个季度同比三位数增长。官方称增长既来自 AI 实验室的训练和推理需求，也来自互联网、汽车、具身智能、金融服务和生物科技等行业客户扩大使用",
+        "source_type": "官方公布",
+        "source_url": "https://data.alibabagroup.com/ecms-files/1532295521/e676aff4-e76d-489b-960a-47b9cf36485d/Alibaba%20Group%20Announces%20September%20Quarter%202026%20Results%20and%20Interim%20Results%20for%20the%20Six%20Months%20Ended%20September%2030%2C%202026.pdf"
+      },
+      {
+        "label": "云利润与应用进展（官方公布）",
+        "value": "官方称云分部经调整 EBITA 同比增长 121% 至人民币 88.38 亿元，利润率升至 14.5%。业绩稿同时写到：千问办公持续在各行业获得采用，云栖大会上推出 Enterprise Context，使智能体可调用企业知识与工作流；10 月上线千问办公电商版；千问 App 覆盖 20 多个服务类目，并在 10 月加入 Qwen Go!。平头哥发布新一代训练与推理芯片真武 V900，计划 2027 年一季度商用。千问办公本身的用户数、付费席位或单独收入未在业绩中拆分",
+        "source_type": "官方公布",
+        "source_url": "https://www.alibabagroup.com/en-US/document-2060213191907999744"
+      }
+    ],
+    "why_it_works": "和本周稍早腾讯把 WorkBuddy 的日活写进季报、媒体转述豆包工作给出企业 ARR 一样，阿里这次把 AI 相关产品的账单直接写进了上市公司业绩：179.18 亿元是可核对的官方数字，而且已经连续 13 个季度保持三位数增长。云收入和利润率同步走高，说明 AI 需求不只是训练集群的一次性开支，也在变成经常性收入。千问办公和千问 App 被放在同一份说明里，表明集团想把模型能力从云资源延伸到企业和消费者的工作入口。",
+    "takeaway": "这是窗口内少数能对上上市公司官方业绩的中国 AI 应用进展，AI 相关产品收入和云增速都写进了正式文件。但 179.18 亿元是「AI 相关产品」汇总，并不等于千问办公的收入，训练推理、模型 API 和应用层各占多少并未拆开。下一看后续业绩会不会把千问办公或消费端千问的用量、付费单独披露出来。",
+    "innovation_score": 3,
+    "business_score": 5,
+    "tags": [
+      "财报",
+      "阿里云",
+      "千问办公",
+      "企业智能体",
+      "AI收入"
+    ],
+    "website": "https://www.alibabagroup.com/",
+    "sources": [
+      "https://data.alibabagroup.com/ecms-files/1532295521/e676aff4-e76d-489b-960a-47b9cf36485d/Alibaba%20Group%20Announces%20September%20Quarter%202026%20Results%20and%20Interim%20Results%20for%20the%20Six%20Months%20Ended%20September%2030%2C%202026.pdf",
+      "https://www.alibabagroup.com/en-US/document-2060213191907999744",
+      "https://www.alibabagroup.com/zh-HK/document-2060147792046718976",
+      "https://www.nbd.com.cn/articles/2026-11-19/4652846.html"
+    ],
+    "uncertain_points": "官方把 179.18 亿元写成 AI-related product revenue，未拆分模型调用、训练/推理云资源和千问办公、千问 App 等应用各自贡献，因而不能把该数字理解成千问办公的收入。千问办公「持续获得采用」没有用户数、席位数或 ARR。部分中文媒体在电话会报道中提到 AI 相关产品年化收入超 100 亿美元，该年化表述未见诸官方业绩稿正文，本条不以年化口径作为官方数字。"
+  },
+  {
+    "id": "everful-48-5m-series-a-100m-revenue-run-rate",
+    "date_collected": "2026-11-20",
+    "status": "new",
+    "type": "both",
+    "name": "Everful",
+    "one_liner": "总部位于旧金山与新加坡的跨境采购公司 Everful 于 11 月 19 日宣布完成 4850 万美元 A 轮；官方称上线不到两年半，已按年化口径有望在年底达到 1 亿美元收入，并由 AI 智能体完成找品、验厂和履约",
+    "category": "电商零售",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "面向中小零售商和品牌，提供从中国工厂直采到质检、履约的一站式服务，支持批发、一件代发和定制，并强调较低起订量。公司称核心是一套供给与需求的「世界模型」，由 AI 智能体识别流行商品、寻找并评估工厂、管理订单沟通，再由自有质检数据给工厂持续打分。创始人为前阿里巴巴高管、贝森资本前投资人 Sisi Song，以及曾把 Orbeus 卖给亚马逊的 Kevin Han，公司成立于 2024 年",
+    "metrics": [
+      {
+        "label": "A 轮融资（官方公布）",
+        "value": "Everful 于 2026-11-19 通过 PR Newswire 宣布完成 4850 万美元 A 轮，由 Vertex Ventures Southeast Asia & India 与 January Capital 领投，老股东 Square Peg 与 Lightspeed 跟投。资金将用于加深美国（其最大市场）和欧洲的布局，并扩展其商业世界模型、AI 智能体与履约基础设施。TechCrunch 同日 9:00 AM PST 报道了同一轮融资，并引述联合创始人 Sisi Song 的说明",
+        "source_type": "官方公布",
+        "source_url": "https://www.prnewswire.com/news-releases/everful-raises-48-5-million-series-a-to-build-the-ai-infrastructure-layer-for-global-commerce-302945927.html"
+      },
+      {
+        "label": "规模与收入目标（官方/创始人自述）",
+        "value": "官方新闻稿称：上线不到两年半，目前每月向 60 多个国家的零售商和品牌发货超过 500 万件，合作已审核工厂网络超过 3 万家，在线目录超过 2000 万件商品，并有望在年底达到 1 亿美元年化收入。TechCrunch 引述 Song 作出相同表述，并称公司全球约有 70 名全职员工，其中 45 人在研发",
+        "source_type": "官方公布",
+        "source_url": "https://www.prnewswire.com/news-releases/everful-raises-48-5-million-series-a-to-build-the-ai-infrastructure-layer-for-global-commerce-302945927.html"
+      }
+    ],
+    "why_it_works": "跨境采购长期靠人和贸易中间商，Everful 把找厂、验厂、下单和履约收成一条由智能体执行的链路，再拿自己的质检和成交数据去喂供给模型。它给出的不是实验室演示，而是已经在走货的月发货量和工厂网络，并用「年底年化 1 亿美元」把规模目标写进了官方稿。对中小零售商来说，卖的是结果（货到了）而不是又一个搜索框。",
+    "takeaway": "这是窗口内商业信号比较完整的海外应用融资：官方同时给出融资金额、发货规模和年化收入目标。但 1 亿美元是「有望达到」的年化目标，不是已经审计的过去 12 个月收入，AI 智能体对收入的具体贡献也未拆分。下一看这一目标会不会在后续披露里被复核，以及关税和跨境政策变化会不会改写它的履约模型。",
+    "innovation_score": 3,
+    "business_score": 4,
+    "tags": [
+      "跨境电商",
+      "采购智能体",
+      "A轮",
+      "年化收入",
+      "供应链"
+    ],
+    "website": "https://www.everfulwholesale.com/",
+    "sources": [
+      "https://www.prnewswire.com/news-releases/everful-raises-48-5-million-series-a-to-build-the-ai-infrastructure-layer-for-global-commerce-302945927.html",
+      "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/"
+    ],
+    "uncertain_points": "年底达到 1 亿美元年化收入是官方新闻稿中的 on track 表述，并非已实现的经审计 ARR 或过去 12 个月收入。月发货 500 万件、3 万家工厂和 2000 万件目录均为公司口径，未见第三方复核。AI 智能体在成交中的贡献比例未披露，公司早期曾从珠宝批发做起，传统贸易服务与 AI 自动化各占多少不清楚。"
+  },
+  {
+    "id": "megarobo-nearly-200m-ai-for-science-infra",
+    "date_collected": "2026-11-20",
+    "status": "new",
+    "type": "both",
+    "name": "镁伽科技（MegaRobo）",
+    "one_liner": "苏州实验室自动化与科学智能公司镁伽科技于 11 月 19 日宣布完成近 2 亿美元新一轮融资，阿曼主权财富基金阿曼投资局参投；官方称已服务 500 多家客户，累计融资约 6 亿美元",
+    "category": "企业服务",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "镁伽科技定位为面向真实世界的智能基础设施公司，把模型与智能体、数据、工作流、科学仪器、机器人和自动化装备连成一套可复用的技术栈，先在科学发现和制药研发中落地，并同时发展工业智能。产品包括可配置实验、由自动化实验室执行并返回机器可读结果的 Megalaxy Lab，使科研人员或 AI 智能体能够把湿实验当成可调用的能力。公司还与腾讯云、Twist Bioscience 等合作推出面向全球的 AI 蛋白设计挑战 Poreva Open，由 Megalaxy Lab 为超过 1 万条设计序列提供湿实验验证",
+    "metrics": [
+      {
+        "label": "本轮融资与累计融资（官方公布）",
+        "value": "MegaRobo 于 PR Newswire 发布、日期显示为 2026-11-18 21:10 ET（北京时间 11 月 19 日 10:10）的新闻稿称，完成近 2 亿美元新一轮融资，阿曼投资局（OIA）参与，老股东 Asia Investment Capital、Granite Asia 和创新工场持续加注，招银国际新近参与。官方称截至目前累计融资约 6 亿美元，其中包括由 Goldman Sachs Alternatives、Asia Investment Capital 和 Granite Asia 联合领投的近 3 亿美元 C 轮。中国证券报 11 月 19 日 11:40 中文报道与上述金额一致，并额外写到苏创投、三江招商集团等跟投",
+        "source_type": "官方公布",
+        "source_url": "https://www.prnewswire.com/news-releases/megarobo-raises-nearly-us200-million-in-new-funding-to-build-intelligence-infrastructure-for-the-physical-world-302944671.html"
+      },
+      {
+        "label": "客户规模（官方公布）",
+        "value": "官方英文新闻稿称，公司已向 500 多家客户交付产品与技术，客户包括全球领先药企、药物发现机构、生物技术和科研院所，覆盖早期研究、靶点与机制发现、药物筛选和候选物优化等环节。其 Megalaxy Lab 已服务 200 多家客户",
+        "source_type": "官方公布",
+        "source_url": "https://www.prnewswire.com/news-releases/megarobo-raises-nearly-us200-million-in-new-funding-to-build-intelligence-infrastructure-for-the-physical-world-302944671.html"
+      }
+    ],
+    "why_it_works": "科学智能如果只停在预测分子结构，仍然要靠人手把实验做完。镁伽把「设计—执行—观察—学习」收成可复用的实验室基础设施，让智能体不仅能提出实验方案，还能把方案送到自动化实验室并拿到结构化结果。500 多家客户和累计约 6 亿美元融资说明这条链路已经不只是概念，阿曼主权基金的进入则把它的资本结构从中国市场扩到了国际长期资金。",
+    "takeaway": "这是窗口内中国公司里金额最大、也有明确客户数的一条科学智能融资，官方同时给出了近 2 亿美元新一轮和 500 多家客户。但本轮没有披露传统轮次名称和估值，「近 2 亿美元」也不是精确整数，收入或订单额并未公布。下一看港股或其他上市路径是否会补上更完整的财务数字。",
+    "innovation_score": 4,
+    "business_score": 4,
+    "tags": [
+      "科学智能",
+      "实验室自动化",
+      "融资",
+      "制药",
+      "具身执行"
+    ],
+    "website": "https://www.megarobo.com/",
+    "sources": [
+      "https://www.prnewswire.com/news-releases/megarobo-raises-nearly-us200-million-in-new-funding-to-build-intelligence-infrastructure-for-the-physical-world-302944671.html",
+      "https://www.cs.com.cn/tzjj/01/2026/11/19/detail_2026111910053252.html"
+    ],
+    "uncertain_points": "官方只称「近 2 亿美元」，未给出精确金额、轮次名称或估值。500 多家客户和 Megalaxy Lab 的 200 多家客户是公司口径，未披露付费结构、收入或复购。中国证券报点名的苏创投、三江招商集团未出现在英文官方新闻稿的投资方列表中，本条把这两个名字视为中文媒体补充，不以英文稿未写明的机构作为官方名单。"
+  },
+  {
+    "id": "infiforce-tens-of-millions-cny-pre-b-atombrain",
+    "date_collected": "2026-11-20",
+    "status": "new",
+    "type": "both",
+    "name": "原力无限（INFIFORCE）",
+    "one_liner": "36氪硬氪 11 月 19 日首发：具身大脑公司原力无限近日完成数千万元 Pre-B 轮，杭州资本独家投资；报道称其累计订单额已超 5 亿元，目前估值近百亿元",
+    "category": "硬件与端侧",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "原力无限成立于 2023 年，做通用具身智能大脑 AtomBrain，技术路线以隐式因果世界模型为核心，叠加具身基础模型、持续学习、场景化后训练和脑身协同，并自建星河数据 DataGrid 全栈数据与训练设施。落地路径先工业和商业、后家庭，场景包括汽车制造、家电、仓储物流，以及酒店前台和商业洗衣房等可复制服务流程；大脑权重经场景化后训练后适配不同本体。创始人兼 CEO 为白惠源",
+    "metrics": [
+      {
+        "label": "本轮融资（媒体首发）",
+        "value": "36氪硬氪 2026-11-19 17:34 以「硬氪首发」报道：原力无限近日完成数千万元 Pre-B 轮融资，由杭州市属国有资本平台杭州资本独家投资，资金主要用于 AtomBrain 研发、真实场景落地和工程化、规模化。报道称这是公司三个月内的第四轮融资，此前已完成近 10 亿元 A 轮、A+ 轮，10 月获浙创投近亿元投资。投资界同日亦报道了本轮",
+        "source_type": "媒体报道",
+        "source_url": "https://www.36kr.com/p/4075109837149321"
+      },
+      {
+        "label": "订单、估值与合作（媒体转述）",
+        "value": "硬氪称，截至目前业务已覆盖全国 30 余座城市、近百个真实场景，累计订单金额超过 5 亿元，并写到目前估值近百亿元。报道还称其方案已进入杭州国家级具身智能中试基地、德国百年车企产线、国内头部家电制造车间及头部商旅酒店等场景；并称「硬氪最新获悉」公司已与京东科技完成战略合作签约。上述订单、估值与合作均未见公司官网同期公告",
+        "source_type": "媒体报道",
+        "source_url": "https://www.36kr.com/p/4075109837149321"
+      }
+    ],
+    "why_it_works": "具身智能如果只比拼本体，很难在真实产线和酒店里形成可复制的交付。原力无限把重点放在可跨本体迁移的「大脑」上，先挑节拍和精度能够被量化的工业、商业场景，再用场景化后训练去适配不同工位。硬氪给出的超 5 亿元累计订单，是这条路线目前最硬的商业信号，尽管它仍需要更清楚的口径。",
+    "takeaway": "这是窗口内中国具身侧同时给出新一轮融资和订单数字的一条。但本轮金额只有「数千万元」区间，估值「近百亿」和 5 亿元订单都来自媒体转述，官网未见对应公告。下一看订单是已签约还是已确认收入，以及与京东科技的合作会不会变成可核对的联合交付。",
+    "innovation_score": 4,
+    "business_score": 4,
+    "tags": [
+      "具身大脑",
+      "世界模型",
+      "Pre-B",
+      "订单",
+      "杭州资本"
+    ],
+    "website": "https://infiforce.cn/",
+    "sources": [
+      "https://www.36kr.com/p/4075109837149321",
+      "https://news.pedaily.cn/202611/572086.shtml"
+    ],
+    "uncertain_points": "报道写的是「近日完成」，精确签约日未披露，本窗口按 11 月 19 日首发报道收录。本轮金额仅「数千万元」，估值为「近百亿元」，均非公司官网或监管文件中的精确披露。累计订单超过 5 亿元的口径（签约额、框架协议还是已确认收入）未说明。与京东科技的战略合作仅见于硬氪「最新获悉」，未见双方官方通稿。"
+  },
+  {
+    "id": "yuanshi-nearly-300m-cny-pre-a-virtual-cell",
+    "date_collected": "2026-11-20",
+    "status": "new",
+    "type": "profitable",
+    "name": "元示科技",
+    "one_liner": "AI 虚拟细胞公司元示科技 11 月 19 日宣布完成近 3 亿元人民币 Pre-A 轮，君联资本领投；投资界称此为国内该领域单笔融资纪录，资金将用于数据、自动化实验平台、模型迭代和团队",
+    "category": "医疗健康",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "元示（上海）科技有限公司做 AI 虚拟细胞（AIVC），以「生物学原始数据引擎 + 通用细胞模型」预测细胞在不同疾病状态、实验条件和干预下的响应，并通过「模型预测—实验验证—数据反馈—模型更新」的干湿闭环持续产生训练证据。目标应用是为新药研发的早期比较和筛选提供预测依据。CEO 吴佳奇为北京大学系统生物学博士，CTO 董明泽为耶鲁大学计算生物学博士，曾参与 Arc Institute 的 STATE 研究并以第一作者主导 STACK 模型，后于 Anthropic 从事安全研究，现已全职加入公司",
+    "metrics": [
+      {
+        "label": "Pre-A 轮融资（公司宣布，经媒体报道）",
+        "value": "投资界 2026-11-19 10:33 报道：元示科技宣布已完成近 3 亿元人民币 Pre-A 轮融资，由君联资本领投，华夏瓴投、招商局中国基金、京东关联基金、鼎晖 VGC、CMC 资本跟投，老股东 Monolith、创新工场、道彤投资、燕缘创投持续加注，光源资本担任独家财务顾问。报道并称此前已连续完成近亿元天使轮及天使+轮。36氪 11 月 19 日 13:30 的 CMC 资本来源稿、以及 17:55 的光源资本来源稿均报道了同一轮融资和投资方阵容",
+        "source_type": "媒体报道",
+        "source_url": "https://news.pedaily.cn/202611/572084.shtml"
+      }
+    ],
+    "why_it_works": "虚拟细胞要进入制药流程，缺的往往不是再做一个模型，而是持续、可追溯的实验证据。元示把高通量扰动实验和模型迭代绑在同一条闭环里，让下一轮实验专门补模型不会的地方。近 3 亿元 Pre-A 和一长串产业与财务投资人，说明这条「数据生产 + 细胞模型」的组合已经能被当作一门早期生命科学基础设施来投。",
+    "takeaway": "这是窗口内中国生命科学 AI 里单笔金额较高的一条新融资，多家媒体交叉报道了投资方。但目前还没有公开的客户、管线合作或收入数字，「近 3 亿元」也只是区间，收录时未找到可确认的公司官网。下一看它会不会公布药企合作或可验证的预测任务结果。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": [
+      "虚拟细胞",
+      "AI制药",
+      "Pre-A",
+      "干湿闭环",
+      "君联资本"
+    ],
+    "website": "",
+    "sources": [
+      "https://news.pedaily.cn/202611/572084.shtml",
+      "https://www.36kr.com/p/4076070418814856",
+      "https://www.36kr.com/p/4075089698395008",
+      "https://www.jiemian.com/article/15349709.html"
+    ],
+    "uncertain_points": "「近 3 亿元」并非精确披露，亦未见公司官网或监管文件中的完整公告。投资界所称「刷新国内 AIVC 领域单笔融资纪录」为媒体表述，本条未独立核对历史全部交易。客户、收入、在研合作或可对外验证的预测指标均未披露。收录时未找到可确认的官方网站，yuanshi.ai 仅为未验证域名，故网站字段留空。"
+  },
+  {
+    "id": "nodal-networks-11-3m-seed-terminal-ai",
+    "date_collected": "2026-11-20",
+    "status": "new",
+    "type": "both",
+    "name": "Nodal Networks",
+    "one_liner": "洛杉矶公司 Nodal Networks 11 月 19 日宣布完成 1130 万美元种子轮，Eniac Ventures 领投；官方称其码头智能平台 Malcom 已在三大洲的集装箱码头部署，并给出缩短集卡在场时间和加快装卸的案例",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "Nodal 为港口和铁路枢纽的集装箱码头提供决策智能平台 Malcom（得名于现代集装箱发明者 Malcom McLean），把 AI 智能体和专用预测模型结合起来，帮助运营方预测拥堵、识别效率损失，并改进集装箱堆位、设备和装卸安排。平台接入码头既有系统、班期、邮件和操作消息，决策仍由码头团队掌控。本轮资金用于在已有客户集团内扩大部署、开拓新客户，并把规划能力从码头延伸到船公司、铁路和卡车运输。联合创始人兼 CEO 为 Paul Albert-Lebrun，CCO 为 Nic Westgate",
+    "metrics": [
+      {
+        "label": "种子轮融资（官方公布）",
+        "value": "Nodal Networks 于 2026-11-19 通过 BusinessWire 宣布完成 1130 万美元种子轮，由 Eniac Ventures 领投，新投资人 NewRoad Capital Partners 以及老股东 Riot Ventures、Trail Mix Ventures、Liquid 2 Ventures 参与，累计融资达 1450 万美元",
+        "source_type": "官方公布",
+        "source_url": "https://www.businesswire.com/news/home/20261119971053/en/Nodal-Networks-Raises-%2411.3-Million-to-Tackle-Global-Shipping-Bottlenecks-with-AI-Powered-Decision-Intelligence"
+      },
+      {
+        "label": "部署与效果案例（官方/公司自述）",
+        "value": "官方称平台已在三大洲的码头部署。新闻稿举出两则未点名的案例：其一，在高峰时段把集卡在场时间缩短一半，原因是运营方按系统建议重新分配了现有堆场设备；其二，船舶装卸迄今加快约 5%，原因是定位了岸桥等待集装箱的瓶颈。公司估计，若把同类改进应用到全部班次，最多可释放约 30% 的码头产能，即使在表现最好的码头也可能有约 10% 的提升。顾问、前 Ports America 总裁 Peter Levesque 在稿中表示，这是他在该领域见到的第一家能把价值做出来的 AI 公司",
+        "source_type": "官方公布",
+        "source_url": "https://www.businesswire.com/news/home/20261119971053/en/Nodal-Networks-Raises-%2411.3-Million-to-Tackle-Global-Shipping-Bottlenecks-with-AI-Powered-Decision-Intelligence"
+      }
+    ],
+    "why_it_works": "全球货运的瓶颈常常不在新建码头，而在已有码头里的调度。Nodal 没有做通用聊天工具，而是在码头上做决策智能：用现有设备和现有团队，靠更早、更准的安排把货走出去。三大洲部署和两则可量化的现场案例，让这条种子轮不只是「AI 也能做物流」的口号。",
+    "takeaway": "这是一条场景很具体、并且给出了现场效果数字的港口 AI 融资。但案例没有点名码头，30% 产能提升是公司估算，收入和付费客户数也未公布。下一看能否出现具名码头或第三方复核的运行数据。",
+    "innovation_score": 3,
+    "business_score": 3,
+    "tags": [
+      "港口物流",
+      "决策智能",
+      "种子轮",
+      "集装箱",
+      "物理运营"
+    ],
+    "website": "https://nodal.io",
+    "sources": [
+      "https://www.businesswire.com/news/home/20261119971053/en/Nodal-Networks-Raises-%2411.3-Million-to-Tackle-Global-Shipping-Bottlenecks-with-AI-Powered-Decision-Intelligence",
+      "https://siliconangle.com/2026/11/19/nodal-networks-raises-11-3m-to-solve-global-shipping-bottlenecks/"
+    ],
+    "uncertain_points": "部署所在的具体码头和客户名称未披露。集卡在场时间减半、装卸加快 5% 均为公司举例，未见第三方审计；「最多约 30% 产能」是公司估算而非已实现的平均结果。收入、付费码头数量和合同结构未公布。"
+  },
+  {
+    "id": "metano-12m-seed-ai-agent-security",
+    "date_collected": "2026-11-20",
+    "status": "new",
+    "type": "profitable",
+    "name": "Metano",
+    "one_liner": "企业 AI 智能体安全公司 Metano 于 11 月 19 日宣布走出隐身并完成 1200 万美元种子轮，Sierra Ventures 领投；官方称平台已正式可用，用于在终端、云和 SaaS 上发现、监测和拦截智能体行为",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "Metano 为安全团队提供统一的智能体安全与治理层，覆盖终端、云和 SaaS：发现已批准和影子智能体、MCP 服务器、技能与软件包及其权限；用实时上下文图 Hive 把一次会话中的任务、身份、工具、数据和动作连起来，判断行为是否偏离既定目的；并在智能体实际执行处执行护栏。公司由 CEO Neelima Rustagi 与 CTO Ratnesh Pandey 创立，团队来自 ServiceNow、Zscaler、Palo Alto Networks、FireEye 和微软。官方称平台已一般可用，检测映射到 MITRE ATLAS 和 OWASP Agentic Applications Top 10，并完成 SOC 2 Type 2 与 ISO 27001:2022 认证，同时提供 30 天免费评估版",
+    "metrics": [
+      {
+        "label": "种子轮融资与发布（官方公布）",
+        "value": "Metano 于 2026-11-19 通过 ACCESS Newswire 宣布走出隐身，并完成 1200 万美元种子轮，由 Sierra Ventures 领投，Correlation Ventures、High Alpha 和 360 ONE 参与。新闻稿写明平台已一般可用，安全团队可在 30 分钟内开始使用。稿中引用 Sigmoid 首席信息安全官 Srivatsa Ramarao 的客户证言，称平台帮助其在采用 AI 的同时减少影子风险和敏感数据泄露。SiliconANGLE 同日亦报道了这次发布与融资",
+        "source_type": "官方公布",
+        "source_url": "https://www.accessnewswire.com/newsroom/en/computers-technology-and-internet/metano-emerges-from-stealth-to-unify-ai-agent-security-across-the-1253435"
+      }
+    ],
+    "why_it_works": "智能体一旦能用合法凭证自己采取行动，传统按网络边界或应用分层的安全工具就会出现盲区。Metano 把发现、行为上下文和实时拦截做成一层，专门盯住「智能体这次想做什么、是否偏离了授权」。安全行业老人创办、已有客户出面背书，再配上 SOC 2 和 ISO 认证，说明它卖的是企业安全团队现在就能装上的控制点，而不只是一份威胁报告。",
+    "takeaway": "这是窗口内官方宣布相对完整的智能体安全新公司：融资金额、产品可用和认证都写进了新闻稿。但没有披露收入、付费客户数或部署规模，客户证言也只有一家被点名。下一看它会不会给出可核对的采用数据。",
+    "innovation_score": 3,
+    "business_score": 3,
+    "tags": [
+      "智能体安全",
+      "种子轮",
+      "企业安全",
+      "MCP",
+      "治理"
+    ],
+    "website": "https://metano.ai",
+    "sources": [
+      "https://www.accessnewswire.com/newsroom/en/computers-technology-and-internet/metano-emerges-from-stealth-to-unify-ai-agent-security-across-the-1253435",
+      "https://siliconangle.com/2026/11/19/metano-launches-with-12m-to-help-enterprises-secure-ai-agents/"
+    ],
+    "uncertain_points": "官方未披露收入、付费客户数量或部署规模。Sigmoid 的证言是定性评价，不能外推为普遍效果。新闻稿中的「30 分钟内部署」和认证状态均为公司自述。"
+  },
+  {
+    "id": "disseqt-ai-8m-enterprise-ai-assurance",
+    "date_collected": "2026-11-20",
+    "status": "new",
+    "type": "both",
+    "name": "Disseqt AI",
+    "one_liner": "都柏林企业 AI 保障公司 Disseqt AI 于 11 月 19 日宣布完成 800 万美元融资，Gresham House Ventures 领投；公司称曾为一个覆盖 8000 万球迷的体育联盟智能体把安全响应率从 80% 提升到 99%",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "Disseqt 为企业提供独立于模型供应商的 AI 保障层：上线前测试应用和智能体，上线后按公司政策实时拦截违规输出，并保留审计证据。典型场景包括检测智能体是否会被诱导泄露客户数据。公司 2025 年末由 Apoorva Kumar（CEO）、Manish Atri（CTO）和 Cyril Treacy（COO）创立，团队有微软、AWS 和 Salesforce 背景，并计划扩大国际销售。本轮资金用于拓展企业客户和国际化",
+    "metrics": [
+      {
+        "label": "融资（官方/投资方公布）",
+        "value": "Gresham House Ventures 于 2026-11-19 发布公告：都柏林公司 Disseqt AI 完成 800 万美元融资，由其领投，Sure Valley Ventures、Delta Partners、Enterprise Ireland 以及来自 OpenAI、Palo Alto Networks、Salesforce、Meta 的天使投资人和板球名将 Rahul Dravid 参与。YourStory 当日融资汇总亦收录了此轮",
+        "source_type": "官方公布",
+        "source_url": "https://greshamhouseventures.com/disseqt-ai-raises-8mn-to-build-the-ai-governance-and-assurance-layer-for-enterprise-ai-agents-and-workflows-in-a-round-led-by-gresham-house-ventures/"
+      },
+      {
+        "label": "客户效果案例（公司自述）",
+        "value": "投资方公告称，在一个全球体育联盟的球迷互动智能体项目中（官方表述为 used by 80 million fans），Disseqt 将覆盖安全、偏见和隐私风险的测试中的安全响应率从 80% 提升到 99%，并称在修复后重跑原先失败的测试时未再检测到不安全输出。公告还称公司为一个大型欧洲银行的信用卡服务项目提供保障，并曾从 NVIDIA Open Models AI Codefest EMEA 的 500 个参与者中入选五名获胜者之一",
+        "source_type": "官方公布",
+        "source_url": "https://greshamhouseventures.com/disseqt-ai-raises-8mn-to-build-the-ai-governance-and-assurance-layer-for-enterprise-ai-agents-and-workflows-in-a-round-led-by-gresham-house-ventures/"
+      }
+    ],
+    "why_it_works": "企业把真实工作交给智能体之后，最怕的是它在政策之外自行其是，又无法向监管或内部审计交代。Disseqt 把测试、实时控制和审计轨迹做成独立于模型厂的一层，直接卖给受监管的买方。8000 万用户量和安全响应率的前后对比，让这轮 800 万美元融资有了一条可被写下的效果故事，尽管它仍需具名复核。",
+    "takeaway": "这是一条场景清楚、并给出测试效果数字的企业 AI 治理融资。但体育联盟和欧洲银行都没有被点名，99% 的安全响应率是公司报告的测试结果，收入和客户数也未公布。下一看能否出现具名客户或第三方审计。",
+    "innovation_score": 3,
+    "business_score": 3,
+    "tags": [
+      "AI治理",
+      "企业保障",
+      "智能体安全",
+      "种子轮",
+      "合规"
+    ],
+    "website": "https://www.disseqt.ai/",
+    "sources": [
+      "https://greshamhouseventures.com/disseqt-ai-raises-8mn-to-build-the-ai-governance-and-assurance-layer-for-enterprise-ai-agents-and-workflows-in-a-round-led-by-gresham-house-ventures/",
+      "https://yourstory.com/2026/11/startup-news-and-updates-daily-roundup-november-19-2026"
+    ],
+    "uncertain_points": "体育联盟和欧洲银行客户均未被点名。安全响应率从 80% 到 99% 是公司报告的测试结果，测试集构成和是否代表线上全量流量未说明。融资金额相对较小，收入、付费客户数和合同规模未披露。"
+  },
+  {
+    "id": "promise-robotics-40m-cad-series-b-physical-ai-homes",
+    "date_collected": "2026-11-20",
+    "status": "new",
+    "type": "both",
+    "name": "Promise Robotics",
+    "one_liner": "加拿大物理 AI 住宅制造公司 Promise Robotics 于 11 月 17 日宣布完成 4000 万加元 B 轮，White Star Capital 领投；官方称已与美国最大住宅开发商 D.R. Horton 签署多年协议，并有超过 2500 套住宅在约，本窗口补录",
+    "category": "硬件与端侧",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "Promise Robotics 把建筑商已有的住宅设计转成可执行的机器人生产方案，通过 Factory-as-a-Service（FaaS）网络交付精密结构部件，建筑商按产出付费、不必自建工厂。官方称卡尔加里和尼斯库的工厂已经投产，首个美国工厂计划 2027 年在凤凰城开业。CEO 兼联合创始人为 Ramtin Attar",
+    "metrics": [
+      {
+        "label": "B 轮融资（官方公布）",
+        "value": "Promise Robotics 于 2026-11-17 09:05 ET 通过 PR Newswire 宣布完成 4000 万加元 B 轮融资，由 White Star Capital 领投，Horizons Ventures、Radical Ventures 和加拿大公共部门养老金投资委员会（PSP Investments）参与。资金用于在北美扩展住宅生产网络。该宣布落在上一窗口，因当时未收录，本窗口补录",
+        "source_type": "官方公布",
+        "source_url": "https://www.prnewswire.com/news-releases/promise-robotics-raises-40-million-cad-series-b-to-scale-the-production-infrastructure-powering-homebuilding-302941746.html"
+      },
+      {
+        "label": "客户与在约规模（官方公布）",
+        "value": "官方称，宣布前数周已与美国按销量计最大的住宅开发商 D.R. Horton 签署多年商业协议，后者成为首家采用其 FaaS 平台的美国大型建筑商；并称三个市场已有超过 2500 套住宅在约（housing units under contract），卡尔加里与尼斯库的产线已经运行，凤凰城工厂计划 2027 年开业",
+        "source_type": "官方公布",
+        "source_url": "https://www.prnewswire.com/news-releases/promise-robotics-raises-40-million-cad-series-b-to-scale-the-production-infrastructure-powering-homebuilding-302941746.html"
+      }
+    ],
+    "why_it_works": "住宅短缺的约束往往是熟练工和建厂能力，而不是图纸。Promise 不要求开发商自己成为制造商，而是把设计变成可调度的机器人产线和按套交付的结构部件。D.R. Horton 的多年协议和 2500 套在约，让「物理 AI 造房子」有了可核对的订单和客户名字，而不只是一座示范工厂。",
+    "takeaway": "这是一条补录的海外物理 AI 融资，官方同时给出了融资金额、具名大客户和在约套数。但 4000 万是加元，「在约」并不等于已经交付或确认收入，AI 在整条产线里的具体贡献也未拆分。下一看凤凰城工厂开业后的实际交付节奏。",
+    "innovation_score": 3,
+    "business_score": 4,
+    "tags": [
+      "物理AI",
+      "住宅制造",
+      "B轮",
+      "FaaS",
+      "补录"
+    ],
+    "website": "https://www.promiserobotics.com",
+    "sources": [
+      "https://www.prnewswire.com/news-releases/promise-robotics-raises-40-million-cad-series-b-to-scale-the-production-infrastructure-powering-homebuilding-302941746.html",
+      "https://betakit.com/physical-ai-company-promise-robotics-announces-40-million-series-b-round/"
+    ],
+    "uncertain_points": "官方公告日期为 2026-11-17，不属于本窗口首次出现，本条为补录。金额为 4000 万加元，不宜直接按美元计算。超过 2500 套是 under contract 的在约套数，不等于已竣工或已确认收入。D.R. Horton 协议的年限、金额和排他性未披露。物理 AI / 机器人自动化对交付效率的量化贡献未见第三方数据。"
+  }
+]
