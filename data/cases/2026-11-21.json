@@ -1,0 +1,599 @@
+[
+  {
+    "id": "anthropic-ipo-price-range-81b-run-rate",
+    "date_collected": "2026-11-21",
+    "status": "update",
+    "type": "profitable",
+    "name": "Anthropic",
+    "one_liner": "Anthropic 于 11 月 20 日宣布 IPO 交割完成，承销商全额行使 1.47 亿股加购选择权，A 类普通股发行总数扩大至 11.27 亿股，发行募集总额约 935 亿美元（公司实得约 916 亿美元），并同步完成 260 亿美元 Class N 定向配售，两项合计总额约 1195 亿美元；首个交易日收盘价 97.17 美元",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "大公司",
+    "business_model": "以 Claude 等大模型及企业/开发者 API、订阅产品向全球客户收费。本次交割后，公开发行（含全额行使的承销商加购选择权）共 1,127,000,000 股 A 类普通股，其中公司出售 1,103,351,354 股、售股股东出售 23,648,646 股；另向 AMD、Broadcom、Google、Micron、Microsoft、NVIDIA 和 TSMC Partners 定向配售 313,253,007 股 Class N 普通股。股票已于 11 月 19 日以代码 ANT 在纳斯达克 Global Select Market 开始交易",
+    "metrics": [
+      {
+        "label": "发行交割与加购选择权（官方公布）",
+        "value": "Anthropic 官方新闻稿日期为 2026-11-20：IPO 交割完成，承销商全额行使加购选择权，额外购买公司 147,000,000 股 A 类普通股，发行价仍为每股 83.00 美元。发行总数因此扩大至 1,127,000,000 股，其中公司出售 1,103,351,354 股、售股股东出售 23,648,646 股。发行募集总额（未扣除承销折扣、佣金及其他发行费用）约 935 亿美元，公司获得约 916 亿美元，不获得老股出售所得。同期完成向 Advanced Micro Devices、Broadcom、Google、Micron、Microsoft、NVIDIA 和 TSMC Partners, Ltd. 定向配售 313,253,007 股 Class N，总价约 260 亿美元。公开发行（含售股股东所得）与定向配售合计总额约 1195 亿美元，同样未扣除费用",
+        "source_type": "官方公布",
+        "source_url": "https://www.anthropic.com/news/ipo-close"
+      },
+      {
+        "label": "首个交易日收盘价（媒体报道）",
+        "value": "CNBC 2026-11-19 深夜更新的报道写明：ANT 开盘价 111.50 美元，收盘价 97.17 美元，较 83 美元发行价上涨约 17%。Yahoo Finance 历史行情表同样列出 11 月 19 日开盘 111.50 美元、最高 115.10 美元、最低 92.72 美元、收盘 97.17 美元，成交量 857,312,300 股。截至本窗口截止（北京时间 11 月 21 日约 04:00，对应美东 11 月 20 日 15:00 附近），第二个交易日仍在进行中，当日官方收盘价不以本条数字收录",
+        "source_type": "媒体报道",
+        "source_url": "https://www.cnbc.com/2026/11/20/anthropic-ipo-stocks-market.html"
+      }
+    ],
+    "why_it_works": "定价和开盘只是开始，交割才把这次上市写成一份可以反复核对的公开记录：加购选择权被全额行使，公司实得约 916 亿美元，再叠上已经交割的 260 亿美元 Class N，募资总额被官方钉在约 1195 亿美元。首日收盘从开盘的 111.50 美元回落到 97.17 美元，仍然高于发行价，也给后续交易日留下一个可对照的锚点。",
+    "takeaway": "这是 11 月 20 日定价与开盘条目的重大进展：发行已经交割，承销商加购选择权已全额行使，首日官方收盘价也有主流行情源交叉核对。下一看第二个完整交易日的收盘表现，以及充分稀释后的流通股本和市值口径如何被交易所与后续文件固定下来。",
+    "innovation_score": 4,
+    "business_score": 5,
+    "tags": [
+      "IPO",
+      "大模型",
+      "Claude",
+      "纳斯达克",
+      "交割",
+      "公开市场"
+    ],
+    "website": "https://www.anthropic.com/",
+    "sources": [
+      "https://www.anthropic.com/news/ipo-close",
+      "https://www.cnbc.com/2026/11/20/anthropic-ipo-stocks-market.html",
+      "https://finance.yahoo.com/quote/ANT/history/"
+    ],
+    "uncertain_points": "935 亿美元、916 亿美元和 1195 亿美元均为官方新闻稿中未扣除承销折扣、佣金及其他发行费用的募集总额，净募资未公布。官方短稿仍未公布市值或充分稀释股本；按收盘价测算的市值本条不收录。第二个交易日在本窗口截止时尚未收盘，盘中报价不以官方收盘价采用。收入、亏损与 run-rate 仍以既有招股文件转述为准，本次未再核新的财务数字。"
+  },
+  {
+    "id": "applied-compute-350m-100m-arr",
+    "date_collected": "2026-11-21",
+    "status": "update",
+    "type": "both",
+    "name": "Applied Compute（将被 Palo Alto Networks 收购）",
+    "one_liner": "Palo Alto Networks 于 11 月 18 日宣布达成最终协议，以 45 亿美元全股票交易收购开源权重模型的后训练与推理平台 Applied Compute，交易尚待监管批准，预计在 Palo Alto 2027 财年第三季度完成",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "Applied Compute 为企业提供开源权重模型的后训练、适配与推理平台，客户可在公共云或主权环境中训练并部署自有模型。协议完成后，平台将继续服务原有的 AI 原生公司与大型企业客户，并由 Palo Alto Networks 推向其全球客户；联合创始人兼 CEO Yash Patil 将在交割后出任 Palo Alto Networks 联席首席 AI 官。此前公司在 11 月初刚宣布 3.5 亿美元融资，并自称达到 1 亿美元年化收入 run-rate",
+    "metrics": [
+      {
+        "label": "收购对价与交割安排（官方公布）",
+        "value": "Palo Alto Networks 2026-11-18 官方新闻稿宣布，已就收购 Applied Compute 达成最终协议。交易为全股票结构，价值 45 亿美元，可予调整。交易仍须满足包括监管批准在内的惯例交割条件，预计在 Palo Alto Networks 2027 财年第三季度完成。新闻稿称 Applied Compute 是开源权重模型后训练与推理平台，将帮助企业在公共云或主权环境中安全地训练、适配和部署开源及开源权重模型；Yash Patil 将在交割后成为 Palo Alto Networks 联席首席 AI 官。公司将在同日 13:30 PT 的 2027 财年第一季度财报电话会上提供更多细节",
+        "source_type": "官方公布",
+        "source_url": "https://www.paloaltonetworks.com/company/press/2026/palo-alto-networks-to-acquire-applied-compute--bringing-secure-open-weight-ai-to-the-enterprise"
+      },
+      {
+        "label": "既有收入口径（公司此前自述，未被本次收购稿更新）",
+        "value": "观察站 11 月 4 日条目已记录：Applied Compute 在 11 月 2 日官方博客中自称成立不到 18 个月达到 1 亿美元年化收入 run-rate。本次 Palo Alto 收购短稿未重新公布收入、客户数或 run-rate，也未在短稿中复核该数字",
+        "source_type": "创始人自述 / 公司声明",
+        "source_url": "https://appliedcompute.network/company/100m-run-rate-fundraise"
+      }
+    ],
+    "why_it_works": "开源权重模型要进入企业，缺的往往不是权重本身，而是可在受控环境里做后训练、推理和安全交付的平台。Applied Compute 用不到一年半做出被一家大型网络安全公司用 45 亿美元全股票买下的位置，说明企业愿意为「安全地拥有并运行自己的模型」付账，也把 11 月初那轮 3.5 亿美元融资后的去向一下子写清楚了。",
+    "takeaway": "这是既有 Applied Compute 融资条目的重大进展：买方、对价和预计交割窗口均已由官方落定，但仍未交割。下一看监管审批和 2027 财年第三季度能否如期完成，以及交割文件会不会给出比公司自述更可核对的收入口径。",
+    "innovation_score": 4,
+    "business_score": 5,
+    "tags": [
+      "收购",
+      "开源权重模型",
+      "后训练",
+      "推理平台",
+      "网络安全"
+    ],
+    "website": "https://appliedcompute.network/",
+    "sources": [
+      "https://www.paloaltonetworks.com/company/press/2026/palo-alto-networks-to-acquire-applied-compute--bringing-secure-open-weight-ai-to-the-enterprise",
+      "https://www.sec.gov/Archives/edgar/data/1327567/000132756726000030/panw-20261117.htm",
+      "https://appliedcompute.network/company/100m-run-rate-fundraise"
+    ],
+    "uncertain_points": "45 亿美元为官方新闻稿中可予调整的交易价值，并非已完成的交割对价；交易仍须监管批准，存在无法如期或无法完成的可能。Palo Alto 短稿未公布 Applied Compute 的当前收入或客户数；部分媒体转述公司对分析师称该交易有望在 2029 财年为 Palo Alto 贡献超过 10 亿美元年经常性收入，该前瞻口径未见诸本条所引官方新闻稿，不以本条数字收录。官宣落在 11 月 18 日，本窗口作补收。"
+  },
+  {
+    "id": "arcfront-stealth-exit-frontier-lab-data",
+    "date_collected": "2026-11-21",
+    "status": "new",
+    "type": "innovative",
+    "name": "Arcfront",
+    "one_liner": "Scaler 联合创始人 Anshuman Singh 与 Naman Bhalla 于 11 月 20 日出隐身发布 Arcfront：把专家在真实工作中的判断过程做成前沿模型的训练数据、强化学习环境和评测；公司官方称五家前沿实验室中已有四家是客户，并有 300 多家企业合作伙伴和 1000 多个强化学习环境",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "Arcfront 与医院、工厂、实验室和工程团队等合作，把真实工作中的修订、失败和结果记录转化为可验证的训练数据和强化学习环境，卖给前沿模型实验室，并按医疗、金融等行业提供评测。官网把这类数据称为 Decision Arc Data。创始人 Anshuman Singh 此前创办 Scaler 和 InterviewBit，联合创始人为 Naman Bhalla，并得到 Scaler 联合创始人 Abhimanyu Saxena 的支持",
+    "metrics": [
+      {
+        "label": "客户与产品规模（公司官方声明）",
+        "value": "Arcfront 官方账号 2026-11-20 18:40 UTC 发帖宣布出隐身：把专家形成判断的过程做成前沿模型的训练数据、强化学习环境和评测；并称五家前沿实验室中已有四家与其合作，拥有 300 多家企业合作伙伴和 1000 多个强化学习环境，正在旧金山和班加罗尔招聘。创始人 Anshuman Singh 同日 18:37 UTC 的发布帖同样写明「不到一年内，五家前沿实验室中的四家成为客户」。两则帖文和官网均未公布收入、合同额或融资金额。官网将产品定义为 Decision Arc Data，并强调每项任务都有可核对的真实结果",
+        "source_type": "官方公布",
+        "source_url": "https://x.com/arcfront/status/2123849040551162275"
+      },
+      {
+        "label": "团队规模（创始人自述）",
+        "value": "Anshuman Singh 在发布线程中回复称，公司约有 100 名全职员工，分布在旧金山和班加罗尔办公室，多数从事技术和研究，并称资源仍紧、正在积极招聘",
+        "source_type": "创始人自述",
+        "source_url": "https://x.com/anshuman_ssh/status/2123871317971853487"
+      }
+    ],
+    "why_it_works": "模型已经能在编程竞赛里拿满分，但一进真实岗位就会在判断上摔倒。Arcfront 抓的不是更多题解，而是医生、工程师和操作员在现场如何改主意、如何收场，再把这条路径做成可验证的训练环境和评测。五家前沿实验室里先做成四家客户，说明这一层数据已经被最需要它的买家认作生产要素，而不只是又一份演示集。",
+    "takeaway": "这是本窗口内新出隐身的数据与评测公司，客户声明来自创始人和公司官方账号，但收入和融资都未公开。社交转述中出现的约 10 亿美元年化 run-rate、单月 8000 万美元收入、融资不足 200 万美元等数字，未见诸官网或上述官方帖文，本条不予收录。下一看会不会补上可核对的合同或收入口径，以及未具名的四家实验室客户能否被独立证实。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": [
+      "出隐身",
+      "训练数据",
+      "强化学习环境",
+      "评测",
+      "前沿模型"
+    ],
+    "website": "https://arcfront.ai/",
+    "sources": [
+      "https://x.com/anshuman_ssh/status/2123848140575182946",
+      "https://x.com/arcfront/status/2123849040551162275",
+      "https://arcfront.ai/",
+      "https://x.com/anshuman_ssh/status/2123871317971853487"
+    ],
+    "uncertain_points": "「五家前沿实验室中的四家」未点名，也未见合同或付费证明，只能按公司与创始人声明记录为客户。300 多家企业合作伙伴与 1000 多个强化学习环境均为公司口径，统计方式和是否付费不详。收入、ARR 和融资在官网与官方发帖中均未披露；部分社交综述写到约 10 亿美元年化 run-rate、单月约 8000 万美元收入、融资不足 200 万美元，这些数字没有出现在官方帖文或官网，本条不采用。"
+  },
+  {
+    "id": "archer-hackajob-10m-ai-recruiting-agents",
+    "date_collected": "2026-11-21",
+    "status": "new",
+    "type": "both",
+    "name": "Archer（hackajob）",
+    "one_liner": "原 hackajob 团队于 11 月 20 日宣布为 AI 招聘代理 Archer 筹集 1000 万美元，由 Volition Capital 领投、AVP 跟投；官方称过去 12 个月有超过 70 万名候选人注册，每周撮合 1 万次介绍，本年 ARR 增长 5 倍",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "Archer 是 hackajob 打造的招聘代理：候选人向它说明下一份工作想要什么，得到一份匹配职位短名单；招聘方说明「什么样算合适」，它把合格人选送进 ATS。最终录用决定仍由招聘方作出。公司计划在 2027 年 1 月推出面向候选人的代理，并在 2027 年一季度把 Archer OS 正式开放，进入 Slack、Teams 等招聘方已在使用的工具",
+    "metrics": [
+      {
+        "label": "融资（官方公布）",
+        "value": "hackajob 官方博客日期为 2026-11-20：为 Archer 宣布 1000 万美元融资，由 Volition Capital 领投，AVP 参与。Tech.eu 同日报道写明该轮约合 910 万欧元，资金将用于扩大纽约和伦敦的市场团队，并继续开发 AI 招聘平台",
+        "source_type": "官方公布",
+        "source_url": "https://hackajob.com/employer/blog/archer-raises-10m-to-make-ai-work-for-both-sides-of-hiring"
+      },
+      {
+        "label": "用户、撮合与 ARR（公司自述）",
+        "value": "官方称过去 12 个月有超过 70 万名候选人注册使用 Archer，超过此前五年 hackajob 的总和；Archer 现在每周完成 1 万次介绍，其中约一半是客户从未见过的人选，并且转化为面试的可能性是客户自身基线的 5 倍。客户例子包括 Google、Sierra 和 Barclays。官方称本年 ARR 增长 5 倍，同时把客户的单次招聘成本较人力中介降低 67%。上述转化率、降本和 ARR 增幅均为公司口径，未见独立审计",
+        "source_type": "创始人自述 / 公司声明",
+        "source_url": "https://hackajob.com/employer/blog/archer-raises-10m-to-make-ai-work-for-both-sides-of-hiring"
+      }
+    ],
+    "why_it_works": "招聘两边都在用 AI 海投和海联，结果谁也找不到新的人。Archer 把最老的「代理人」角色重新做了一遍：一边代表候选人找合适的职位，一边代表招聘方把人筛进 ATS，并且把介绍量、未见过的人选比例和面试转化写成可以对照的数字。客户名单里出现 Google、Sierra 和 Barclays，说明它已经不只是技术岗位的小工具。",
+    "takeaway": "这是本窗口内有官方融资和公司自述增长数字的招聘代理案例。ARR 增 5 倍、获客成本降 67% 和「5 倍面试转化」都来自公司博客，没有给出绝对值或统计区间。下一看 2027 年初面向候选人和 Archer OS 的正式发布，会不会把这些比例落成更可核对的付费与留存数据。",
+    "innovation_score": 3,
+    "business_score": 4,
+    "tags": [
+      "招聘",
+      "智能体",
+      "ARR",
+      "种子/成长轮",
+      "hackajob"
+    ],
+    "website": "https://hackajob.com/",
+    "sources": [
+      "https://hackajob.com/employer/blog/archer-raises-10m-to-make-ai-work-for-both-sides-of-hiring",
+      "https://tech.eu/2026/11/20/archer-raises-10m-to-connect-recruiters-and-job-seekers-with-ai/"
+    ],
+    "uncertain_points": "本轮是 Archer 品牌下的 1000 万美元融资，官方未写明轮次名称或估值。70 万注册候选人、每周 1 万次介绍、约一半新人和 5 倍面试转化、ARR 增 5 倍、较中介降本 67% 均为公司自述，缺少绝对 ARR 和统计口径。Google、Sierra、Barclays 被列为客户例子，合作深度与是否付费使用 Archer 而非旧版 hackajob 未说明。"
+  },
+  {
+    "id": "satsure-series-b-first-close-earth-observation-ai",
+    "date_collected": "2026-11-21",
+    "status": "new",
+    "type": "both",
+    "name": "SatSure",
+    "one_liner": "班加罗尔地球智能公司 SatSure 于 11 月 20 日宣布 Series B 首轮交割：由印度国家空间促进与授权中心 IN-SPACe 支持的 Antariksh 基金领投 6 亿卢比（₹60 crore），整轮目标 20 亿卢比（₹200 crore）；其地球观测数据已被用于印度储备银行统一放贷接口中的农贷评估",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "SatSure 做全栈地球智能：子公司 KaleidEO 研制光学载荷并参与印度地球观测公私合作星座，母公司则把遥感数据变成银行、保险、关键基础设施和政府可用的决策产品。其 SatSource 产品线已被接入印度储备银行的统一放贷接口（ULI）。本轮资金计划用于 2027 年轨道飞行前的光学载荷、国家级地球观测星座任务，以及放大此前已获 IN-SPACe 技术采用基金 2.46 亿卢比（₹24.6 crore）资助的大地球观测模型 Dhaarini，并拓展国际商业业务",
+    "metrics": [
+      {
+        "label": "Series B 首轮交割（媒体报道，援引公司宣布）",
+        "value": "Business Standard 2026-11-20 报道：由 IN-SPACe 支持、SIDBI Venture Capital Ltd 管理的 Antariksh Venture Capital Fund（AVCF）向 SatSure 投资 6 亿卢比（₹60 crore），领投其 20 亿卢比（₹200 crore）Series B 的首轮交割。整轮计划包含 16.5 亿卢比（₹165 crore）一级股权、2.5 亿卢比（₹25 crore）风险投资债和 1 亿卢比（₹10 crore）老股转让，公司预计将在 2026 年 12 月前滚动完成。首轮交割后，SatSure 累计机构融资达 42.7 亿卢比（₹427 crore），不含政府资助。Via Satellite 同日称公司于 11 月 20 日宣布本轮，并将整轮结构折写成 2100 万美元（其中股权 1760 万美元、风险投资债 270 万美元、老股转让 110 万美元），AVCF 出资 640 万美元；该美元口径把尚未滚动完成的整轮目标写成了已完成募资，与 Business Standard 的首轮交割表述不一致",
+        "source_type": "媒体报道",
+        "source_url": "https://www.business-standard.com/companies/start-ups/antariksh-venture-capital-fund-invests-rs-60-crore-satsure-series-b-126112000483_1.html"
+      },
+      {
+        "label": "落地应用（媒体报道，援引公司）",
+        "value": "Business Standard 写明：SatSure 的 SatSource 产品线已被纳入印度储备银行统一放贷接口（ULI）；包括印度国家银行在内的公共部门银行用该平台在数分钟内评估农贷申请，而以往这一流程更慢。文章在此处被截断，完整耗时对比和放贷规模未在本条核到全文",
+        "source_type": "媒体报道",
+        "source_url": "https://www.business-standard.com/companies/start-ups/antariksh-venture-capital-fund-invests-rs-60-crore-satsure-series-b-126112000483_1.html"
+      }
+    ],
+    "why_it_works": "遥感数据要变成银行敢用的放贷依据，需要从载荷、星座到行业模型一条链都抓在手里。SatSure 把这条链接到了印度储备银行的统一放贷接口，并拉来主权背景的空间基金做本轮首轮领投，说明地球观测 AI 的付费场景已经不只是演示图，而是进入了现有金融基础设施。",
+    "takeaway": "这是本窗口内宣布的 Series B 首轮交割，不是整轮收官。观察时应以 6 亿卢比的 AVCF 投资和 20 亿卢比的整轮目标区分开来，并等待 12 月滚动关账时的完整投资人名单和最终金额。",
+    "innovation_score": 3,
+    "business_score": 4,
+    "tags": [
+      "地球观测",
+      "遥感",
+      "农业信贷",
+      "B轮",
+      "印度"
+    ],
+    "website": "https://satsure.co/",
+    "sources": [
+      "https://www.business-standard.com/companies/start-ups/antariksh-venture-capital-fund-invests-rs-60-crore-satsure-series-b-126112000483_1.html",
+      "https://www.satellitetoday.com/finance/2026/11/20/indian-eo-startup-satsure-raises-21m-with-sovereign-fund-investment/"
+    ],
+    "uncertain_points": "未见公司官网新闻稿全文，细节以 Business Standard 和 Via Satellite 对 11 月 20 日宣布的报道为准。整轮 20 亿卢比（₹200 crore）尚未在 12 月前滚动完成，本条只把 AVCF 的 6 亿卢比（₹60 crore）记为首轮交割。Via Satellite 将整轮结构写成已募集 2100 万美元，与「首轮交割、其余滚动」的表述冲突，不以 2100 万美元作为已到账金额。累计 42.7 亿卢比（₹427 crore）不含政府资助，构成口径未逐项复核。农贷「数分钟完成」的效果为报道转述，完整对比数据和放贷规模未在本条核到。"
+  },
+  {
+    "id": "payhawk-280m-series-c-2b-finance-os",
+    "date_collected": "2026-11-21",
+    "status": "new",
+    "type": "both",
+    "name": "Payhawk",
+    "one_liner": "总部位于伦敦、创立于索非亚的支出管理公司 Payhawk 于 11 月 18 日宣布获得 2.8 亿美元 C 轮融资，由高盛 Alternatives 成长股权部门领投，估值 20 亿美元；官方称 77% 的客户每天使用其财务智能体，并在第三季度实现正向现金流",
+    "category": "法律金融",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "Payhawk 正从企业支出管理走向它所称的「AI 时代财务操作系统」：一层是执行财务工作的智能体，一层是让智能体安全接触资金的支付基础设施，一层是决定智能体权限和何时需要人工审批的企业控制。收费以可预期的订阅为主，而不是靠卡片交换费。官方举例称，其 Financial Controller Agent 在美国可搭配客户已有的商务卡使用，无需换卡。公司在 33 个国家、12 个办公地点运营。本轮交易仍须通过标准监管批准",
+    "metrics": [
+      {
+        "label": "融资与估值（官方公布）",
+        "value": "Payhawk 官方博客日期为 2026-11-18：宣布 2.8 亿美元全股权 C 轮，由 Growth Equity at Goldman Sachs Alternatives 领投，估值 20 亿美元，累计融资超过 5.15 亿美元。原有投资人 QED、Greenoaks、Lightspeed、Hedosophia 和 Bek Ventures 全部跟投，新进投资人包括 Galdana Ventures、Cogito Capital、Inveready、Invus，以及欧洲创业者 Tomas Okmanas 和 Didac Lee。高盛的 James Hayward 将加入董事会。TechCrunch 同日 11:29 PT 报道交叉确认了 2.8 亿美元、20 亿美元估值和累计融资超过 5 亿美元",
+        "source_type": "官方公布",
+        "source_url": "https://payhawk.com/en-us/blog/payhawk-series-c-280m-funding"
+      },
+      {
+        "label": "智能体使用与现金流（公司自述）",
+        "value": "CEO Hristo Borisov 在官方新闻稿中称，77% 的客户每天在财务控制、采购、差旅和报告中使用其智能体；公司在第三季度实现正向现金流，并且仍持有 2022 年上一轮融资资金的 70%。TechCrunch 转述公司仍持有 2022 年所筹 1 亿美元中的 70%，但未重复正向现金流和 77% 日活智能体这两个数字",
+        "source_type": "创始人自述 / 公司声明",
+        "source_url": "https://payhawk.com/en-us/blog/payhawk-series-c-280m-funding"
+      }
+    ],
+    "why_it_works": "财务软件变聪明，并不等于财务部门真的换了一套操作系统。Payhawk 把智能体、支付轨道和企业控制绑在一起，让智能体不是只提建议，而是在受控条件下动钱、做对账。77% 客户日活和第三季度转正的现金流，是它把「Finance OS」故事往前推的两块硬牌子，也解释了高盛为什么愿意按 20 亿美元估值把这轮做下来。",
+    "takeaway": "官宣落在 11 月 18 日，本窗口作补收。这是近年来欧洲较大的一笔偏 AI 的财务软件 C 轮，但 77% 日活和正向现金流都是公司自述，绝对值 ARR 未披露。交易还须监管批准。下一看交割结果，以及智能体是否能从支出管理扩到更广的财务作业。",
+    "innovation_score": 3,
+    "business_score": 5,
+    "tags": [
+      "C轮",
+      "财务智能体",
+      "支出管理",
+      "现金流",
+      "高盛"
+    ],
+    "website": "https://payhawk.com/",
+    "sources": [
+      "https://payhawk.com/en-us/blog/payhawk-series-c-280m-funding",
+      "https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/"
+    ],
+    "uncertain_points": "2.8 亿美元交易仍须标准监管批准，尚未完成交割。77% 客户每日使用智能体、第三季度正向现金流，以及「仍持有 2022 年融资的 70%」均为公司自述，未披露 ARR、利润额或审计口径。TechCrunch 写 2022 年那轮为 1 亿美元，官方短稿只说「上一轮融资资金的 70%」，两处对 2022 年融资额的表述需要对照公司更早公告才能完全对齐。"
+  },
+  {
+    "id": "linq-90m-series-b-1b-agent-messaging-infra",
+    "date_collected": "2026-11-21",
+    "status": "new",
+    "type": "both",
+    "name": "Linq",
+    "one_liner": "AI 代理消息与行动基础设施公司 Linq 于 11 月 18 日宣布获得 9000 万美元新一轮融资，由 Andreessen Horowitz 领投，估值 10 亿美元；官方称客户已通过其基础设施处理超过 10 亿条消息，Ben Horowitz 将加入董事会",
+    "category": "客服销售",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "Linq 为开发者提供把 AI 代理接入消息、电话和计算机使用的基础设施。客户包括 DoorDash、Town 以及 Tab 或 Tomo 等；DoorDash 用它在 Apple Messages for Business 的同一条对话里完成找餐、加购和下单。公司现为 Apple Messages for Business 的官方消息服务商（MSP），并在扩展 HD Calling（代理拨打手机级通话）以及向代理提供可操作软件的计算机使用基础设施，Kernel 是计算机使用的早期客户之一。本轮资金将继续投入消息，并扩展软硬件基础设施与合作",
+    "metrics": [
+      {
+        "label": "融资与估值（官方公布）",
+        "value": "Linq 官方博客日期为 2026-11-18：宣布 9000 万美元新融资，由 Andreessen Horowitz 领投，TQ Ventures、Mucker Capital 和 Abstract 继续参与，Anthos 和 Left Lane Capital 新进，累计融资超过 1.2 亿美元，估值 10 亿美元，Ben Horowitz 加入董事会。PR Newswire 同日 22:45 ET 的新闻稿交叉确认了金额、领投方、估值与累计融资，并将本轮称为建设 AI 代理基础设施平台的新融资；新闻稿还点名客户包括 DoorDash、Town、Tomo 及另外数百家公司",
+        "source_type": "官方公布",
+        "source_url": "https://linqapp.com/blog/linq-raises-90m-welcomes-ben-horowitz-to-the-board"
+      },
+      {
+        "label": "消息处理量与客户（公司自述）",
+        "value": "官方称客户已通过其基础设施处理超过 10 亿条消息。DoorDash AI 研究负责人 Aryan Shah 在新闻稿中表示，Linq 提供了把点餐放进熟悉对话的消息基础设施。公司称自 Poke 去年在 Linq 上线后，推动了 AI 个人助手的兴起。收入、付费席位或 ARR 未披露",
+        "source_type": "创始人自述 / 公司声明",
+        "source_url": "https://www.prnewswire.com/news-releases/linq-raises-90-million-in-new-funding-led-by-andreessen-horowitz-to-build-the-infrastructure-platform-for-ai-agents-302944728.html"
+      }
+    ],
+    "why_it_works": "代理要替人把事做完，先得出现在人们已经在用的对话里，再能打电话、操作软件。Linq 先把消息基础设施铺到 10 亿条，再补上通话和计算机使用，让 DoorDash 这类客户可以在一条 iMessage 里走完下单。10 亿美元估值买的是这条「代理的连接层」，而不只是又一个聊天机器人。",
+    "takeaway": "官宣落在 11 月 18 日 22:45 ET，已落入昨日窗口但未被收录，本窗口作补收。消息量和知名客户是硬信号，但收入并未公开。下一看通话和计算机使用能否从试点变成可重复的付费产品。",
+    "innovation_score": 4,
+    "business_score": 4,
+    "tags": [
+      "B轮",
+      "代理基础设施",
+      "消息",
+      "独角兽",
+      "Andreessen Horowitz"
+    ],
+    "website": "https://linqapp.com/",
+    "sources": [
+      "https://linqapp.com/blog/linq-raises-90m-welcomes-ben-horowitz-to-the-board",
+      "https://www.prnewswire.com/news-releases/linq-raises-90-million-in-new-funding-led-by-andreessen-horowitz-to-build-the-infrastructure-platform-for-ai-agents-302944728.html",
+      "https://a16z.com/announcement/investing-in-linq/"
+    ],
+    "uncertain_points": "官方博客将本轮称为 9000 万美元「新融资」，新闻稿同样未在标题中写明 Series B；部分二手报道写作 Series B，本条以官方「新融资、估值 10 亿美元、累计超过 1.2 亿美元」为准。超过 10 亿条消息为累计处理量，不是收入。官方博客写客户包括 DoorDash、Town 和 Tab，PR Newswire 写 DoorDash、Town 和 Tomo，名称不完全一致。收入和盈利未披露。"
+  },
+  {
+    "id": "arva-ai-20m-series-a-bank-decision-agents",
+    "date_collected": "2026-11-21",
+    "status": "new",
+    "type": "both",
+    "name": "Arva AI",
+    "one_liner": "为银行和金融科技公司自动化关键后台决策的 Arva AI 于 11 月 17 日宣布获得 2000 万美元 A 轮融资，由 Arthur Ventures 领投，Y Combinator 和 Gradient Ventures 继续参与；官方称已在一家美国前十大银行、一家标普 500 支付机构和 Wise 规模化部署",
+    "category": "法律金融",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "Arva AI 为银行和金融科技公司部署可端到端处理关键决策的智能体，覆盖金融犯罪合规、开户、支付运营和信贷等后台环节。2026 年 9 月成立内部实验室 Arva Research，自研在决策关键步骤上更准的模型，并与持续学习基础设施 AgentCore 一起适配各家银行的作业和制度。其首个模型 Arva Intel 用于对个人和商户做深度在线调查。本轮资金将扩大 Arva Research 和 AgentCore，并把智能体延伸到争议处理、支付运营和信贷等更多决策类型。公司 2024 年由 CEO Rhim Shah 与 CTO Oliver Wales 创立",
+    "metrics": [
+      {
+        "label": "融资（官方公布）",
+        "value": "Arva AI 官方博客日期为 2026-11-17：宣布 2000 万美元 A 轮，由 Arthur Ventures 领投，Y Combinator 和 Gradient 继续参与。BusinessWire 同日新闻稿交叉确认了金额、领投方和跟投方，并写明本轮发生在 9 月成立 Arva Research 以及多家规模化部署之后。FinTech Futures 后续报道称，此轮建立在 2025 年 1 月 300 万美元种子轮之上",
+        "source_type": "官方公布",
+        "source_url": "https://arva.ai/blog/arva-ai-raises-20m-series-a"
+      },
+      {
+        "label": "客户与模型效果（公司自述）",
+        "value": "官方称过去一年已在银行和金融科技公司规模化部署，其中包括一家美国前十大银行、一家标普 500 支付机构以及全球金融科技公司 Wise。公司称其首个模型 Arva Intel 在自有测试中，对个人和商户的在线调研准确率比领先通用模型高出 13%。客户名称除 Wise 外均未点名，准确率对比为公司自测，未见独立评测或收入数字",
+        "source_type": "创始人自述 / 公司声明",
+        "source_url": "https://www.businesswire.com/news/home/20261117947282/en/Arva-AI-Raises-%2420M-Series-A-to-Build-the-AI-Models-and-Infrastructure-Banks-Trust-to-Run-Their-Critical-Operations"
+      }
+    ],
+    "why_it_works": "银行后台每天都在做必须对监管讲得清的决策，通用模型差一点就不能放权。Arva 先拿下合规和开户这类高责任场景，再自研更准的调研模型，让人只负责定政策和监督。Wise 和「前十大银行」这类客户，比再讲一层 Agent 故事更有说服力。",
+    "takeaway": "官宣落在 11 月 17 日，昨日与前日窗口均未收录，本窗口作补收。融资和具名客户是可核对的商业信号，但收入、部署量和 13% 准确率优势都还是公司口径。下一看争议处理和信贷等新场景会不会带来可披露的规模数据。",
+    "innovation_score": 3,
+    "business_score": 4,
+    "tags": [
+      "A轮",
+      "银行智能体",
+      "合规",
+      "支付运营",
+      "Y Combinator"
+    ],
+    "website": "https://arva.ai/",
+    "sources": [
+      "https://arva.ai/blog/arva-ai-raises-20m-series-a",
+      "https://www.businesswire.com/news/home/20261117947282/en/Arva-AI-Raises-%2420M-Series-A-to-Build-the-AI-Models-and-Infrastructure-Banks-Trust-to-Run-Their-Critical-Operations",
+      "https://fintech.global/2026/11/19/arva-ai-lands-20m-series-a-for-ai-banking-agents/"
+    ],
+    "uncertain_points": "除 Wise 外，美国前十大银行和标普 500 支付机构均未具名。Arva Intel「准确率高 13%」为公司自测，评测集和对照模型未公开。收入、付费银行数量和部署决策量未披露。FinTech Futures 所写 2025 年 1 月 300 万美元种子轮未见诸 11 月 17 日官方短稿，本条仅作背景，不以官方新数字采用。"
+  },
+  {
+    "id": "lato-4-7m-seed-1m-arr-diligence-agents",
+    "date_collected": "2026-11-21",
+    "status": "new",
+    "type": "both",
+    "name": "LATO",
+    "one_liner": "面向机构投资者的 AI 调研公司 LATO 在官网宣布获得 470 万美元种子轮，由 Air Street Capital 与 Axiom Partners 联合领投；官方称自 7 月底首个研究项目以来已在 40 多个国家完成 1000 多次专家访谈，并在不到 100 天内超过 100 万美元年化 run-rate 收入",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "LATO 的智能体负责找到并访谈合适的人、阅读已发表材料，再结合客户内部数据做推演，主要服务私募股权等机构投资者的商业尽调。平台保留访谈录音和记录，供投资团队在立项到投后管理中复核。Tech.eu 11 月 19 日报道称客户包括 Verdane、Blume Equity 和 North Island；公司也在探索咨询公司与企业进入新市场前的调研场景。本轮还将用于扩充工程、研究和销售团队，并让智能体更独立地完成更多类型的研究。创始人为 Tymek Staniszewski 与 Tien Chu，公司参加过 Y Combinator",
+    "metrics": [
+      {
+        "label": "融资（官方公布）",
+        "value": "LATO 在官网种子轮页面宣布获得 470 万美元种子轮，由 Air Street Capital 与 Axiom Partners 联合领投，投资方还包括 Y Combinator、Inception Fund、SMOK Ventures、Montis VC，以及 ElevenLabs、Vercel、Snowflake、Rogo 的联合创始人和 Paul Graham 等天使。该页面未写明宣布日期。Tech.eu 日期为 2026-11-19 的报道交叉确认了金额、联合领投方和 Y Combinator 等投资人，并介绍其智能体为投资机构进行客户与行业专家访谈",
+        "source_type": "官方公布",
+        "source_url": "https://www.latolabs.io/seed"
+      },
+      {
+        "label": "收入与使用规模（公司自述）",
+        "value": "官方页面写明：自 7 月底首个研究项目以来，已在 40 多个国家完成 1000 多次专家访谈，服务管理资产合计近 5000 亿美元的基金，并在不到 100 天内超过 100 万美元年化 run-rate 收入。上述收入与管理资产口径为公司自述，Tech.eu 的报道未重复这组数字，也未见审计或合同披露",
+        "source_type": "创始人自述 / 公司声明",
+        "source_url": "https://www.latolabs.io/seed"
+      }
+    ],
+    "why_it_works": "私募尽调的时间表是死的，关键问题往往要靠和当地买家、同行直接谈。LATO 用智能体按对方的语言去做这些访谈，再和公开材料、基金自己的数据对上，把「来不及问完」变成可以回放的证据链。不到 100 天跨过 100 万美元年化 run-rate，说明这类调研已经有人按项目付费，而不只是演示。",
+    "takeaway": "官网未标注发布日期，Tech.eu 于 11 月 19 日报道，本窗口作补收。100 万美元 run-rate 和近 5000 亿美元管理资产都只出现在公司页面，独立媒体报道没有复述，记录时应标明为公司自述。下一看这组年化数字会不会在后续融资或客户案例里被复核。",
+    "innovation_score": 4,
+    "business_score": 4,
+    "tags": [
+      "种子轮",
+      "尽调",
+      "专家访谈",
+      "私募股权",
+      "Y Combinator"
+    ],
+    "website": "https://www.latolabs.io/",
+    "sources": [
+      "https://www.latolabs.io/seed",
+      "https://tech.eu/2026/11/19/lato-secures-47m-to-automate-customer-and-expert-interviews-with-ai/"
+    ],
+    "uncertain_points": "官网种子轮页面没有标注日期，宣布时点以 Tech.eu 2026-11-19 报道为参照。100 万美元年化 run-rate、1000 多次访谈、近 5000 亿美元管理资产均为公司自述，Tech.eu 未加确认，也不是经审计的过去 12 个月收入。Verdane、Blume Equity、North Island 仅见于 Tech.eu，官网短稿未点名。"
+  },
+  {
+    "id": "vero-security-11m-seed-ai-runtime-governor",
+    "date_collected": "2026-11-21",
+    "status": "new",
+    "type": "profitable",
+    "name": "Vero Security",
+    "one_liner": "企业 AI 安全公司 Vero Security 于 11 月 18 日宣布获得 1100 万美元种子轮，由 TLV Partners 领投；其运行时治理产品在代理实际调用工具、执行动作时按既定策略拦截违规操作",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "Vero 做的是它所称的 AI Security Engineering：把安全策略写成可在运行时生效的控制，在提示词、工具调用和代理动作发生时检查并拦截，例如阻止编程代理读取不该碰的密钥，或阻断提示注入触发的越权行为。产品通过企业已有的终端、身份、AI 和安全工具落地，员工无需再装新软件。公司同时上线开放社区 AISecurityEngineering.org。联合创始人兼 CEO 为 Elad Tessler",
+    "metrics": [
+      {
+        "label": "融资（官方公布）",
+        "value": "Vero Security 官方博客宣布获得 1100 万美元种子轮，由 TLV Partners 领投。PR Newswire 新闻稿与 The Next Web、Unite.AI 等后续报道交叉确认金额，并写明宣布日期为 2026-11-18，跟投方包括 GTM Capital、Maple Capital 以及天使投资人。官方材料以融资和产品定位为主，未披露收入、客户数或 ARR",
+        "source_type": "官方公布",
+        "source_url": "https://www.vero.security/blog/vero-raises-11m-to-shape-how-ai-security-engineering-is-done"
+      }
+    ],
+    "why_it_works": "企业把权限交给代理之后，安全团队真正怕的是动作已经发生才去复盘。Vero 把策略下沉到运行时，在代理读文件、调工具的那一瞬间做拦截，走的是「先管住动作、再补流程和培训」的路。1100 万美元种子轮说明这条治理层已经被当成一门独立的生意，而不只是现有安全套件的开关。",
+    "takeaway": "官宣落在 11 月 18 日，本窗口作补收。这是一笔有官方声明和通讯稿交叉验证的种子轮，但还没有可核对的客户或收入数字，商业分主要来自融资本身。下一看会不会披露落地企业和拦截效果。",
+    "innovation_score": 3,
+    "business_score": 3,
+    "tags": [
+      "种子轮",
+      "代理安全",
+      "运行时治理",
+      "企业安全"
+    ],
+    "website": "https://www.vero.security/",
+    "sources": [
+      "https://www.vero.security/blog/vero-raises-11m-to-shape-how-ai-security-engineering-is-done",
+      "https://www.prnewswire.com/news-releases/vero-security-raises-11m-to-shape-how-ai-security-engineering-is-done-302943685.html",
+      "https://thenextweb.com/news/vero-security-11m-seed-ai-security-engineering"
+    ],
+    "uncertain_points": "融资和领投方有官方与通讯稿交叉验证，但收入、付费客户和部署规模均未披露。跟投方名单主要来自媒体对新闻稿的转述。AI Runtime Governor 的实际拦截效果未见独立验证。"
+  },
+  {
+    "id": "modern-industrials-6m-seed-manufacturing-distribution-agents",
+    "date_collected": "2026-11-21",
+    "status": "new",
+    "type": "profitable",
+    "name": "Modern Industrials",
+    "one_liner": "面向制造商和分销商的 AI 解决方案公司 Modern Industrials 于 11 月 19 日宣布获得 600 万美元种子轮，由 Glasswing Ventures 领投、TMV 联合领投，a16z speedrun 等参与；公司为客户在现有系统上定制报价、订单和计划等智能体",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "Modern Industrials 不推一套让工厂迁就的标准软件，而是按每家制造商和分销商的实际作业，在现有系统里嵌入定制智能体，覆盖销售、采购、库存、运营和客户服务，具体包括报价、录单、需求计划、供应商管理和客户支持。联合创始人为 CEO Austin Mao、CTO Ankit Bhargava 和 CPO Vatsal Bhargava，团队背景包括 McKinsey、xAI、Uber、Google、Palantir 等。本轮资金将用于加快产品开发和扩团队",
+    "metrics": [
+      {
+        "label": "融资（官方公布）",
+        "value": "Modern Industrials 官方博客日期为 2026-11-19：宣布 600 万美元种子轮，由 Glasswing Ventures 领投、TMV 联合领投，a16z speedrun 等参与。官网称公司已经在与知名制造商和分销商合作，但新闻稿未点名客户，也未披露收入或 ARR。Finsmes 等媒体同日对金额和投资方做了转述",
+        "source_type": "官方公布",
+        "source_url": "https://www.modernindustrials.com/blog/modern-industrials-raises-6m"
+      }
+    ],
+    "why_it_works": "制造业和分销的流程散落在邮件、表格和几十年前的业务系统里，通用代理很难直接接手。Modern Industrials 选择按每家客户的作业定制智能体，并声明不打断现有系统，这条路更慢，但更接近工厂真正肯付钱的方式。600 万美元种子轮先把这门生意从试点往前推了一步。",
+    "takeaway": "官宣落在 11 月 19 日，本窗口作补收。这是一笔信息完整的官方种子轮，但客户和收入都还没有可核对的数字，因此按盈利类里偏早的阶段来记。下一看会不会公开具名客户或部署效果。",
+    "innovation_score": 3,
+    "business_score": 3,
+    "tags": [
+      "种子轮",
+      "制造业",
+      "分销",
+      "定制智能体"
+    ],
+    "website": "https://www.modernindustrials.com/",
+    "sources": [
+      "https://www.modernindustrials.com/blog/modern-industrials-raises-6m",
+      "https://www.finsmes.com/2026/11/modern-industrials-raises-6m-in-seed-funding.html"
+    ],
+    "uncertain_points": "官方只称已与知名制造商和分销商合作，未点名客户，也未披露收入、部署数量或效果数据。新闻稿其余部分还有客户引言，但本条未能完整核到全部客户名称，故不以推测补全。"
+  },
+  {
+    "id": "stepsecurity-20m-series-a-agent-sandbox-supply-chain",
+    "date_collected": "2026-11-21",
+    "status": "new",
+    "type": "both",
+    "name": "StepSecurity",
+    "one_liner": "软件供应链安全公司 StepSecurity 宣布获得 2000 万美元 A 轮融资，由 Elephant 领投；官方称 ARR 在 2024 年和 2025 年各增长 5 倍，2026 年迄今已再次超过 5 倍，并称超过 2 万个开源项目使用其社区版 Harden-Runner",
+    "category": "编程开发",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "StepSecurity 保护软件被写出来的地方：开发者电脑、开源包下载和 CI/CD 流水线，并计划把防护扩展到 AI 代理沙箱。公司认为，代理在笔记本或云端执行任务时会下载依赖并运行代码，攻击面已经从生产环境前移到构建环节。企业客户包括 Circle、Dexcom、Kong、Mercor、Mercari、Chainguard 和 XBOW。本轮将加强现有产品，并投入代理沙箱防护。公司 2021 年成立，2024 年 5 月完成 300 万美元种子轮",
+    "metrics": [
+      {
+        "label": "融资（官方公布）",
+        "value": "StepSecurity 官方博客宣布超募的 2000 万美元 A 轮，由 Elephant 领投，现有投资人 Runtime Ventures、Inner Loop Capital 和 SaaS Ventures 参与。PR Newswire 新闻稿交叉确认了金额和领投方，媒体报道将宣布日期写为 2026-11-18。这正是观察站昨日待跟进清单中等待公司正式公告的事项",
+        "source_type": "官方公布",
+        "source_url": "https://www.stepsecurity.io/blog/stepsecurity-20-million-series-a"
+      },
+      {
+        "label": "ARR 增长与客户（公司自述）",
+        "value": "官方称自 2024 年 5 月 300 万美元种子轮以来，ARR 在 2024 年增长 5 倍，2025 年再增长 5 倍；2026 年迄今已再次超过 5 倍，并称有望成为增长最大的一年。超过 2 万个开源项目使用其 Harden-Runner 社区版。企业客户点名 Circle、Dexcom、Kong、Mercor、Mercari、Chainguard 和 XBOW。官方未给出 ARR 绝对值",
+        "source_type": "创始人自述 / 公司声明",
+        "source_url": "https://www.stepsecurity.io/blog/stepsecurity-20-million-series-a"
+      }
+    ],
+    "why_it_works": "软件供应链攻击不必等到应用上线，恶意代码在开发者电脑或 CI 里跑起来就已经得手。StepSecurity 先在开源社区用免费的 Harden-Runner 铺开，再向企业卖开发机和流水线防护，现在又把同一套逻辑伸到代理沙箱——因为代理也会自己下载依赖、执行代码。连续三年 5 倍的 ARR 增速是公司自己报的，但客户名单已经能说明这不是纯概念。",
+    "takeaway": "昨日还只把 StepSecurity 列为待跟进，现已核对到公司正式公告，本窗口作补收。增长倍数没有绝对值，代理沙箱仍是规划中的投入方向。下一看会不会公布 ARR 规模，以及沙箱防护何时真正上线。",
+    "innovation_score": 3,
+    "business_score": 4,
+    "tags": [
+      "A轮",
+      "供应链安全",
+      "CI/CD",
+      "代理沙箱",
+      "ARR"
+    ],
+    "website": "https://www.stepsecurity.io/",
+    "sources": [
+      "https://www.stepsecurity.io/blog/stepsecurity-20-million-series-a",
+      "https://www.prnewswire.com/news-releases/stepsecurity-raises-20-million-in-series-a-funding-to-prevent-supply-chain-attacks-302941225.html"
+    ],
+    "uncertain_points": "ARR 连续 5 倍增长均为公司自述，未公布绝对金额或截止日期。2 万个开源项目使用的是社区免费版，不能直接等同于付费客户。代理沙箱防护是本轮计划投入的方向，并非已经规模化交付的产品。宣布日期以媒体对 11 月 18 日的报道为准，官方博客正文未在本条核到页眉日期。"
+  },
+  {
+    "id": "novasilicon-nearly-100m-cny-pre-a-plus-chip-cdk",
+    "date_collected": "2026-11-21",
+    "status": "new",
+    "type": "both",
+    "name": "芯星元（NovaSilicon）",
+    "one_liner": "上海 AI 原生芯片设计公司芯星元完成近亿元 Pre-A+ 轮融资，由顺为资本领投，纪源资本、经纬创投跟投；公司提出 CDK（电路设计套件），用智能体覆盖从芯片规格到 GDS 版图的实现环节",
+    "category": "硬件与端侧",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "芯星元成立于 2026 年 6 月，总部位于上海张江，定位 AI 原生芯片设计。公司提出 CDK（Circuit Design Kit，电路设计套件），把芯片设计经验和智能体封装成系统，由工程师用来完成从规格到 GDS 版图之间反复迭代的实现环节，目标是让芯片公司定义规格、把实现交给 CDK，公司称之为 Designless。产品分两条线：模拟方向的 Vega 覆盖拓扑选择、网表、仿真和版图等；数字方向的 Sirius 覆盖规格理解、RTL 生成与验证以及布局布线、时序分析等。本轮资金主要用于 CDK 研发、首批 IP 流片与交付，以及扩充研发团队。对外交付采用本地部署，设计数据不经过第三方模型服务",
+    "metrics": [
+      {
+        "label": "融资（媒体报道）",
+        "value": "投中网 2026-11-17 10:14 报道：NovaSilicon（上海芯星元智能科技有限公司）完成近亿元 Pre-A+ 轮融资，由顺为资本领投，纪源资本、经纬创投跟投。这是公司自 2026 年 6 月成立以来连续完成的第三轮融资。五源资本是天使轮独家投资方并参与了 Pre-A 轮，此前投资方还包括商汤国香资本、上海未来产业基金、上海科创等。上海市企业出海综合服务平台 11 月 19 日转发了同一轮的领投、跟投、资金用途和产品介绍，称这是成立以来连续完成的第三轮融资",
+        "source_type": "媒体报道",
+        "source_url": "https://www.chinaventure.com.cn/news/114-20261117-394078.html"
+      },
+      {
+        "label": "产品进展（媒体转述公司披露）",
+        "value": "上海平台稿件转述公司披露：使用 Vega 后，OTA、LDO 等电路可以自动生成，PLL 设计周期从数月缩短到数周，版图已覆盖比较器、OTA、LDO、带隙基准等电路。公司称近期完成两篇论文，把 CDK 中的两套智能体与 GPT-6 Astra 等通用代理放在同一套题目上对比：在 40 道模拟版图题上，其系统平均分 0.8154、验收率 72.5%，均为参评系统最高；在一个含 99 个硬宏的工业设计上，布图规划系统平均得分约为 GPT-6 Astra 的 1.9 倍。上述对比为公司披露的内部或论文评测，未见独立复现",
+        "source_type": "媒体报道",
+        "source_url": "https://desk.sh.gov.cn/pdfpt/gzdt/20261119/5bd76c72a16d4230a95b4a78b1f85782.html"
+      }
+    ],
+    "why_it_works": "芯片设计长期靠资深工程师的个人经验，周期长、人才少。芯星元想把实现环节做成可以交付的工具包，让规格还在芯片公司手里，中间那一层反复改版图的工作交给智能体。这和观察站近期看到的一批「用代理做设计、验证和流片」的方向一致，区别在于它把产品直接命名成 CDK，并强调本地部署、数据不离开客户环境。",
+    "takeaway": "投中网 11 月 17 日已首发，昨日窗口因披露仍不完整而暂缓，现有领投方、资金用途和产品线，本窗口作补收。近亿元是约数，公司官网新闻稿仍未见到，评测数字也全部来自媒体转述的公司披露。下一看首批 IP 是否真正流片交付，以及会不会出现可核对的订单或客户。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": [
+      "Pre-A+",
+      "芯片设计",
+      "智能体",
+      "CDK",
+      "张江"
+    ],
+    "website": "https://www.chinaventure.com.cn/news/114-20261117-394078.html",
+    "sources": [
+      "https://www.chinaventure.com.cn/news/114-20261117-394078.html",
+      "https://desk.sh.gov.cn/pdfpt/gzdt/20261119/5bd76c72a16d4230a95b4a78b1f85782.html",
+      "https://www.bbtnews.com.cn/2026/1120/611843.shtml"
+    ],
+    "uncertain_points": "未见公司官网或官方新闻稿，「近亿元」为约数，精确金额和投后估值未披露。官方便是媒体转述的第三轮，累计融资金额不详。与 GPT-6 Astra 的对比数字均为公司披露，评测协议和是否经过同行评议未在本条核到。公司成立仅约五个月，客户、订单和收入均未公布。暂未找到独立产品官网，本条网站字段暂指向投中网报道。"
+  },
+  {
+    "id": "ziqian-tech-nearly-100m-cny-series-c-zcad-ai",
+    "date_collected": "2026-11-21",
+    "status": "new",
+    "type": "both",
+    "name": "子虔科技",
+    "one_liner": "AI 工业研发平台子虔科技于 11 月 17 日宣布完成新一轮融资，由宁德时代以自有主体独家战略投资；智通财经次日报道称本轮为近亿元 C 轮。公司称 2025 年企业客户超过 100 家，2026 年平台用户超过 20 万",
+    "category": "设计创意",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "子虔科技成立于 2020 年，总部位于上海张江，创始人龚敏彦。公司自建 CAD 工具链，把自然语言需求生成可继续编辑、仿真和进入制造流程的三维装配模型，而不是只有最终几何形状的静态模型。海外产品 zCAD.AI 于 2026 年 10 月上线，国内同步部署 zCAD.Online、PDM.Online 等，客户覆盖新能源汽车、航空、智能装备、电力电气等，大客户多采用私有化部署。本轮后公司表示将重点投入细分行业的工程知识采集，让平台覆盖更多设计规则",
+    "metrics": [
+      {
+        "label": "融资（媒体报道）",
+        "value": "投资界 2026-11-17 17:51 首发：子虔科技宣布完成新一轮融资，由宁德时代独家战略投资，但该文未写明轮次和金额。智通财经 2026-11-18 16:44 报道称，上海子虔科技有限公司完成近亿元 C 轮融资，由宁德时代以自有主体独家战略投资，资金用于细分行业工程知识采集与平台设计规则覆盖。投资界原文与智通报道均可核对投资方，金额与「C 轮」主要来自智通财经",
+        "source_type": "媒体报道",
+        "source_url": "https://news.pedaily.cn/202611/571998.shtml"
+      },
+      {
+        "label": "客户与产品效果（媒体转述公司口径）",
+        "value": "投资界报道转述公司介绍：2025 年企业客户超过 100 家，2026 年平台用户超过 20 万；产品用户已覆盖 80 多个国家和地区，约两成新注册用户来自 ChatGPT 推荐；zCAD.AI 于今年 10 月在 Product Hunt 发布并登上当日日榜第一。公司称曾为某设计研究院开发液压管路设计仿真工具，项目合规差错率降至 1% 以下，仿真周期缩短 50%。音箱原型等内部案例显示，用 zCAD.AI 生成约需 20 分钟，而通过大模型接口操作传统 CAD 可能需要 1 至 2 小时。收入和本轮投后估值未披露",
+        "source_type": "媒体报道",
+        "source_url": "https://news.pedaily.cn/202611/571998.shtml"
+      }
+    ],
+    "why_it_works": "工业设计最怕的是生成一个「看上去对」却没法改、不能仿真、进不了工艺的模型。子虔从自有 CAD 内核做起，让对话生成的装配模型还带着配合关系和参数，工程师可以接着改。宁德时代以自有主体独家战略投资，说明电池和装备制造这一侧已经把「缩短研发周期」当成值得直接入股的需求。",
+    "takeaway": "昨日窗口因金额不完整而暂缓，现有智通财经对近亿元 C 轮的报道，本窗口作补收。投资界首发只确认了宁德时代独家战略投资，没有写金额和轮次，这两个关键数字目前主要依赖单一后续报道。下一看公司会不会发出正式公告，以及 20 万平台用户里有多少是付费企业席位。",
+    "innovation_score": 4,
+    "business_score": 4,
+    "tags": [
+      "C轮",
+      "工业软件",
+      "CAD",
+      "宁德时代",
+      "智能设计"
+    ],
+    "website": "https://www.zixel3d.com/",
+    "sources": [
+      "https://news.pedaily.cn/202611/571998.shtml",
+      "https://www.zhitongcaijing.com/content/detail/1524979.html"
+    ],
+    "uncertain_points": "投资界 11 月 17 日首发未写明轮次和金额；「近亿元 C 轮」主要来自智通财经 11 月 18 日报道，未见公司官网公告，精确金额和估值未披露。2025 年超 100 家企业客户、2026 年超 20 万平台用户、80 多个国家和地区覆盖，以及合规差错率和仿真周期等效果数据，均为媒体转述的公司口径。「20 万平台用户」与企业付费客户不是同一口径。液压管路项目的客户为「某设计研究院」，未具名。"
+  }
+]
