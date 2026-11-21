@@ -1,0 +1,312 @@
+[
+  {
+    "id": "phancy-group-q3-2026-6747m-revenue-api-1556pct",
+    "date_collected": "2026-11-22",
+    "status": "new",
+    "type": "both",
+    "name": "范式智能（原第四范式）",
+    "one_liner": "范式智能（6682.HK，原第四范式）于 11 月 20 日刊发截至 9 月 30 日的前三季度业务表现：官方称总收入 67.47 亿元、同比增长 53.3%，其中 AI Platform 收入 53.92 亿元、在手订单约 90 亿元，API 收入 10.14 亿元、同比增长 1,556%",
+    "category": "企业服务",
+    "region": "中国",
+    "team_type": "大公司",
+    "business_model": "范式智能技术集团股份有限公司（港股代号 6682，英文名称 Phancy Group Co., Ltd.，2026 年由第四范式更名）向企业提供 AI 平台与 Token 生产运营能力。按官方公告，主营收入来自 AI Platform（异构算力调度、模型适配与 Token 管理，产品包括 HAMi vGPU 和 ModelSphere）以及承接模型推理调用的 API 业务。公司于 11 月 18 日首批发布并将开源面向智能体的 Phai-A1 和面向影像创作的 Phai-M1，并计划开放权重。现官网为 phancy.ai",
+    "metrics": [
+      {
+        "label": "前三季度收入与毛利（官方公布）",
+        "value": "公司 2026-11-20 在港交所刊发自愿公告《截至 2026 年 9 月 30 日第三季度业务表现》。官方写明：2026 年前三季度总收入人民币 67.47 亿元，同比增长 53.3%；毛利润人民币 22.60 亿元，同比增长 39.4%；毛利率 33.5%，期间总体平稳、相较 2026 年上半年有稳步提升。公告称前三季度费用率较上半年下降超 2 个百分点，三季度经营性现金流较上半年有较大改善、回款周期缩短，三季度人民币借贷成本为 2.25% 至 2.80%。该公告未给出净利润或经营利润的具体数字",
+        "source_type": "官方公布",
+        "source_url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/1120/2026112001432_c.pdf"
+      },
+      {
+        "label": "AI Platform 与 API 分项（官方公布）",
+        "value": "同一公告写明：AI Platform 收入约人民币 53.92 亿元，同比增长 32.0%；截至三季度末该业务在手订单约人民币 90 亿元，同比与环比均有大幅提升，但未披露订单的具体同比/环比幅度。API 收入约人民币 10.14 亿元，同比增长 1,556%；截至三季度末 API 业务可用算力为 4.0 万匹，较上半年末提升 42.9%。公告未解释「匹」的具体单位换算，也未拆分 API 收入中的客户结构或单价",
+        "source_type": "官方公布",
+        "source_url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/1120/2026112001432_c.pdf"
+      }
+    ],
+    "why_it_works": "企业要把大模型和智能体跑进真实业务，缺的往往不是又一个聊天窗口，而是把多种芯片、多种模型和 Token 用量管起来。范式把这件事写成了可以核对的上市场稿：平台业务仍是收入主体，在手订单约 90 亿元；API 则把推理需求做成了同比增长 15 倍的账单。对观察站来说，意义不在新的开源模型名称，而在于一家已经更名的上市公司，把算力管理和推理调用的增长直接写进了交易所文件。",
+    "takeaway": "这是本窗口内少数能对上港交所公告的中国 AI 应用层财报。67.47 亿元总收入、53.92 亿元平台收入和 10.14 亿元 API 收入都可以回到 11 月 20 日的自愿公告。但该公告不是完整季报，没有净利润数字；「在手订单约 90 亿元」也未给出同比或环比的具体幅度，「4.0 万匹」的单位也未展开。下一看完整业绩或年报会不会补上利润、订单节奏和 API 的客户结构。",
+    "innovation_score": 3,
+    "business_score": 5,
+    "tags": [
+      "财报",
+      "港股",
+      "AI平台",
+      "API",
+      "Token管理",
+      "第四范式"
+    ],
+    "website": "https://www.phancy.ai/",
+    "sources": [
+      "https://www.hkexnews.hk/listedco/listconews/sehk/2026/1120/2026112001432_c.pdf",
+      "https://finance.sina.com.cn/jjxw/2026-11-20/doc-inizkurf0315376.shtml",
+      "https://www.21jingji.com/article/20261121/herald/67e83b36d866ed5a66a478826f8df84a.html",
+      "https://finance.cnr.cn/ycbd/20261120/t20261120_527878913.shtml"
+    ],
+    "uncertain_points": "港交所公告为自愿披露的「业务表现」，不是完整季度财务报表，文中未列出净利润或经营利润的具体金额；部分媒体「经营利润大幅增加」的表述不宜当作官方数字。AI Platform 在手订单约 90 亿元只写了同比与环比「大幅提升」，没有幅度。API 可用算力「4.0 万匹」未在公告中给出单位换算，21 世纪经济报道写作「4.0 万 P」，本条沿用官方用词。Phai-A1 与 Phai-M1 于 11 月 18 日首发并将开源，权重「计划于近期开放」，是否已经放开需另核。"
+  },
+  {
+    "id": "hoplite-5-5m-seed-cloud-coding-agent-swarms",
+    "date_collected": "2026-11-22",
+    "status": "new",
+    "type": "both",
+    "name": "Hoplite",
+    "one_liner": "爱尔兰创始、在旧金山和都柏林运营的 YC S26 公司 Hoplite 于 11 月 20 日被多家媒体报道获得 550 万美元融资，用于把多个 AI 编程智能体放到云端运行；《爱尔兰时报》和 ThinkBusiness 均转述公司称，其智能体已为 1.8 万名用户处理 8240 亿 tokens",
+    "category": "编程开发",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "Hoplite 让开发者把已有的 GitHub 仓库和本地开发配置（包括 Claude Code、Cursor、Codex 等）同步到云端，为每个智能体提供独立工作区，以便同时编写和测试代码。ThinkBusiness 报道称用户可自带 Claude 或 ChatGPT 订阅，平台也提供免费档，并会录一段智能体完成工作的短视频供回看。创始人为 Ryan Morrissey 与 Bence Redmond，两人在利默里克大学就读期间相识，后退学参加 Y Combinator 2026 年夏季批次。官方网站为 hoplite.sh",
+    "metrics": [
+      {
+        "label": "融资（媒体报道）",
+        "value": "Tech.eu、《爱尔兰时报》和 ThinkBusiness 日期均为 2026-11-20 的报道写明 Hoplite 获得 550 万美元融资。投资方包括 Y Combinator、Stripe 联合创始人 John 与 Patrick Collison、Fin 联合创始人 Des Traynor、Relational Capital 和 Upside Ventures；《爱尔兰时报》与 ThinkBusiness 还提到 T3 Chat 的 Theo Browne。Tech.eu 写明「Collison brothers are leading」该轮；《爱尔兰时报》和 ThinkBusiness 只把 Stripe 创始人列为投资方之一，未使用「领投」一词。未见公司官网新闻稿",
+        "source_type": "媒体报道",
+        "source_url": "https://tech.eu/2026/11/20/ai-startup-founded-by-two-irish-yc-alumni-gets-backing-from-the-collison-brothers/"
+      },
+      {
+        "label": "使用规模（公司向媒体自述）",
+        "value": "《爱尔兰时报》和 ThinkBusiness 均写明：公司表示其智能体已为 1.8 万名用户处理 8240 亿 tokens（ThinkBusiness 原文为 “Hoplite said its agents have processed 824 billion tokens from 18,000 users”）。这组数字为公司向媒体提供的口径，Tech.eu 报道未重复，也未见付费用户、留存或收入披露",
+        "source_type": "创始人自述 / 公司声明",
+        "source_url": "https://www.thinkbusiness.ie/articles/hoplite-raises-5-5m-ai-coding-agents/"
+      }
+    ],
+    "why_it_works": "把 Claude Code 或 Codex 开在笔记本上，机器一合上，智能体也就停了；要同时跑多路，还得处理环境和代码副本。Hoplite 做的是把这套本地配置搬到云端，让很小的团队也能 24 小时并行跑智能体。550 万美元和 1.8 万名用户说明有开发者愿意为「少折腾环境」付时间，至于其中有多少人付费，公开报道还没写。",
+    "takeaway": "这是本窗口内较新的编程智能体基础设施融资，独立来源不少于三家，产品形态清楚。但公司未见正式新闻稿，Collison 兄弟是否领投各报道口径不一致，1.8 万用户和 8240 亿 tokens 也只是公司自述。下一看官网或后续融资材料会不会给出付费转化和收入。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": [
+      "种子轮",
+      "编程智能体",
+      "云端沙箱",
+      "Y Combinator",
+      "Stripe"
+    ],
+    "website": "https://hoplite.sh",
+    "sources": [
+      "https://tech.eu/2026/11/20/ai-startup-founded-by-two-irish-yc-alumni-gets-backing-from-the-collison-brothers/",
+      "https://www.irishtimes.com/business/2026/11/20/irish-founded-software-start-up-hoplite-raises-55m-in-funding/",
+      "https://www.thinkbusiness.ie/articles/hoplite-raises-5-5m-ai-coding-agents/",
+      "https://www.ycombinator.com/companies/hoplite"
+    ],
+    "uncertain_points": "未见 Hoplite 官方新闻稿，融资细节以 11 月 20 日媒体报道为准。Tech.eu 称 Collison 兄弟领投，The Irish Times 与 ThinkBusiness 仅列为投资方，领投归属不完全一致。Theo Browne 只出现在后两家报道中。1.8 万用户和 8240 亿 tokens 为公司自述，未区分免费与付费，也无收入数字。"
+  },
+  {
+    "id": "lancedb-57-5m-series-b-multimodal-lakehouse",
+    "date_collected": "2026-11-22",
+    "status": "new",
+    "type": "both",
+    "name": "LanceDB",
+    "one_liner": "多模态 AI 数据平台 LanceDB 于 11 月 17 日宣布获得 5750 万美元 B 轮，由 Bessemer Venture Partners 与 Innovation Endeavors 领投，累计融资 9850 万美元；领投方称其开源库每月下载数千万次、一年内增长约 6 倍",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "LanceDB 以开源的 Lance 格式为基础，把图像、视频、向量和结构化元数据放进同一张表，供检索、整理和训练读取。开源库与格式面向开发者；商业产品 LanceDB Enterprise 提供分布式索引、高吞吐写入、训练数据加载和特征工程，可在客户自己的云或本地部署，数据保留在客户已有对象存储中。联合创始人兼 CEO 为 pandas 共同作者 Chang She，CTO 为 Lei Xu。SiliconANGLE 11 月 17 日报道称公司「today announced」本轮融资，Bessemer 同日发布领投说明，公司博客亦有同题文章",
+    "metrics": [
+      {
+        "label": "融资（官方公布 / 投资方确认）",
+        "value": "SiliconANGLE 2026-11-17 报道写明 LanceDB 宣布获得 5750 万美元 B 轮，由 Bessemer Venture Partners 与 Innovation Endeavors 领投，参投包括 Theory Ventures、Dimension、Swift Ventures、CRV 和 Y Combinator，累计融资 9850 万美元。Bessemer 同日文章确认其与 Innovation Endeavors 领投该 5750 万美元 B 轮，并列出 CRV、Theory Ventures、Dimension、Swift Ventures 和 Y Combinator 的继续支持。公司博客标题与金额一致",
+        "source_type": "官方公布",
+        "source_url": "https://www.bvp.com/news/lancedb-the-data-layer-for-multimodal-ai"
+      },
+      {
+        "label": "采用规模（投资方转述）",
+        "value": "Bessemer 文章写明：用户每月下载 LanceDB 数千万次，一年内增长 6 倍；部分前沿实验室将其用于大规模预训练，WorldLabs、Applied Intuition 和 ByteDance 用于后训练，Netflix 用于生产检索和 ML ops。上述下载量、增幅和客户名单出现在领投方文章中，应为公司或投资方口径，SiliconANGLE 报道未逐项复核，也未见对应收入或付费客户数",
+        "source_type": "媒体报道",
+        "source_url": "https://www.bvp.com/news/lancedb-the-data-layer-for-multimodal-ai"
+      }
+    ],
+    "why_it_works": "多模态训练数据又大又杂，图片、视频、向量和标注常常被拆在不同系统里，光是准备一次训练就要花掉数周。LanceDB 把这些放进同一套开放格式和湖仓里，数据还留在客户自己的对象存储中。开源先被研究者和平台团队用起来，再把企业版做成可收费的分布式能力，是这条数据基础设施常见的走法。",
+    "takeaway": "5750 万美元 B 轮和 9850 万美元累计融资有领投方与行业媒体交叉确认，属于本周较早、观察站此前漏收的补录。下载「数千万次/月」和 Netflix、ByteDance 等客户名单主要来自 Bessemer 文章，不宜直接写成已经核对的收入或合同。下一看公司自己的新闻稿或案例会不会给出企业版付费规模。",
+    "innovation_score": 4,
+    "business_score": 4,
+    "tags": [
+      "B轮",
+      "多模态数据",
+      "向量数据库",
+      "开源",
+      "湖仓"
+    ],
+    "website": "https://lancedb.com/",
+    "sources": [
+      "https://siliconangle.com/2026/11/17/lancedb-raises-57-5m-to-accelerate-ai-model-training-with-multimodal-data-platform/",
+      "https://www.bvp.com/news/lancedb-the-data-layer-for-multimodal-ai",
+      "https://www.lancedb.com/blog/lancedb-series-b-funding"
+    ],
+    "uncertain_points": "公司博客页面在采集时主要呈现为博客索引，完整正文以 SiliconANGLE 与 Bessemer 文章为准。每月下载数千万次、一年增长 6 倍，以及 WorldLabs、Applied Intuition、ByteDance、Netflix 等采用案例均出自 Bessemer 文章，未见独立的收入或合同披露。累计 9850 万美元为 SiliconANGLE 报道中的数字。"
+  },
+  {
+    "id": "sequel-15m-series-b-video-audience-intelligence",
+    "date_collected": "2026-11-22",
+    "status": "new",
+    "type": "both",
+    "name": "Sequel",
+    "one_liner": "把网络研讨会和网站行为连在一起的 Sequel 于 11 月 18 日宣布获得由 Sorenson Capital 领投的 1500 万美元 B 轮，累计融资约 2600 万美元；官方称客户包括 ElevenLabs、Datadog、Clay，并称 ElevenLabs 用其网络研讨会项目在六个月内带来 1400 万美元直接 pipeline",
+    "category": "营销内容",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "Sequel 把直播、准直播和点播视频直接放在客户自己的网站上，把观看、提问、互动与同一人在网站上的浏览行为连成联系人和账户级的第一方数据，再交给 Build、Scale、Convert 等智能体做节目策划、内容生成和转化，也可通过 MCP 接到客户自己的 AI 工具里。联合创始人兼 CEO 为 Oana Manolache。PR Newswire 新闻稿日期为 2026-11-18，公司博客同日发布。新投资方包括 High Alpha、Album VC 和 Webflow Ventures，原有投资方 Javelin Venture Partners、Struck Capital、Alumni Ventures 和 Social Leverage 跟投",
+    "metrics": [
+      {
+        "label": "融资（官方公布）",
+        "value": "Sequel 官方博客与 PR Newswire 新闻稿日期均为 2026-11-18：获得由 Sorenson Capital 领投、超额认购的 1500 万美元融资，累计融资约 2600 万美元。新闻稿写明新投资方包括 High Alpha、Album VC 和 Webflow Ventures，并有 Javelin Venture Partners、Struck Capital、Alumni Ventures 和 Social Leverage 等现有投资方参与。新闻稿将该轮称为 funding，Unite.AI 等转述写作 Series B；公司博客标题亦为 Series B",
+        "source_type": "官方公布",
+        "source_url": "https://sequel.io/blog/sequel-closes-15m-round-led-by-sorenson-capital"
+      },
+      {
+        "label": "客户与效果（公司声明）",
+        "value": "PR Newswire 新闻稿称客户包括 ElevenLabs、Profound、Datadog 和 Clay，并写明 ElevenLabs 使用 Sequel 在六个月内产生 1400 万美元直接 pipeline、影响超过 8500 万美元 pipeline。公司博客还提到 Unit21 在一次 Masterclass 中称，借助 Sequel 的智能体和 MCP，把准备网络研讨会策略的时间减少了 80%。这些是客户效果或公司转述，不是 Sequel 自身的收入、ARR 或付费客户数，官方材料未披露后一组数字",
+        "source_type": "创始人自述 / 公司声明",
+        "source_url": "https://www.prnewswire.com/news-releases/sequelio-raises-15m-to-build-a-new-category-in-video-driven-audience-intelligence-302943074.html"
+      }
+    ],
+    "why_it_works": "网络研讨会最有价值的往往是观众当时问了什么、对哪句话有反应，但这些信号通常留在第三方工具里，和网站、CRM 对不上。Sequel 把视频放回客户自己的网站，再让智能体用这些第一方上下文去做跟进和内容，卖的是「人出现过的现场」而不是又一个生成式文案工具。1500 万美元说明有投资方愿意为这条营销工作流付钱，但公司自己的经常性收入还没有公开。",
+    "takeaway": "这是昨天观察站已记下、待核对官方材料后的补录。1500 万美元和约 2600 万美元累计融资可在官网与新闻稿交叉确认。ElevenLabs 的 1400 万美元 pipeline 是客户侧效果，不能写成 Sequel 的收入。下一看公司会不会披露 ARR、付费客户数或续约情况。",
+    "innovation_score": 3,
+    "business_score": 4,
+    "tags": [
+      "B轮",
+      "网络研讨会",
+      "营销智能体",
+      "第一方数据",
+      "MCP"
+    ],
+    "website": "https://sequel.io/",
+    "sources": [
+      "https://sequel.io/blog/sequel-closes-15m-round-led-by-sorenson-capital",
+      "https://www.prnewswire.com/news-releases/sequelio-raises-15m-to-build-a-new-category-in-video-driven-audience-intelligence-302943074.html",
+      "https://www.sorensoncapital.com/turning-live-moments-into-pipeline-in-the-ai-era-meet-sequel/"
+    ],
+    "uncertain_points": "新闻稿列举的客户效果（ElevenLabs 六个月 1400 万美元直接 pipeline、影响超过 8500 万美元 pipeline，以及 Unit21 减少 80% 策略准备时间）均为公司或客户口径，不是 Sequel 自身的收入或 ARR。官方未披露付费客户数、留存或合同金额。"
+  },
+  {
+    "id": "botsync-11m-physical-ai-factory-os",
+    "date_collected": "2026-11-22",
+    "status": "new",
+    "type": "both",
+    "name": "Botsync",
+    "one_liner": "新加坡工厂自动化公司 Botsync 于 11 月 18 日在官网宣布获得由 IvyCap Ventures 领投的 1100 万美元融资，累计超过 2000 万美元；官方称其 Physical AI 平台 SyncOS 已完成 70 多个项目，并与 Caterpillar、Ford、Nestlé 等企业合作",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "Botsync 由南洋理工大学校友 Rahul Nambiar、Nikhil、Prashant 和 Singaram 创立，总部位于新加坡。产品分两块：MAG 系列自主移动机器人（举升、输送、牵引和叉车，载重可达 1.5 吨），以及被官方称为 Physical AI 平台的 SyncOS，用于连接不同厂商的 AMR、机械臂、输送线和 ERP，并负责任务分配、交通管理和流程优化。官方称本轮大部分资金将用于为 SyncOS 增加吞吐优化、预测性维护和运营分析等 AI 能力，并拓展澳大利亚和美国市场。Entrackr、Inc42 和 Tech in Asia 将本轮写为 Series B；公司博客只称为由 IvyCap 领投的一轮，并提到 2026 年 1 月由 SGInnovate 领投的 A 轮增资",
+    "metrics": [
+      {
+        "label": "融资（官方公布）",
+        "value": "Botsync 官方博客日期为 2026-11-18：公司已获得 1100 万美元融资，由 IvyCap Ventures 领投，Capital 2B、AppWorks、Iterative、AngelCentral、Genesis Alternative Ventures 和天使投资人 Nalin Advani 参与，累计融资超过 2000 万美元。该文未将该轮标注为 Series B。Entrackr、Inc42 和 Tech in Asia 的报道将本轮称为 IvyCap 领投的 1100 万美元 Series B，并与官网金额、领投方交叉一致",
+        "source_type": "官方公布",
+        "source_url": "https://www.botsync.co/blog/weve-raised-us11-million-to-help-factories-run-as-one"
+      },
+      {
+        "label": "交付与客户（公司自述）",
+        "value": "同一篇官方博客写明：已在 9 个国家完成 70 多个项目；累计完成超过 200 万次生产任务、uptime 为 99%；客户平均在 24 个月内收回投资；合作企业包括 Caterpillar、Ford、Nestlé、Honda、Coca-Cola 和 Kimberly-Clark。这些运营与客户数字为公司自述，报道多转述官网，未见独立审计或合同披露",
+        "source_type": "创始人自述 / 公司声明",
+        "source_url": "https://www.botsync.co/blog/weve-raised-us11-million-to-help-factories-run-as-one"
+      }
+    ],
+    "why_it_works": "工厂里的车、臂、输送线和软件往往不是同一家供应商，各自都能干活，却很难当成一个系统来调度。Botsync 先用自己的移动机器人进场，再用 SyncOS 把别的设备也接进来，这比只卖一台车更容易变成日常操作系统。本轮把新增资金明确投向预测性维护和吞吐优化，说明它想从硬件交付走向可重复的软件和 AI 能力。",
+    "takeaway": "官网日期为 11 月 18 日，属于近日漏收的补录。1100 万美元和累计超过 2000 万美元可与多家行业媒体核对。70 多个项目和 Caterpillar、Ford 等客户名单是公司自述；本轮在媒体中常被写成 Series B，但官网正文没有这样标注。下一看 SyncOS 的 AI 能力会不会单独披露订阅或软件收入占比。",
+    "innovation_score": 3,
+    "business_score": 4,
+    "tags": [
+      "融资",
+      "工厂自动化",
+      "AMR",
+      "Physical AI",
+      "新加坡"
+    ],
+    "website": "https://www.botsync.co/",
+    "sources": [
+      "https://www.botsync.co/blog/weve-raised-us11-million-to-help-factories-run-as-one",
+      "https://entrackr.com/news/ivycap-ventures-leads-11-mn-series-b-round-in-robotics-company-botsync-12819998",
+      "https://www.techinasia.com/news/sg-robotics-startup-botsync-secures-11m-led-ivycap"
+    ],
+    "uncertain_points": "官方博客未将本轮称为 Series B，该轮次称呼主要来自 Entrackr、Inc42 和 Tech in Asia。70 多个项目、200 万次任务、99% uptime、24 个月回本，以及 Caterpillar 等客户名单均为公司自述。累计「超过 2000 万美元」未给出精确合计。"
+  },
+  {
+    "id": "chengheng-micro-nearly-200m-cny-series-a-edge-ai-soc",
+    "date_collected": "2026-11-22",
+    "status": "new",
+    "type": "both",
+    "name": "诚恒微",
+    "one_liner": "无锡边端侧 AI SoC 公司诚恒微于 11 月 19 日在官网宣布完成近 2 亿元人民币 A 轮，投资方包括中金资本、中车资本、毅达资本等；上市公司景嘉微此前公告的增资方案为合计增资不超过 1.7 亿元，测算投后估值约 11.7 亿元",
+    "category": "硬件与端侧",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "无锡诚恒微电子有限公司成立于 2023 年 6 月，官方称专注边端侧 AI SoC，自研 CH37 系列，异构集成 CPU、GPU、NPU、GPGPU、ISP 等模块，峰值算力达 64TOPS@INT8，面向机器人、无人机、边缘计算和智能交互终端。官方称该系列已进入小批量交付。景嘉微 2025 年对其增资并取得控制权，本轮完成后仍纳入合并报表。CEO 楚立斌、CTO 林苍松均曾在景嘉微任职",
+    "metrics": [
+      {
+        "label": "融资（官方公布）",
+        "value": "诚恒微官网新闻日期为 2026-11-19：公司完成近 2 亿元人民币 A 轮融资，由中金资本、中车资本、毅达资本、锡创兴吴、奇安投资共同参与，资金主要用于日常经营与业务拓展，支撑边端侧 AI SoC 的规模化量产与市场交付。财联社《科创板日报》同日报道与官网金额、投资方一致，并指出该安排此前已由控股股东景嘉微披露",
+        "source_type": "官方公布",
+        "source_url": "https://www.chenghengmicro.com/news/37.html"
+      },
+      {
+        "label": "增资上限、估值与早期收入（上市公司公告 / 媒体转述）",
+        "value": "财联社 2026-11-19 报道援引景嘉微 10 月 13 日方案：中金资本管理的东融壹号、中车资本参与的华舆国科，以及毅达资本相关基金、锡创兴吴、奇安麒麟五家主体拟合计增资不超过 1.7 亿元；按认购价格及新增注册资本测算，投前估值约 10 亿元、投后约 11.7 亿元。10 月 30 日相关协议已签署生效，增资完成后景嘉微直接持股 28.71%，通过一致行动合计掌握 55.46% 表决权。该报道并援引景嘉微公告：诚恒微 2025 年营业收入 205.66 万元、净亏损约 2.10 亿元；2026 年上半年营业收入 3.54 万元、净亏损约 9293 万元。官网「近 2 亿元」与「不超过 1.7 亿元」的方案上限并不完全相同",
+        "source_type": "媒体报道",
+        "source_url": "https://finance.eastmoney.com/a/202611193935334812.html"
+      }
+    ],
+    "why_it_works": "工业设备和机器人既要看图，也要处理传感器信号并及时做控制，过去往往要多颗芯片配合。诚恒微想用一颗高集成 SoC 把这些任务收进来，先从电力巡检、工业质检走到机器人和边缘终端。本轮能吸引国有 PE 和产业资本，说明资本市场在给「端侧落地」下注；但上市公司披露的收入还非常早，商业化仍要看 CH37 能不能进入客户的量产清单。",
+    "takeaway": "官网 11 月 19 日宣布「近 2 亿元 A 轮」，是昨天窗口可收、但未写入的中国硬件补录。投资方名单可与财联社报道核对。需要单独记下的是：景嘉微此前方案写的是增资不超过 1.7 亿元、投后约 11.7 亿元，且 2025 年和 2026 年上半年收入、亏损显示公司仍处在小批量验证阶段。下一看后续是否有更明确的关账金额，以及 CH37 是否出现可持续订单。",
+    "innovation_score": 3,
+    "business_score": 3,
+    "tags": [
+      "A轮",
+      "端侧芯片",
+      "SoC",
+      "景嘉微",
+      "小批量交付"
+    ],
+    "website": "https://www.chenghengmicro.com/",
+    "sources": [
+      "https://www.chenghengmicro.com/news/37.html",
+      "https://finance.eastmoney.com/a/202611193935334812.html",
+      "https://zhidx.com/p/612508.html"
+    ],
+    "uncertain_points": "官网写作「近 2 亿元」，景嘉微 10 月 13 日方案为合计增资不超过 1.7 亿元，两者口径不同，实际到账金额应以后续关账或正式公告为准。投前约 10 亿元、投后约 11.7 亿元为媒体按该方案测算。2025 年与 2026 年上半年收入、亏损数字来自财联社对景嘉微公告的转述，采集时未逐份打开原公告核对。官方称 CH37 进入小批量交付，景嘉微 11 月 17 日对投资者说明该阶段尚不意味着大规模放量。"
+  },
+  {
+    "id": "link-touch-hundreds-of-millions-cny-d3-force-sensors",
+    "date_collected": "2026-11-22",
+    "status": "new",
+    "type": "both",
+    "name": "蓝点触控",
+    "one_liner": "机器人力传感器公司蓝点触控于 11 月 17 日被新京报、投资界等报道完成数亿元人民币 D3 轮，14 家机构联合投资，并称近半年融资额已超 10 亿元；报道还称智元、银河通用、小米机器人、优必选等整机厂已批量搭载",
+    "category": "硬件与端侧",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "蓝点触控（北京）科技有限公司成立于 2019 年，官网展示六维力传感器、关节力矩传感器等产品，服务人形机器人和协作机器人。投资界报道称其产品包括用于手腕和脚踝的 LA 系列、用于关节的 LC 系列，以及面向协作机器人的 LB、LD 系列，并在广东江门建有生产基地。本轮资金据报道将用于新一代产品研发、产能扩充和全球化布局。官网为 link-touch.com，采集时未见公司自己发布的融资新闻稿",
+    "metrics": [
+      {
+        "label": "融资（媒体报道）",
+        "value": "新京报贝壳财经 2026-11-17 报道：记者当日获悉，蓝点触控近日完成数亿元人民币 D3 轮，由洪泰基金、中关村科学城、弘毅投资、浙创投、厦门海投集团、厦门海沧产投、奥普特、新未来、山证投资、曦晨资本、秦创投、陕西国晟、江门金控、君安控股等 14 家机构联合投资；并称此前已完成多轮融资，近半年融资额已超 10 亿元。投资界同题报道与上述轮次、投资方和「近半年超 10 亿元」表述一致。精确金额和估值均未披露",
+        "source_type": "媒体报道",
+        "source_url": "https://www.bjnews.com.cn/detail/1794886292129396.html"
+      },
+      {
+        "label": "产能与客户（媒体转述）",
+        "value": "新京报和投资界均写明：公司已落地国内首条机器人力传感器全自动产线，设计年产能关节力传感器 100 万套、末端六维力传感器 20 万套，交付周期压缩至 2—3 周；并称智元机器人、银河通用、小米机器人、优必选、众擎、星海图等整机厂已批量搭载，多个单一客户实现万台级出货。公开资料还提到 0.1%FS 精度、10kHz 以上高频响应和 500% 抗过载。上述产能、客户和出货口径为媒体转述，未见公司官方新闻稿或出货对账单",
+        "source_type": "媒体报道",
+        "source_url": "https://news.pedaily.cn/202611/571956.shtml"
+      }
+    ],
+    "why_it_works": "人形机器人要稳定走路、抓取，力觉往往和视觉一样关键，而传感器又占整机成本的可观比例。蓝点触控走的是「把力传感器做成可量产的标准件」：自动产线、更短交付周期，再进入多家整机厂的批量名单。D3 轮和「近半年超 10 亿元」说明资本在这个零部件环节仍在加注，但公开报道还没有给出本轮精确金额，也没有公司自己的确认稿。",
+    "takeaway": "这是 11 月 17 日已见报、观察站此前漏收的中国硬件补录。新京报与投资界在轮次、14 家投资方和「近半年超 10 亿元」上一致，但都没有披露 D3 的准确金额和估值，客户与万台级出货也只是媒体转述。下一看公司或投资方是否发布官方通稿，以及能否给出可核对的出货或收入数字。",
+    "innovation_score": 3,
+    "business_score": 4,
+    "tags": [
+      "D轮",
+      "力传感器",
+      "人形机器人",
+      "量产",
+      "未披露金额"
+    ],
+    "website": "https://www.link-touch.com/",
+    "sources": [
+      "https://www.bjnews.com.cn/detail/1794886292129396.html",
+      "https://news.pedaily.cn/202611/571956.shtml"
+    ],
+    "uncertain_points": "采集时未见蓝点触控官网融资新闻稿，本条依据新京报 11 月 17 日和投资界报道，文中写作「记者获悉」「近日完成」。D3 轮精确金额和估值未披露，「近半年融资额已超 10 亿元」亦为媒体表述，未列出各轮明细。智元、银河通用、小米机器人、优必选等「全部头部整机厂均已批量搭载」以及「多个单一客户万台级出货」为媒体转述，未见官方或客户确认。传感器约占整机成本 15% 的说法同样来自报道中的公开资料，不是本轮官方披露。"
+  }
+]
