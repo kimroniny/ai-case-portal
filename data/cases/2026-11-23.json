@@ -1,0 +1,201 @@
+[
+  {
+    "id": "intergrid-23-5m-eur-total-industrial-energy-autopilot",
+    "date_collected": "2026-11-23",
+    "status": "new",
+    "type": "both",
+    "name": "Intergrid",
+    "one_liner": "芬兰工业能源公司 Intergrid 于 11 月 16 日宣布累计融资 2350 万欧元，最新一轮由 Kvanted 领投、芬兰国有投资公司 Tesi 等跟投；官方及投资方称其 Autopilot 已在欧洲逾 100 个工业现场运行，可自动调度混合能源系统并参与电力交易",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "Intergrid 于 2023 年在赫尔辛基成立，联合创始人兼 CEO 为 Olli Kangas，另两位联合创始人为 CTO Pasi Hakulinen 与 COO Mikko Ilmonen。公司产品 Autopilot 面向食品加工、区域供热、温室种植等工业能源运营方，连续监测现场用能、在安全约束内选择当下成本更低的能源，并通过客户已有的自动化系统实时控制锅炉、热泵、储能等设备，同时在电力与灵活性市场交易。官网与投资方材料称，公司先用客户运行数据做潜力模拟，再部署并提供 24 小时值守。收费模式未见公开拆分。芬兰创业投资协会 11 月 16 日刊发的通稿写明公司“today announced”累计融资，并提供媒体联系人，可视为公司口径的发布",
+    "metrics": [
+      {
+        "label": "累计融资（投资方 / 公司口径）",
+        "value": "芬兰国有投资公司 Tesi 2026-11-16 官方新闻写明：Intergrid 完成新一轮融资，本轮由北欧产业科技基金 Kvanted 领投，Tesi 以及老股东 Lifeline Ventures、True Ventures、First Fellow Partners 参与；公司迄今累计融资 2350 万欧元，其中包含 Business Finland 的 270 万欧元支持以及 Finnvera 提供的欧盟担保贷款。芬兰创业投资协会同日通稿表述一致，并写明本轮由 Kvanted 与 Tesi 领投。Tech.eu、Tech Funding News 同日报道沿用 2350 万欧元累计融资。本轮单独金额和估值均未披露",
+        "source_type": "官方公布",
+        "source_url": "https://tesi.fi/en/news-item/intergrid/"
+      },
+      {
+        "label": "部署规模与客户（公司 / 投资方口径）",
+        "value": "Tesi 官方稿与协会通稿均写明：Autopilot 已在芬兰及欧洲其他地区的 100 多个工业现场使用。协会通稿并列出食品商 Snellman、Atria，纺织服务商 Lindström 以及能源公司 Vatajankoski 等客户；公司官网另有区域供热商 Vatajankoski 与温室运营商 Tamsin 的具名案例。公司称 Autopilot 通常可为客户节省两位数百分比的能源成本，该数字为公司自述，未见独立审计。协会通稿称公司已从三名创始人成长为逾 40 人的团队",
+        "source_type": "官方公布",
+        "source_url": "https://paaomasijoittajat.fi/en/ajankohtaista/news/33316/intergrid-raises-e23-5-million-to-put-industrial-energy-operations-on-autopilot/"
+      }
+    ],
+    "why_it_works": "工厂和供热公司的能源系统越来越杂：电锅炉、热泵、储能和电力市场的 15 分钟报价叠在一起，靠班次和固定规则很难跟得上。Intergrid 不把 Autopilot 卖成又一块仪表盘，而是在客户设定的安全边界里自己做调度和交易，人转到监督和纠偏。先用运行数据证明能省多少钱，再接入已有自控系统，比较适合不愿先大改硬件的工业现场。",
+    "takeaway": "这是本窗口补录里证据最完整的一条：累计 2350 万欧元可以回到 Tesi 官方稿和协会通稿，100 多个现场和部分具名客户也在同一套材料里。但 2350 万欧元是累计总额，其中含补助和担保贷款，本轮本身融了多少、估值多少都没有写；“两位数百分比节能”也只是公司说法。下一看它把芬兰的部署复制到更大、电气化程度更低的市场时，能否给出收入或单场节约的核对数字。",
+    "innovation_score": 4,
+    "business_score": 4,
+    "tags": ["累计融资", "工业能源", "自动调度", "电力交易", "芬兰"],
+    "website": "https://intergridsystems.com/",
+    "sources": [
+      "https://tesi.fi/en/news-item/intergrid/",
+      "https://paaomasijoittajat.fi/en/ajankohtaista/news/33316/intergrid-raises-e23-5-million-to-put-industrial-energy-operations-on-autopilot/",
+      "https://tech.eu/2026/11/16/intergrid-secures-eur235m-to-power-autonomous-industrial-energy-operations/",
+      "https://techfundingnews.com/intergrid-23-5m-autopilot-industrial-energy-management/",
+      "https://intergridsystems.com/"
+    ],
+    "uncertain_points": "2350 万欧元为累计融资，不是本轮单独金额，其中包含 Business Finland 270 万欧元支持及 Finnvera 的欧盟担保贷款。Tesi 官方稿写本轮由 Kvanted 领投、Tesi 参与，协会通稿与部分媒体写 Kvanted 与 Tesi 联合领投，领投表述不完全一致。估值、本轮金额和收入均未披露。“两位数百分比”节能为公司自述。"
+  },
+  {
+    "id": "edra-10m-eqt-ventures-series-a-extension-contextops",
+    "date_collected": "2026-11-23",
+    "status": "new",
+    "type": "both",
+    "name": "Edra",
+    "one_liner": "把企业工单、日志和消息还原成可审核智能体指令的 Edra，于 11 月 16 日获得 EQT Ventures 1000 万美元 A 轮追加投资；投资方文章称已在 EQT 内部 IT 服务台试点，并称 Keywords Studios 等被投公司正在试用",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "Edra 由联合创始人兼 CEO Eugen Alpeza 与联合创始人 Yannis Karamanlakis 于 2024 年创立，两人此前在 Palantir 联合负责 Forward Deployed AI Engineering，公司在纽约和伦敦设有办公室。产品被其称为 ContextOps：接入 ServiceNow、Jira、Zendesk、Salesforce、Outlook 等现有系统，从工单、日志和消息中还原真实流程，写成可追溯、可人工审改的指令，再把智能体部署回客户已有系统，用于 IT 服务管理、技术支持和合规等场景。FinSMEs 称方案通过 SOC 2 Type II，并可在客户专属私有云中运行。EQT Ventures 于 2026-11-16 发布投资说明，FinSMEs 同日报道这是对今年 3 月 3000 万美元 A 轮的追加",
+    "metrics": [
+      {
+        "label": "融资（媒体报道 / 投资方确认投资）",
+        "value": "FinSMEs 2026-11-16 报道写明 Edra 获得 EQT Ventures 1000 万美元投资，用于拓展 ContextOps，并称此轮延长了公司 3 月宣布的 3000 万美元 A 轮。智通财经与新浪转述的环球市场播报称，加上本轮后累计融资 4000 万美元，此前 A 轮由红杉资本、8VC、A* 领投。EQT Ventures 同日文章确认已投资 Edra，并详细描述内部试点，但未在该文中写出 1000 万美元或累计金额。估值未披露",
+        "source_type": "媒体报道",
+        "source_url": "https://www.finsmes.com/2026/11/edra-receives-investment-from-eqt-ventures.html"
+      },
+      {
+        "label": "投资方内部试点（投资方自述）",
+        "value": "EQT Ventures 2026-11-16 文章写明：EQT Group 将 Edra 部署在内部 IT 服务台，该团队每月处理 3000 多张工单；第 1 周识别出 130 多个此前未文档化的处理模式，第 2 周开始对实时工单提出处理建议，第 4 周已接近自动运行。文章称其 330 余家被投企业中已有数家评估该产品，并由 Keywords Studios 等开展试点。上述效果与进度均为投资方兼客户自述，未见独立复核，也未给出付费客户数或收入",
+        "source_type": "官方公布",
+        "source_url": "https://stories.eqtventures.com/articles/the-missing-link-for-enterprise-ai-adoption"
+      }
+    ],
+    "why_it_works": "很多企业买得起智能体，却要把最懂流程的人长期派去当 Forward Deployed Engineer，成本和供应都跟不上。Edra 的做法是先读已有工单和日志，把组织里实际怎么干活写成可以审核的指令，再让智能体按指令在现有系统里执行，指令还能随业务变化回炉更新。投资方先把自己的服务台拿来做四周试验，再决定出资，也把“先用后投”写进了故事。",
+    "takeaway": "EQT 官方文章把投资和内部试点写得很具体，1000 万美元追加和 3 月那轮 3000 万美元 A 轮有 FinSMEs 等媒体交叉报道，适合作为本周漏收的补录。但 EQT 自己的文章没有写出融资金额，3000 万美元 A 轮的领投名单和累计 4000 万美元目前主要来自媒体转述；试点效果也只来自投资方。下一看公司会不会自己发新闻稿，并补上付费客户或收入。",
+    "innovation_score": 4,
+    "business_score": 4,
+    "tags": ["A轮追加", "ContextOps", "IT服务台", "EQT", "Palantir"],
+    "website": "https://edra.ai/",
+    "sources": [
+      "https://stories.eqtventures.com/articles/the-missing-link-for-enterprise-ai-adoption",
+      "https://www.finsmes.com/2026/11/edra-receives-investment-from-eqt-ventures.html",
+      "https://www.zhitongcaijing.com/content/detail/1524359.html",
+      "https://finance.sina.com.cn/stock/usstock/c/2026-11-17/doc-iniyyeux8063423.shtml",
+      "https://edra.ai/"
+    ],
+    "uncertain_points": "EQT Ventures 官方文章确认投资和内部试点，但未写明 1000 万美元金额。该金额及“A 轮追加”以 FinSMEs 11 月 16 日报道为准；累计 4000 万美元、以及此前 A 轮由红杉、8VC、A* 领投，主要见于智通财经和新浪转述的环球市场播报，未见公司新闻稿。IT 服务台试点效果为投资方自述。估值未披露。"
+  },
+  {
+    "id": "yingkan-zhiyi-tens-of-millions-cny-pre-b-flapping-wing",
+    "date_collected": "2026-11-23",
+    "status": "new",
+    "type": "both",
+    "name": "鹰瞰智翼（EagleSight Dynamics）",
+    "one_liner": "做仿生扑翼飞行机器人的深圳鹰瞰智翼于 11 月 17 日至 18 日宣布完成数千万元人民币 Pre-B 轮，由商汤国香资本独家投资；首款消费级产品 Eagle X 在 IFA 2026 获三项创新奖，公司称已进入量产爬坡，Kickstarter 众筹仍在推进",
+    "category": "硬件与端侧",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "鹰瞰智翼成立于 2025 年 3 月，总部位于深圳，官网品牌为 EagleSight Dynamics（ESD）。创始人陈昊为上海交通大学机械工程博士，联合创始团队有交大机器人、强化学习与人机交互背景。公司围绕仿生扑翼整机和自研流体仿真引擎 Vortrix，把真实飞行数据、仿真和控制策略做成闭环，定位空中具身智能。首款消费级产品 Eagle X 采用拍打与滑翔结合的飞行方式，面向极客、航模爱好者和开发者；《科创板日报》称下一代“白鹰”约有 15 个自由度，目标是自主起降与环境自适应。此前投资方包括奇绩创坛、启高资本、元禾原点、元禾璞华。本轮资金用于下一代整机与 Vortrix 研发、供应链和产线，以及海外渠道",
+    "metrics": [
+      {
+        "label": "融资（公司宣布 / 媒体报道）",
+        "value": "投资界 2026-11-18 报道写明鹰瞰智翼宣布完成数千万元人民币 Pre-B 轮，由商汤国香资本独家投资，深蓝资本担任独家财务顾问。投中网 11 月 17 日、观点网 11 月 17 日及《科创板日报》11 月 18 日报道与上述轮次、投资方和资金用途一致。精确金额和估值未披露。此前轮次的投资方在投资界报道中列为奇绩创坛、启高资本、元禾原点、元禾璞华",
+        "source_type": "媒体报道",
+        "source_url": "https://news.pedaily.cn/202611/572020.shtml"
+      },
+      {
+        "label": "产品与商业化进度（媒体转述公司口径）",
+        "value": "投资界与《科创板日报》均写明：Eagle X 于 2026 年 9 月在 IFA 全球首秀，获 Best in IFA Next & Emerging Technologies Winner，并入选 Best in Design、Best in Sustainability 两项 Honoree，共三项 IFA Innovation Awards。公司称产品已进入量产爬坡，正在完善装配到运输的工艺，并推进海外仓储、物流、售后与渠道；Kickstarter 众筹“正在有序推进”，已在瑞典设立产品体验与销售点，同时拓展欧洲、日本等渠道。官网可看到瑞典体验点和 CES 相关信息。众筹是否已经上线、预定量和收入均未见披露。《科创板日报》还转述公司称早期样机噪声低于 45 分贝、续航为同量级旋翼机的 3 至 5 倍，属公司自述",
+        "source_type": "媒体报道",
+        "source_url": "https://m.cls.cn/detail/2538321"
+      }
+    ],
+    "why_it_works": "常见的消费级飞行器是旋翼机，扑翼更接近鸟类，理论上可以更安静、更省电，也更适合靠近野生动物或人的低空场景，但长期卡在量产和可控性上。鹰瞰智翼先用一款可交付的消费级 Eagle X 逼自己跑通量产、渠道和售后，再用飞行数据去校正流体仿真引擎，把控制策略送回下一台样机。先卖给极客和开发者，再往科教、生态拍摄和巡检延伸，是硬件公司常见的冷启动办法。",
+    "takeaway": "数千万元 Pre-B 和商汤国香独家投资有投资界、投中网和《科创板日报》交叉报道，IFA 奖项和瑞典体验点也能在官网上对上，适合补录。但这笔融资没有精确金额和估值，Kickstarter 还只是“有序推进”，不能写成已经众筹成功或已经有规模收入。下一看众筹是否上线、首批能否在承诺窗口交付。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": ["Pre-B轮", "扑翼机器人", "具身智能", "流体仿真", "商汤"],
+    "website": "https://esdyn.com/",
+    "sources": [
+      "https://news.pedaily.cn/202611/572020.shtml",
+      "https://www.chinaventure.com.cn/news/114-20261117-394080.html",
+      "https://m.cls.cn/detail/2538321",
+      "https://www.guandian.cn/article/20261117/628729.html",
+      "https://esdyn.com/"
+    ],
+    "uncertain_points": "融资金额仅写“数千万元人民币”，估值未披露。未见公司官网新闻稿，细节以投资界、《科创板日报》等报道为准。Kickstarter 众筹进展、预定量和收入未公布；官网可见预约订金页，但订金不锁定机位和价格。噪声与续航对比为公司自述。下一代“白鹰”的 15 个自由度仅见于《科创板日报》。"
+  },
+  {
+    "id": "zhixing-robotics-kelie-sensor-strategic-dexterous-hands",
+    "date_collected": "2026-11-23",
+    "status": "new",
+    "type": "both",
+    "name": "知行机器人",
+    "one_liner": "灵巧手与末端执行器公司知行机器人于 11 月 19 日获得沪市上市公司柯力传感（603662）战略投资，金额和持股比例未披露；报道转述公司称已推出 40 余款末端执行器，服务工业客户 500 余家、具身智能头部客户 100 余家",
+    "category": "硬件与端侧",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "知行机器人科技（苏州）有限公司 2018 年成立于江苏太仓，创始人为白国超。公司做机器人灵巧手、电动末端执行器和具身智能相关系统方案，产品以“知行手”系列为主，覆盖两指夹爪到五指灵巧手，报道称负载范围 0.1 公斤至 150 公斤。智通财经还提到五指灵巧手“束巧”有 15 个关节、11 个主动自由度，七自由度“启辰手”已规模化量产。投资方柯力传感是上交所上市公司，主力学、力矩和触觉传感器。双方计划把力觉、触觉硬件与灵巧手、电动夹爪做系统整合，并在供应链和场景上合作。新京报 11 月 19 日报道明确写“据柯力传感消息”",
+    "metrics": [
+      {
+        "label": "融资（投资方消息 / 媒体报道）",
+        "value": "新京报贝壳财经 2026-11-19 报道写明：据宁波柯力传感科技股份有限公司消息，近日柯力传感完成对知行机器人科技（苏州）有限公司的战略投资，随后双方将在灵巧手与末端执行器的传感融合、供应链协同和场景应用上合作。观点网、智通财经同日报道与此一致，并写明投资金额和持股比例暂未披露。检索未见柯力传感就此发布交易所公告披露具体交易条款",
+        "source_type": "媒体报道",
+        "source_url": "https://www.bjnews.com.cn/detail/1795057864129926.html"
+      },
+      {
+        "label": "产品与客户规模（报道转述公司口径）",
+        "value": "新京报同一篇报道写明：知行机器人已推出智能末端执行器 40 余款，负载 0.1 公斤至 150 公斤；2024 年推出面向人形机器人的具身智能数据采集手并实现批量交付；目前产品已服务工业领域客户 500 余家、具身智能领域头部客户 100 余家，并销往海外。智通财经还写明“束巧”手 15 个关节、11 个主动自由度，以及“启辰手”已规模化量产。上述客户数、产品规格和量产表述均为报道转述，未见合同或收入披露，也未列出头部客户名称",
+        "source_type": "媒体报道",
+        "source_url": "https://www.zhitongcaijing.com/content/detail/1525618.html"
+      }
+    ],
+    "why_it_works": "人形和工业机器人要把精细抓取做稳，缺的往往不是又一只会比划的手，而是力和触觉能不能跟执行器做成一套。知行机器人已经有比较完整的末端产品线，柯力传感则有六维力、关节力矩和触觉传感器。上市公司用战略投资把感知和执行捆在一起，说的是国产末端能不能从送样走到一体交付，而不只是再多一款样机。",
+    "takeaway": "柯力传感完成战略投资有新京报、观点网和智通财经交叉报道，而且消息来源被写明是投资方，可以作为补录。但金额、持股都没有披露，也未见交易所公告；500 余家工业客户和 100 余家具身智能客户只出现在报道转述里，不能当成已经核对的收入。下一看柯力传感定期报告或知行官方材料会不会补上投资规模和客户结构。",
+    "innovation_score": 3,
+    "business_score": 3,
+    "tags": ["战略投资", "灵巧手", "末端执行器", "具身智能", "柯力传感"],
+    "website": "https://www.changingtek.com/",
+    "sources": [
+      "https://www.bjnews.com.cn/detail/1795057864129926.html",
+      "https://www.guandian.cn/article/20261119/629823.html",
+      "https://www.zhitongcaijing.com/content/detail/1525618.html",
+      "https://sensor.ofweek.com/2026-11/ART-81013-8120-30712757.html"
+    ],
+    "uncertain_points": "投资金额和持股比例未披露，未见柯力传感（603662）就此发布的交易所公告。工业客户 500 余家、具身智能头部客户 100 余家，以及束巧、启辰手的规格与量产表述，均来自媒体转述的公司口径，未见具名客户或收入。公司官网新闻页在采集时无法打开，细节以新京报和智通财经为准。"
+  },
+  {
+    "id": "xinho-quantum-gmpt-a-plus-plus-industrial-ai-simulation",
+    "date_collected": "2026-11-23",
+    "status": "new",
+    "type": "both",
+    "name": "芯钬量子",
+    "one_liner": "半导体与多物理场仿真公司芯钬量子于 11 月 20 日晚宣布完成 A++ 轮融资，由科创板上市公司源杰科技（688498）独家直投，金额未披露；公司称将加大工业 AI 与多物理场仿真的融合，并继续探索量子计算、光子芯片等应用需求",
+    "category": "企业服务",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "上海芯钬量子科技有限公司（英文名 General Mathematical-Physics Technology，官网 gmpt.com.cn）做半导体工艺与器件仿真、光学和电磁仿真以及多物理场计算软件。官网上的产品包括 Nuwa TCAD、Macondo 波动光学与电磁波仿真、Rayzen 光学系统仿真，以及被其称为“人工智能加持”的集成仿真平台 PISE，用于联合调用多个仿真软件 API 并结合优化算法，服务 AI for Science、DTCO、虚拟制造等场景。官网称典型客户包括集成电路代工厂、分立器件企业、光子集成与光通信、显示面板和消费电子等，但未公布客户名称或收入。界面新闻称此前天使轮、A 轮和 A+ 轮分别由慧眼资本、京东方显智链和交银资本投资",
+    "metrics": [
+      {
+        "label": "融资（公司宣布 / 媒体报道）",
+        "value": "界面新闻 2026-11-21 报道，并经 36氪快讯、同花顺和东方财富转载：芯钬量子 11 月 20 日晚宣布完成 A++ 轮融资，由源杰科技独家直投。报道未披露本轮金额、估值或源杰科技的持股比例。检索未见源杰科技（688498）就此发布的详细交易所公告。报道同时回顾了慧眼资本、京东方显智链、交银资本等前期投资方",
+        "source_type": "媒体报道",
+        "source_url": "https://www.36kr.com/newsflashes/4079020257924233"
+      },
+      {
+        "label": "产品方向（官网）",
+        "value": "公司官网将自身定位为半导体仿真软件和服务提供商，并单独列出 PISE“人工智能加持的集成仿真平台”，用于把多款仿真软件与 AI、优化算法库连在一起。关于页称典型客户覆盖集成电路代工厂、分立器件、光学、光子集成及光通信、显示面板、消费电子等，但没有给出客户名单、合同额或收入。公开报道中可见的早期软件采购金额较小，不能代表当前收入规模",
+        "source_type": "官方公布",
+        "source_url": "https://www.gmpt.com.cn/"
+      }
+    ],
+    "why_it_works": "芯片和光电器件的设计，本来就要在多种物理场里反复仿真。芯钬量子把已有的 TCAD 和光学软件，再接上一层可以调用模型和优化算法的集成平台，说的是让工业仿真少靠手工试错。上市公司源杰科技以直投进入，看中的应是工业软件和光电产业链的协同，而不只是一个新的模型名称。",
+    "takeaway": "公司 11 月 20 日晚宣布 A++、源杰科技独家直投，这条消息有界面新闻原报和 36氪、同花顺转载，属于本窗口前后漏收的补录。但金额、估值和持股都没有披露，也未见源杰科技的详细公告；官网只给出客户行业，没有收入或具名案例。工业 AI 融合是本轮的投入方向，还不能写成已经规模化的 AI 收入。",
+    "innovation_score": 3,
+    "business_score": 3,
+    "tags": ["A++轮", "工业仿真", "半导体", "AI for Science", "源杰科技"],
+    "website": "https://www.gmpt.com.cn/",
+    "sources": [
+      "https://www.36kr.com/newsflashes/4079020257924233",
+      "https://wap.eastmoney.com/a/202611213936798275.html",
+      "http://stock.10jqka.com.cn/20261121/c682072454.shtml",
+      "https://www.gmpt.com.cn/",
+      "https://gmpt.com.cn/aboutus"
+    ],
+    "uncertain_points": "本轮金额、估值和源杰科技持股比例均未披露，未见源杰科技详细交易所公告。界面新闻为目前能找到的源头报道，其他多为转载。官网典型客户仅为行业类别，无具名客户或收入。前期轮次投资方信息来自同一批报道，未逐一找到当时的原始公告。"
+  }
+]
