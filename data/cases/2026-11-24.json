@@ -1,0 +1,470 @@
+[
+  {
+    "id": "yuefan-eventec-hundreds-of-millions-cny-community-delivery-robots",
+    "date_collected": "2026-11-24",
+    "status": "new",
+    "type": "both",
+    "name": "越凡创新",
+    "one_liner": "成都社区末端配送机器人公司越凡创新于 11 月 23 日宣布完成新一轮数亿元人民币融资，由策源资本领投；36氪转述公司口径称业务已覆盖全球 80 余座城市和地区、累计服务超 6500 万人次，并获得顺丰相关项目连续订单、进入新加坡樟宜机场",
+    "category": "硬件与端侧",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "越凡创新成立于 2017 年，总部位于成都高新区，董事长兼 CEO 为电子科技大学出身的黄山。公司从楼宇和社区的最后一百米配送切入，产品包括可乘电梯、过门禁的 SENDBOT 享递，室内外一体的 ROADBOT 越凡路宝，以及面向大型社区的享递 Ultra、可自动卸货的路宝 Pro；此外还有分拣机器人 PICKPAL、空地一体的享递 Air 与越凡空驿，以及统一调度不同品牌机器人的 ROBOHUB 慧联平台。36氪 11 月 23 日报道写明，公司宣布完成新一轮数亿元融资，由策源资本领投，成都科创投、成都交投资本、亚美投资等参与，资金用于技术和产品、人才与交付体系，以及全国拓展和城市机器人服务基础设施建设。收费模式未见公开拆分。策源资本曾在 2026 年 5 月领投其 C 轮，本轮未披露具体轮次名称",
+    "metrics": [
+      {
+        "label": "融资（公司宣布 / 媒体报道）",
+        "value": "36氪 2026-11-23 报道写明：越凡创新宣布完成新一轮数亿元人民币融资，由策源资本领投，成都科创投、成都交投资本、亚美投资等参与投资。精确金额、估值和轮次名称均未披露。ITBear 等转载与上述领投方、金额量级一致，另有渠道未列出亚美投资",
+        "source_type": "媒体报道",
+        "source_url": "https://www.36kr.com/p/4082087493112704"
+      },
+      {
+        "label": "部署与运营（媒体转述公司口径）",
+        "value": "36氪转述：公司已在全国签约数千栋住宅及商业楼宇，业务覆盖全球 80 余座城市和地区，累计服务消费者超过 6500 万人次，合作物业和地产商包括华润、龙湖、万科、保利、中海、绿城、招商、德商等；公司运营数据称用户周复购率超 70%，近半年月配送单量平均增速超过 15%，并称越来越多社区上线首月即实现单站配送量突破万单。报道还写明已获得顺丰速运相关项目连续订单，机器人曾服务成都世界运动会、中国消博会、深圳 APEC 系列活动，并进入新加坡樟宜机场，业务向东南亚延伸。报道称社区末端配送机器人市场占有率居全国第一，该表述来自“据公开报道”，未见独立市场份额审计。收入和利润均未披露",
+        "source_type": "媒体报道",
+        "source_url": "https://www.36kr.com/p/4082087493112704"
+      }
+    ],
+    "why_it_works": "末端配送是高频、重复、路线相对固定的活，也是物业和快递都愿意付钱的民生场景。越凡创新没有先做人形机器人的演示，而是把电梯、门禁、楼宇物联网和调度平台一起做完，让机器人真的能把外卖和快递送到门口。订单多了，真实路况和故障数据回流，产品和运营可以一起迭代，再复制到下一座城市。从卖单机，到经营一个可接入多品牌机器人的社区调度平台，是它把先发规模往基础设施上延伸的办法。",
+    "takeaway": "这是本窗口里商业化证据最完整的一条：数亿元新一轮融资可以回到 36氪对公宣布的报道，80 余城、6500 万人次、顺丰连续订单和樟宜机场也写在同一篇稿里。但融资金额和估值都没有精确数字，周复购、单量增速和市场占有率都是公司或转述口径，不能当成已经核对过的收入。下一看它能否给出单城盈利、单机利用率，或把海外机场和快递项目写成可核对的合同规模。",
+    "innovation_score": 4,
+    "business_score": 5,
+    "tags": [
+      "数亿元融资",
+      "配送机器人",
+      "社区末端",
+      "规模化运营",
+      "策源资本"
+    ],
+    "website": "https://www.eventec.cn/",
+    "sources": [
+      "https://www.36kr.com/p/4082087493112704",
+      "https://www.itbear.com.cn/html/2026-11/1592196.html",
+      "https://www.eventec.cn/"
+    ],
+    "uncertain_points": "本轮精确金额、估值和轮次名称均未披露。6500 万人次、周复购率超 70%、月单量增速和“市场占有率全国第一”均为 36氪转述的公司或公开报道口径，未见独立审计。收入未披露。ITBear 等转载未完全列出亚美投资，投资方名单以 36氪为准。"
+  },
+  {
+    "id": "simplexity-robotics-100m-pre-a-1-6b-humanoid",
+    "date_collected": "2026-11-24",
+    "status": "new",
+    "type": "both",
+    "name": "至简动力（Simplexity Robotics）",
+    "one_liner": "由理想汽车前高管创办的杭州具身智能公司至简动力，于 11 月 23 日宣布完成蚂蚁集团领投的 1 亿美元 Pre-A 轮；董事长王凯向媒体确认估值为 16 亿美元，并同日发布轮式人形机器人 iX",
+    "category": "硬件与端侧",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "至简动力（Simplexity Robotics）总部位于杭州，智通财经称公司于 2025 年 7 月成立，由理想汽车前高管王凯、贾鹏、王佳佳共同创立，王凯任董事长，贾鹏任 CEO，王佳佳任 COO。公司走通用机器人路线，同时设计软硬件，并按任务和形态做适配；联合早报转述王凯称，从 AI 世界模型到训练用的真实世界数据集均由公司自行构建。11 月 23 日公司发布第二款产品、轮式人形机器人 iX，面向接待、调制饮品、取送物品和导览讲解等服务场景。早期客户包括韩国机器人公司 Rlwrld、清华大学和叉车制造商杭叉集团，并与杭叉合作推出仓库分拣生产线。收费模式未见公开拆分",
+    "metrics": [
+      {
+        "label": "融资与估值（创始人向媒体确认）",
+        "value": "联合早报 2026-11-23 引述彭博社报道：至简动力在蚂蚁集团领投的新一轮融资中筹得 1 亿美元，估值达 16 亿美元；董事长兼联合创始人王凯称此轮为 Pre-A 轮，腾讯、红杉中国和蓝驰创投等现有投资者参与。智通财经同日报道写明王凯表示“本轮 A 轮前融资对应估值 16 亿美元”，并列出现有股东阿里巴巴、腾讯投资、红杉中国、蓝驰创投等参与。动点科技报道与 1 亿美元、16 亿美元估值及蚂蚁领投一致。报道未一律写明 16 亿美元是投前还是投后；阿里巴巴是否参与本轮，彭博社转述的名单中未见，智通与动点科技有列入",
+        "source_type": "创始人自述",
+        "source_url": "https://www.zaobao.com.sg/news/china/story20261123-10043148"
+      },
+      {
+        "label": "产品与早期客户（公司 / 媒体口径）",
+        "value": "联合早报与动点科技均写明：公司星期一发布轮式机器人 iX，可调制和递送饮品、取送物品并提供导览讲解；早期客户包括韩国机器人公司 Rlwrld、清华大学和杭叉集团，并已与杭叉合作推出仓库分拣线。官网可见 iX 产品页。收入、订单金额和交付量均未披露",
+        "source_type": "媒体报道",
+        "source_url": "https://cn.technode.com/post/2026-11-23/simplexity-robotics-ant-pre-a-funding/"
+      }
+    ],
+    "why_it_works": "中国人形机器人赛道已经很拥挤，至简动力选择先做能在公共空间里移动、端东西、带路的轮式形态，并把世界模型和真实数据抓在自己手里，再按仓库分拣、接待讲解这类具体任务去改软硬件。蚂蚁在宇树、星尘智能之后继续加注机器人，老股东也跟投，说明产业资本愿意给“成立约一年、已经给出估值”的团队继续试。对观察站来说，关键不是估值故事，而是杭叉那条分拣线能不能从样板变成可核对的产线指标。",
+    "takeaway": "1 亿美元和 16 亿美元估值有董事长向彭博社等媒体的确认，蚂蚁领投也有多家报道交叉，适合作为当天的中国侧重点条目。但公司成立约一年就给出超十亿美元估值，16 亿美元未明确是投前还是投后，阿里巴巴是否参与本轮各报道不完全一致；早期客户和分拣线也还没有公开的产量或收入。下一看 iX 是否开始小批量交付，以及与杭叉的产线能否给出稳定节拍。",
+    "innovation_score": 4,
+    "business_score": 4,
+    "tags": [
+      "Pre-A轮",
+      "人形机器人",
+      "蚂蚁集团",
+      "轮式机器人",
+      "具身智能"
+    ],
+    "website": "https://www.simplexityrobotics.com/",
+    "sources": [
+      "https://www.zaobao.com.sg/news/china/story20261123-10043148",
+      "https://cn.technode.com/post/2026-11-23/simplexity-robotics-ant-pre-a-funding/",
+      "https://www.zhitongcaijing.com/content/detail/1527105.html",
+      "https://www.simplexityrobotics.com/"
+    ],
+    "uncertain_points": "16 亿美元估值由董事长王凯向媒体确认，但报道未明确区分投前或投后。彭博社转述的跟投名单为腾讯、红杉中国、蓝驰创投等，智通财经与动点科技另列入阿里巴巴，是否参与本轮不完全一致。收入、订单金额和 iX 交付量未披露。公司成立时间较短，估值需谨慎解读。"
+  },
+  {
+    "id": "amazon-purchases-decart-optimization-stack",
+    "date_collected": "2026-11-24",
+    "status": "new",
+    "type": "both",
+    "name": "Decart（优化技术被亚马逊收购）",
+    "one_liner": "亚马逊于 11 月 23 日官方宣布，已签署协议购买以色列公司 Decart 的 Optimization Stack（DOS）专有技术，并引进三位联合创始人及其研究与工程团队；彭博社称交易作价 75 亿美元，亚马逊官方稿未写明金额，交易尚待监管批准",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "Decart 是以色列 AI 公司，联合创始人为 Dean Leitersdorf、Moshe Shalev 与 Orian Leitersdorf，对外以实时世界模型（如 Oasis）和 AI 视频生成能力为人所知，底层则有名为 Decart Optimization Stack（DOS）的性能优化软件，用于让模型在英伟达、亚马逊和谷歌等硬件上更高效地运行。亚马逊 2026-11-23 官方博客写明：已签署协议购买 DOS 背后的专有技术，并引进上述联合创始人及其 AI 研究与工程团队；双方自 2025 年起已在 Trainium 上合作。亚马逊将此举放在自定义芯片和推理效率的语境下，并称交易需满足惯常交割条件，包括监管批准。官方稿没有写明是否收购 Decart 全部股权，也没有写明对价",
+    "metrics": [
+      {
+        "label": "交易（官方公布）",
+        "value": "亚马逊 2026-11-23 官方新闻写明：已签署协议购买 Decart Optimization Stack（DOS）的专有技术，并引进联合创始人 Dean Leitersdorf、Moshe Shalev、Orian Leitersdorf 及其研究与工程团队。完成交易需满足惯常交割条件，包括监管批准。官方稿未披露对价，也未写明这是对 Decart 公司整体的收购",
+        "source_type": "官方公布",
+        "source_url": "https://www.aboutamazon.com/news/company-news/amazon-decart-ai-optimization"
+      },
+      {
+        "label": "对价（媒体引述知情人士 / 彭博社）",
+        "value": "TechCrunch 2026-11-23 报道写明：亚马逊同意收购 Decart 的相当一部分业务，并称根据彭博社，亚马逊将为此支付 75 亿美元。TechCrunch 同时写明亚马逊与 Decart 当时未立即回应置评。该金额未见亚马逊或 Decart 官方确认，此前窗口仅有洽购传闻，本次官方确认的是技术和团队交易本身，而非作价",
+        "source_type": "媒体报道",
+        "source_url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/"
+      }
+    ],
+    "why_it_works": "亚马逊要把 Trainium 从自用推到对外销售，最缺的不是再讲一遍芯片故事，而是让客户的模型在自家硅上跑得够快、够便宜。Decart 的优化栈横跨软件和硬件，已经在 Trainium 上和亚马逊磨过一年，买技术和挖团队，比从头自研一条编译和调度栈更快。对 Decart 来说，加入亚马逊意味着拿到底座规模；对观察站来说，这是把前一天还停留在传闻里的交易，变成可以核对的官方宣布。",
+    "takeaway": "亚马逊官方稿把“买 DOS 技术、引进创始团队、尚待监管批准”写清楚了，适合取代此前窗口的传闻条目。但 75 亿美元只来自彭博社，官方没有确认；稿件表述是购买专有技术和引进团队，并不等于已公布对整家公司的收购，Decart 的世界模型和视频产品此后如何安排也不清楚。下一看交割是否完成，以及亚马逊会不会在对客户的 Trainium 材料里写出 DOS 的具体效果。",
+    "innovation_score": 4,
+    "business_score": 5,
+    "tags": [
+      "收购",
+      "推理优化",
+      "Trainium",
+      "亚马逊",
+      "以色列"
+    ],
+    "website": "https://www.decart.ai/",
+    "sources": [
+      "https://www.aboutamazon.com/news/company-news/amazon-decart-ai-optimization",
+      "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+      "https://www.decart.ai/"
+    ],
+    "uncertain_points": "75 亿美元对价仅见于彭博社，并被 TechCrunch 等转述，亚马逊官方稿未披露金额。官方表述为购买 DOS 专有技术并引进创始团队，是否构成对 Decart 全部股权的收购、以及 Oasis 等世界模型与视频业务如何安排，均未写明。交易尚待监管批准，存在无法按预期交割的可能。"
+  },
+  {
+    "id": "agon-70m-series-a-450m-europe-defence-ai-lab",
+    "date_collected": "2026-11-24",
+    "status": "new",
+    "type": "both",
+    "name": "Agon",
+    "one_liner": "英国防御 AI 公司 Agon 于 11 月 23 日宣布完成 7000 万美元 A 轮，由 Northzone 领投，英国政府 Sovereign AI Fund 与 NSSIF 首次联合出资；英国政府官方新闻写明估值为 4.5 亿美元，累计融资 1 亿美元",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "Agon 由前英国陆军军官 Tristam Constant 与防务独角兽 Cambridge Aerospace 联合创始人 Junaid Hussain 在英国创立，总部位于伦敦，并在柏林设有办公室，董事长为 Unity 创始人 David Helgason。公司定位为欧洲主权防御 AI 实验室，核心是名为 Agon Engine 的合成战场环境，用于在虚拟对抗中训练、验证和迭代自主防御系统，并开发面向防御的物理基础模型，以减少必须在真实世界中做的昂贵测试。Northzone 自种子轮即投资，并在 11 月 23 日宣布领投本轮。收费模式和已部署客户均未见公开拆分",
+    "metrics": [
+      {
+        "label": "融资与估值（官方公布）",
+        "value": "英国政府 2026-11-23 官方新闻写明：Sovereign AI Fund 与 National Security Strategic Investment Fund（NSSIF）参与 Agon 的 7000 万美元 A 轮，估值为 4.5 亿美元；公司现累计融资 1 亿美元。新闻并列出现有投资方 Northzone、Lakestar、XYZ 和 Lux Capital。领投方 Northzone 同日文章确认领投 7000 万美元 A 轮，累计融资 1 亿美元，并写明现有投资方 Lakestar、XYZ、Lux Capital、Global Founders Capital 继续参与，David Helgason 追加投资，Roelof Botha 作为新投资人加入；该文称 Sovereign AI Fund 与 NSSIF 是首次联合投资。欧盟-Startups 等媒体将 7000 万美元和估值分别换算为约 6398 万欧元、约 4.113 亿欧元，属于汇率换算，不是另一组官方数字",
+        "source_type": "官方公布",
+        "source_url": "https://www.gov.uk/government/news/sovereign-ai-and-national-security-strategic-investment-fund-backing-british-autonomous-defence-systems-firm"
+      }
+    ],
+    "why_it_works": "欧洲要部署自主防御系统，却往往还得把训练和验证放在真实场地里做，又慢又贵，数据也敏感。Agon 的做法是先搭一座可重复、可对抗的虚拟战场，用它来训练和压力测试模型，再把能力交回给政府和防务产业。英国两个主权基金第一次一起出资，等于把“训练设施必须留在欧洲”写成了投资逻辑。它现在证明的是融资和定位，还不是已经规模部署的作战系统。",
+    "takeaway": "7000 万美元、4.5 亿美元估值和累计 1 亿美元都可以回到英国政府官网和领投方 Northzone 的文章，是本窗口海外侧证据最干净的融资之一。但官方材料没有写出付费客户、合同或部署数量，产品仍以训练和验证基础设施为主。下一看它是否公布与政府或防务承包商的具体项目。",
+    "innovation_score": 4,
+    "business_score": 4,
+    "tags": [
+      "A轮",
+      "防御AI",
+      "合成战场",
+      "英国",
+      "Northzone"
+    ],
+    "website": "https://www.northzone.com/insights/partnering-with-agon-to-build-europes-defence-ai-lab",
+    "sources": [
+      "https://www.gov.uk/government/news/sovereign-ai-and-national-security-strategic-investment-fund-backing-british-autonomous-defence-systems-firm",
+      "https://www.northzone.com/insights/partnering-with-agon-to-build-europes-defence-ai-lab",
+      "https://www.businesswire.com/news/home/20261123311259/en/Agon-raises-$70-million-in-Series-A-round-to-build-Europes-defence-AI-lab"
+    ],
+    "uncertain_points": "官方材料未披露付费客户、合同金额或实际部署规模。部分欧洲媒体给出的欧元金额为美元数字的汇率换算。本次检索未能独立核验公司主官网域名，网站字段暂用领投方文章链接。"
+  },
+  {
+    "id": "marlowe-277m-seed-1-15b-multi-silicon-ai-factory",
+    "date_collected": "2026-11-24",
+    "status": "new",
+    "type": "both",
+    "name": "Marlowe",
+    "one_liner": "由微软前高管创办的推理算力公司 Marlowe 于 11 月 23 日宣布获得 Accel 领投的 2.77 亿美元种子轮；GeekWire 引述公司称估值为 11.5 亿美元，首个机房计划 12 月上线，已签署三份客户协议但未公布客户名称",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "Marlowe 由 CEO Dan Lewis 与 CTO Kutta Srinivasan 于 2026 年 5 月创立，总部同时设在华盛顿州贝尔维尤和加州红木城。两人此前均在微软负责企业 AI 或 AI 基础设施，Lewis 还曾联合创办货运公司 Convoy。公司做的不是通用来的 GPU 云，而是针对关键推理负载、把芯片、网络、软件和机房一起做协同设计的“多硅 AI 工厂”，起步芯片来自 AMD 与 Etched，目前不以英伟达为主。Accel 11 月 23 日官方文章确认领投其 2.77 亿美元种子轮。GeekWire 同日采访写明：首个基于 Etched 芯片的机房计划 12 月上线，主要服务一家大型 AI 编程公司；第二个更大、使用 AMD Helios 的机房目标是 2027 年二季度；两处均已签约，第三处为意向书；公司称已签署三份客户协议，但暂不公布客户和地点。收费按推理产出计，具体单价未见披露",
+    "metrics": [
+      {
+        "label": "融资（官方公布）",
+        "value": "Accel 2026-11-23 官方文章写明：Marlowe 宣布获得 2.77 亿美元种子轮，由 Accel 领投。GeekWire 同日采访补充：这 2.77 亿美元包含更早一笔由 Eclipse 领投的较小轮次，Eclipse 创始人 Lior Susan 任执行董事长；其他出资人包括 Bessemer、Altimeter、Atreides、Journey、Valor，以及 Henry Kravis、Dara Khosrowshahi、Aaron Levie、Ryan Roslansky、Mark Okerstrom 等。因此 2.77 亿美元是种子轮累计规模，不等于 Accel 领投的这一次单独新增金额",
+        "source_type": "官方公布",
+        "source_url": "https://www.accel.com/news/our-investment-in-marlowe-the-multi-silicon-ai-factory"
+      },
+      {
+        "label": "估值与客户进度（公司向媒体自述）",
+        "value": "GeekWire 2026-11-23 报道写明：公司称本轮估值为 11.5 亿美元；已签署三份客户协议，首个机房计划 12 月上线、主要服务一家大型 AI 编程公司，第二处目标 2027 年二季度，第三处为意向书。客户名称和地点未公布。公司还称，在芯片、网络、电源和软件各层取得 10% 至 20% 的改进，合计可达到传统 GPU 云每瓦、每美元两到三倍的 token 产出，该对比为公司自述，未见独立测评。团队接近 30 人",
+        "source_type": "创始人自述",
+        "source_url": "https://www.geekwire.com/2026/beyond-nvidia-convoy-co-founder-and-former-microsoft-leader-raise-277m-to-rethink-ai-infrastructure/"
+      }
+    ],
+    "why_it_works": "训练集群已经花掉了最大的一笔钱，真正开始限电、限容量的是推理。Marlowe 的判断是：新芯片要跑赢，不能只靠买卡，得把系统栈按负载重做一遍，才能把非英伟达的硅用满。它先用几十兆瓦的小站点证明给得出活，再按站点融资扩张，避免一上来就堆和 CoreWeave 同级的负债。眼下机房还没开张，故事的重量在融资和已签约客户，而不在已经跑起来的利用率。",
+    "takeaway": "2.77 亿美元有 Accel 官方文章，11.5 亿美元估值和三份客户协议来自公司对 GeekWire 的说明，证据足够收录。但必须写清：2.77 亿美元含 Eclipse 领投的前一轮，不是本轮单独新增；客户匿名，机房尚未上线；每瓦两到三倍的效率是公司说法。下一看 12 月首个站点是否按期交付，以及那家“大型 AI 编程公司”会不会露出名字。",
+    "innovation_score": 4,
+    "business_score": 4,
+    "tags": [
+      "种子轮",
+      "推理算力",
+      "多芯片",
+      "Accel",
+      "独角兽"
+    ],
+    "website": "https://marlowe.ai/",
+    "sources": [
+      "https://www.accel.com/news/our-investment-in-marlowe-the-multi-silicon-ai-factory",
+      "https://marlowe.ai/introducing-marlowe.html",
+      "https://www.geekwire.com/2026/beyond-nvidia-convoy-co-founder-and-former-microsoft-leader-raise-277m-to-rethink-ai-infrastructure/"
+    ],
+    "uncertain_points": "2.77 亿美元为种子轮累计规模，包含 Eclipse 领投的较小前一轮，本轮单独新增金额未披露。11.5 亿美元估值及三份客户协议为公司向 GeekWire 自述，客户名称未公布，机房尚未投产。每瓦、每美元产出提升为公司自述。"
+  },
+  {
+    "id": "shanshu-cardinal-operations-hundreds-of-millions-cny-series-d",
+    "date_collected": "2026-11-24",
+    "status": "new",
+    "type": "both",
+    "name": "杉数科技（Cardinal Operations）",
+    "one_liner": "决策式 AI 公司杉数科技于 11 月 23 日宣布完成数亿元人民币 D 轮融资，投资方包括国家绿色发展基金、上海集成电路产业投资基金和普陀资本等；多家媒体称其技术和产品已服务全球 80 多个国家和地区的 2000 余家机构",
+    "category": "企业服务",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "杉数科技（Cardinal Operations）成立于 2016 年，由四位斯坦福博士回国创办，总部位于中国，官网提供国产数学规划求解器 COPT 及决策计算产品。公司从求解器起步，形成高精度计算、优化求解引擎和智能决策平台，面向电力市场出清、能源规划、生产排程、交通和零售等需要满足大量硬约束的决策问题。钛媒体 11 月 23 日深度报道写明，南方电网自 2018 年初起即与杉数联合攻关区域电力市场优化计算；联合创始人包括罗小渠、王曦、首席科学家葛冬冬和 CTO 王子卓。36氪同日快讯写明公司宣布完成数亿元人民币 D 轮，投资方包括国家绿色发展基金、上海集成电路产业投资基金、普陀资本等，资金用于技术和产品研发及规模化落地。钛媒体称，上海集成电路产业投资基金这是首次投资软件企业。收费模式未见本轮报道中的公开拆分",
+    "metrics": [
+      {
+        "label": "融资（公司宣布 / 媒体报道）",
+        "value": "36氪 2026-11-23 快讯写明：杉数科技宣布完成数亿元人民币 D 轮融资，投资方包括国家绿色发展基金、上海集成电路产业投资基金、普陀资本等。钛媒体、经济观察网、金融界同日报道与轮次和投资方一致。精确金额和估值未披露",
+        "source_type": "媒体报道",
+        "source_url": "https://www.36kr.com/newsflashes/4082182799250307"
+      },
+      {
+        "label": "客户覆盖（媒体转述公司口径）",
+        "value": "金融界、凤凰网大风号等 11 月 23 日报道写明：技术和产品服务覆盖全球 80 多个国家和地区的 2000 余家机构、3 万余名用户，并在能源电力、港口交通、航空航天、工业制造和零售消费等行业规模化落地。该组数字为媒体沿用的公司口径，未见本轮报道提供独立审计。钛媒体长文则以南方电网区域电力市场等具名项目说明其决策式 AI 的落地方式，未在已查阅段落中重复写出 2000 余家这一总数",
+        "source_type": "媒体报道",
+        "source_url": "https://m.jrj.com.cn/madapter/finance/2026/11/23180859232669.shtml"
+      }
+    ],
+    "why_it_works": "发电计划、跨区输电和生产排程这类问题，不允许大模型“差不多就行”，必须在成千上万条硬约束里求出能执行、能复现的方案。杉数把十年求解器积累接到这些工业决策上，让芯片基金也愿意为“先定义问题、再决定算力结构”的软件买单。它不是新出来的 Agent 公司，而是一条原来偏冷门的技术路线，被生成式 AI 推到了前台。",
+    "takeaway": "数亿元 D 轮和国家绿色发展基金、上海集成电路基金等投资方有 36氪和钛媒体交叉报道，南方电网等具名场景也写得具体，值得收录。但融资金额和估值都没有精确数字；2000 余家机构、3 万余名用户主要出现在转述稿中，不能当成已经审计的收入或活跃客户。下一看公司会不会自己发新闻稿，并补上经常性收入或重点行业的合同规模。",
+    "innovation_score": 4,
+    "business_score": 4,
+    "tags": [
+      "D轮",
+      "决策式AI",
+      "数学规划",
+      "电力调度",
+      "求解器"
+    ],
+    "website": "https://www.shanshu.ai/",
+    "sources": [
+      "https://www.36kr.com/newsflashes/4082182799250307",
+      "https://www.tmtpost.com/8214351.html",
+      "https://m.jrj.com.cn/madapter/finance/2026/11/23180859232669.shtml",
+      "https://www.shanshu.ai/"
+    ],
+    "uncertain_points": "本轮精确金额和估值未披露。2000 余家机构、3 万余名用户和 80 多个国家和地区为多家转述稿中的公司口径，钛媒体深度报道未在已查阅部分独立确认该总数。收入未披露。"
+  },
+  {
+    "id": "embo-110m-seed-world-model-robot-brains",
+    "date_collected": "2026-11-24",
+    "status": "new",
+    "type": "both",
+    "name": "Embo",
+    "one_liner": "机器人世界模型公司 Embo 于 11 月 23 日宣布种子轮融资，Andreessen Horowitz 官方确认领投；Runtimewire 等媒体转述公司称金额为 1.10 亿美元，参与方包括 Khosla Ventures、DST Global 和英伟达 NVentures",
+    "category": "硬件与端侧",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "Embo 由世界模型研究者 Danijar Hafner 与 Wilson Yan 等人创办，团队成员经历包括 Google DeepMind、Meta Superintelligence Labs、NVIDIA Cosmos、伯克利和 MIT，代表工作包括 Dreamer、VideoGPT 和 Diffusion Forcing。公司要做的是人形机器人的“大脑”：先用海量互联网视频和机器人演示预训练世界模型，再让智能体在模型想象出的情景里用强化学习练习技能和故障恢复，最后再迁移到真机。Andreessen Horowitz 于 2026-11-23 发布领投声明，阐述了上述技术路线，但该文未写出融资金额。商业化进度、本体合作方和收费模式均未见披露",
+    "metrics": [
+      {
+        "label": "融资（领投方确认领投 / 金额为媒体转述公司口径）",
+        "value": "Andreessen Horowitz 2026-11-23 官方文章确认领投 Embo 本轮，并详细介绍其世界模型路线，但文中未写明金额、轮次名称或其他投资方。Runtimewire 同日报道转述公司称，种子轮融资 1.10 亿美元、由 a16z 领投。Unite.AI 等报道还列出 Khosla Ventures、DST Global 和英伟达风险投资部门 NVentures 等参与方。估值未披露。1.10 亿美元及跟投名单未见出现在 a16z 官方文章中",
+        "source_type": "媒体报道",
+        "source_url": "https://runtimewire.com/article/embo-raises-a-110m-seed-to-build-a-robot-brain-that-practices-in-imagination"
+      }
+    ],
+    "why_it_works": "示范可以教机器人做一套动作，却很难覆盖换个厨房、掉落、抽屉卡住这类意外。Embo 把赌注押在世界模型上：先从视频里学会物理世界怎么运转，再在想象里把失败也练一遍，让学习规模跟着算力走，而不是只跟着真机工时走。这是一条研究色彩很重的路线，商业化还没有展开，本轮更多是为大规模预训练和真机迁移买时间。",
+    "takeaway": "a16z 官方确认领投，技术路线写得很清楚，适合作为当天的创新侧条目。但 1.10 亿美元和跟投名单目前主要来自媒体转述的公司口径，领投方文章本身没有写金额，也还没有客户或真机部署数字。下一看公司是否发布官方新闻稿，以及世界模型里练出的技能能否在真实人形机器人上稳定复现。",
+    "innovation_score": 5,
+    "business_score": 3,
+    "tags": [
+      "种子轮",
+      "世界模型",
+      "人形机器人",
+      "a16z",
+      "Dreamer"
+    ],
+    "website": "https://a16z.com/announcement/investing-in-embo/",
+    "sources": [
+      "https://a16z.com/announcement/investing-in-embo/",
+      "https://runtimewire.com/article/embo-raises-a-110m-seed-to-build-a-robot-brain-that-practices-in-imagination",
+      "https://www.unite.ai/robot-ai-startup-embo-secures-110m-seed-investment-led-by-a16z/"
+    ],
+    "uncertain_points": "1.10 亿美元及 Khosla、DST、NVentures 等跟投名单主要来自 Runtimewire、Unite.AI 等媒体转述，a16z 官方领投声明未写明金额和其他投资方。估值、客户和真机部署情况未披露。本次检索未能独立核验公司主官网域名，网站字段暂用领投方文章链接。Unite.AI 该文作者身份标注为 AI Research Agent，金额交叉来源仍偏少。"
+  },
+  {
+    "id": "matters-ai-115-crore-pre-a-data-security",
+    "date_collected": "2026-11-24",
+    "status": "new",
+    "type": "both",
+    "name": "Matters.AI",
+    "one_liner": "班加罗尔企业数据安全公司 Matters.AI 于 11 月 23 日宣布完成由 Tanglin Venture Partners 领投的 1.15 亿卢比 Pre-A 轮，累计融资约 1.75 亿卢比；Business Standard 等报道称产品已在 50 多家机构部署",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "Matters.AI 总部位于印度班加罗尔，联合创始人兼 CEO 为 Keshava Murthy。公司做的是企业敏感数据的“单一事实来源”：用 AI 理解数据上下文和使用意图，追踪数据在云、本地、SaaS、终端和浏览器中的位置、流向、触达对象，以及该使用是否符合预期，并把调查和处置做成可执行的安全工作流，定位为“AI 安全工程师”。本轮资金将用于数据血缘、自动调查、终端与浏览器智能，以及防止 AI 智能体误用敏感数据，并在北美组建销售团队。须与本站已收录、主打消费银行的另一家公司 Matters 区分，二者不是同一主体",
+    "metrics": [
+      {
+        "label": "融资（媒体报道）",
+        "value": "Business Standard 2026-11-23 报道写明：Matters.AI 完成由 Tanglin Venture Partners 领投的 1.15 亿卢比 Pre-A 轮，IIFL Fintech Fund、Piper Serica、Bharat Tech Fund、Foster Ventures、Tetration Ventures 以及老股东 Kalaari Capital、Endiya Partners 参与，累计融资约 1.75 亿卢比。YourStory、The Economic Times Entrepreneur 等报道与金额、领投方和累计融资一致。估值未披露。按当时大致汇率，1.15 亿卢比约合 1300 万美元量级，此处仅作量级参考，不是官方美元数字",
+        "source_type": "媒体报道",
+        "source_url": "https://www.business-standard.com/companies/start-ups/data-security-startup-matters-ai-raises-115-crore-in-pre-series-a-round-126112301165_1.html"
+      },
+      {
+        "label": "部署规模（媒体转述公司口径）",
+        "value": "Business Standard 与 YourStory 均写明：Matters.AI 已在 50 多家机构部署，客户类型包括大型金融机构、证券经纪和资产管理公司、大型零售商以及数字媒体和娱乐平台。报道未列出具体客户名称，也未披露收入或付费合同金额",
+        "source_type": "媒体报道",
+        "source_url": "https://yourstory.com/2026/11/enterprise-data-security-startup-matters-ai-raises-rs-115-cr-pre-series-a-round"
+      }
+    ],
+    "why_it_works": "智能体开始和人一起搬运企业数据之后，安全团队缺的不是又一条告警，而是能把“数据在哪、被谁用过、该不该用”连成调查和处置的系统。Matters.AI 先在印度持牌金融机构和零售场景里把这条链路跑起来，再拿同一套故事去开北美销售。50 多家机构已经比纯概念安全创业更进一步，但还缺少具名客户和收入来核对质量。",
+    "takeaway": "1.15 亿卢比和累计约 1.75 亿卢比有 Business Standard、YourStory 等交叉报道，50 多家部署也写在同一组稿件里，适合收录。估值、具名客户和收入仍未披露；美元换算只是量级参考。下一看北美团队能否把现有部署转化成可公开的标志性客户。",
+    "innovation_score": 3,
+    "business_score": 4,
+    "tags": [
+      "Pre-A轮",
+      "数据安全",
+      "印度",
+      "智能体安全",
+      "部署"
+    ],
+    "website": "https://www.matters.ai/",
+    "sources": [
+      "https://www.business-standard.com/companies/start-ups/data-security-startup-matters-ai-raises-115-crore-in-pre-series-a-round-126112301165_1.html",
+      "https://yourstory.com/2026/11/enterprise-data-security-startup-matters-ai-raises-rs-115-cr-pre-series-a-round",
+      "https://www.matters.ai/"
+    ],
+    "uncertain_points": "估值未披露。50 多家机构为媒体转述口径，未见具名客户名单或收入。1.15 亿卢比的美元换算仅为量级参考。须与已收录的消费银行公司 Matters 区分。"
+  },
+  {
+    "id": "zhangyu-synapx-hundreds-of-millions-cny-midea-dexterous-hand",
+    "date_collected": "2026-11-24",
+    "status": "new",
+    "type": "both",
+    "name": "章鱼动力（SynapX）",
+    "one_liner": "做机器人灵巧操作的北京章鱼动力于 11 月 23 日宣布再获数亿元人民币融资，新增投资方包括美的等产业资本；《科创板日报》称这是公司年内第四轮融资，完整投资方名单和轮次名称未披露，核心平台计划 2026 年底量产交付",
+    "category": "硬件与端侧",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "章鱼动力（SynapX）工商主体为北京章鱼灵动科技有限公司，成立于 2025 年 12 月，创始人兼 CEO 都大龙曾任百度 IDL 创始成员、地平线 AI 算法负责人和鉴智机器人联合创始人兼 CTO。公司围绕机器人如何理解任务、操控物体并从操作中积累数据，提供三类产品：面向开发者的模型平台 OctoMind，灵巧手 OctoH-Hand，以及采集人体动作、视觉和接触信息的 OctoSense。官网品牌为 SynapX。《科创板日报》11 月 23 日报道写明，公司宣布获得数亿元人民币融资，新增投资方包括美的等产业资本及财务投资机构，资金用于灵巧手高端制造产线和具身模型研发，核心“手脑一体”平台计划于 2026 年底量产交付。报道称部分互联网客户已下单采购数采设备、等待量产，但模型当时尚未完全驱动自研灵巧手",
+    "metrics": [
+      {
+        "label": "本轮融资（公司宣布 / 媒体报道）",
+        "value": "《科创板日报》2026-11-23 报道写明：章鱼动力宣布获得数亿元人民币融资，新增投资方包括美的等产业资本及财务投资机构；完整投资方名单和具体轮次未披露。观点网、东方财富等转载与上述表述一致。精确金额和估值未披露",
+        "source_type": "媒体报道",
+        "source_url": "https://www.cls.cn/detail/2542230"
+      },
+      {
+        "label": "此前融资与商业化进度（媒体梳理）",
+        "value": "《科创板日报》梳理：这是公司 2026 年以来宣布的第四轮融资。3 月披露近 5000 万美元首轮，投资方包括地平线、高瓴创投、小米战投、顺为资本和线性资本；4 月再获新加坡 K3 领投的数亿元融资，顺为、小米、高瓴和线性追加；6 月宣布 5000 万美元融资，由锦秋基金、芯联资本、黄浦江资本领衔。公司当时称过去三个月累计融资已接近 10 亿元人民币。商业化方面，报道转述都大龙近期采访：部分互联网客户已下单购买数采设备、等待量产；10 月专访中其仍表示模型尚未完全驱动自研灵巧手，年底任务是把模型、灵巧手和数据体系结合起来。具名订单金额未见披露",
+        "source_type": "媒体报道",
+        "source_url": "https://www.cls.cn/detail/2542230"
+      }
+    ],
+    "why_it_works": "灵巧手要卖进产线，先得解决“如何采集人的操作、如何训练模型、如何让手真的听模型指挥”。章鱼动力把数采工具、模型和手做成一套，先用数采设备拿到订单，再把年底量产作为整套平台的检验点。美的等产业资本进来，看中的是制造和部件协同，而不是又一轮纯财务故事。眼下的风险也很清楚：前几轮已经融了不少，整机还没有按计划交到客户手里。",
+    "takeaway": "数亿元新一轮和美的等产业资本入局有《科创板日报》对公宣布的报道，年内前三轮也有相对完整的梳理，值得补进观察站。但本轮金额、完整名单和轮次都没有公开，核心平台仍是“计划年底量产”，数采设备订单也未给出金额。下一看 2026 年底手脑一体平台能否按期交付，以及订单会否从研发采购扩展到连续作业。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": [
+      "数亿元融资",
+      "灵巧手",
+      "具身操作",
+      "美的",
+      "产业资本"
+    ],
+    "website": "https://www.synapxdynamics.ai/",
+    "sources": [
+      "https://www.cls.cn/detail/2542230",
+      "https://www.guandian.cn/article/20261123/631402.html",
+      "https://www.synapxdynamics.ai/"
+    ],
+    "uncertain_points": "本轮精确金额、完整投资方名单、轮次名称和估值均未披露。年底量产仍为计划，报道亦写明模型此前尚未完全驱动自研灵巧手。数采设备订单未披露金额和客户名称。前几轮“接近 10 亿元”为公司当时口径。"
+  },
+  {
+    "id": "enhanced-robotics-tenniix-over-100m-cny-series-b",
+    "date_collected": "2026-11-24",
+    "status": "new",
+    "type": "both",
+    "name": "英汉思动力（Enhanced Robotics / Tenniix）",
+    "one_liner": "深圳 AI 体育硬件公司英汉思动力于 11 月 23 日宣布完成超亿元人民币 B 轮融资，由国科投资领投；公司核心产品是视觉 AI 网球发球机器人 Tenniix，资金将用于研发、产能、国内市场和海外渠道",
+    "category": "硬件与端侧",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "英汉思动力（Enhanced Robotics）2018 年创立于深圳，早期研发面向行走障碍人群的康复外骨骼，2023 年起切入 AI 体育硬件，核心消费级产品为视觉 AI 网球发球机器人 Tenniix，产品网站为 tenniix.ai。智通财经 11 月 23 日报道写明，公司完成超亿元人民币 B 轮，由国科投资领投，资金用于技术迭代、产能扩容、国内市场落地和海外经销与用户服务体系；此前投资方包括李泽湘旗下 XBOTPARK 基金、红杉中国、襄禾资本、达晨财智等，累计融资数亿元。销量和收入未见本轮报道披露",
+    "metrics": [
+      {
+        "label": "融资（媒体报道）",
+        "value": "智通财经 2026-11-23 报道写明：英汉思动力完成超亿元人民币 B 轮融资，由国科投资领投。同花顺、DoNews 等转载与轮次、领投方和“超亿元”量级一致。精确金额和估值未披露。报道称公司此前累计融资数亿元，该累计数字为媒体转述，未见拆分到各轮的官方明细",
+        "source_type": "媒体报道",
+        "source_url": "https://www.zhitongcaijing.com/content/detail/1527103.html"
+      }
+    ],
+    "why_it_works": "网球训练对发球落点和旋转有刚性要求，又是一块愿意为私教和陪练付费的消费场景。英汉思动力用视觉模型去做发球机器人，把康复外骨骼阶段攒下的动力和控制能力，换成一个能摆上球场、也更适合走经销渠道的硬件单品。超亿元 B 轮说明产业资本认可这条消费硬件路径，但本轮报道还没有给出销量和复购，不能把它写成已经跑通的大众消费品。",
+    "takeaway": "超亿元 B 轮和国科投资领投有智通财经及多家转载交叉，产品形态也清楚，适合收录。精确金额、估值、销量和收入都未披露，海外渠道仍是规划中的用途。下一看 Tenniix 是否公布销量和海外经销进展。",
+    "innovation_score": 3,
+    "business_score": 3,
+    "tags": [
+      "B轮",
+      "AI体育",
+      "网球机器人",
+      "消费硬件",
+      "国科投资"
+    ],
+    "website": "https://tenniix.ai/",
+    "sources": [
+      "https://www.zhitongcaijing.com/content/detail/1527103.html",
+      "https://news.10jqka.com.cn/20261123/c682112166.shtml",
+      "https://tenniix.ai/"
+    ],
+    "uncertain_points": "本轮精确金额和估值未披露。销量和收入未见披露。此前“累计融资数亿元”为媒体转述。部分二手汇编称本轮实际关账于 2026 年 10 月、11 月 23 日才对外宣布，已查阅的智通财经报道未写明关账日期。"
+  },
+  {
+    "id": "ubiligence-yuanchu-wanwu-tens-of-millions-cny-angel-e-skin",
+    "date_collected": "2026-11-24",
+    "status": "new",
+    "type": "both",
+    "name": "元触万物（Ubiligence）",
+    "one_liner": "36氪 11 月 23 日首发报道，清华系柔性电子皮肤公司元触万物近日完成数千万元人民币天使轮，投资方包括零一创投、无限基金、智平方、星连资本、松延动力和东山产投；公司称已完成超 1 万感知单元的样机并向头部机器人企业送样",
+    "category": "硬件与端侧",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "元触万物（Ubiligence）成立于 2026 年 5 月，技术源自清华大学电子工程系蒋琛副教授团队，并邀请 Arokia Nathan 担任首席技术顾问。公司做的不是单颗触觉传感器，而是把薄膜晶体管（TFT）用到柔性电子皮肤上，让皮肤在端侧完成触发判断和第一层特征提取，再把压缩后的触觉特征传给机器人主控，以降低布线、带宽和延迟压力。产品路径是先做手指触觉模组，再扩展到全掌和全身；商业模式规划为先卖硬件，再提供触觉数据和接口服务，远期做感算控一体芯片。36氪 11 月 23 日首发报道写明，公司近日完成数千万元天使轮，由零一创投、无限基金、智平方、星连资本、松延动力、东山产投参与，万甲资本任财务顾问。东山产投在投资表态中称，东山精密的灵巧手团队已与公司开展合作开发",
+    "metrics": [
+      {
+        "label": "融资（36氪首发 / 公司披露）",
+        "value": "36氪 2026-11-23 首发报道写明：元触万物近日完成数千万元人民币天使轮融资，投资方为零一创投、无限基金、智平方、星连资本、松延动力、东山产投，万甲资本担任独家财务顾问。智通财经等转载与轮次和投资方一致。精确金额和估值未披露。报道使用“近日完成”，未写明精确关账日",
+        "source_type": "媒体报道",
+        "source_url": "https://www.36kr.com/p/4081842109830016"
+      },
+      {
+        "label": "样机与送样（公司披露 / 媒体转述）",
+        "value": "36氪转述公司披露的样机指标：感知单元数量超过 1 万个，空间分辨率 0.91 毫米，力学灵敏度 1 毫牛顿，力检测范围 1 毫牛顿至 20 牛顿，响应延迟 0.3 毫秒，系统功耗 4.8 毫瓦；并完成多功能智能识别和灵巧手皮肤动态力学感知两项系统级演示。公司称已向头部机器人本体及灵巧手企业送样，下一阶段与客户定义产品形态并推进验证和量产。上述指标和送样进度均为公司自述，未见独立测评或具名客户",
+        "source_type": "媒体报道",
+        "source_url": "https://www.36kr.com/p/4081842109830016"
+      }
+    ],
+    "why_it_works": "人手不会把每一点皮肤信号都原封不动送给大脑，机器人的电子皮肤也不该把上万个触点的原始数据全部塞进主控。元触万物用显示面板已经跑通量产的 TFT 工艺，把传感的第一层计算放到皮肤端，想同时解决高密度、柔性和时延。智平方、松延动力和东山精密这些本体或部件方直接进来，说明它走的是“先给灵巧手送样、再谈量产”的产业协同，而不是只停留在论文指标。",
+    "takeaway": "数千万元天使轮和投资方名单有 36氪首发，样机指标和送样进度也写在同一篇稿里，适合作为当天的早期硬件条目。但金额不精确，样机数字是公司自述，客户尚未具名，量产还没有开始。下一看手指模组能否进入头部灵巧手的小批量验证。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": [
+      "天使轮",
+      "电子皮肤",
+      "触觉",
+      "TFT",
+      "具身智能"
+    ],
+    "website": "https://ubiligence.com",
+    "sources": [
+      "https://www.36kr.com/p/4081842109830016",
+      "https://www.zhitongcaijing.com/content/detail/1527128.html",
+      "https://ubiligence.com"
+    ],
+    "uncertain_points": "精确融资金额、估值和关账日期未披露，36氪仅写“近日完成”。样机指标和送样对象均为公司自述，未见独立测评或具名客户。量产尚未开始。个别投融资数据库将天使轮日期记为 2026 年 8 月，与 36氪“近日完成”的表述不完全一致，本次以 11 月 23 日首发报道为准并保留该差异。"
+  }
+]
