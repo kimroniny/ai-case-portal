@@ -1,0 +1,524 @@
+[
+  {
+    "id": "sierra-400m-arr-outcome-agents",
+    "date_collected": "2026-11-25",
+    "status": "update",
+    "type": "both",
+    "name": "Sierra",
+    "one_liner": "企业客服/成交 Agent 平台官方于 11 月 23 日宣布正在募集 17.5 亿美元 F 轮、估值 300 亿美元，由 Greenoaks 与 Lightspeed 领投；公司同时重申 ARR 已超过 4 亿美元，服务近半数 Fortune 50",
+    "category": "客服销售",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "Sierra 由前 Salesforce 联席 CEO Bret Taylor 与 Clay Bavor 创办，做企业级对话与成交 Agent，按业务结果收费，而不是按调用次数或 token：一次问题解决、一笔贷款发放、一张保险理赔获批或一名用户被挽留，才构成计费事件。官方 11 月 23 日博客称，公司正以 300 亿美元估值募集 17.5 亿美元 F 轮，由 Greenoaks 与 Lightspeed Venture Partners 领投，此前各轮主投资方 Benchmark、Sequoia、Greenoaks、GV 和 Tiger Global 均追加。TechCrunch 同日 6:43 AM PST 报道写明，这是一笔已完成的 F 轮融资，估值较 2026 年 5 月的 150 亿美元翻倍，间隔约六个月。博客重申，公司成立两年多 ARR 已超过 4 亿美元；该数字公司已在 10 月底官方披露，并称近五个月里从约 2 亿美元再翻一倍。客户包括 BNY、Cigna、JPMorganChase、Wells Fargo、HSBC、Santander、Singtel、Pearson 等，官方称已覆盖近半数 Fortune 50。资金将用于技术栈和销售团队扩张。",
+    "metrics": [
+      {
+        "label": "融资与估值（官方 / 媒体）",
+        "value": "Sierra 官方博客 2026-11-23 写明：We’re raising $1.75 billion at a valuation of $30 billion，由 Greenoaks 与 Lightspeed Venture Partners 领投，Benchmark、Sequoia、Greenoaks、GV、Tiger Global 追加。TechCrunch 同日报道表述为已完成的 F 轮，估值较 5 月一轮的 150 亿美元翻倍。官方用进行时 raising，媒体用 closed / has raised，交割状态以公司与领投方后续文件为准",
+        "source_type": "官方公布",
+        "source_url": "https://sierra.ai/blog/series-f-30b"
+      },
+      {
+        "label": "ARR 与客户（官方）",
+        "value": "官方博客重申 reaching over $400M in ARR in just over two and a half years。TechCrunch 写明，公司上月末称按结果收费的模式帮助其在约五个月内将 run-rate revenue 翻倍至 4 亿美元，并服务近半数 Fortune 50。该 ARR 为公司自述，未见审计报表。利润、合同结构和按结果计费的单位经济未披露",
+        "source_type": "官方公布",
+        "source_url": "https://sierra.ai/blog/series-f-30b"
+      }
+    ],
+    "why_it_works": "企业愿意为一次真正办成的事付钱，而不是为模型对话的长度付钱。Sierra 把收费和客服解决、贷款发放、理赔完成绑在一起，客户是银行、保险和电信这类最在乎合规与结果的公司。ARR 先被公司自己写到 4 亿美元以上，这轮又在六个月内把估值从 150 亿美元提到 300 亿美元，说明买家和老股东都在为“结果能规模化”下注。下一步要看的，不是能不能再讲一个增长故事，而是按结果收费能不能在更大规模上仍然赚钱。",
+    "takeaway": "这是本窗口分量最重的一条，也是对 11 月 1 日已收录条目的重大进展更新：17.5 亿美元和 300 亿美元估值可以回到官方博客和 TechCrunch，4 亿美元 ARR 仍是公司自述。官方行文是“正在募集”，媒体写成已经完成，交割细节还没有单独的结算文件。以约 75 倍于 4 亿美元 ARR 的估值计算，增长和单位经济都必须继续兑现。本条在 11 月 23 日晚间已公开，昨日窗口漏收，今日补录为 update。",
+    "innovation_score": 4,
+    "business_score": 5,
+    "tags": [
+      "F轮",
+      "300亿美元估值",
+      "17.5亿美元",
+      "4亿美元ARR",
+      "按结果收费"
+    ],
+    "website": "https://sierra.ai",
+    "sources": [
+      "https://sierra.ai/blog/series-f-30b",
+      "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/"
+    ],
+    "uncertain_points": "官方博客使用 raising，TechCrunch 等媒体表述为已完成融资，是否已交割未见单独结算文件。400 亿美元级客户举例与近半数 Fortune 50 覆盖均为公司口径。ARR 未经审计。本轮投前或投后估值口径未在官方博客中单独拆分。本条于 11 月 23 日 6:43 AM PST（北京时间 11 月 23 日 22:43）公开，属于昨日窗口漏收补录。"
+  },
+  {
+    "id": "zipher-53m-seed-series-a-agent-data-infra",
+    "date_collected": "2026-11-25",
+    "status": "new",
+    "type": "both",
+    "name": "Zipher",
+    "one_liner": "以色列数据基础设施公司 11 月 24 日宣布种子轮与 A 轮合计融资 5300 万美元并走出隐身，用 Agent 自动决定企业数据工作负载如何运行；官方称已为多家 Fortune 500 客户生产运行，Hertz 具名确认部分负载算力成本下降 25%–40%",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "Zipher Technologies 由以色列 8200 部队校友 Dan Coster（CEO）与 Yoav Gill Ben Ephraim（CTO）于 2024 年创办，总部位于纽约，在特拉维夫设有办公室。产品不是再做一个调度看板，而是让客户给出代码、SLA 和预算，由公司的 Agent 学习每条工作负载及其依赖，再决定用哪种引擎、硬件、框架乃至语法来跑，并在运行中直接执行，而不是只给建议。官方博客写明支持 AWS、Azure 和 Google Cloud，并与 Databricks Workflows、Apache Airflow、dbt、Azure Data Factory 等集成。收费模式未见公开拆分。本轮 5300 万美元覆盖种子轮与 A 轮，投资方为 TLV Partners、Maor Investments 和 Glilot Capital，天使顾问包括 Dremio 联合创始人 Tomer Shiran、Monte Carlo 联合创始人等。资金用于研发、美国企业销售团队以及欧亚和非美地区扩张。",
+    "metrics": [
+      {
+        "label": "融资（官方）",
+        "value": "Zipher 官方博客 2026-11-24 写明：out of stealth with $53 million raised across our seed and Series A from TLV Partners, Maor Investments and Glilot Capital。SiliconANGLE、Globes 报道与上述金额和投资方一致。两轮未分别披露单轮金额和估值",
+        "source_type": "官方公布",
+        "source_url": "https://zipher.ai/zipher-is-out-of-stealth-data-infrastructure-for-agents-by-agents/"
+      },
+      {
+        "label": "客户效果（官方转述 / 客户引言）",
+        "value": "官方称企业客户可见 40%–60% 的成本效率提升、SLA 达成率最高改善约 80%，相关效果通常在两周内出现，并已为多家 Fortune 500 公司在金融、出行、消费品和能源等行业生产运行。Hertz 企业数据与 BI 平台高级总监 Gaurav Rastogi 的具名引言称，视工作负载不同，算力成本下降约 25%–40%，并能在季节性高峰保持性能。上述数字均为公司或客户口述，未见独立审计",
+        "source_type": "官方公布",
+        "source_url": "https://zipher.ai/zipher-is-out-of-stealth-data-infrastructure-for-agents-by-agents/"
+      }
+    ],
+    "why_it_works": "当企业里的人甚至 Agent 都能随手拉起一条数据任务，真正变贵的就不再是写作业，而是决定它在哪跑、用什么引擎跑。Zipher 把这层决策交给 Agent，并且按客户自己设的 SLA 和预算去执行，而不是再给数据团队一份优化建议。Hertz 愿意具名讲出 25%–40% 的算力节省，说明它已经进了真实生产，而不只是演示。",
+    "takeaway": "5300 万美元和投资方可以回到官方博客，Hertz 的引言也对得上。但 40%–60% 的整体效率、80% 的 SLA 改善都是公司口径，种子轮与 A 轮没有拆开，估值也未公布。这是一条“Agent 开始管理数据基础设施”的应用案例，下一看它能否给出客户数量、留存或可核对的年度经常收入。",
+    "innovation_score": 4,
+    "business_score": 4,
+    "tags": [
+      "5300万美元",
+      "数据基础设施",
+      "Agent",
+      "Fortune 500",
+      "走出隐身"
+    ],
+    "website": "https://zipher.ai",
+    "sources": [
+      "https://zipher.ai/zipher-is-out-of-stealth-data-infrastructure-for-agents-by-agents/",
+      "https://siliconangle.com/2026/11/24/zipher-lands-53m-to-put-ai-agents-not-data-engineers-in-charge-of-data-workloads/",
+      "https://en.globes.co.il/en/article-ai-agents-data-infrastructure-co-zipher-raises-53m-1001564675"
+    ],
+    "uncertain_points": "种子轮与 A 轮各自金额、估值均未披露。40%–60% 成本效率、SLA 改善 80% 和“两周见效”为公司口径；Hertz 的 25%–40% 为客户具名引言，统计口径和样本范围未公布。Fortune 500 客户数量和收入未披露。"
+  },
+  {
+    "id": "china-electronics-cloud-990m-cny-series-b-private-ai-cloud",
+    "date_collected": "2026-11-25",
+    "status": "new",
+    "type": "profitable",
+    "name": "中国电子云",
+    "one_liner": "中国电子旗下专属 AI 云公司于 11 月 24 日被报道完成 9.9 亿元 B 轮融资，由国家产业投资基金二期领投，湖北与武汉三级基金及沐曦等参与，中国电子系继续增资",
+    "category": "企业服务",
+    "region": "中国",
+    "team_type": "大公司",
+    "business_model": "中国电子云是中国电子旗下核心企业，运营主体为中电云计算技术有限公司，上市公司深桑达（000032.SZ）为其控股股东之一。公司 2020 年发布品牌，产品主线是 CECSTACK 专属 AI 云，覆盖通用计算、智能计算、超算和边缘计算的统一调度，并推出“新星”全链路 AI 解决方案，面向政务、央国企和科研等强调安全合规、自主可控的场景。大河财立方 11 月 24 日 20:25 报道称，公司宣布近日完成 9.9 亿元 B 轮融资，由国家产业投资基金二期领投，湖北省军融创投、武创投、经开区产投等省市区基金以及 GPU 厂商沐曦的产业投资方联合投资；中国电子在 A 轮增资 8 亿元的基础上，通过桑达股份、中电金投和中电智慧基金继续增资。媒体转述的深桑达公告还给出了增资拆分和估值，但本运行时点未完整核对到交易所公告原文。收入和利润未在上述报道中披露。",
+    "metrics": [
+      {
+        "label": "融资（媒体转述公司宣布）",
+        "value": "大河财立方 2026-11-24 报道：中国电子云宣布近日完成 9.9 亿元 B 轮融资，国家产业投资基金二期领投，湖北省军融创投、武创投、经开区产投等以及沐曦方面产业投资方联合投资，中国电子系继续增资。凤凰网大风号等转载与上述总金额和领投表述一致",
+        "source_type": "媒体报道",
+        "source_url": "https://app.dahecube.com/nweb/news/20261124/293847n07693e8539c.htm"
+      },
+      {
+        "label": "估值与增资拆分（媒体转述上市公司公告，待核对原文）",
+        "value": "新浪转载《云头条》稿称：深桑达公告，中电云计算技术有限公司与 8 名增资方签署协议，合计增资 9.9 亿元，投前估值 62.5 亿元、投后 72.4 亿元；其中国家产业投资基金二期出资 4 亿元，为最大增资方，武汉经开投资 1.67 亿元，深桑达、中电金投、中电海河智慧二期基金各 1 亿元，沐曦数智 4300 万元，军融发展创业投资基金与武汉武创兴汉各 4000 万元，并称 6 名外部战略投资人合计 7.9 亿元。上述拆分和估值来自媒体对公告的转述，本运行未完整打开交易所公告原文，数字以公告为准",
+        "source_type": "媒体报道",
+        "source_url": "https://finance.sina.com.cn/wm/2026-11-24/doc-inizwfrc4657381.shtml"
+      }
+    ],
+    "why_it_works": "中国电子云做的不是面向公有云开发者的通用模型调用，而是给政务和央国企提供可统一调度的专属 AI 云。买家在意的是安全合规和自主可控，国家产投基金和地方政府基金愿意按这一逻辑出资，产业方沐曦也按 GPU 协同进来。9.9 亿元把这条已经有上市公司股东的业务，又往专属 AI 云的方向推了一层。",
+    "takeaway": "9.9 亿元和领投方可以回到 11 月 24 日的媒体报道。投前 62.5 亿元、投后 72.4 亿元以及 7.9 亿元外部出资，目前只见于媒体对深桑达公告的转述，应以交易所公告原文为准。收入、利润和专属 AI 云的合同规模均未披露。下一看公告原文能否对上，以及 CECSTACK 是否给出可核对的落地规模。",
+    "innovation_score": 3,
+    "business_score": 4,
+    "tags": [
+      "9.9亿元B轮",
+      "专属AI云",
+      "国家产投基金",
+      "中国电子",
+      "深桑达"
+    ],
+    "website": "https://www.cecloud.com/",
+    "sources": [
+      "https://app.dahecube.com/nweb/news/20261124/293847n07693e8539c.htm",
+      "https://finance.sina.com.cn/wm/2026-11-24/doc-inizwfrc4657381.shtml",
+      "https://www.cecloud.com/"
+    ],
+    "uncertain_points": "公司宣布口径是“近日完成”，部分媒体称深桑达公告日期为 11 月 25 日，公告原文在本运行中未完整核对。投前 62.5 亿元、投后 72.4 亿元及分项出资金额仅见于媒体转述。媒体所称外部投资人合计 7.9 亿元与 9.9 亿元总增资的构成，需对照公告名单。收入和利润未披露。"
+  },
+  {
+    "id": "supertake-20m-seed-agentic-investing",
+    "date_collected": "2026-11-25",
+    "status": "new",
+    "type": "innovative",
+    "name": "Supertake",
+    "one_liner": "把自然语言观点自动变成可投资组合的 AI 投资产品于 11 月 23 日下午宣布完成 2000 万美元种子轮，由 Adjacent 领投，Coinbase Ventures、USV 及 Nat Friedman 等参与；产品仍在邀请制内测，已对接 Coinbase 与 Robinhood",
+    "category": "法律金融",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "Supertake 由 USV 普通合伙人、Anchor 联合创始人 Michael Mignano 在 USV 内部孵化，Mignano 任创始人兼执行董事长；原 Coinbase AI 产品负责人 Lincoln Murr 任 CEO，原 Coinbase AI 工程负责人 John Peterson 任 CTO。用户用自然语言描述自己对世界变化的判断，例如某种消费趋势或产业瓶颈，产品与用户多轮确认后生成可投资的“take”，并在站内排行榜上展示，其他人可以跟投。目前组合以股票配置为主，未来计划扩展到做空、衍生品、永续合约和预测市场，但公司强调自己不是预测市场。TechCrunch 2026-11-23 2:02 PM PST（北京时间 11 月 24 日 6:02）报道，公司完成 2000 万美元种子轮，Adjacent（Nico Wittenborn）领投，Coinbase Ventures 与 Union Square Ventures 参与，天使包括 Nat Friedman、Vercel CEO Guillermo Rauch、Nikita Bier、Scott Belsky 以及前 Coinbase 高管、现 YC visiting partner Nemil Dalal。产品已对接 Coinbase 与 Robinhood，仍在 waitlist 内测。官方称 Agent 不能在用户明确同意前存取资金，并设有漂移限制、白名单/黑名单、交易规模限制，且 Agent 看不到券商凭证。收费模式未见公开。",
+    "metrics": [
+      {
+        "label": "融资（媒体报道）",
+        "value": "TechCrunch 2026-11-23 报道：Supertake raised $20 million in seed funding，Adjacent 领投，Coinbase Ventures 与 USV 参与，另有 Nat Friedman、Guillermo Rauch、Nikita Bier、Scott Belsky、Nemil Dalal 等天使。Runtime Wire 等报道与金额、领投方一致。估值未披露",
+        "source_type": "媒体报道",
+        "source_url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/"
+      },
+      {
+        "label": "产品状态（媒体报道）",
+        "value": "TechCrunch 写明产品仍在 waitlist 内测，已对接 Coinbase 与 Robinhood，并计划接入更多券商。官网自称 Invite only。用户数、管理资产规模和收入均未披露",
+        "source_type": "媒体报道",
+        "source_url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/"
+      }
+    ],
+    "why_it_works": "很多人有观点，却不会自己把观点拆成一篮子股票。Supertake 把这一步交给 Agent，再让观点在排行榜上被跟投，等于把“看法”做成了一种可交易的产品。它先接上 Coinbase 和 Robinhood，又把存取资金和凭证隔离开，是在降低用户把真金白银交给 Agent 的心理门槛。现在还在邀请制，商业化刚开始。",
+    "takeaway": "2000 万美元种子轮有 TechCrunch 等交叉报道，产品形态清楚，也已经接到真实券商账户。但估值、用户、管理规模和收入都还没有，产品仍在内测。这是一条创新权重更高的案例：先看它能否从 waitlist 走到可核对的资产规模，而不是把种子轮直接当成已经跑通的财富管理业务。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": [
+      "2000万美元种子轮",
+      "Agent投资",
+      "Coinbase",
+      "Robinhood",
+      "邀请制"
+    ],
+    "website": "https://supertake.com",
+    "sources": [
+      "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "https://runtimewire.com/article/supertake-raises-20m-seed-and-hires-coinbase-s-ai-duo-to-run-it",
+      "https://supertake.com"
+    ],
+    "uncertain_points": "估值未披露。用户数、管理资产和收入均未公布，产品仍为邀请制内测。收费模式未见公开。公司否认自己是预测市场，但报道提到未来可能覆盖短线策略和预测市场合作，实际业务边界仍待观察。"
+  },
+  {
+    "id": "aidenai-32m-series-a-enterprise-ai-builder",
+    "date_collected": "2026-11-25",
+    "status": "new",
+    "type": "profitable",
+    "name": "AidenAI",
+    "one_liner": "企业 AI 搭建平台 AidenAI 于 11 月 24 日通过官方新闻稿宣布完成 A91 Partners 领投的 3200 万美元 A 轮，公司称已在六国服务逾 30 家大型企业客户，计划将一线 AI 工程团队扩至 1000 人以上",
+    "category": "企业服务",
+    "region": "全球",
+    "team_type": "初创公司",
+    "business_model": "AidenAI 总部位于美国新泽西州普林斯顿，在印度海得拉巴有重要布局，业务覆盖六国，创始人兼 CEO 为 Srinivas Kamadi。公司自称 AI Builder Company：AI Builder Platform 位于模型之上，接入企业现有系统和模型，提供知识、Agent 构件、治理和效果追踪；另有面向遗留系统现代化的 AiDAP 平台，并由一线工程师与客户一起在平台上交付。官方页面写明公司服务保险、金融服务、医疗等行业超过 30 家大型企业客户。PR Newswire 2026-11-24 8:30 ET 新闻稿称，公司获得 A91 Partners 领投的 3200 万美元 A 轮，资金用于加速平台和行业 Agent 方案、通过普林斯顿与海得拉巴的 Builder Academy 将团队扩至 1000 人以上，以及全球扩张。BDA Partners 担任本轮独家财务顾问。估值、收入和具体客户名单未披露。官方更新页标注日期为 22 Nov 2026，公开新闻稿为 11 月 24 日。",
+    "metrics": [
+      {
+        "label": "融资（官方）",
+        "value": "AidenAI 官方更新页与 2026-11-24 PR Newswire 新闻稿写明：a $32 million Series A investment led by A91 Partners。Economic Times、NJBIZ 等报道与金额、领投方一致。估值未披露",
+        "source_type": "官方公布",
+        "source_url": "https://www.prnewswire.com/news-releases/aidenai-raises-32m-series-a-from-a91-partners-to-build-and-deploy-ai-at-enterprise-scale-302949458.html"
+      },
+      {
+        "label": "客户与布局（官方）",
+        "value": "官方称 Founded in 2023，operates across six countries and serves over 30 enterprise clients across insurance, financial services, healthcare and other industries。A91 Partners 合伙人 Kaushik Anand 的官方引言称，公司过去三年帮助 30 余家大型企业把 AI 做成可衡量的业务结果。收入、合同金额和客户名单未披露",
+        "source_type": "官方公布",
+        "source_url": "https://aidenai.com/updates/series-a-investment/"
+      }
+    ],
+    "why_it_works": "很多大企业并不缺模型，缺的是能在现有系统和合规框架里把 Agent 做成可上线、可治理的交付能力。AidenAI 把平台和一支可扩张的工程团队绑在一起卖，走的是“AI 系统集成商升级版”路线。3200 万美元和 30 多家企业客户说明这条路已经能被增长型基金看懂，但还需要收入和标杆项目来证明它不是传统外包换了一层 Agent 外壳。",
+    "takeaway": "3200 万美元和逾 30 家企业客户都可以回到官方新闻稿。估值、收入和客户名单都没有。官方页面日期是 11 月 22 日，新闻稿是 11 月 24 日，公开节奏略有错位。这是一条企业服务型盈利案例，商业信号够用，创新更多在交付组织而不是产品形态。",
+    "innovation_score": 3,
+    "business_score": 4,
+    "tags": [
+      "3200万美元A轮",
+      "企业Agent平台",
+      "A91 Partners",
+      "30家企业客户"
+    ],
+    "website": "https://aidenai.com",
+    "sources": [
+      "https://www.prnewswire.com/news-releases/aidenai-raises-32m-series-a-from-a91-partners-to-build-and-deploy-ai-at-enterprise-scale-302949458.html",
+      "https://aidenai.com/updates/series-a-investment/",
+      "https://economictimes.indiatimes.com/tech/startups/ex-infosys-veterans-enterprise-ai-startup-aiden-raises-32-million-from-a91-partners/articleshow/136110343.cms"
+    ],
+    "uncertain_points": "估值、收入和具体客户名单未披露。官方更新页标注 22 Nov 2026，PR Newswire 为 11 月 24 日 8:30 ET，NJBIZ 报道日期为 11 月 23 日，公开宣布时点不完全一致。1000 人团队为规划目标，不是当前人数。"
+  },
+  {
+    "id": "oymotion-aoyi-hundreds-of-millions-cny-series-d-dexterous-hands",
+    "date_collected": "2026-11-25",
+    "status": "new",
+    "type": "both",
+    "name": "傲意科技（OYMotion）",
+    "one_liner": "脑机接口与灵巧手公司傲意科技于 11 月 23 日宣布完成数亿元 D 轮，由中兵顺景、长江资本、光谷产投等联合投资；36氪转述公司称过去四五年收入保持翻倍、服务全球近 200 家具身企业，并已建万台级年产能",
+    "category": "硬件与端侧",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "上海傲意信息科技有限公司成立于 2015 年，总部位于上海张江，品牌为 OYMotion，产品覆盖非侵入式脑机接口、仿生手、神经康复，以及面向机器人的多指夹爪和灵巧手。36氪 11 月 23 日 12:17 首发报道，公司宣布完成数亿元 D 轮，由中兵顺景、长江资本、光谷产投等联合投资，这是年内第二轮融资；同年 3 月曾完成中金脑科学基金领投的 1.5 亿元 C 轮。公司已形成五大系列、二十余款 SKU，服务精密装配、柔性分拣、服务机器人和研究机构等场景；灵巧手按负载、速度、触觉分成 AP001、AP002、AP003 等梯度，并推出将肌电腕带与双目相机结合的 EMG-EGO 具身数据采集系统。报道转述，公司在珠海有自建工厂，具备万台级年产能，核心部件 100% 自研自产，产品与服务进入 100 多个国家和地区。董事、副总裁张琦称过去四五年收入保持翻倍，并透露公司正在推进上市前准备。本轮精确金额、估值和收入绝对值未披露。",
+    "metrics": [
+      {
+        "label": "融资（媒体报道）",
+        "value": "36氪 2026-11-23 首发：傲意科技宣布完成数亿元 D 轮融资，中兵顺景、长江资本、光谷产投等联合投资；年内此前已完成 1.5 亿元 C 轮。新浪财经、观点网等转载与领投/联合投资表述和“数亿元”量级一致。本轮精确金额和估值未披露",
+        "source_type": "媒体报道",
+        "source_url": "https://www.36kr.com/p/4077898242380676"
+      },
+      {
+        "label": "经营与产能（媒体转述公司口径）",
+        "value": "36氪转述：服务全球近 200 家具身智能企业，五大系列二十余款 SKU；珠海自建工厂具备万台级年产能，核心部件 100% 自研自产，产品与服务进入 100 多个国家和地区。副总裁张琦称“过去四五年，公司收入一直保持翻倍增长”，并称公司正推进上市前准备。报道亦写到，在近 200 家客户里大约只有一成真正进入实际场景并贡献规模收入（见同期行业综述对傲意的转述，需与公司口径区分）。收入绝对值和利润未披露",
+        "source_type": "媒体报道",
+        "source_url": "https://www.36kr.com/p/4077898242380676"
+      }
+    ],
+    "why_it_works": "灵巧手是机器人真正接触物理世界的那一层，磨损快、需求面比整机更宽。傲意没有先做人形整机，而是把脑机和肌电上积累的信号能力，做成可以卖给近 200 家下游的标准末端和数据采集产品，并用自建工厂把产能铺到万台级。收入连续翻倍如果属实，说明这条“先卖手和数据”的路比许多还在演示的整机公司更早碰到现金流。",
+    "takeaway": "数亿元 D 轮、1.5 亿元 C 轮和近 200 家客户可以回到 36氪首发报道，这是昨日窗口漏收的中国侧重要补录。但本轮精确金额和估值没有，翻倍增长是管理层口述，收入绝对值未公布。近 200 家客户里有多少已贡献规模收入，不同报道的表述需要留着看。下一看它能否披露收入或进入正式上市辅导。",
+    "innovation_score": 4,
+    "business_score": 4,
+    "tags": [
+      "数亿元D轮",
+      "灵巧手",
+      "脑机接口",
+      "具身数据",
+      "上市筹备"
+    ],
+    "website": "https://www.oymotion.com/",
+    "sources": [
+      "https://www.36kr.com/p/4077898242380676",
+      "https://finance.sina.com.cn/jjxw/2026-11-23/doc-iniztrzw2242419.shtml",
+      "https://www.oymotion.com/"
+    ],
+    "uncertain_points": "本轮精确金额和估值未披露。收入翻倍为副总裁口述，无绝对值、无审计。近 200 家客户、万台级产能、100 多个国家和地区均为公司或报道转述。36氪主文未写“仅一成客户贡献规模收入”，该细节见于后续行业综述，不能当成主报道已核实的数字。本条为 11 月 23 日中午公开、昨日窗口漏收的补录。"
+  },
+  {
+    "id": "xpeng-worldgpt-cross-embodiment-world-action-model",
+    "date_collected": "2026-11-25",
+    "status": "new",
+    "type": "innovative",
+    "name": "小鹏 WorldGPT",
+    "one_liner": "小鹏汽车 11 月 24 日官方发布世界动作模型 WorldGPT，称其为首个能在汽车、船艇、无人机、单臂/双臂及人形机器人等六类本体上完成预测与行动规划的世界模型，并用作云端教师模型向端侧蒸馏",
+    "category": "硬件与端侧",
+    "region": "中国",
+    "team_type": "大公司",
+    "business_model": "WorldGPT 属于小鹏图灵世界模型家族，定位为“世界动作模型”：输入约历史摄像头画面和指令，可预测未来视频、规划动作、完成视觉任务并用自然语言解释推理。官方 11 月 24 日新闻稿称，它把汽车、船艇、无人机、单臂机器人、双臂机器人和人形机器人六类本体的学习放在同一个云端教师模型里，再蒸馏到各本体的端侧小模型，而不是为每一种机器单独从零训练。小鹏称，这是首个在上述六类本体上同时展示预测与行动规划能力的世界模型。技术细节和演示发布在项目页 worldgpt-1.github.io。该发布本身是模型与能力公告，未见单独的产品定价或外部授权收入；商业化路径是服务于小鹏的智能汽车、人形机器人和飞行器等自有硬件，并降低新本体的开发边际成本。",
+    "metrics": [
+      {
+        "label": "产品发布（官方）",
+        "value": "小鹏官方新闻稿 2026-11-24：UNVEILS WORLDGPT，a single AI model that learns across cars, boats, drones, robotic arms and humanoid robots，并写明 it is the first world model to demonstrate prediction and action-planning capabilities across all six types of machines。新浪财经、同花顺等 11 月 24 日报道与上述官方表述一致",
+        "source_type": "官方公布",
+        "source_url": "https://www.xpeng.com/news/01a20bcf44b3a1e838d68a02a2110153"
+      },
+      {
+        "label": "评测成绩（官方，截至 11 月 12 日）",
+        "value": "官方称截至 2026-11-12，WorldGPT 在自动驾驶、机器人操作、视觉理解和视频生成四类公开基准上取得 12 项第一，其中包括 NAVSIM v2，以及 50 项单臂操作任务平均成功率 95.2%。完整榜单指向项目页。这些成绩为公司公布的公开基准结果，不代表已在量产车或机器人上规模部署",
+        "source_type": "官方公布",
+        "source_url": "https://www.xpeng.com/news/01a20bcf44b3a1e838d68a02a2110153"
+      }
+    ],
+    "why_it_works": "车、机器人和飞行器面对的物理世界有大量共通之处，却通常被拆成互不相通的模型。WorldGPT 把跨本体的视觉和动作学习做成一个教师模型，再往端侧蒸馏，逻辑是让“理解世界”这件事只做一次。对小鹏这种同时做车、机器人和其他移动机器的公司，这比再训练一个单点模型更像一套可复用的物理 AI 底座。",
+    "takeaway": "这是一条创新案例，不是融资或收入公告。官方明确写了六类本体和“首个”表述，评测数字也可以回到新闻稿，但 12 项第一是公司汇总的基准成绩，不等于已经在量产车上线。下一看它会不会进入小鹏的车端或机器人产品，以及是否向外部提供接口或授权。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": [
+      "世界模型",
+      "跨本体",
+      "物理AI",
+      "小鹏",
+      "教师模型"
+    ],
+    "website": "https://www.xpeng.com/news/01a20bcf44b3a1e838d68a02a2110153",
+    "sources": [
+      "https://www.xpeng.com/news/01a20bcf44b3a1e838d68a02a2110153",
+      "https://worldgpt-1.github.io/",
+      "https://finance.sina.com.cn/jjxw/2026-11-24/doc-inizvzia8887219.shtml"
+    ],
+    "uncertain_points": "“首个六类本体预测与行动规划世界模型”为公司自称，未见独立复核。“12 项第一”和 95.2% 成功率为官方汇总的公开基准成绩，评测协议与对比模型以项目页为准，不代表量产部署。WorldGPT 是否已进入小鹏量产车或对外授权，新闻稿未写明。无单独收入数据。"
+  },
+  {
+    "id": "avicena-100m-series-c-microled-optical-interconnects",
+    "date_collected": "2026-11-25",
+    "status": "new",
+    "type": "profitable",
+    "name": "Avicena",
+    "one_liner": "微 LED 光互连公司 Avicena 于 11 月 24 日官方宣布完成超过 1 亿美元 C 轮，用于将其 LightBundle 平台推向 AI 基础设施商用；公司称 1 Tbps 评估套件已出货，首款产品计划明年上市",
+    "category": "硬件与端侧",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "Avicena 总部位于美国加州 Sunnyvale，做基于微 LED、不使用激光的光互连，核心产品平台为 LightBundle，面向 AI 集群中加速器、内存和交换机之间的高带宽、低能耗、低时延连接。官方 2026-11-24 新闻稿称，公司完成超过 1 亿美元 C 轮，投资方包括新老股东 InterVest、Tiger Global、Cerberus Capital Management、SK hynix Ventures、Samsung Catalyst Fund、AMD Ventures、Prosperity7 Ventures、Diamond Edge Ventures（三菱化学）和 Hitachi Ventures 等，新闻稿未单列领投方。融资同时宣布 Kevin Pope 接替 Marco Chisari 出任 CEO，InterVest 的 John Dongwoo Ha 加入董事会。公司称本轮建立在 1 Tbps LightBundle 评估套件出货以及面向 AI scale-in/scale-up 的可插拔链路开发之上，新 CEO 称资金将用于扩团队、加速产品开发和工程能力，并在明年把首款产品推向市场。收入规模未披露。",
+    "metrics": [
+      {
+        "label": "融资（官方）",
+        "value": "Avicena 官方 2026-11-24：raised over $100 million in Series C funding，投资方包括 InterVest、Tiger Global、Cerberus、SK hynix Ventures、Samsung Catalyst Fund、AMD Ventures、Prosperity7、Diamond Edge Ventures、Hitachi Ventures 等。新闻稿写的是 over $100 million，精确金额和估值、领投方均未单列。BusinessWire 同步稿与官方一致",
+        "source_type": "官方公布",
+        "source_url": "https://avicena.tech/avicena-raises-100-million-series-c-to-accelerate-commercialization-of-microled-optical-interconnects-for-ai-infrastructure/"
+      },
+      {
+        "label": "产品进度（官方）",
+        "value": "官方称本轮建立在 1 Tbps LightBundle evaluation-kit shipments 以及 connectorized-link 开发之上；新任 CEO 表示将 bring our first product to market next year。评估套件出货量和收入未披露",
+        "source_type": "官方公布",
+        "source_url": "https://avicena.tech/avicena-raises-100-million-series-c-to-accelerate-commercialization-of-microled-optical-interconnects-for-ai-infrastructure/"
+      }
+    ],
+    "why_it_works": "AI 集群里，芯片算得再快，数据搬不出去就会成为下一道墙。Avicena 不用传统激光，而用微 LED 做光互连，想在带宽、能耗、时延和可靠性上同时站住。评估套件已经出货，说明它跨过了纯实验室阶段；超过 1 亿美元的 C 轮，是为了把评估套件变成明年可以交货的产品。",
+    "takeaway": "超过 1 亿美元和投资方名单可以回到官方新闻稿，这是窗口内最明确的海外光互连融资。但精确金额、估值和领投方都没有写，评估套件出货量和收入也未公布，首款产品要到明年。它更靠近 AI 基础设施，而不是面向终端用户的应用，收录的是算力互连这一层的商业化进展。",
+    "innovation_score": 4,
+    "business_score": 4,
+    "tags": [
+      "超1亿美元C轮",
+      "微LED",
+      "光互连",
+      "AI基础设施",
+      "评估套件已出货"
+    ],
+    "website": "https://avicena.tech",
+    "sources": [
+      "https://avicena.tech/avicena-raises-100-million-series-c-to-accelerate-commercialization-of-microled-optical-interconnects-for-ai-infrastructure/",
+      "https://www.businesswire.com/news/home/20261124576977/en/Avicena-Raises-%24100-Million-Series-C-to-Accelerate-Commercialization-of-microLED-Optical-Interconnects-for-AI-Infrastructure"
+    ],
+    "uncertain_points": "官方写的是 over $100 million，精确金额、估值和领投方未披露。1 Tbps 评估套件的出货数量、客户名单和收入未公布。首款产品“明年上市”为新任 CEO 前瞻表述。"
+  },
+  {
+    "id": "qiming-photonics-over-100m-cny-pre-a-optical-comb-cpo",
+    "date_collected": "2026-11-25",
+    "status": "new",
+    "type": "profitable",
+    "name": "启明光子",
+    "one_liner": "北京大学技术背景的芯片化光频梳公司启明光子于 11 月 24 日被报道完成超亿元 Pre-A 轮，由国新基金与华控基金联合领投，资金用于 CPO/OIO 研发、光源测试和产能爬坡",
+    "category": "硬件与端侧",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "启明光子（北京）科技有限公司依托北京大学先进集成光子芯片实验室的技术积累，做芯片化 Kerr 光频梳多波长光源及面向 CPO（共封装光学）和 OIO（光 I/O）的光互连方案，服务人工智能数据中心的高带宽、低功耗互连需求。投资界 2026-11-24 16:36 报道，公司完成超亿元 Pre-A 轮，由国新基金、华控基金联合领投，同歌创投、华盖资本、一村资本、国中资本跟投，老股东追加。资金主要用于下一代 CPO/OIO 核心技术研发，推进光频梳多波长光源的内外部测试与产能爬坡，并与头部晶圆厂、GPU 厂商和数据中心客户联合验证、导入产品。报道称，由产业方支持的量产厂房和高标准洁净间已交付，核心元器件规模化产线完成调试；产品节奏是现阶段做核心光源器件的产品化与客户验证，中期向 CPO 延伸，长期布局 OIO 芯片级方案。精确金额、估值和收入未披露。",
+    "metrics": [
+      {
+        "label": "融资（媒体报道）",
+        "value": "投资界 2026-11-24：启明光子完成超亿元 Pre-A 轮，国新基金、华控基金联合领投，同歌创投、华盖资本、一村资本、国中资本跟投，老股东追加。新浪财经等转载与投资方名单和“超亿元”量级一致。精确金额和估值未披露",
+        "source_type": "媒体报道",
+        "source_url": "https://news.pedaily.cn/202611/572327.shtml"
+      },
+      {
+        "label": "产业化进度（媒体报道）",
+        "value": "投资界称，产业方支持的量产厂房及高标准洁净间已交付，核心元器件规模化产线完成调试，公司正从实验室样品走向批量交付，并与晶圆厂、GPU 厂商和数据中心客户推进联合验证。订单、收入和客户名称未披露",
+        "source_type": "媒体报道",
+        "source_url": "https://news.pedaily.cn/202611/572327.shtml"
+      }
+    ],
+    "why_it_works": "和当日海外的 Avicena 类似，启明光子也卡在 AI 数据中心的短距光互连上，只是技术路径是光频梳多波长光源，并更靠近国产 CPO/OIO 供应链。超亿元 Pre-A 和国新、华控的出手，买的是光源器件能否从中试走到可导入 GPU 和数据中心的产能，而不是已经放量的收入。",
+    "takeaway": "超亿元和投资方名单有投资界与其他转载交叉，产业化表述是“产线调试完成、进入客户验证”，还不是规模出货。精确金额、估值、订单和收入都没有。它和 Avicena 同日出现，说明光互连正在成为算力投资的一条单独赛道，但两条都还需看导入节奏。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": [
+      "超亿元Pre-A",
+      "光频梳",
+      "CPO",
+      "OIO",
+      "算力互连"
+    ],
+    "website": "https://news.pedaily.cn/202611/572327.shtml",
+    "sources": [
+      "https://news.pedaily.cn/202611/572327.shtml",
+      "https://finance.sina.com.cn/jjxw/2026-11-24/doc-inizvqtm4829775.shtml"
+    ],
+    "uncertain_points": "精确融资金额和估值未披露。厂房交付、产线调试和客户联合验证均为媒体转述，未见具名客户或订单金额。公司官网在本运行中未能稳定访问，官网字段暂用报道页代替。"
+  },
+  {
+    "id": "niro-intelligence-1-65m-eur-code-ground-truth-agents",
+    "date_collected": "2026-11-25",
+    "status": "new",
+    "type": "innovative",
+    "name": "Niro Intelligence",
+    "one_liner": "伦敦公司 Niro 于 11 月 24 日宣布获得 Voima Ventures 与 Maki.vc 联合领投的 165 万欧元融资，为一个给工程师和编程 Agent 共用的、持续更新的代码行为地图；本地 CLI/MCP 已提供免费计划",
+    "category": "编程开发",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "Niro Intelligence 总部位于伦敦，由曾经共同创办搜索公司 Klevu 并完成退出的 Nilay Oza（CEO）与 Niraj Aswani 创立，产品是一份持续更新的“代码真正在做什么”的地图，供工程师和 AI 编程 Agent 在改动时对照，而不是每次让 Agent 重新检索整个代码库。投资方 Voima Ventures 2026-11-24 官方博文称，本轮 165 万欧元由 Voima Ventures 与 Maki.vc 联合领投，天使包括 Heikki Nousiainen、Santeri Kangas、Elias Aalto 等人。产品分三步：已上线的 Niro Local（CLI 和 MCP，含免费计划），随后是团队用的 PR 审查，再往后把代码图连接到提交、日志和生产遥测，以便把故障追溯到具体改动。公司自称的基准测试称，同一模型配合 Niro 运行成本降低 67%，工具调用减少五倍。收费模式除免费计划外未见完整公布，收入未披露。",
+    "metrics": [
+      {
+        "label": "融资（投资方官方）",
+        "value": "Voima Ventures 官方 2026-11-24：London-based Niro Intelligence has raised €1.65M，由 Voima Ventures 与 Maki.vc 联合领投，并列出多名天使。Tech Funding News、Dealroom 等报道与金额和领投方一致。估值未披露",
+        "source_type": "官方公布",
+        "source_url": "https://voimaventures.com/voima-ventures-co-leads-e1-65m-round-in-niro-intelligence-to-bring-ground-truth-to-ai-coding-agents/"
+      },
+      {
+        "label": "产品与自有评测（投资方转述公司口径）",
+        "value": "Voima 文中写明 Niro Local（CLI 与 MCP，含免费计划）现已上线；公司自有基准称同一 AI 模型配合 Niro 运行成本降低 67%、工具调用减少五倍。该评测为公司口径，客户数量和收入未披露",
+        "source_type": "官方公布",
+        "source_url": "https://voimaventures.com/voima-ventures-co-leads-e1-65m-round-in-niro-intelligence-to-bring-ground-truth-to-ai-coding-agents/"
+      }
+    ],
+    "why_it_works": "编程 Agent 已经写得比人读得快，成本有相当一部分花在反复把代码库检索成上下文。Niro 想先做一张双方都能查的“地面真值”地图，让 Agent 少做无用的工具调用。免费 CLI/MCP 说明它先用开发者入口铺开，而不是一上来只卖企业套餐。",
+    "takeaway": "165 万欧元和领投方可以回到投资方官方博文，产品也已经能下载。但金额明显小于窗口内其他融资，67% 成本下降是公司自有基准，还没有公开的付费客户或收入。它适合作为编程 Agent 基础设施的创新观察，不能当成已经规模化的商业验证。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": [
+      "165万欧元",
+      "编程Agent",
+      "代码地图",
+      "MCP",
+      "免费计划"
+    ],
+    "website": "https://niro.ai",
+    "sources": [
+      "https://voimaventures.com/voima-ventures-co-leads-e1-65m-round-in-niro-intelligence-to-bring-ground-truth-to-ai-coding-agents/",
+      "https://techfundingnews.com/niro-intelligence-raises-1-65m-ai-coding-agents-ground-truth/"
+    ],
+    "uncertain_points": "估值未披露。67% 成本下降和工具调用减少五倍为公司自有基准，评测集和对比条件未在投资方博文中完整给出。付费客户和收入未披露。免费计划之外的定价未见公开。"
+  },
+  {
+    "id": "coprod-6m-pre-seed-modular-robot-hardware",
+    "date_collected": "2026-11-25",
+    "status": "new",
+    "type": "innovative",
+    "name": "coprod",
+    "one_liner": "瑞士模块化机器人硬件公司 coprod 于 11 月 23 日宣布完成 600 万美元 pre-seed，由 Founderful 与 PROTOTYPE 领投，General Catalyst 等参与；公司称希望把定制机器人迭代成本降到 5000–25000 美元、周期从数年缩到数月",
+    "category": "硬件与端侧",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "coprod 由洛桑联邦理工学院（EPFL）毕业生于 2024 年底在瑞士创办，CEO 为 Loïc Delineau，产品是一套相互兼容的机器人硬件模块（co:products，包括电源、电池、传感、运动等）加上统一的实时控制 API 与配置工具，目标是减少跨供应商零部件的集成工作。PR Newswire 与 Tech.eu 于 2026-11-23 报道，公司完成 600 万美元 pre-seed，由 Founderful 与 PROTOTYPE 领投，参投包括 General Catalyst、Pace Ventures、Tiny Supercomputer Investment Company、Kima Ventures、SDAC、Unruly Capital 和 Venturekick，天使包括 Hugging Face 创始人 Thomas Wolf、达索家族和 Florent Perrichon。公司自称这一方法有望把开发周期从两到三年缩短到数月，单次设计迭代成本约 5000 至 25000 美元。组件已被用于瑞士多个项目，包括 ETH Robotics Club 学生团队的人形机器人。公司计划到 2027 年底让完整组件系列达到可商用、可认证和可包装，大规模生产更晚。收入未披露。",
+    "metrics": [
+      {
+        "label": "融资（官方新闻稿 / 媒体）",
+        "value": "PR Newswire 与 Tech.eu 2026-11-23：coprod has raised $6 million in a pre-seed funding round led by Founderful and PROTOTYPE，参投包括 General Catalyst、Pace Ventures、Kima Ventures 等及 Thomas Wolf 等天使。Finsmes 等转载一致。估值未披露",
+        "source_type": "官方公布",
+        "source_url": "https://www.prnewswire.com/news-releases/coprod-raises-6m-to-make-robot-hardware-as-easy-to-build-as-software-302947694.html"
+      },
+      {
+        "label": "产品进度（公司口径）",
+        "value": "Tech.eu 转述公司称，开发周期有望从两到三年缩短到数月，单次迭代成本约 5000–25000 美元；组件已用于 ETH Robotics Club 等瑞士项目。完整组件系列计划 2027 年底达到可商用和可认证。收入和付费客户未披露",
+        "source_type": "媒体报道",
+        "source_url": "https://tech.eu/2026/11/23/swiss-startup-coprod-raises-6m-to-make-building-robot-hardware-as-simple-as-developing-software/"
+      }
+    ],
+    "why_it_works": "很多机器人项目不是卡在模型，而是卡在不同厂家的电机、传感器和电源无法即插即用。coprod 先把硬件做成一套能用同一 API 对话的模块，让小团队能用较低成本快速试专用机，而不是一上来就造通用人形。现在的证据还更多是实验室和校园项目，真正的商业化要等到 2027 年的认证和量产。",
+    "takeaway": "600 万美元和领投方有官方新闻稿与 Tech.eu 交叉，产品逻辑清楚，但周期和成本数字是公司前瞻，商用时间表在 2027 年底，收入还没有。适合作为机器人工具链的创新观察，不必把它写成已经规模出货的硬件公司。公开报道集中在 11 月 23 日，部分渠道进入本窗口。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": [
+      "600万美元pre-seed",
+      "模块化硬件",
+      "机器人工具链",
+      "瑞士",
+      "General Catalyst"
+    ],
+    "website": "https://coprod.co/",
+    "sources": [
+      "https://www.prnewswire.com/news-releases/coprod-raises-6m-to-make-robot-hardware-as-easy-to-build-as-software-302947694.html",
+      "https://tech.eu/2026/11/23/swiss-startup-coprod-raises-6m-to-make-building-robot-hardware-as-simple-as-developing-software/",
+      "https://coprod.co/"
+    ],
+    "uncertain_points": "估值未披露。5000–25000 美元迭代成本和“数月交付”为公司自称的目标，不是已大规模验证的交付数据。完整产品商用计划在 2027 年底。收入和付费客户未披露。PR 发布时间与欧洲媒体日期均落在 11 月 23 日，精确时点接近昨日与今日窗口交界。"
+  },
+  {
+    "id": "perit-11m-revenue-5m-raise-yc-frontier-data",
+    "date_collected": "2026-11-25",
+    "status": "new",
+    "type": "profitable",
+    "name": "Perit",
+    "one_liner": "Y Combinator 在孵公司 Perit 创始人于 11 月 23 日自述：加入 YC 时收入 200 万美元，不到三个月已超过 1100 万美元，并完成 500 万美元融资；公司向前沿实验室提供专家采集的语音、第一人称视频和强化学习数据",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "Perit（perit.ai）由 Kshitij Dixit 与 Poorva Dixit 创办，是 YC Fall 2026 批次公司，向前沿 AI 实验室出售由一线从业者采集、并由自有团队标注的训练数据，覆盖真实语音、第一人称（egocentric）视频、强化学习编程任务等，强调按模型短板定向采集，而不是贩卖通用爬取语料。创始人 Kshitij Dixit 于 2026-11-23 17:00 UTC（北京时间 11 月 24 日 1:00）在 X 发帖：We joined YC at $2M in revenue. Less than 3 months later we're at $11M+ (5x), and we've raised $5M from YC, Ryan Hoover、Rebel Fund、Robinhood Ventures、Schema Ventures 和多名天使。后续帖文称其看到实验室正转向用自有数据做开源模型和强化学习，并写到 Demo Day 当周“aiming to 10x revenue from here”。部分媒体和转述使用了 contracted revenue 或 ARR 的说法，创始人原帖写的是 revenue，不以 ARR 记录。客户名单、利润和是否为经常性收入均未披露。",
+    "metrics": [
+      {
+        "label": "收入与融资（创始人自述）",
+        "value": "创始人 Kshitij Dixit 2026-11-23 X 原帖：加入 YC 时收入 200 万美元，不到 3 个月达到 1100 万美元以上（约 5 倍），并已从 YC、Ryan Hoover、Rebel Fund、Robinhood Ventures、Schema Ventures 及天使处融资 500 万美元。该数字为创始人自述，未见审计或官方博客复核。部分转述写成 contracted revenue 或 ARR，与原帖用词不完全一致",
+        "source_type": "创始人自述",
+        "source_url": "https://x.com/kshitij_dixit/status/2124910860632285384"
+      },
+      {
+        "label": "业务规模（创始人及社区转述，需谨慎）",
+        "value": "X 新闻摘要及多条高转发转述称，Perit 拥有逾 1.6 万名受训专家、超过 1 万小时第一人称视频，并与几乎所有主要前沿实验室合作。这些细节多见转述，不见于创始人该条主帖正文，不能当成已由创始人在同一帖中核实的数字。Y Combinator 公司页确认其业务为专家采集的语音、egocentric 与 RL 训练数据",
+        "source_type": "创始人自述",
+        "source_url": "https://www.ycombinator.com/companies/peritai"
+      }
+    ],
+    "why_it_works": "公开互联网上的文本越来越不够用，实验室要的是厨房、车间和真实对话里的第一人称数据。Perit 让真正做这些工作的人来采集，再按模型的失败点补数据，所以能卖到仍在 YC 的阶段就有八位数收入。创始人强调实验室不持有公司股权，也是为了避免把一家实验室的数据放到竞争对手旁边。这些都还只是创始人自己的讲述。",
+    "takeaway": "1100 万美元以上收入和 500 万美元融资有创始人原帖，属于合格的盈利信号，因此作为昨日窗口漏收补录。但原帖写的是 revenue 而不是 ARR，是否为签约额、是否经常性、有没有集中于少数实验室，都没有独立验证。专家人数和视频时长等多来自转述，不写入已核实指标。下一看 Demo Day 后是否给出客户结构或经常性收入口径。",
+    "innovation_score": 3,
+    "business_score": 5,
+    "tags": [
+      "创始人自述营收",
+      "1100万美元",
+      "500万美元融资",
+      "Y Combinator",
+      "训练数据"
+    ],
+    "website": "https://perit.ai/",
+    "sources": [
+      "https://x.com/kshitij_dixit/status/2124910860632285384",
+      "https://www.ycombinator.com/companies/peritai"
+    ],
+    "uncertain_points": "1100 万美元为创始人自述 revenue，不是经审计数字，也不应写成 ARR；是否为 contracted revenue 仅见于转述。500 万美元的估值和轮次名称未公布。1.6 万专家、1 万小时视频、“几乎所有前沿实验室都是客户”多为二手转述，未在创始人主帖中逐条写明。本条发布于北京时间 11 月 24 日 1:00，属昨日窗口漏收补录。"
+  }
+]
