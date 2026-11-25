@@ -1,0 +1,559 @@
+[
+  {
+    "id": "every-17-5m-series-a-110m-ai-native",
+    "date_collected": "2026-11-26",
+    "status": "new",
+    "type": "both",
+    "name": "Every",
+    "one_liner": "AI 媒体与软件公司 Every 官方宣布完成 1750 万美元 A 轮、投后估值 1.10 亿美元，由 IA Ventures 的 Jesse Beyroutey 领投；Fortune 援引创始人访谈称约有 13 万免费订阅用户、付费用户接近 1 万",
+    "category": "生产力办公",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "Every 由 Dan Shipper 于 2020 年创办，定位为帮助个人与团队成为 AI-native 的媒体与技术公司：付费订阅提供前线写作、软件与技能以及培训，同时也向大企业提供咨询并举办会议。官方 2026 年 11 月 25 日文章写明，公司完成 1750 万美元 A 轮，投后估值 1.10 亿美元，由 IA Ventures 的 Jesse Beyroutey 领投，The Atlantic CEO Nicholas Thompson、Stainless CEO（该公司已被 Anthropic 收购）Alex Rattray 以及 Betaworks 参与。Shipper 在文中写明自己保留对公司的完全控制权，并称不会按常规风险投资流程“询价出售”这笔交易。Fortune 同日 5:15 AM ET 独家报道核对了上述融资与估值，并写明公司目前约 35 人；报道援引 Shipper 称，Every 约有 13 万免费订阅用户，付费用户接近 1 万。官方将本轮资金用于把写作、软件与培训做成“一张订阅”。变现来自付费订阅，以及 Fortune 所写的企业咨询与会议。",
+    "metrics": [
+      {
+        "label": "融资与估值（官方 / 媒体）",
+        "value": "Every 官方文章写明：We raised a $17.5 million Series A at a $110 million post-money valuation，由 IA Ventures 的 Jesse Beyroutey 领投，Nicholas Thompson、Alex Rattray 与 Betaworks 参与。Fortune 2026-11-25 独家报道核对了同一组数字，并写明 Shipper 保留完全控制权。本轮投前估值未单独拆分",
+        "source_type": "官方公布",
+        "source_url": "https://every.to/on-every/we-raised-17-5-million-to-make-you-and-your-team-ai-native"
+      },
+      {
+        "label": "订阅用户与团队规模（媒体转述创始人）",
+        "value": "Fortune 报道写明 Every currently with about 130,000 unpaid subscribers and almost 10,000 paid，团队约 35 人。上述用户数字未见官方文章原文，亦未经审计；付费转化、订阅单价、ARR 与咨询/会议收入占比均未披露",
+        "source_type": "创始人自述",
+        "source_url": "https://fortune.com/2026/11/25/every-raises-17-5-million-110-million-valuation-betting-venture-backed-media-can-work/"
+      }
+    ],
+    "why_it_works": "许多人只把模型能力曲线当作故事，Every 把“人如何用模型做出更好的工作”做成一份可续费的订阅：每天的写作告诉你前线发生了什么，软件和培训再把同样的方法交到团队手里。1750 万美元和 1.10 亿美元投后估值可以回到官方文章和 Fortune，接近 1 万名付费用户说明这不只是一份通讯。下一步要看的，是软件和培训能否把媒体订阅做成更稳的经常性收入，而不是再讲一遍风险投资媒体公司的旧故事。",
+    "takeaway": "这是本窗口交叉来源最完整、经营数字也写得最清楚的一条：融资与投后估值有官方文章，付费与免费订阅数字来自 Fortune 对创始人的访谈。官方行文是已完成融资，Shipper 保留完全控制权。付费用户“接近 1 万”不是精确值，ARR 和咨询收入并未公布，不宜把订阅人数直接乘单价。",
+    "innovation_score": 4,
+    "business_score": 5,
+    "tags": [
+      "A轮",
+      "1.10亿美元估值",
+      "1750万美元",
+      "付费订阅",
+      "AI-native"
+    ],
+    "website": "https://every.to",
+    "sources": [
+      "https://every.to/on-every/we-raised-17-5-million-to-make-you-and-your-team-ai-native",
+      "https://fortune.com/2026/11/25/every-raises-17-5-million-110-million-valuation-betting-venture-backed-media-can-work/"
+    ],
+    "uncertain_points": "约 13 万免费订阅、付费用户接近 1 万仅见于 Fortune 对创始人的转述，官方融资文章未写这两项数字。付费计划价格、ARR、续费率以及咨询与会议收入占比未披露。Fortune 使用 recently raised，具体交割日未单独公布。"
+  },
+  {
+    "id": "lute-20m-pre-seed-seed-physical-ai-touch",
+    "date_collected": "2026-11-26",
+    "status": "new",
+    "type": "both",
+    "name": "Lute",
+    "one_liner": "华沙物理 AI 公司 Lute 获 OTB Ventures 与 FORWARD.one 联合领投种子轮，预种子与种子轮累计 2000 万美元；投资方称成立约 10 个月已在欧洲最大汽车零售分销商等真实现场部署",
+    "category": "硬件与端侧",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "Lute 由前 PolyAI 机器学习负责人、剑桥机器学习博士 Paweł Budzianowski（CEO）与触觉与灵巧操作研究者 Krzysztof Walas（CTO）创办，团队约 16 人，分布在华沙和湾区。公司做以触觉为核心的机器人基础模型，并面向系统集成商提供选型和现场再训练，软件在任务出错时暂停并交给远程操作员，再把成功与被纠正的失败写成训练数据。联合领投方 OTB Ventures 于 2026 年 11 月 25 日宣布，其与 FORWARD.one 联合领投 Lute 的种子轮，使公司预种子与种子轮累计融资达到 2000 万美元；Seedcamp、Credo Ventures、Naval Ravikant、Inovo VC、ff Venture Capital 和 Borusan Ventures 参与。OTB 称，公司第一代模型 Lute-0 在灵巧任务上与开源机器人模型 Pi0.5 相当，预训练数据量约为后者的二十分之一、训练步数约为四分之一。OTB 还写明，成立约 10 个月后，Lute 已部署在“欧洲最大的汽车零售分销商”（该客户年收入约 60 亿美元，名称未公开），模型也在医院走廊运行，并正在与大型零售商现场合作。Sifted 与 Unite.AI 同日报道了这一累计融资。资金将用于扩大触觉数据采集、改进模型并拓展客户部署。本轮种子轮单独金额未披露。",
+    "metrics": [
+      {
+        "label": "累计融资（投资方官方）",
+        "value": "OTB Ventures 2026-11-25 宣布与 FORWARD.one 联合领投 Lute 种子轮，bringing the company's total pre-seed and seed funding to $20 million。参与方包括 Seedcamp、Credo Ventures、Naval Ravikant、Inovo VC、ff Venture Capital、Borusan Ventures。2000 万美元是预种子与种子轮合计，种子轮单笔金额与估值未披露",
+        "source_type": "官方公布",
+        "source_url": "https://otb.vc/article/lute-taking-physical-ai-from-the-lab-to-real-work-sites/"
+      },
+      {
+        "label": "部署与模型对比（投资方口径）",
+        "value": "OTB 称成立约 10 个月后，Lute is deployed at Europe's largest automotive retail distributor, with $6 billion in annual revenue，并在医院走廊运行、与大型零售商现场合作。Lute-0 被称在灵巧任务上匹配 Pi0.5，预训练数据约为二十分之一、训练步数约为四分之一。客户名称、合同金额、部署台数与独立基准均未公布",
+        "source_type": "投资方披露",
+        "source_url": "https://otb.vc/article/lute-taking-physical-ai-from-the-lab-to-real-work-sites/"
+      }
+    ],
+    "why_it_works": "视觉告诉机器人“看见了什么”，却说不清抓得有多紧、是不是开始滑、东西软不软。Lute 把触觉做成基础模型的训练信号，又把系统集成商当成客户，而不是自己去铺一台又一台本体。投资方愿意在预种子和种子轮累计给出 2000 万美元，是因为公司已经把模型放到汽车分销和医院这类现场，并用远程接管把每次失败变成下一轮数据。下一步要看的，是这些未具名的部署能不能变成可核对的续约和收入。",
+    "takeaway": "2000 万美元是预种子与种子轮合计，不要写成单笔 2000 万美元种子轮。客户“欧洲最大汽车零售分销商”和 60 亿美元年收入、以及与 Pi0.5 的对比，都来自领投方 OTB 的口径，客户名称和独立评测未见。Sifted、Unite.AI 与 OTB 公告交叉，适合作为当天新披露的物理 AI 应用条目。",
+    "innovation_score": 4,
+    "business_score": 4,
+    "tags": [
+      "种子轮",
+      "2000万美元累计",
+      "物理AI",
+      "触觉传感",
+      "机器人部署"
+    ],
+    "website": "https://www.lute.one",
+    "sources": [
+      "https://otb.vc/article/lute-taking-physical-ai-from-the-lab-to-real-work-sites/",
+      "https://sifted.eu/articles/polyais-ex-machine-learning-chief-raises-20m-for-new-robotics-startup",
+      "https://www.unite.ai/lute-raises-20m-across-pre-seed-and-seed-to-scale-physical-ai/"
+    ],
+    "uncertain_points": "2000 万美元为预种子+种子轮累计，本轮种子轮单独金额与估值未披露。核心客户名称未公开，60 亿美元年收入及“欧洲最大”表述为 OTB 口径。Lute-0 与 Pi0.5 的对比未见独立基准论文。收入、部署台数和合同结构未披露。"
+  },
+  {
+    "id": "maple-5-3m-seed-private-verifiable-ai",
+    "date_collected": "2026-11-26",
+    "status": "new",
+    "type": "both",
+    "name": "Maple",
+    "one_liner": "隐私可验证 AI 助手 Maple 官方宣布获得 530 万美元种子轮，由 EPIC Ventures 领投；官方称过去三个月每日加密 AI 使用量增长 60 倍，公司拒绝向 TechCrunch 提供注册用户数",
+    "category": "生产力办公",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "Maple 由前 Apple 工程师 Mark Suman 与安全基础设施背景的 Anthony Ronning 创办，总部位于得州奥斯汀，产品于 2025 年 1 月以移动应用向公众开放。公司把开源权重模型放进可信执行环境（TEE）运行：数据在用户设备上加密，只在安全硬件内解密，官方称 Maple 员工无法看到用户对话，并在 maple.ai/proof 提供可核验的运行代码证明。产品包括 Maple Chat 与面向桌面的私人 Agent Maple Work，可接入用户选定的文件夹以及 Stripe、Notion、Dropbox、Jira、Zapier 等应用。官方 2026 年 11 月 24 日博客宣布获得超额认购的 530 万美元种子轮，由 EPIC Ventures 领投，Draper Associates、Planetary VC 和 Epoch VC 参与；TechCrunch 同日 1:19 PM PST 报道核对了这一轮次，并写明此前还有不到 100 万美元的天使预种子轮，公司计划在 2027 年上半年寻求 A 轮。官方称过去三个月每日加密 AI 使用量增长 60 倍。TechCrunch 写明公司拒绝提供注册用户数，但提到过去三个月有 60 倍增长；报道还写明变现来自订阅，Pro 计划每月 20 美元，两档 Max 计划分别为每月 100 美元和 200 美元。官方也写明收入来自订阅和 API，代码保持开源，不以用户数据训练模型。",
+    "metrics": [
+      {
+        "label": "融资（官方 / 媒体）",
+        "value": "Maple 官方博客宣布 $5.3M seed round, led by EPIC Ventures，Draper Associates、Planetary VC、Epoch VC 参与，并指向 TechCrunch 报道。TechCrunch 写明该轮超额认购，此前还有 under a million 的预种子天使轮，公司计划 2027 年上半年融资 A 轮。估值未披露",
+        "source_type": "官方公布",
+        "source_url": "https://maple.ai/blog/maple-ai-seed-round"
+      },
+      {
+        "label": "使用量与订阅定价（官方 / 媒体）",
+        "value": "官方博客写明 Daily encrypted AI usage on Maple is up 60x over the last three months。TechCrunch 称公司拒绝分享 registered customer numbers，同时转述过去三个月 60 倍增长；并写明 Pro 为每月 20 美元，Max 与 Max Plus 为每月 100 与 200 美元。60 倍指每日加密使用量，不能写成用户数增长。付费转化和 ARR 未披露",
+        "source_type": "官方公布",
+        "source_url": "https://maple.ai/blog/maple-ai-seed-round"
+      }
+    ],
+    "why_it_works": "企业和个人把最有用的材料送进通用聊天机器人时，往往过不了隐私这一关。Maple 不靠“我们保证不看”的政策，而是做成员工看不了、外人可以核验的架构，再用订阅向愿意为这件事付钱的人收费。530 万美元和 60 倍使用量增长说明这条需求是真的，但公司不愿公布用户数，增长指标也只是使用量。下一步要看的，是桌面 Agent 和即将做的云端 Agent 能不能在“看不见数据”的约束下，仍然做成可规模化的付费产品。",
+    "takeaway": "融资有官方博客和 TechCrunch 交叉。60 倍是官方所说的每日加密使用量，不是注册用户或付费用户；TechCrunch 已写明公司拒绝提供注册用户数，因此不能据使用量反推收入。本条于 11 月 24 日下午太平洋时间见报，对应北京时间 11 月 25 日清晨，落在本次窗口内，不是补录。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": [
+      "种子轮",
+      "530万美元",
+      "隐私AI",
+      "可信执行环境",
+      "订阅"
+    ],
+    "website": "https://maple.ai",
+    "sources": [
+      "https://maple.ai/blog/maple-ai-seed-round",
+      "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/"
+    ],
+    "uncertain_points": "注册用户、付费用户和 ARR 公司拒绝向媒体披露。官方 60 倍增长明确为 daily encrypted AI usage，与用户数不是同一指标。估值未披露。TechCrunch 文末 Max 计划价格在抓取时完整句子被截断，采用报道中已出现的 Pro 20 美元、Max 100 美元、Max Plus 200 美元这组数字，若官网后续调价需再核对。"
+  },
+  {
+    "id": "sensenet-43m-series-b-wildfire-intelligence",
+    "date_collected": "2026-11-26",
+    "status": "new",
+    "type": "both",
+    "name": "SenseNet",
+    "one_liner": "野火探测与情报公司 SenseNet 官方于 11 月 24 日宣布获得 4300 万美元 B 轮融资方案，由 Idealist Capital 领投；官方称全球监测面积一年内从 1.30 亿英亩增至超过 4.50 亿英亩，该方案含一级股权、老股转让和债务",
+    "category": "企业服务",
+    "region": "全球",
+    "team_type": "初创公司",
+    "business_model": "SenseNet 做多模态野火探测与情报，把地面环境传感器、AI 摄像头、卫星情报、无人机与预测分析放进同一套系统，面向消防机构、政府、公用事业、关键基础设施和私人土地所有者。官方 2026 年 11 月 24 日 11:00 ET 通过 GlobeNewswire 宣布获得 4300 万美元 B 轮融资方案，由 Idealist Capital 领投，Fusion Fund、Stormbreaker Ventures、Thin Line Capital、NBC 和 The Sitka Foundation 参与。公告写明 This round includes primary, secondary sales and debt financing，因此 4300 万美元不是单纯的一级股权融资。官方称过去一年全球野火监测面积从 1.30 亿英亩增至超过 4.50 亿英亩，目前在 12 个国家部署了 5300 多套地面传感器和 AI 摄像头，并据此早期探测到 1 万多起火情；美国客户包括加州 Palo Alto、Woodside 消防部门、Santa Clara County、San Jose Water，以及科罗拉多 Jefferson County 和科罗拉多斯普林斯市等。官方还称，过去一个防火季中，系统曾在第一通 911 报警前数小时探测到多起火情。GeekWire 同日报道了这一融资。资金将用于继续扩大美国商业化、国际业务、商业团队和全生命周期情报能力。估值未披露，一级股权、老股和债务的分项金额也未拆分。",
+    "metrics": [
+      {
+        "label": "融资结构（官方）",
+        "value": "SenseNet 官方新闻稿 2026-11-24 宣布 secured $43 million USD in Series B financing，由 Idealist Capital 领投，Fusion Fund、Stormbreaker Ventures、Thin Line Capital、NBC、The Sitka Foundation 参与，并写明 The round includes primary, secondary sales and debt financing。估值以及一级股权、老股转让与债务各自金额未披露，不能把 4300 万美元全部当作新注入的一级股权",
+        "source_type": "官方公布",
+        "source_url": "https://www.globenewswire.com/news-release/2026/11/24/3409592/0/en/sensenet-secures-43m-to-expand-its-wildfire-detection-and-intelligence-ecosystem-across-the-us.html"
+      },
+      {
+        "label": "监测规模与客户（官方）",
+        "value": "官方称过去一年监测面积 from 130 million acres to more than 450 million acres，+5,300 ground-based sensors and AI-enabled cameras deployed across 12 countries，enabled the early detection of +10,000 fires。美国具名客户包括 Palo Alto、Woodside 消防部门、Santa Clara County、San Jose Water、Jefferson County 和 City of Colorado Springs。探测次数与“早于 911 数小时”均为公司口径，未见独立审计",
+        "source_type": "官方公布",
+        "source_url": "https://www.globenewswire.com/news-release/2026/11/24/3409592/0/en/sensenet-secures-43m-to-expand-its-wildfire-detection-and-intelligence-ecosystem-across-the-us.html"
+      }
+    ],
+    "why_it_works": "野火救援比的是谁先看见烟。SenseNet 把地面传感器、AI 摄像头和卫星放在同一套情报里，卖给消防部门和公用事业，而不是只做一条演示视频。4300 万美元和一年内监测面积扩大三倍以上，说明这条业务已经按面积在长；但公告自己写了这笔钱里有老股转让和债务，阅读时必须把结构看清楚。下一步要看的，是一级股权到底有多少，以及 1 万起探测有多少真正改变了扑救结果。",
+    "takeaway": "这是本窗口金额最大的一条，但必须标明：4300 万美元是含一级股权、老股转让和债务的融资方案，不是纯股权 B 轮。监测面积、传感器数量和探测次数都是公司官方口径。公告于 11 月 24 日 11:00 ET（北京时间 11 月 25 日 00:00）发布，落在昨日窗口内，今日按漏收补录。",
+    "innovation_score": 4,
+    "business_score": 4,
+    "tags": [
+      "B轮",
+      "4300万美元",
+      "野火探测",
+      "含债务与老股",
+      "AI摄像头"
+    ],
+    "website": "https://sensenet.ai",
+    "sources": [
+      "https://www.globenewswire.com/news-release/2026/11/24/3409592/0/en/sensenet-secures-43m-to-expand-its-wildfire-detection-and-intelligence-ecosystem-across-the-us.html",
+      "https://www.geekwire.com/2026/sensenet-lands-43m-financing-deal-for-early-wildfire-detection-and-intelligence/"
+    ],
+    "uncertain_points": "4300 万美元含 primary、secondary 与 debt，分项金额和估值未披露。监测面积、5300 套设备、1 万起探测和早于 911 的表述均为公司口径。本条于 11 月 24 日 11:00 ET 宣布，属于昨日窗口漏收补录。"
+  },
+  {
+    "id": "permut-3m-eur-seed-conversational-commerce-agents",
+    "date_collected": "2026-11-26",
+    "status": "new",
+    "type": "both",
+    "name": "Permut",
+    "one_liner": "巴塞罗那对话式 AI 公司 Permut 获 Next Tier Ventures 领投的 300 万欧元种子轮；Tech.eu 称其第一年未用外部资金做到 80 家客户并实现盈利，且公司称年底前有望超过 100 万欧元 ARR",
+    "category": "客服销售",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "Permut 由 Alex Lopera（CEO）与 Oriol Blanc（CTO）在巴塞罗那创办，帮助品牌在网站、应用、WhatsApp、Instagram、Messenger 和邮件上部署对话式 AI Agent，用于客服、线索筛选和营销自动化，并能调用企业内系统采取行动。Tech.eu 于 2026 年 11 月 25 日报道，公司完成 300 万欧元种子轮，由 Next Tier Ventures 领投，Masia、Decelera、Secways、Cleo Capital 和家族办公室 Badebles 参与，个人投资者包括 Solidgate CEO Kirill Tarnopolskyi、Cursor 早期成员 Ben Lang 等。Tech.eu 写明，Permut 在第一年没有外部资金的情况下建立起 80 家客户并实现盈利，客户包括 Scuffers、Brownie、Tramas+、Eme Studios，以及 Esade、Baqueira Beret 和 CaixaBank。报道还转述，其 Agent 目前可在无人介入的情况下处理 80%–85% 的支持咨询，并在其协助的购买上实现高 60% 的转化率。公司称将用本轮融资把团队从 9 人扩到 20 人，并在 2027 年拓展欧洲新市场；同时表示正按计划在 2026 年底前超过 100 万欧元 ARR、达到 100 家客户。Vestbee 与西班牙《经济学家报》亦报道了这轮 300 万欧元融资。80 家客户、已盈利、自动处理率和转化率提升，以及年底 ARR 目标，均为媒体转述的公司口径，未见审计报表。",
+    "metrics": [
+      {
+        "label": "融资（媒体）",
+        "value": "Tech.eu 2026-11-25 报道 Permut has closed a €3 million seed round，由 Next Tier Ventures 领投，Masia、Decelera、Secways、Cleo Capital、Badebles 及多名天使参与。估值未披露。Vestbee 与 elEconomista 亦报道了同一轮次",
+        "source_type": "媒体报道",
+        "source_url": "https://tech.eu/2026/11/25/permut-raises-eur3m-to-turn-conversational-ai-into-a-revenue-driver-for-brands"
+      },
+      {
+        "label": "客户、盈利与 ARR 目标（媒体转述公司）",
+        "value": "Tech.eu 称 Permut built a base of 80 customers and reached profitability in its first 12 months without external funding，并点名 Scuffers、Brownie、CaixaBank 等客户；同时转述 Agent 可独立处理 80–85% 支持咨询、协助购买转化率高 60%，以及 The company is on track to exceed €1 million ARR and reach 100 customers by the end of 2026。已盈利和 ARR 目标均为公司口径，100 万欧元 ARR 是年底目标而非已公布的当前 ARR",
+        "source_type": "创始人自述",
+        "source_url": "https://tech.eu/2026/11/25/permut-raises-eur3m-to-turn-conversational-ai-into-a-revenue-driver-for-brands"
+      }
+    ],
+    "why_it_works": "对话机器人常被当成省人力的客服工具，Permut 把它接到下单和线索上，用转化而不是接通率来证明价值。更难得的是，媒体写明它在没拿外部资金的第一年就做到 80 家客户并声称已经盈利，这轮 300 万欧元是在有业务之后再加速，而不是先融资再找场景。但 80%–85% 自动处理、转化率高 60%、年底超过 100 万欧元 ARR，都还是公司自己的说法，需要后续用更硬的财务数字来验证。",
+    "takeaway": "这是本窗口里少见的“先盈利、再融资”条目，客户名单和 300 万欧元轮次有多家媒体交叉。必须写清：100 万欧元 ARR 是 2026 年底目标，不是已经达到的经常性收入；已盈利、自动处理率和转化率提升未见独立审计。本轮未见公司官网新闻稿，主来源为 Tech.eu。",
+    "innovation_score": 3,
+    "business_score": 4,
+    "tags": [
+      "种子轮",
+      "300万欧元",
+      "已盈利",
+      "对话Agent",
+      "电商客服"
+    ],
+    "website": "https://permut.com",
+    "sources": [
+      "https://tech.eu/2026/11/25/permut-raises-eur3m-to-turn-conversational-ai-into-a-revenue-driver-for-brands",
+      "https://www.vestbee.com/insights/articles/permut-raises-3-m",
+      "https://www.eleconomista.es/tecnologia/noticias/14030648/11/26/permut-levanta-3-millones-para-expandirse-fuera-de-espana.html"
+    ],
+    "uncertain_points": "未见公司官方新闻稿，融资与经营数字以 Tech.eu 等媒体转述为主。已盈利的口径、利润水平和 80–85%、高 60% 转化率均无审计或方法说明。超过 100 万欧元 ARR 是年底目标，不是当前 ARR。估值未披露。"
+  },
+  {
+    "id": "jiutian-chuangzhi-nearly-100m-cny-series-a-outdoor-embodied",
+    "date_collected": "2026-11-26",
+    "status": "new",
+    "type": "both",
+    "name": "九天创智",
+    "one_liner": "投资界 11 月 25 日首发：室外具身智能公司九天创智宣布完成近亿元 A 轮，投资方包括亿道资本、清科产投、南山战新投；报道转述产品已在全球近百座城市落地并出口 20 多个国家和地区",
+    "category": "硬件与端侧",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "九天创智（深圳）科技有限公司成立于 2021 年 9 月，做万平米级室外场景具身智能，主打室外智能无人驾驶清洁机器人，官网展示仰致、璇光、揽尘等面向市政环卫、园区和工业物流的产品。投资界 2026 年 11 月 25 日 9:00 首发报道，公司当日宣布完成近亿元 A 轮，投资方包括亿道资本、清科产投、南山战新投，资金将用于具身智能大模型与室外通用机器人平台研发、万平米级场景产品迭代、全球市场拓展及供应链与智能制造能力建设。报道转述，公司室外无人驾驶清洁机器人“产品销量已居行业前列”，已在全球近百座城市落地，并出口至 20 多个国家和地区；是细分领域首家获批欧盟 CE 认证的企业，并入选深圳-新加坡智慧城市建设计划。点名场景包括阿里巴巴杭州总部园区、华为东莞松山湖小镇、青岛港口、英国希斯罗机场、西藏山南、新加坡滨海湾花园和布拉格广场等；2026 年 APEC 领导人会议期间，其清扫机器人也曾在深圳香蜜湖、前海等城市广场出现。公司称具备室外具身大模型、IOC 运营平台与多机器人调度系统，并积累 150 余件专利等知识产权。智通财经等亦报道了近亿元 A 轮。精确融资金额、估值、销量和收入均未披露，落地城市与出口国家数为报道转述的公司口径。",
+    "metrics": [
+      {
+        "label": "融资（媒体首发）",
+        "value": "投资界 2026-11-25 首发：九天创智今日宣布完成近亿元 A 轮，投资方包括亿道资本、清科产投、南山战新投。精确金额和估值未披露。智通财经等转载了同一消息",
+        "source_type": "媒体报道",
+        "source_url": "https://news.pedaily.cn/202611/572348.shtml"
+      },
+      {
+        "label": "落地与认证（媒体转述公司）",
+        "value": "投资界转述：产品已在全球近百座城市落地，并出口至 20 多个国家和地区；细分领域首家获批欧盟 CE 认证；点名阿里巴巴杭州总部、华为松山湖、青岛港口、希斯罗机场等场景，并称销量已居行业前列、拥有 150 余件专利等知识产权。销量“行业前列”无对比数据和公开出货量，收入未披露",
+        "source_type": "创始人自述",
+        "source_url": "https://news.pedaily.cn/202611/572348.shtml"
+      }
+    ],
+    "why_it_works": "室内机器人卷本体和灵巧手时，九天创智把场景钉在万平米级的室外清扫：无 GNSS、人流车流、雨雪高温都可以成为交付条件。近亿元 A 轮说明资本仍愿意为已经出口、已经进园区和机场的室外作业付钱，而不只为实验室里的人形演示付钱。报道列出的客户场景很具体，但销量和“行业前列”还没有可核对的出货或收入数字。",
+    "takeaway": "这是本窗口中国侧最完整的产业化条目：投资方具名，落地场景写到具体园区和机场，并有 CE 认证和出口表述。近亿元不是精确金额，销量与城市数为公司口径，未见官方新闻稿或交易所文件。官网可核对其室外清洁机器人产品线。",
+    "innovation_score": 4,
+    "business_score": 4,
+    "tags": [
+      "A轮",
+      "近亿元",
+      "室外具身智能",
+      "清洁机器人",
+      "出海"
+    ],
+    "website": "https://www.jtibot.com.cn",
+    "sources": [
+      "https://news.pedaily.cn/202611/572348.shtml",
+      "https://www.zhitongcaijing.com/content/detail/1528544.html",
+      "https://www.jtibot.com.cn/"
+    ],
+    "uncertain_points": "近亿元并非精确金额，估值未披露。全球近百座城市、出口 20 多国、销量居行业前列和 150 余件知识产权均为报道转述的公司口径，未见出货量或收入。主来源为投资界首发，未见公司单独官方新闻稿。"
+  },
+  {
+    "id": "playbook-8m-eur-pharma-operating-memory",
+    "date_collected": "2026-11-26",
+    "status": "new",
+    "type": "both",
+    "name": "Playbook",
+    "one_liner": "慕尼黑制药流程公司 Playbook 官方于 11 月 23 日宣布获得 Heal Capital 领投的 800 万欧元新一轮融资，累计融资 1050 万欧元；官方称客户已超过 50 家，其中包括两家全球 20 强制药企业",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "Playbook 由 Nikolai Wessendorf 与 Christoph Jung 于 2022 年底在慕尼黑创办，产品叫 Operating Memory：把制药企业的标准操作规程、工作指令和培训手册抽成由人控制和审计的结构化数据（图数据库），供人员和 AI Agent 查询，但不允许模型改写规则。官方 2026 年 11 月 23 日新闻稿宣布，公司完成 800 万欧元新一轮融资，由 Heal Capital 领投，Bayern Kapital 和既有投资方 Capnamic 参与；2025 年 1 月曾由 Capnamic 领投 250 万欧元，累计融资 1050 万欧元。官方写明，Playbook counts more than 50 customers, including two of the world's 20 largest pharmaceutical companies。资金将用于研发，尤其是让更多自主 AI 系统调用 Operating Memory，并扩大在欧洲、英国和美国的企业销售。Tech.eu 11 月 24 日报道核对了 800 万欧元新一轮和累计 1050 万欧元，并引述 CEO 称大型制药商通常管理 5000 到 8000 份程序性文件，客户反馈员工每天可能花掉最多 30 分钟查找和阅读这些指令。估值未披露，两家全球 20 强客户名称未公开。",
+    "metrics": [
+      {
+        "label": "融资（官方）",
+        "value": "Playbook 官方新闻稿 2026-11-23：closed an €8 million funding round，Heal Capital 领投，Bayern Kapital 与 Capnamic 参与；此前 2025 年 1 月 Capnamic 领投 €2.5 million，In total, Playbook has raised €10.5 million。800 万欧元是本轮金额，1050 万欧元是累计总额，二者不可混用。估值未披露",
+        "source_type": "官方公布",
+        "source_url": "https://www.playbk.io/news/playbook-raises-10-5-million"
+      },
+      {
+        "label": "客户（官方）",
+        "value": "官方写明 more than 50 customers, including two of the world's 20 largest pharmaceutical companies。客户名称、合同金额、ARR 和部署范围未披露。Tech.eu 补充了文件规模与“每天最多 30 分钟找文档”的客户反馈，亦为公司/采访口径",
+        "source_type": "官方公布",
+        "source_url": "https://www.playbk.io/news/playbook-raises-10-5-million"
+      }
+    ],
+    "why_it_works": "制药厂不是缺少文档，而是文档不能被软件和 Agent 正确执行。Playbook 把规程变成人可以审计、模型不能擅自修改的数据，这正对上欧盟 GMP 对 AI 监管的方向。超过 50 家客户和两家全球 20 强药企是官方自己写下的经营信号，800 万欧元新资金则用来把这套“操作记忆”接到更多 Agent 上。下一步要看具名客户和经常性收入，而不是再讲一遍合规故事。",
+    "takeaway": "官方把本轮 800 万欧元和累计 1050 万欧元写得很清楚，不要把标题里的 1050 万欧元误当成单轮金额。50 多家客户和两家 20 强药企是公司口径，名称未披露。官方新闻稿日期为 11 月 23 日，昨日窗口漏收，今日补录。",
+    "innovation_score": 4,
+    "business_score": 4,
+    "tags": [
+      "800万欧元",
+      "累计1050万欧元",
+      "制药合规",
+      "Operating Memory",
+      "AI Agent"
+    ],
+    "website": "https://www.playbk.io",
+    "sources": [
+      "https://www.playbk.io/news/playbook-raises-10-5-million",
+      "https://tech.eu/2026/11/24/playbook-raises-eur8m-to-help-pharma-companies-keep-ai-agents-compliant/"
+    ],
+    "uncertain_points": "估值未披露。超过 50 家客户及两家全球 20 强制药企业均为公司口径，名称与收入未公开。官方新闻稿日期为 2026-11-23，属于昨日之前窗口漏收补录。"
+  },
+  {
+    "id": "leash-biosciences-11m-scientific-ai-training-environments",
+    "date_collected": "2026-11-26",
+    "status": "new",
+    "type": "both",
+    "name": "Leash Biosciences",
+    "one_liner": "盐湖城科学 AI 数据公司 Leash Biosciences 于 11 月 24 日宣布获得 Innovation Endeavors 与 Insight Partners 联合领投的 1100 万美元融资；公司称已设计并测试 630 万个自有分子，产生超过 440 亿次实验测量",
+    "category": "医疗健康",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "Leash Biosciences 由 Ian Quigley 等人在盐湖城创办，把自动化实验室与评测软件结合，为药物发现等科学 AI 提供可在计算速度下交互的实验环境。公司 2026 年 11 月 24 日在新闻稿中宣布获得 1100 万美元融资，由 Innovation Endeavors 与 Insight Partners 联合领投，资金将扩大实验数据生产和用于评测、训练 AI 系统的环境，起步领域是化学与生物学。新闻稿称，公司已设计并测试 630 万个自有分子，在近 1000 个蛋白靶点上产生超过 440 亿次实验测量。公司还介绍，10 月推出的 Minos 虚拟研究环境在最初六周里让 AI Agent 完成了约 10 万次独立实验序列，并公开了预印本、部分环境和数千条 Agent 科学叙述。领投方 Innovation Endeavors 同日发文确认了这笔投资。Axios 报道称本轮投后估值 3000 万美元，该数字仅见于 Axios，新闻稿本身未写估值。收入、付费客户和药企合作细节未披露。",
+    "metrics": [
+      {
+        "label": "融资（官方 / 领投方）",
+        "value": "公司新闻稿（经 Utah Business 发布）宣布 an $11 million financing round co-led by Innovation Endeavors and Insight Partners。Innovation Endeavors 2026-11-24 投资声明确认了本轮。Axios 报道写明 seed round at $30M valuation，该估值仅见 Axios，官方新闻稿未写。轮次分项和其他投资方未在本运行所核原文中完整列出",
+        "source_type": "官方公布",
+        "source_url": "https://www.utahbusiness.com/press-releases/2026/11/24/leash-biosciences-raises-11-million-build-training-environments-scientific-ai/"
+      },
+      {
+        "label": "实验数据与评测环境（官方）",
+        "value": "新闻稿称 designed and tested 6.3 million of its own molecules, generating more than 44 billion experimental measurements across almost 1,000 protein targets。Minos 环境在最初六周让 AI agents completed approximately 100,000 independent sequences of experiments。上述均为公司口径；商业化收入和付费客户未披露",
+        "source_type": "官方公布",
+        "source_url": "https://www.utahbusiness.com/press-releases/2026/11/24/leash-biosciences-raises-11-million-build-training-environments-scientific-ai/"
+      }
+    ],
+    "why_it_works": "药物发现模型并不缺参数，缺的是专门为训练而生产的实验数据。Leash 自己做实验室、自己出测量，再把结果做成 Agent 可以反复试错的环境，这和“用公开论文里的结合数据做一次微调”不是同一件事。1100 万美元和 440 亿次测量说明这条数据工厂已经在运转；但估值只见于 Axios，商业化客户也还没有被写进新闻稿。",
+    "takeaway": "融资有公司新闻稿和领投方声明交叉，实验规模数字来自官方口径。3000 万美元估值仅见于 Axios，官方稿未写，须单独标注。本条于 11 月 24 日发布，落在昨日窗口，今日按漏收补录。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": [
+      "1100万美元",
+      "科学AI",
+      "实验数据",
+      "药物发现",
+      "Minos"
+    ],
+    "website": "https://www.leash.bio",
+    "sources": [
+      "https://www.utahbusiness.com/press-releases/2026/11/24/leash-biosciences-raises-11-million-build-training-environments-scientific-ai/",
+      "https://www.innovationendeavors.com/insights/leash-bio",
+      "https://www.axios.com/pro/biotech-deals/2026/11/24/leash-bio-seed-30-million-valuation"
+    ],
+    "uncertain_points": "Axios 所称 3000 万美元投后估值未见公司新闻稿，本条不把该估值写成官方数字。1100 万美元的完整投资方名单在本运行核读的新闻稿摘要中未完整展开。收入和付费客户未披露。新闻稿日期为 11 月 24 日，属于昨日窗口漏收补录。"
+  },
+  {
+    "id": "evolonai-over-10m-usd-seed-evolver-ai-infra",
+    "date_collected": "2026-11-26",
+    "status": "new",
+    "type": "profitable",
+    "name": "EvolonAI",
+    "one_liner": "投中网与北京商报 11 月 25 日报道，商汤系团队创立的 EvolonAI（北京全新世科技）完成超千万美元种子轮，由 Momenta 领投，商汤科技、商汤国香、蓝湖资本跟投",
+    "category": "企业服务",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "EvolonAI 是一家 AI for AI Infra 创业公司，注册主体为北京全新世科技有限公司，做自研自进化模型 Evolver，目标是把高度依赖高性能计算专家的系统优化，变成模型自主执行的端到端自动化闭环，并先在国产芯片与大模型组合的推理部署适配和持续优化上做产业验证。投中网 2026 年 11 月 25 日报道，公司宣布完成超千万美元种子轮，由 Momenta 领投，商汤科技、商汤国香、蓝湖资本跟投，光源资本担任独家财务顾问；资金将用于 Evolver 的训练与评测迭代、核心团队建设和首批算力池搭建。北京商报同日报道核对了同一轮次和投资方，并写明创始人兼 CEO 钱晨曾任 Google 软件工程师、商汤执行研发总监及商汤绝影联合创始人；联合创始人王权为原商汤 SenseNova 大模型负责人，刘文韬为原商汤自训练 Auto-Research 平台负责人。精确金额、估值、客户和收入均未披露。本运行未找到公司独立官网。",
+    "metrics": [
+      {
+        "label": "融资（媒体）",
+        "value": "投中网 2026-11-25 报道：EvolonAI 宣布完成超千万美元种子轮，Momenta 领投，商汤科技、商汤国香、蓝湖资本跟投，光源资本任独家财务顾问。北京商报同日核对了轮次、投资方与团队背景。精确金额和估值未披露",
+        "source_type": "媒体报道",
+        "source_url": "https://www.chinaventure.com.cn/news/113-20261125-394190.html"
+      }
+    ],
+    "why_it_works": "国产芯片和大模型要在一起跑起来，适配和调优往往还靠少数集群专家。EvolonAI 把这件事做成模型自己读日志、改配置、再在真实硬件上验证的闭环，并用超千万美元种子轮先建团队和算力池。投资方阵容清楚，但这仍是一轮早期的基础设施押注，公开材料里还没有客户或收入。",
+    "takeaway": "超千万美元不是精确金额，客户与产品落地未见公开验证。团队背景和投资方有投中网、北京商报交叉，可以作为中国侧 AI 基础设施条目收录。本运行未找到可核对的公司官网。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": [
+      "种子轮",
+      "超千万美元",
+      "AI基础设施",
+      "商汤系",
+      "推理适配"
+    ],
+    "website": "https://www.chinaventure.com.cn/news/113-20261125-394190.html",
+    "sources": [
+      "https://www.chinaventure.com.cn/news/113-20261125-394190.html",
+      "https://finance.sina.com.cn/jjxw/2026-11-25/doc-inizyefx9411930.shtml"
+    ],
+    "uncertain_points": "超千万美元并非精确金额，估值、客户和收入未披露。本运行未找到 EvolonAI 独立产品官网，website 暂用投中网报道页。自进化模型的产业验证程度仅见于公司/媒体表述。"
+  },
+  {
+    "id": "elbic-2-7m-eur-pre-seed-sovereign-voice-ai",
+    "date_collected": "2026-11-26",
+    "status": "new",
+    "type": "both",
+    "name": "elbic",
+    "one_liner": "原名 KugelAudio 的柏林语音 AI 公司 elbic 于 11 月 25 日被报道获得约 270 万欧元（约 300 万美元）预种子轮，由 Repeat Ventures 领投；sipgate 已在自有服务器上生产使用，Deutsche Telekom 亦与其合作",
+    "category": "客服销售",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "elbic 前身为 KugelAudio，由 Victor Presber（部分报道写作 Viktor Presber）与 Kajo Kratzenstein 于 2025 年在柏林创办，为电信运营商和呼叫中心软件商提供可在欧洲数据中心或客户自有服务器上运行的语音模型，避免客户通话经过美国服务器。产品包括实时对话模型 Fluid、文本转语音 Kugel、语音转文本 Ear 和降噪 Clarity，官方称支持 24 种语言，云端开始应答可在 100 毫秒以内。EU-Startups 2026 年 11 月 25 日报道，公司获得约 270 万欧元（约 300 万美元）预种子轮，由伦敦 Repeat Ventures 领投，Rebel Fund、Y Combinator 以及 fastgen 创始人 Maik Mahlkow、David Nordhausen 和 voize 联合创始人 Erik Ziegler 等天使参与；公司于 2026 年春季进入 Y Combinator。报道写明，杜塞尔多夫电信运营商 sipgate 已在自有服务器上生产使用 elbic 的语音模型，Deutsche Telekom 也与该公司合作，并引述 Deutsche Telekom 高级架构师 Sebastian Schumann 的正面评价。公司还称，其开源模型在 Hugging Face 下载超过 15 万次；Fluid 1 在 τ²-bench 语音对比中通过 84% 的任务，全球语音对语音 Agent 中排第二，仅次于 OpenAI GPT Live 1 的 85%。Tech Funding News 同日以 300 万美元口径报道了同一轮次。估值、收入和付费客户数未披露。",
+    "metrics": [
+      {
+        "label": "融资（媒体）",
+        "value": "EU-Startups 2026-11-25 报道：raised around €2.7 million ($3 million) in a pre-Seed round，Repeat Ventures 领投，Rebel Fund、Y Combinator 及多名德国天使参与。Tech Funding News 以 $3 million 报道同一轮。约 270 万欧元并非精确到个位的披露，估值未公布",
+        "source_type": "媒体报道",
+        "source_url": "https://www.eu-startups.com/2026/11/yc-backed-elbic-raises-e2-7-million-to-keep-european-customer-calls-off-us-servers-with-sovereign-voice-ai/"
+      },
+      {
+        "label": "客户与基准（媒体转述公司）",
+        "value": "EU-Startups 写明 sipgate is already running elbic’s voice models in production on its own servers，并引述 Deutsche Telekom 的 Sebastian Schumann。公司自称开源模型 Hugging Face 下载超过 15 万次，Fluid 1 在 τ²-bench 语音对比中通过 84%、全球排第二。基准为公司引用，未见本运行独立复核原始排行榜；收入未披露",
+        "source_type": "媒体报道",
+        "source_url": "https://www.eu-startups.com/2026/11/yc-backed-elbic-raises-e2-7-million-to-keep-european-customer-calls-off-us-servers-with-sovereign-voice-ai/"
+      }
+    ],
+    "why_it_works": "欧洲企业把客户电话交给美国云上的语音模型，会碰到数据和口音两道墙。elbic 自己做可本地部署的语音模型，并且已经进入 sipgate 的生产环境和 Deutsche Telekom 的合作，这比只讲“主权 AI”要硬。预种子轮只有约 270 万欧元，体量不大，但它证明的是一个可部署的欧洲语音基础设施，而不是又一个演示用的语音克隆应用。",
+    "takeaway": "融资有两家媒体交叉，sipgate 生产部署和 Deutsche Telekom 合作被具名写出，这是本条能够收录的主要原因。270 万欧元是约数，τ²-bench 排名为公司自引，创始人名字在不同报道里有 Victor / Viktor 两种拼写。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": [
+      "预种子轮",
+      "约270万欧元",
+      "主权语音AI",
+      "Y Combinator",
+      "呼叫中心"
+    ],
+    "website": "https://elbic.com",
+    "sources": [
+      "https://www.eu-startups.com/2026/11/yc-backed-elbic-raises-e2-7-million-to-keep-european-customer-calls-off-us-servers-with-sovereign-voice-ai/",
+      "https://techfundingnews.com/elbic-raises-3m-european-voice-ai-phone-calls/"
+    ],
+    "uncertain_points": "约 270 万欧元 / 约 300 万美元并非精确到个位的官方数字，估值未披露。τ²-bench 84% 与全球第二为公司引用，本运行未独立复核榜单。联合创始人姓名在 EU-Startups 正文中同时出现 Victor 与 Viktor 两种写法。收入和合同规模未披露。"
+  },
+  {
+    "id": "sequent-2-2m-pre-seed-alan-formal-verification",
+    "date_collected": "2026-11-26",
+    "status": "new",
+    "type": "both",
+    "name": "Sequent",
+    "one_liner": "伦敦形式化验证公司 Sequent 于 11 月 25 日宣布获得 220 万美元预种子轮，由 Frachtis 与 Jaan Tallinn 的 Metaplanet 联合领投；去中心化交易所 Curve Finance 是首个付费客户，Alan 个人订阅起价每月 99 美元",
+    "category": "编程开发",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "Sequent 于 2026 年 1 月在伦敦成立，CEO Charles Cooper 是以太坊智能合约语言 Vyper 的开发负责人，CTO Ramana Kumar 曾在 Google DeepMind 做 AI 安全研究，并长期参与定理证明器 HOL4。产品 Alan 让工程师用自然语言写下安全规则，由 AI 寻找数学证明，再交由 HOL4 检查，当前先覆盖 Vyper 智能合约，并计划扩展到 Solidity、Solana 以及 Rust、C、TypeScript 和 Python。SiliconANGLE 2026 年 11 月 25 日报道，公司宣布获得 220 万美元新资金，用于把 Alan 带出早期访问；该预种子轮由 Frachtis 与 Metaplanet Holdings OÜ 联合领投，后者是 Skype 联合创始人、曾领投 Anthropic 2021 年 A 轮的 Jaan Tallinn 的投资公司。报道写明，去中心化交易所 Curve Finance 是首个付费客户；Alan 个人订阅起价每月 99 美元，审计方案每月 200 美元，团队方案起价每月 500 美元。Tech.eu 同日报道了同一轮次。收入、客户总数和估值未披露。",
+    "metrics": [
+      {
+        "label": "融资（媒体）",
+        "value": "SiliconANGLE 2026-11-25：Sequent today announced that it has raised $2.2 million，Frachtis 与 Metaplanet Holdings OÜ 联合领投。Tech.eu 同日核对了 220 万美元预种子轮及 Jaan Tallinn 背景。估值未披露",
+        "source_type": "媒体报道",
+        "source_url": "https://siliconangle.com/2026/11/25/formal-verification-startup-sequent-raises-2-2m-to-prove-code-obeys-its-safety-rules/"
+      },
+      {
+        "label": "客户与定价（媒体）",
+        "value": "SiliconANGLE 写明 Decentralized exchange Curve Finance is its first paying customer；Subscriptions to Alan start at $99 a month for individuals，auditor plans $200 a month，team plans starting at $500 a month。付费客户数量、ARR 和实际采用深度未披露",
+        "source_type": "媒体报道",
+        "source_url": "https://siliconangle.com/2026/11/25/formal-verification-startup-sequent-raises-2-2m-to-prove-code-obeys-its-safety-rules/"
+      }
+    ],
+    "why_it_works": "测试只能说明“试过的路径没坏”，形式化验证要证明规则在所有情况下都成立。Sequent 让 AI 去找证明，但不信任 AI 的自我声明，每一条证明都必须通过 HOL4。用智能合约作切入口是因为链上代码难以事后修补，而首个付费客户恰恰是曾因编译器缺陷遭受重大损失的 Curve。定价已经公开，但目前仍是单个具名客户和预种子阶段。",
+    "takeaway": "220 万美元、联合领投方、Curve 作为首个付费客户以及三级订阅价格，都有 SiliconANGLE 与 Tech.eu 交叉。本条证明的是“AI 辅助形式化验证已经开始卖给真实协议”，而不是已经做成大规模 ARR。未见公司单独新闻稿。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": [
+      "预种子轮",
+      "220万美元",
+      "形式化验证",
+      "智能合约",
+      "付费客户"
+    ],
+    "website": "https://sequent.inc",
+    "sources": [
+      "https://siliconangle.com/2026/11/25/formal-verification-startup-sequent-raises-2-2m-to-prove-code-obeys-its-safety-rules/",
+      "https://tech.eu/2026/11/25/anthropic-backer-jann-tallinn-backs-sequent/"
+    ],
+    "uncertain_points": "未见公司官方新闻稿。付费客户目前公开具名的只有 Curve，收入和估值未披露。Alan 仍在早期访问，对 Solidity 等语言的支持尚在开发中。"
+  },
+  {
+    "id": "dante-security-10m-seed-ai-agent-accountability",
+    "date_collected": "2026-11-26",
+    "status": "new",
+    "type": "profitable",
+    "name": "Dante Security",
+    "one_liner": "The Next Web 等 11 月 24 日报道，特拉维夫与纽约的 Dante Security 以 1000 万美元种子轮走出隐身，由 NFX 领投；公司称首批付费客户已开始接入，但未具名",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "Dante Security 总部位于特拉维夫和纽约，由前 Imperva 以色列业务及全球产品负责人 Moshe Lipsker、Imperva 老将 Gabi Beyo 与连续创业者 Shai Feinberg 创办，成立不到一年。产品用于发现企业里正在运行的 AI Agent（包括未经安全或预算审批的），追溯每个 Agent 被要求做什么、实际做了什么、触达了哪些系统和数据，并为每个 Agent 指定一名人类负责人。The Next Web 2026 年 11 月 24 日 13:00 UTC 报道，公司以 1000 万美元种子轮走出隐身，由 NFX 领投，Alpha Drive、Inovia 和其他未具名私人投资者参与。报道写明，公司测试了 Anthropic、OpenAI、Meta 和 xAI 的 Agent，称它们可能被伪造网页诱导去执行原本会拒绝的任务；Dante 称其平台能拼出 Agent 做了什么并找到负责人。公司还称 first paying customers are already coming on board，但未公布客户名称、数量或收入。Ctech、Ynet 等亦报道了这轮 1000 万美元种子轮。估值未披露。",
+    "metrics": [
+      {
+        "label": "融资（媒体）",
+        "value": "The Next Web 2026-11-24 报道：Dante Security has come out of stealth with $10M in seed funding，NFX 领投，Alpha Drive、Inovia 等参与。Ctech、Ynet 亦报道同一轮次。估值未披露",
+        "source_type": "媒体报道",
+        "source_url": "https://thenextweb.com/news/dante-security-10m-ai-agent-accountability"
+      },
+      {
+        "label": "客户进展（媒体转述公司）",
+        "value": "TNW 转述 the company says its first paying customers are already coming on board，未具名客户，也未披露数量、合同或 ARR。Agent 诱导实验结果为公司自家测试口径",
+        "source_type": "创始人自述",
+        "source_url": "https://thenextweb.com/news/dante-security-10m-ai-agent-accountability"
+      }
+    ],
+    "why_it_works": "企业安全工具长期回答“谁有钥匙”，却回答不了“这个 Agent 刚才以谁的权限做了什么”。Dante 把发现、追溯和人类责任人写成同一套产品，投资方是 NFX 等安全与企业软件背景的基金。1000 万美元足以支撑它走出隐身，但“首批付费客户正在接入”还只是公司自己的一句进展，没有具名验证。",
+    "takeaway": "融资金额和领投方有多家媒体交叉，产品问题定义清楚，但经营信号偏弱：付费客户未具名，也没有收入数字。本条于 11 月 24 日 13:00 UTC（北京时间 21:00）发布，落在昨日窗口，今日按漏收补录。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": [
+      "种子轮",
+      "1000万美元",
+      "Agent安全",
+      "走出隐身",
+      "NFX"
+    ],
+    "website": "https://www.dantesecurity.ai",
+    "sources": [
+      "https://thenextweb.com/news/dante-security-10m-ai-agent-accountability",
+      "https://www.calcalistech.com/ctechnews/article/h18nob7kml"
+    ],
+    "uncertain_points": "首批付费客户仅有公司“正在接入”的表述，无名称和数量。估值未披露。针对多家模型公司 Agent 的诱导测试为公司自述。本条于 11 月 24 日 13:00 UTC 发布，属于昨日窗口漏收补录。"
+  },
+  {
+    "id": "xunhe-tens-of-millions-cny-seed-aiboss",
+    "date_collected": "2026-11-26",
+    "status": "new",
+    "type": "profitable",
+    "name": "迅合科技",
+    "one_liner": "36氪 11 月 25 日报道，迅合科技完成来自产业方的数千万元人民币种子轮，打造面向中小企业老板的经营智能体 AIBOSS；公司称已积累 700 余个企业 AI 交付项目，投资方未具名",
+    "category": "企业服务",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "迅合科技做面向中小企业老板的 Boss Personal Agent，核心产品为 AIBOSS，希望结合老板个人知识库、经营数据分析和场景技能，帮助经营者在获客、销售转化和组织效率等问题上做判断并推动执行。落地方式采用前沿部署工程师（FDE）进入客户现场做需求梳理、工具配置和流程接入，并借助企业 AI 培训触达老板。36氪 2026 年 11 月 25 日 16:42 报道，公司宣布完成来自产业方的数千万元人民币种子轮，资金将主要用于 AIBOSS 研发、企业知识库建设及重点行业场景落地，优先实体零售连锁、制造业和教育培训。报道转述，团队已积累 700 余个企业 AI 交付项目经验，覆盖制造业、实体连锁、教育培训等行业。创始人兼 CEO 何理有企业培训与连续创业背景，联合创始人兼 CTO 包季真曾任阿里钉钉 P9 资深产品专家、钉钉 AI 原生产品负责人。界面新闻等转载了同一轮次。本轮投资方只被写作“产业方”，未具名；精确金额、估值、经常性收入和付费客户数未披露。",
+    "metrics": [
+      {
+        "label": "融资（媒体）",
+        "value": "36氪 2026-11-25 报道：迅合科技宣布完成来自产业方的数千万元人民币种子轮。界面新闻等转载。投资方未具名，精确金额和估值未披露",
+        "source_type": "媒体报道",
+        "source_url": "https://www.36kr.com/p/4084926224755333"
+      },
+      {
+        "label": "交付经验（媒体转述公司）",
+        "value": "36氪转述公司介绍：团队已积累 700 余个企业 AI 交付项目经验，覆盖制造业、实体连锁、教育培训等。该数字是交付项目经验，不等于 AIBOSS 的付费客户数或 ARR，亦未见客户具名",
+        "source_type": "创始人自述",
+        "source_url": "https://www.36kr.com/p/4084926224755333"
+      }
+    ],
+    "why_it_works": "中小企业并不缺一套又一套岗位软件，缺的是老板能把分散在销售、财务和投放里的信息收拢成一个判断。迅合把 Personal Agent 的切口放在老板而不是单一点位员工，并用培训和驻场交付去接近真实经营问题。数千万元种子轮说明有产业资本愿意先下一注，但投资方未具名，700 余个项目也是过往交付经验，还不能直接当成新产品已经规模化收费。",
+    "takeaway": "产品方向清楚，创始团队背景可核对，但本条偏早期：投资方不具名，金额只到“数千万元”，700 余个项目是公司自述的历史交付而非 AIBOSS 的经审计收入。因 36氪与界面新闻有交叉，仍作为当天中国应用侧条目收录，并保留上述存疑。",
+    "innovation_score": 3,
+    "business_score": 3,
+    "tags": [
+      "种子轮",
+      "数千万元",
+      "Personal Agent",
+      "中小企业",
+      "AIBOSS"
+    ],
+    "website": "https://xunhe-ai.com",
+    "sources": [
+      "https://www.36kr.com/p/4084926224755333",
+      "https://www.jiemian.com/article/15366148.html"
+    ],
+    "uncertain_points": "投资方仅称“产业方”，未具名。数千万元不是精确金额，估值未披露。700 余个企业 AI 交付项目为公司自述的历史经验，不能等同于 AIBOSS 付费客户或经常性收入。客户未具名。"
+  }
+]
