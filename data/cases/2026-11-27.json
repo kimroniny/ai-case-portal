@@ -1,0 +1,388 @@
+[
+  {
+    "id": "nextesy-10-4m-seed-swiss-sme-ai-bookkeeping",
+    "date_collected": "2026-11-27",
+    "status": "new",
+    "type": "both",
+    "name": "nextesy",
+    "one_liner": "苏黎世 AI 创业公司 nextesy 官方宣布完成 1040 万美元种子轮，由 Swisscom Ventures 领投；领投方称上线后不久已有超过 2000 名客户，产品面向瑞士中小企业、自由职业者和信托机构做记账与行政自动化",
+    "category": "生产力办公",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "nextesy 总部位于苏黎世，自称是苏黎世联邦理工学院（ETH Zurich）与圣加仑大学（HSG）创业生态中的创业公司，面向中小企业、自由职业者和信托机构，从底层用 AI 自动化记账、单据处理和行政流程，并计划把 AI 智能体做到可自动完成年结。公司与领投方 Swisscom Ventures 于 2026 年 11 月 26 日同步宣布，nextesy 完成总计 1040 万美元的种子轮，由 Swisscom Ventures 领投，HIAG Beteiligung Holding AG、Fifth Quarter Ventures、Herbert VC、Look AI Ventures 以及多名天使投资人参与。Swisscom Ventures 管理合伙人 Stefan Kuentz 表示，中小企业花在记账运营上的钱远多于花在记账软件上，并写明“上线后不久超过 2000 名客户”说明市场需求已经存在。Startup.eu 同日报道核对了融资金额与投资方，并写明公司自己也报告拥有 2000 多名客户。随本轮交割，Milan Kuzmanovic 博士出任联合首席执行官；资金将主要用于扩大瑞士本地销售与市场、推进 AI 智能体，并在 2027 年左右走向国际化。公司还称自己入围赫尔辛基 Slush 的前 20 名，并自称这是瑞士 AI 领域规模较大的种子轮之一。估值未披露。",
+    "metrics": [
+      {
+        "label": "融资（官方 / 领投方）",
+        "value": "nextesy 与 Swisscom Ventures 官方通稿均写明 closed a seed funding round totalling USD 10.4 million，由 Swisscom Ventures 领投，HIAG Beteiligung Holding AG、Fifth Quarter Ventures、Herbert VC、Look AI Ventures 及天使投资人参与。估值未披露。公司自称属于瑞士 AI 领域规模较大的种子轮之一，这是自我表述，不是独立排名",
+        "source_type": "官方公布",
+        "source_url": "https://nextesy.com/en-ch/press-releases/nextesy-seed-round-usd-10-4m"
+      },
+      {
+        "label": "客户数（领投方 / 公司口径）",
+        "value": "Swisscom Ventures 管理合伙人 Stefan Kuentz 在官方通稿中写明 More than 2,000 customers shortly after market launch。Startup.eu 报道称 The company reports that it has more than 2,000 customers since entering the market。2000 是公司与投资方口径，付费与免费、客单价、留存和 ARR 均未披露，不宜把客户数直接换算成收入",
+        "source_type": "投资方披露",
+        "source_url": "https://ventures.swisscom.com/nextesy-closes-usd-10-4-million-seed-round-swisscom-ventures-leads-financing-of-zurich-ai-startup/"
+      }
+    ],
+    "why_it_works": "中小企业真正花钱的地方往往不是再买一套记账软件，而是请人把单据、分录和年结做完。nextesy 把这件事做成从一开始就用 AI 跑的后台，而不是在旧软件上加一个聊天框。1040 万美元种子轮和领投方口中的 2000 多名客户，说明至少在瑞士这个市场里，已经有一批企业愿意把账交给这样的产品。下一步要看的，是这些客户是不是付费留存，以及智能体能不能真的把年结做到可审计，而不是只把销售故事讲到国际市场。",
+    "takeaway": "这是本窗口交叉来源最清楚、客户数字也写进了领投方通稿的一条：1040 万美元有公司与 Swisscom Ventures 官方核对，2000 多名客户来自领投方和公司口径，不是第三方审计。不要把“瑞士较大种子轮”写成排行榜结论，也不要把客户数乘成收入。本条于 11 月 26 日在苏黎世宣布，落在本次窗口内，不是补录。",
+    "innovation_score": 3,
+    "business_score": 4,
+    "tags": [
+      "种子轮",
+      "1040万美元",
+      "中小企业",
+      "记账自动化",
+      "瑞士"
+    ],
+    "website": "https://www.nextesy.com",
+    "sources": [
+      "https://nextesy.com/en-ch/press-releases/nextesy-seed-round-usd-10-4m",
+      "https://ventures.swisscom.com/nextesy-closes-usd-10-4-million-seed-round-swisscom-ventures-leads-financing-of-zurich-ai-startup/",
+      "https://www.startup.eu/investments/nextesy-10-4-m-seed-11-2026"
+    ],
+    "uncertain_points": "超过 2000 名客户为领投方与公司口径，市场发布的具体日期、付费比例、客单价、留存和 ARR 未披露。估值未公布。“瑞士 AI 领域较大种子轮之一”和 Slush Top 20 均为公司或投资方表述。联合首席执行官的具体股权与治理安排未说明。"
+  },
+  {
+    "id": "genesight-huayuan-zhiyin-over-100m-cny-angel-aivc",
+    "date_collected": "2026-11-27",
+    "status": "new",
+    "type": "both",
+    "name": "华源智因（GeneSight）",
+    "one_liner": "AI 虚拟细胞公司华源智因官方宣布完成超亿元天使轮，由华盖资本领投；新京报援引公司称已在超一线三甲医院完成 27 例真实患者药效预测，并就一款临床二期 First in Class 小分子药物签下首个商业化订单",
+    "category": "医疗健康",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "华源智因（GeneSight）是北京的 AI 虚拟细胞（AIVC）公司，做细胞多模态数据与药效预测，服务药物研发中的靶点解析、筛选与重定位、毒性评估和患者分层。公司 2026 年 11 月 26 日宣布完成超亿元天使轮，由华盖资本领投，华方资本、华映资本、梅花创投（及中珠医疗）、同新基金、讯飞创投、启赋资本跟投，向阳资本担任长期独家财务顾问。投中网、投资界与新京报贝壳财经均核对了这一轮次和投资方。新京报援引创始人杜润诗称，公司从落地场景出发服务药企临床需求；并写明公司交出的临床成绩单：在超一线三甲医院完成的 27 例真实患者药效预测符合临床真实表现，并在一款处于临床二期的 First in Class 小分子药物上做患者药效预测与机制解析，首次把虚拟细胞工具切入临床管线，同时签署商业化订单。智通财经还写明，这是华源智因在约 4 个月内完成的第二笔融资，公司已联合十余家头部三甲医院以及类器官芯片公司大橡科技合作，并自研 UniOme 单细胞多模态测序平台。36氪同日首发报道中，团队强调人源扰动数据和同细胞多模态对齐，并提到未来有望按项目进度收取里程碑付款与分成。本轮准确金额、估值和该上市公司委托方名称均未披露。",
+    "metrics": [
+      {
+        "label": "融资（公司宣布 / 媒体）",
+        "value": "公司 2026-11-26 宣布完成超亿元天使轮，华盖资本领投，华方资本、华映资本、梅花创投（及中珠医疗）、同新基金、讯飞创投、启赋资本跟投。投资界、投中网与新京报贝壳财经均报道了同一轮次。准确金额与估值未披露。智通财经称这是约 4 个月内的第二笔融资，上一轮金额未见本窗口详细披露",
+        "source_type": "官方公布",
+        "source_url": "https://www.bjnews.com.cn/detail/1795658189129289.html"
+      },
+      {
+        "label": "临床预测与首个商业化订单（媒体转述公司）",
+        "value": "新京报贝壳财经写明：在超一线三甲医院完成的 27 例真实患者药效预测符合临床真实表现；在一款临床二期 First in Class 小分子药物上做药效预测与机制解析，并签署商业化订单。智通财经称合作对象为拥有众多临床管线的上市公司，并签署里程碑付款协议。27 例为公司口径的小样本结果，委托方名称、合同金额和独立临床试验验证均未公开",
+        "source_type": "创始人自述",
+        "source_url": "https://www.bjnews.com.cn/detail/1795658189129289.html"
+      }
+    ],
+    "why_it_works": "虚拟细胞故事讲了很多年，投资人现在更想看到的是药企愿不愿意为某一条临床管线付钱。华源智因没有把“超亿元天使轮”写成更大模型的广告，而是把数据、医院联合实验室和药效预测绑在同一条交付链上。27 例真实患者预测和首个商业化订单说明它已经离开纯论文阶段，但样本仍小，委托方也还没有具名。下一步要看的，是里程碑付款会不会真的付出来，以及人源数据能不能在更多适应症上被重复使用。",
+    "takeaway": "超亿元是区间表述，不是精确金额；27 例预测“符合临床真实表现”和首个商业化订单来自公司及创始人口径，新京报作了转述，但不是经过同行评审的临床试验结论。委托方上市公司名称和订单金额未披露。智通财经提到 4 个月内第二笔融资，不宜把两轮金额加总成一个数字。",
+    "innovation_score": 4,
+    "business_score": 4,
+    "tags": [
+      "天使轮",
+      "超亿元",
+      "AI虚拟细胞",
+      "药效预测",
+      "商业化订单"
+    ],
+    "website": "https://genesight.cn",
+    "sources": [
+      "https://www.36kr.com/p/4084622369516167",
+      "https://www.bjnews.com.cn/detail/1795658189129289.html",
+      "https://www.pedaily.cn/first/195629.shtml",
+      "https://finance.sina.com.cn/tech/roll/2026-11-26/doc-inizzmzi9041590.shtml"
+    ],
+    "uncertain_points": "“超亿元”不是精确金额，估值未披露。27 例药效预测为公司口径小样本，未见同行评审论文或独立复核。商业化订单的委托方名称、金额、付款条件和里程碑均未公开。智通财经所称 4 个月内第二笔融资，上一轮细节未见本窗口完整披露。官网 genesight.cn 在本运行中访问返回错误，域名是否为稳定官网仍需后续确认。"
+  },
+  {
+    "id": "watersense-5-75m-eur-preseed-grant-water-intelligence",
+    "date_collected": "2026-11-27",
+    "status": "new",
+    "type": "both",
+    "name": "WaterSense",
+    "one_liner": "华沙水质监测公司 WaterSense 获得总计 575 万欧元的预种子股权与科研资助；其中约 225 万欧元为 b2venture 与 Movens Capital 联合领投的股权，350 万欧元为波兰国家研究发展中心（NCBR）不稀释资助",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "WaterSense 由 Filip Budny 在华沙创办，技术源自其在华沙工业大学的博士研究。公司做水质智能监测：自主监测站使用大量低成本印刷微型传感器并每日自动更换，以减轻生物污损；数据进入 AI 平台，结合卫星观测，用深度学习预测水质变化，最长展望 72 小时，再由智能体给出告警和操作建议。客户按数据即服务（Data-as-a-Service）订阅付费。The Recursive 与 Tech.eu 于 2026 年 11 月 26 日报道，WaterSense 获得总计 575 万欧元（约 660 万美元）资金，其中 350 万欧元为波兰国家研究发展中心（NCBR）不稀释科研资助，其余约 225 万欧元为预种子股权融资，由 b2venture 与 Movens Capital 联合领投，vastpoint 参与。The Recursive 写明公司目前为波兰、德国、奥地利、瑞士四国超过 30 家客户监测 80 余个点位，客户包括工业企业、水务公司、城市和地区当局，并援引奥地利基茨比厄尔 Schwarzsee 委员会主席 Rudolf Widmoser 的评价。创始人向 The Recursive 称，72 小时窗口结束时预测误差约为 5% 至 8%。资金将用于沿奥德河做整条水系的规模化部署，并继续在欧洲加密监测网。不要把 575 万欧元全部写成股权融资。",
+    "metrics": [
+      {
+        "label": "资金结构（媒体核对）",
+        "value": "The Recursive 2026-11-26 写明总计 €5.75M，其中 €3.5M 为 NCBR 不稀释资助，remaining €2.25M or so is equity investment，由 b2venture 与 Movens Capital 联合领投，vastpoint 参与。Tech.eu 同日写明 combination of grants and a pre-seed round，但未在正文中拆分两项金额。估值未披露",
+        "source_type": "媒体估算",
+        "source_url": "https://www.therecursive.com/warsaw-based-watersense-raises-eur5-75m-to-predict-water-pollution-up-to-72-hours-ahead/"
+      },
+      {
+        "label": "部署与客户（媒体转述公司）",
+        "value": "The Recursive 写明 more than 80 measuring points for over 30 customers in Poland, Germany, Austria, and Switzerland，并点名奥地利基茨比厄尔的 Schwarzsee。Tech.eu 写明 monitors more than 80 locations for over 30 customers across four countries。预测误差 5%–8% 为创始人向 The Recursive 的表述，未见独立基准。订阅单价和 ARR 未披露",
+        "source_type": "媒体报道",
+        "source_url": "https://www.therecursive.com/warsaw-based-watersense-raises-eur5-75m-to-predict-water-pollution-up-to-72-hours-ahead/"
+      }
+    ],
+    "why_it_works": "水质监测长期靠人工采样和实验室，发现污染时往往已经晚了。WaterSense 把可更换的廉价传感器、卫星数据和 72 小时预测做成一门订阅，让水务公司和市政当局先买数据，而不是先买一座难以维护的站点。575 万欧元里有一多半是不稀释的科研资助，真正的股权只有约 225 万欧元，这一点必须分开写。它已经在四国铺了 80 多个点，下一步要看奥德河整条水系能不能从试点变成可核对的续费网络。",
+    "takeaway": "575 万欧元是股权加资助的合计，不能写成单笔 575 万欧元预种子轮。The Recursive 把结构写清楚了，Tech.eu 只写了“资助+预种子”的组合。客户数、点位和预测误差都是公司或创始人口径。本条于 11 月 26 日见报，落在本次窗口内。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": [
+      "预种子轮",
+      "575万欧元合计",
+      "水质监测",
+      "数据即服务",
+      "科研资助"
+    ],
+    "website": "https://watersense.pl/",
+    "sources": [
+      "https://www.therecursive.com/warsaw-based-watersense-raises-eur5-75m-to-predict-water-pollution-up-to-72-hours-ahead/",
+      "https://tech.eu/2026/11/26/watersense-raises-eur575m-to-build-europes-water-intelligence-infrastructure/",
+      "https://www.eu-startups.com/2026/11/warsaw-based-watersense-secures-e5-75-million-to-build-and-scale-water-intelligence-infrastructure-across-europe/"
+    ],
+    "uncertain_points": "575 万欧元含 350 万欧元 NCBR 不稀释资助，股权部分约为 225 万欧元，不能写成纯股权融资。80 余个点位、30 余家客户和 5%–8% 预测误差均为公司或创始人口径。订阅单价、合同期限和 ARR 未披露。本运行未抓取到公司自己的融资公告原文。"
+  },
+  {
+    "id": "xebo-ai-10-5m-series-a-emirates-growth-fund",
+    "date_collected": "2026-11-27",
+    "status": "new",
+    "type": "profitable",
+    "name": "XEBO.ai",
+    "one_liner": "迪拜体验管理公司 XEBO.ai 通过 PR Newswire 宣布获得阿联酋增长基金（EGF）1050 万美元 A 轮投资，为公司首个机构投资者；官方称已服务超过 350 家机构、员工超过 100 人",
+    "category": "客服销售",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "XEBO.ai 由 Yash Sultania 与 Anand Nigam 于 2017 年在迪拜创办，做 AI 原生的体验管理平台，把问卷调查、社交媒体监听和旅程映射用在客户体验、员工体验和市场研究上，把反馈变成可执行的洞察。公司 2026 年 11 月 26 日通过 PR Newswire 发布官方通稿，宣布获得阿联酋增长基金（Emirates Growth Fund，EGF）1050 万美元融资，并写作 Series A；EGF 是其首个机构投资者，该基金由阿联酋发展银行支持。资金将用于加深客户之声产品，扩展通话与数字体验分析，并在平台上推进智能体式 AI；同时扩大海湾合作委员会市场、在美国建立业务，并招聘高级管理人员。通稿写明公司已服务超过 350 家机构，覆盖银行、航空、电信、保险、零售、公共部门和医疗等 10 多个行业，客户分布在 EMEA、亚太和北美，员工超过 100 人，在美国、阿联酋、印度和沙特阿拉伯设有办公室，并称获得过 Gartner、IDC 和 Forrester 认可。Unite.AI 同日报道核对了融资金额、投资方和 350 家机构、100 多名员工这组数字。估值、收入和客单价均未披露。公司已成立约九年才引入首个机构投资者，因此不宜按常规“年轻 A 轮公司”来理解。",
+    "metrics": [
+      {
+        "label": "融资（官方）",
+        "value": "XEBO.ai 2026-11-26 PR Newswire 通稿写明 has raised US $10.5 million in funding from Emirates Growth Fund，并称 EGF becomes its first institutional investor。Unite.AI 同日核对了 1050 万美元和“首个机构投资者”表述。估值与此前天使或自筹金额未披露",
+        "source_type": "官方公布",
+        "source_url": "https://www.prnewswire.com/news-releases/xeboai-raises-10-5-million-in-series-a-funding-from-emirates-growth-fund-302951035.html"
+      },
+      {
+        "label": "客户与团队规模（官方）",
+        "value": "官方通稿写明 served more than 350 organisations across more than 10 industries，employs more than 100 people，办公室位于美国、阿联酋、印度和沙特阿拉伯。付费结构、续约率和收入未披露。Gartner、IDC、Forrester 认可为公司自述，未附具体报告名称与名次",
+        "source_type": "官方公布",
+        "source_url": "https://www.prnewswire.com/news-releases/xeboai-raises-10-5-million-in-series-a-funding-from-emirates-growth-fund-302951035.html"
+      }
+    ],
+    "why_it_works": "体验管理是一块已经被问卷系统和咨询公司占了很久的市场，XEBO.ai 的卖点是用 AI 把客户和员工反馈收进同一套可以采取行动的系统，而不是再卖一份报表。1050 万美元来自阿联酋主权背景的成长基金，客户数和团队规模也写进了官方通稿，说明这不是一家刚起步的实验室公司。缺的是收入和续约，所以还不能判断它是不是已经从项目制走到了可扩展的软件订阅。",
+    "takeaway": "融资和 350 家机构、100 多名员工都可以回到官方通稿，Unite.AI 作了交叉。估值、收入和“分析机构认可”的具体报告未给出。首个机构投资者出现在成立约九年之后，不要按典型硅谷 A 轮公司的阶段去类比。",
+    "innovation_score": 3,
+    "business_score": 4,
+    "tags": [
+      "A轮",
+      "1050万美元",
+      "体验管理",
+      "阿联酋",
+      "企业客户"
+    ],
+    "website": "https://www.xebo.ai/",
+    "sources": [
+      "https://www.prnewswire.com/news-releases/xeboai-raises-10-5-million-in-series-a-funding-from-emirates-growth-fund-302951035.html",
+      "https://www.unite.ai/xebo-ai-raises-10-5m-series-a-to-expand-agentic-ai-and-analytics/"
+    ],
+    "uncertain_points": "估值、收入、客单价和续约率未披露。Gartner、IDC、Forrester 认可仅为公司通稿自述，未见具体报告或象限位置。EGF 为“首个机构投资者”，此前资本结构和是否有天使轮未说明。Unite.AI 文末注明文章由 AI 生成并经编辑审阅，关键数字仍以官方通稿为准。"
+  },
+  {
+    "id": "cournot-5m-strategic-verifiable-ai-oracle",
+    "date_collected": "2026-11-27",
+    "status": "new",
+    "type": "both",
+    "name": "Cournot",
+    "one_liner": "链上 AI 预言机 Cournot 在 11 月 26 日宣布获得 Paper Ventures 与 Beam Foundation 联合领投的 500 万美元战略融资；Decrypt 转述公司称 Resolution Oracle 已结算名义本金超过 14.1 亿美元、完成逾 2.92 万次决议，且业务已经盈利",
+    "category": "法律金融",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "Cournot 做面向链上应用和 AI 智能体的 AI 原生预言机：不只是把价格等结构化数据送上链，而是用 AI 判断现实世界事件是否满足约定条件，并把来源、推理步骤和结论做成可审计的“推理证明”（Proof of Reasoning）。公司在 2026 年 11 月 26 日通过其官方账号宣布，获得由 Paper Ventures 与 Beam Foundation 联合领投的 500 万美元战略融资，此轮前还接受过 YZi Labs（币安创始人赵长鹏的投资机构）EASY Residency 第三季的孵化支持。Decrypt 与 CryptoBriefing 同日报道核对了这一轮次。Decrypt 转述公司口径：截至 2026 年 11 月 25 日，Resolution Oracle 已结算超过 14.1 亿美元名义本金，完成逾 2.92 万次决议，其中 99.8% 无争议完结，近三个月决议量增长五倍，并称业务已经盈利。CryptoBriefing 同样写到 2.92 万次决议、14.1 亿美元名义本金和 99.8% 无争议，并指出名义本金是依赖其裁决的头寸面值，不等于公司收取的手续费；该文还写明 Cournot 是事件交易协议 42 的官方决议层，并已在 Myriad Markets 上线。资金将用于产品、BNB Chain 等生态集成，以及真实世界资产、交易、参数保险、私募信贷和 AI 智能体等方向。CryptoBriefing 提到计划中的网络代币 COURT 尚未发行。估值未披露。",
+    "metrics": [
+      {
+        "label": "融资（公司宣布 / 媒体）",
+        "value": "公司 2026-11-26 宣布 raised $5M co-led by Paper Ventures and Beam Foundation，此前还有 YZi Labs EASY Residency Season 3 支持。Decrypt 与 CryptoBriefing 均核对了金额与联合领投方。估值和本轮股权比例未披露",
+        "source_type": "官方公布",
+        "source_url": "https://decrypt.co/384036/cournot-raises-5m-to-build-ai-native-oracle-for-verifiable-intelligence"
+      },
+      {
+        "label": "结算规模与盈利（公司口径 / 媒体转述）",
+        "value": "Decrypt 转述公司称：截至 2026-11-25，settled more than $1.41 billion in notional value across more than 29,200 resolutions，99.8% finalized without a dispute，近三个月决议量增长五倍，and that the business is already profitable。CryptoBriefing 核对了决议次数、名义本金和争议率，并明确名义本金不同于手续费收入；该文未复述“已经盈利”。收入、手续费率与审计报表均未公布",
+        "source_type": "创始人自述",
+        "source_url": "https://decrypt.co/384036/cournot-raises-5m-to-build-ai-native-oracle-for-verifiable-intelligence"
+      }
+    ],
+    "why_it_works": "智能合约可以精确转账，却不知道比赛是谁赢了、保单条件成没成立。Cournot 把“判断发生了什么”做成可回溯的推理记录，既服务预测市场，也想卖给需要自动理赔或自动交易的智能体。14.1 亿美元是名义本金，不是收入；“已经盈利”目前只出现在 Decrypt 对公司的转述里。下一步要看的，是手续费能不能在预测市场之外的保险和信贷场景里被独立核对。",
+    "takeaway": "500 万美元融资有公司宣布和两家媒体交叉。14.1 亿美元是已结算头寸的名义本金，绝不能写成公司收入。盈利、决议量和 99.8% 无争议都是公司口径；CryptoBriefing 核对了前三项使用数据，但没有复述盈利。计划中的 COURT 代币尚未发行，不要把任何提前出现的同名代币当成官方代币。",
+    "innovation_score": 4,
+    "business_score": 3,
+    "tags": [
+      "战略融资",
+      "500万美元",
+      "AI预言机",
+      "链上结算",
+      "预测市场"
+    ],
+    "website": "https://cournot.ai/",
+    "sources": [
+      "https://decrypt.co/384036/cournot-raises-5m-to-build-ai-native-oracle-for-verifiable-intelligence",
+      "https://cryptobriefing.com/cournot-raises-5m-ai-native-oracle/",
+      "https://www.unite.ai/cournot-raises-5m-strategic-funding-to-make-ai-reasoning-verifiable/"
+    ],
+    "uncertain_points": "14.1 亿美元为名义本金，不是收入或手续费。业务“已经盈利”仅见 Decrypt 转述公司口径，CryptoBriefing 未复述，亦无财务报表。99.8% 无争议和近三个月五倍增长均为公司数据。估值未披露。COURT 代币尚未发行。"
+  },
+  {
+    "id": "boden-intelligent-hundreds-of-millions-cny-series-b-physical-ai-data",
+    "date_collected": "2026-11-27",
+    "status": "new",
+    "type": "profitable",
+    "name": "博登智能",
+    "one_liner": "宁波 Physical AI 数据基础设施公司博登智能宣布完成数亿元 B 轮，金雨茂物、甬元基金、粤科创投、招商致远资本、招证投资和宁波高新区科创基金共同参与；本轮公告未披露准确金额、估值和在手订单",
+    "category": "企业服务",
+    "region": "中国",
+    "team_type": "初创公司",
+    "business_model": "博登智能（宁波博登智能科技有限公司）成立于 2019 年，总部位于宁波，定位为 Physical AI 的数据基础设施公司：不自研机器人本体，向具身智能、大模型和自动驾驶客户提供数据供给、评测验证，以及“采—标—训—推”一体化平台，形成“评测诊断—定向采集—复测验证”的数据生产闭环，并把自动驾驶数据处理经验迁移到具身智能数据的规模化生产。36氪快讯和投中网、智通财经于 2026 年 11 月 26 日报道，公司宣布完成数亿元 B 轮融资，由金雨茂物、甬元基金、粤科创投、招商致远资本、招证投资、宁波高新区科创基金共同参与，大璞资本担任本轮财务顾问。资金将重点用于评测验证生态共建、全模态采集体系迭代，以及数据生产平台的工程化升级。本轮没有单一领投方表述，准确金额、估值、收入和客户名单均未在这批报道中披露。此前个别采访中出现过在手订单数字，但未写入本次 B 轮公告，本次不予沿用。",
+    "metrics": [
+      {
+        "label": "融资（公司宣布 / 媒体）",
+        "value": "36氪 2026-11-26 15:07 快讯、投中网和智通财经均称公司宣布完成数亿元 B 轮，投资方为金雨茂物、甬元基金、粤科创投、招商致远资本、招证投资、宁波高新区科创基金，大璞资本任财务顾问。报道使用“共同参与”，未写明单一领投。准确金额与估值未披露",
+        "source_type": "媒体报道",
+        "source_url": "https://www.36kr.com/newsflashes/4086248989485446"
+      }
+    ],
+    "why_it_works": "具身智能和大模型都缺高质量真实世界数据，博登智能选择不做本体、只做评测和数据闭环，把自动驾驶里已经跑通的采集与标注能力搬到新的身体上。数亿元 B 轮说明这条基础设施路线仍能拿到产业和政府背景资金，但本轮公告几乎没有经营数字，所以还不能判断它的订单是否已经变成可核对的收入。",
+    "takeaway": "只把本轮写成“数亿元 B 轮、多家机构共同参与”，不要补一个精确金额，也不要把旧访谈里的在手订单写进这次更新。客户结构和收入需等公司或更完整的报道再跟进。",
+    "innovation_score": 3,
+    "business_score": 3,
+    "tags": [
+      "B轮",
+      "数亿元",
+      "Physical AI",
+      "数据基础设施",
+      "评测验证"
+    ],
+    "website": "https://www.bodenai.com/",
+    "sources": [
+      "https://www.36kr.com/newsflashes/4086248989485446",
+      "https://www.chinaventure.com.cn/news/114-20261126-394213.html",
+      "https://www.zhitongcaijing.com/content/detail/1529289.html"
+    ],
+    "uncertain_points": "“数亿元”不是精确金额，估值未披露，报道未写明单一领投方。本轮公告未给出客户名称、收入或在手订单。此前媒体访谈中的订单数字未在本次公告中出现，故不写入本条指标。"
+  },
+  {
+    "id": "audun-3m-pre-seed-ai-native-debt-collection",
+    "date_collected": "2026-11-27",
+    "status": "new",
+    "type": "both",
+    "name": "Audun",
+    "one_liner": "奥斯陆 AI 原生债务催收公司 Audun 宣布获得 300 万美元预种子轮，投资方包括 Alliance VC、Y Combinator 和 Robinhood Ventures；Tech.eu 称其已于 2026 年 9 月取得挪威催收牌照，服务数十家客户",
+    "category": "法律金融",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "Audun 由 Peter Flo、Magnus Vonen、Jacob Hambro 和 Henrik Fevang 在挪威奥斯陆创办，走的不是把软件卖给传统催收公司，而是自己持牌、用 AI 原生平台为债权人做催收：从提醒、协商、付款计划到后台和法务，常规案件交给智能体，复杂对话再交给人。Startup.eu 于 2026 年 11 月 26 日报道，公司完成 300 万美元预种子轮，投资方为 Alliance VC、Y Combinator、Robinhood Ventures、Skyfall Ventures、First Degree 以及欧美天使投资人；联合创始人 Jacob Hambro（首席执行官）宣布了这一轮。Tech.eu 同日报道核对了 300 万美元和上述投资方，并写明公司在 2026 年 9 月获得挪威债务催收牌照，现在服务数十家客户（several dozen clients），新客户每周都在增加，团队 10 人，正在招人并拓展瑞典，计划 2027 年进入更多国际市场。Y Combinator 的公司介绍页将其列为 S26 批次，并写有“可自动化处理最多 90% 的案件”，该比例是公司在 YC 页面上的自述，不是本轮报道核对过的经营审计。估值、催回金额和收入均未披露。",
+    "metrics": [
+      {
+        "label": "融资（媒体）",
+        "value": "Startup.eu 2026-11-26 写明 raised $3 million in pre-seed funding，投资方包括 Alliance VC、Y Combinator、Robinhood Ventures、Skyfall Ventures、First Degree 及天使。Tech.eu 同日核对了 300 万美元和投资方名单，但正文未使用 pre-seed 这一轮次名称。估值未披露",
+        "source_type": "媒体报道",
+        "source_url": "https://www.startup.eu/investments/audun-3-m-pre-seed-11-2026"
+      },
+      {
+        "label": "牌照与客户（媒体转述）",
+        "value": "Tech.eu 写明 Audun received its Norwegian debt collection licence in September 2026 and now serves several dozen clients，团队 10 人，正在拓展瑞典。具体客户名称、案件量和回款金额未披露。Y Combinator 介绍页所称“最多 90% 案件可自动化”为公司自述，未见本轮报道复核",
+        "source_type": "媒体报道",
+        "source_url": "https://tech.eu/2026/11/26/audun-raises-3m-to-modernise-debt-collection-with-ai"
+      }
+    ],
+    "why_it_works": "催收行业长期靠信件、电话中心和上一代软件，费用最后往往转嫁到债务人身上。Audun 选择自己拿牌、自己做机构，而不是给旧催收公司卖一套插件，这样它才能把流程从头到尾换成 AI 处理，只把需要判断的对话留给员工。300 万美元和数十家客户说明这一方向已经有人在付费试用，但规模仍小，自动化 90% 也还只是公司自己的说法。",
+    "takeaway": "300 万美元有 Tech.eu 与 Startup.eu 交叉；预种子轮这一叫法以 Startup.eu 为准，Tech.eu 只写了融资金额。数十家客户和 9 月挪威牌照来自 Tech.eu，不是精确客户数。不要把 YC 页面上的“90% 自动化”写成已经验证的行业指标。",
+    "innovation_score": 3,
+    "business_score": 3,
+    "tags": [
+      "预种子轮",
+      "300万美元",
+      "债务催收",
+      "持牌机构",
+      "Y Combinator"
+    ],
+    "website": "https://audun.co/",
+    "sources": [
+      "https://tech.eu/2026/11/26/audun-raises-3m-to-modernise-debt-collection-with-ai",
+      "https://www.startup.eu/investments/audun-3-m-pre-seed-11-2026",
+      "https://www.ycombinator.com/companies/audun"
+    ],
+    "uncertain_points": "Tech.eu 未在正文中写明预种子轮这一轮次名称，该叫法来自 Startup.eu 等媒体。several dozen 不是精确客户数，客户名称和收入未披露。“最多 90% 案件可自动化”仅见于 YC 公司介绍，不是本轮报道核对的指标。估值未披露。"
+  },
+  {
+    "id": "verra-5m-seed-consulting-institutional-memory",
+    "date_collected": "2026-11-27",
+    "status": "new",
+    "type": "both",
+    "name": "Verra",
+    "one_liner": "咨询公司机构记忆层 Verra 于 11 月 24 日通过 GlobeNewswire 宣布获得 Kearny Jackson 领投的 500 万美元种子轮；官方称商业化后数月内达到七位数收入，并称伯克利研究集团（BRG）已接入顾问中近九成每周使用该产品",
+    "category": "企业服务",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "Verra 由曾在 OpenAI 和 Palantir 工作的 Kashyap Nathan，与曾在德勤工作的 Christopher Farrington 于 2025 年 12 月在纽约创办，定位为咨询公司的机构记忆层：把既往项目、幻灯片和交付物做成带权限、可溯源的知识库，并直接嵌在 Office 文件里，系统部署在客户自己的云中。公司 2026 年 11 月 24 日通过 GlobeNewswire 发布官方通稿，宣布完成 500 万美元种子轮，由 Kearny Jackson 领投，Petra、a16z Speedrun 以及战略天使投资人参与，资金用于产品、招聘和企业知识系统集成。官方通稿写明：Verra reached seven-figure revenues within months of commercialisation；在 Berkeley Research Group，close to 90% of onboarded consultants use Verra weekly，并称节省了数千分析师工时。通稿还写明 The Keystone Group 已在全公司部署，管理合伙人 Amar Shah 提供了具名评价。Kearny Jackson 的 Sriram Krishnan 在通稿中表示，看中的是顾问会真正用起来并持续提出需求。本条为 11 月 24 日已公开、昨日因未能完整抓取官方稿而暂缓的补录，不写成今天才宣布。估值和准确收入数字未披露。",
+    "metrics": [
+      {
+        "label": "融资（官方）",
+        "value": "Verra 2026-11-24 GlobeNewswire 通稿宣布 a $5 million seed round led by Kearny Jackson, with participation from Petra, a16z Speedrun and strategic angel investors。估值未披露",
+        "source_type": "官方公布",
+        "source_url": "https://www.globenewswire.com/news-release/2026/11/24/3409336/0/en/verra-raises-5m-to-unlock-institutional-memory-for-consulting-firms.html"
+      },
+      {
+        "label": "收入与使用率（官方）",
+        "value": "官方通稿写明 reached seven-figure revenues within months of commercialisation；At Berkeley Research Group, close to 90% of onboarded consultants use Verra weekly, saving thousands of analyst hours。七位数是区间表述，不是精确 ARR；90% 仅针对已接入的顾问，不是 BRG 全体顾问。The Keystone Group 已全公司部署，为通稿中的具名客户",
+        "source_type": "官方公布",
+        "source_url": "https://www.globenewswire.com/news-release/2026/11/24/3409336/0/en/verra-raises-5m-to-unlock-institutional-memory-for-consulting-firms.html"
+      }
+    ],
+    "why_it_works": "咨询公司最常见的浪费，是上一个项目已经做过的分析，到下一个项目又被重新找、重新做。Verra 不把通用大模型直接塞进公司，而是把知识留在客户云里、答案必须带出处、并嵌进顾问每天使用的 Office。500 万美元种子轮之外，更值得看的是官方自己写下的七位数收入，以及 BRG 已接入顾问中近九成的周活。下一步要看七位数会不会变成可对外核对的经常性收入，以及它能否从个别业务线扩展到全所。",
+    "takeaway": "这是补录，宣布日是 11 月 24 日，不是今天。融资、七位数收入和 BRG 近 90% 周活都可以回到官方通稿。七位数不是精确 ARR，90% 只覆盖已接入顾问。除 BRG 与 Keystone Group 外，客户名单和合同结构未披露。",
+    "innovation_score": 4,
+    "business_score": 4,
+    "tags": [
+      "种子轮",
+      "500万美元",
+      "咨询",
+      "机构记忆",
+      "补录"
+    ],
+    "website": "https://verra.com/",
+    "sources": [
+      "https://www.globenewswire.com/news-release/2026/11/24/3409336/0/en/verra-raises-5m-to-unlock-institutional-memory-for-consulting-firms.html"
+    ],
+    "uncertain_points": "本条为 11 月 24 日公告的补录。七位数收入是区间，不是经审计的 ARR 或利润。BRG“近 90% 每周使用”仅针对 onboarded consultants。估值未披露。本运行以官方通稿为主要来源，Axios Pro 报道未能完整抓取。"
+  },
+  {
+    "id": "ulys-4m-17m-total-ai-investing-app",
+    "date_collected": "2026-11-27",
+    "status": "new",
+    "type": "profitable",
+    "name": "Ulys",
+    "one_liner": "纽约 AI 投资应用 Ulys 于 11 月 25 日宣布再获 Streamlined Ventures 领投的 400 万美元，累计融资达 1700 万美元；应用刚于 11 月 10 日在 App Store 上线，用户数和收入未披露",
+    "category": "法律金融",
+    "region": "海外",
+    "team_type": "初创公司",
+    "business_model": "Ulys 总部位于纽约，由曾参与 Voyager 早期团队的 Hugo Renaudin 担任首席执行官，CTO 为有斯坦福和 EPFL 背景的 Dylan Bourgeois。用户用自然语言描述自己的判断，例如看好哪些行业，应用再研究并生成由股票、ETF、黄金和加密资产组成的篮子，附上理由和来源，须经用户批准后才交易，账户使用非托管钱包。公司在 2026 年 11 月 25 日的新闻稿中宣布，再获得由 Streamlined Ventures 领投的 400 万美元，使累计融资达到 1700 万美元，投资方还包括 Fundstrat 的 Tom Lee、BitMine 和 XBTO Ventures；资金主要用于市场推广和训练投资模型。新闻稿写明，这一宣布是在应用于 11 月 10 日登上 App Store 之后。The Block 于 11 月 25 日 14:12 ET 以新闻稿形式刊登了全文，对应北京时间 11 月 26 日凌晨 3 时许，落在昨日窗口边缘，昨日未收录，现作为补录。公开材料中未见用户数、交易量和收入。本轮是新增 400 万美元，1700 万美元是累计总额，不要写成单笔 1700 万美元。",
+    "metrics": [
+      {
+        "label": "融资（公司新闻稿）",
+        "value": "公司 2026-11-25 新闻稿宣布 raised an additional $4 million in a round led by Streamlined Ventures, bringing its total funding to $17 million，投资方包括 Tom Lee（Fundstrat）、BitMine 和 XBTO Ventures。The Block 以 press release 形式刊登，并注明不必然背书稿件内容。估值、本轮是否为种子轮等轮次名称，稿件中未统一写明",
+        "source_type": "官方公布",
+        "source_url": "https://www.theblock.co/press-releases/ai-investing-app-ulys-reaches-17-million-in-total-funding-446731"
+      },
+      {
+        "label": "产品上线（公司新闻稿）",
+        "value": "新闻稿写明 The announcement follows the public launch of the Ulys app on the App Store on November 10。用户数、交易额、资产管理规模和收入均未披露",
+        "source_type": "官方公布",
+        "source_url": "https://www.theblock.co/press-releases/ai-investing-app-ulys-reaches-17-million-in-total-funding-446731"
+      }
+    ],
+    "why_it_works": "很多人已经会向模型请教投资观点，却很难把一句话变成可执行、自己仍能掌控的投资组合。Ulys 把研究、篮子构建和解释做成一步，并且用非托管钱包保留资金控制权。400 万美元和累计 1700 万美元说明有投资人愿意在应用刚上线时加注，但目前还没有可核对的用户或收入，商业证据偏弱，只能作为补录中的融资信号来看。",
+    "takeaway": "这是补录，宣布日是 11 月 25 日美东下午。400 万美元是本轮新增，1700 万美元是累计。主要公开材料是公司新闻稿及转载，未见独立采访给出的用户或收入数字，证据强度低于同日有客户数或官方使用数据的条目。",
+    "innovation_score": 3,
+    "business_score": 2,
+    "tags": [
+      "融资",
+      "400万美元",
+      "累计1700万美元",
+      "投资应用",
+      "补录"
+    ],
+    "website": "https://ulys.ai",
+    "sources": [
+      "https://www.theblock.co/press-releases/ai-investing-app-ulys-reaches-17-million-in-total-funding-446731"
+    ],
+    "uncertain_points": "本条为 11 月 25 日新闻稿的补录。公开来源以公司新闻稿及转载为主，缺少独立媒体对用户、交易或收入的核对。1700 万美元为累计融资，本轮为新增 400 万美元。轮次名称和估值未写清。Tom Lee 是作为投资方被点名，具体出资主体表述以新闻稿为准。"
+  }
+]
